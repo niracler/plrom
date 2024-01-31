@@ -13,8 +13,16 @@
 ### 电脑及配件
 
 - [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美
+- [AirPods Pro2](https://www.apple.com/cn/airpods-pro/) - 很糟糕的是，我已经是第三个 AirPods Pro 了， 前两个都被洗衣机洗了，现在已经不敢放到裤袋里面了
 
 ## 软件工具
+
+### 信息管理
+
+- [inoreader](https://www.inoreader.com/folder/News) - RSS 阅读器，我是在这里订阅了许多博客，然后通过 RSSHub 来订阅一些不支持 RSS 的网站。不过 RSS 对于我还是太零碎了，我一般会在周末的时候集中过一遍，然后将感兴趣的文章通过 [Pinboard](https://pinboard.in/) 收藏起来。日常手机上就不装 RSS 相关的软件了，因为作为新闻的输入，没有必要每天输入这么多新闻。
+- [读库 APP](https://www.duku.cn) - 每一期读库都会有一些被志愿者转成音频的文章，茶余饭后我就在这里听。
+- [微信阅读](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
+- [萌娘百科](https://zh.moegirl.org.cn/) - 萌娘百科的词条是真的很有趣，哈哈
 
 ### 开发工具
 
