@@ -26,8 +26,17 @@
 
 ### 开发工具
 
-- VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它
-  - GitHub Copilot - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免费使用呢？
+- 编辑器
+  - VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它
+    - GitHub Copilot - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免使用呢？
+  - [neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？
+    - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
+    - [Copilot | LazyVim](https://www.lazyvim.org/extras/coding/copilot) - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。
+- 命令行工具(Command Line Interface) - 不过其实太多了，我这里只挑我用的最多的 20 个
+  - [x-cmd](https://x-cmd.com) - 我本职工作的公司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + ... )`
+  - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
+  - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
+  - [docker](https://www.docker.com/) - 用于开发和部署容器化应用的工具, 也是属于一个基本不能不用的软件
 
 ### 网络工具
 
