@@ -13,7 +13,29 @@
 ### 电脑及配件
 
 - [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美
+- [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画
+- [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 有的东西，没有的时候会觉得哪哪都缺了它，但是真的到手了之后，就发现生活中好像它不存在似的～～
+
+
+### 手机以及平板
+
+- [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 256G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。
+- [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏
+- [Boox Leaf](https://zh.boox.com/leaf) - Tachiyomi 启动器。虽然阅读体验还是比 kindle 差不少，但是还是比安卓手机看的要好一点的
+- ~[Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器~
+
+
+### 耳机及音箱
+
 - [AirPods Pro2](https://www.apple.com/cn/airpods-pro/) - 很糟糕的是，我已经是第三个 AirPods Pro 了， 前两个都被洗衣机洗了，现在已经不敢放到裤袋里面了
+- [小爱智能音箱] - 也是基本上不能缺的设备，用来控制家里的各种智能家居。不过基本没有用来听音乐就是了。
+
+### 游戏娱乐
+
+- [Nintendo Switch 续航版](https://www.nintendo.com/switch/) - 我的第一台游戏机，日版，一开始是为了玩动物森友会。
+- [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。
+- [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了
+
 
 ## 软件工具
 
@@ -29,7 +51,7 @@
 - 编辑器
   - VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它
     - GitHub Copilot - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免使用呢？
-  - [neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？
+  - [neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/neovim-config) 上了。
     - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
     - [Copilot | LazyVim](https://www.lazyvim.org/extras/coding/copilot) - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。
 - 命令行工具(Command Line Interface) - 不过其实太多了，我这里只挑我用的最多的 20 个
