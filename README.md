@@ -77,6 +77,8 @@
 
 - 购物
   - [多抓鱼](https://www.duozhuayu.com/book) - 之前很喜欢买各种我永远不会看的书，现在已经当作是奢侈品了，不再买，省钱。
+  - [京东](https://www.jd.com/) - 京东会员我是一直都有开
+  - [拼多多](https://www.pinduoduo.com/) - switch 卡带、乐高、模型这些娱乐用的东西的时候可以上去买。
 
 - 音乐 & 视频 & 音频
   - [Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替代原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。
@@ -91,7 +93,6 @@
   - [萌娘百科 App] - 主要是用来收藏词条，以及无聊的时候看的。
   - [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
   - [哔哩哔哩漫画] - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。
-
 
 
 ## Reference
