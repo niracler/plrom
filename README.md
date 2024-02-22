@@ -15,6 +15,7 @@
 - [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画
 - [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 有的东西，没有的时候会觉得哪哪都缺了它，但是真的到手了之后，就发现生活中好像它不存在似的～～
+- [AirTag](https://www.apple.com/cn/airtag/) - 买了四件套，还是很有用的（自我感觉良好🤣）
 
 
 ### 手机以及平板
@@ -42,9 +43,9 @@
 ### 信息管理
 
 - [inoreader](https://www.inoreader.com/folder/News) - RSS 阅读器，我是在这里订阅了许多博客，然后通过 RSSHub 来订阅一些不支持 RSS 的网站。不过 RSS 对于我还是太零碎了，我一般会在周末的时候集中过一遍，然后将感兴趣的文章通过 [Pinboard](https://pinboard.in/) 收藏起来。日常手机上就不装 RSS 相关的软件了，因为作为新闻的输入，没有必要每天输入这么多新闻。
-- [读库 APP](https://www.duku.cn) - 每一期读库都会有一些被志愿者转成音频的文章，茶余饭后我就在这里听。
-- [微信阅读](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
 - [萌娘百科](https://zh.moegirl.org.cn/) - 萌娘百科的词条是真的很有趣，哈哈
+- [Telegram](https://telegram.org/) -  TG 频道是当作我个人碎碎念以及日常生活吐槽的地方，用于发泄「一年快 2000 条信息」的话痨体质。X 也有这个功效，但对于我这种有些社恐的赛博电子人来说，在 X 发信息就像是在广场里面大叫，让我感到羞耻度爆表。而 TG 频道上「大叫」时感觉就像在家里，最多只有邻居能听到，对于我来说更加自在一点。
+- 豆瓣 - 看各种作品前总要来这里看看评分，不过我也有很多看了之后没有标记的作品。总想着写好了评语再标记，然后就鸽到猴年马月了。
 
 ### 开发工具
 
@@ -54,11 +55,12 @@
   - [neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/neovim-config) 上了。
     - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
     - [Copilot | LazyVim](https://www.lazyvim.org/extras/coding/copilot) - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。
+    - [autoime.nvim](https://github.com/OliverChao/autoime.nvim) - ECS 自动使用 im-select 帮你将输入法切换为英文。避免频繁将输入法从中文模式切换到英文模式，来输入 vim 命令。
 - 命令行工具(Command Line Interface) - 不过其实太多了，我这里只挑我用的最多的 20 个
   - [x-cmd](https://x-cmd.com) - 我本职工作的公司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + ... )`
   - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
   - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
-  - [docker](https://www.docker.com/) - 用于开发和部署容器化应用的工具, 也是属于一个基本不能不用的软件
+  - [docker](https://www.docker.com/) - 用于开发和部署容器化应用的工具, 也是属于一个基本不能不用的软件了
 
 ### 网络工具
 
@@ -66,7 +68,31 @@
   - [bookmarker for pinboard](https://apps.apple.com/de/app/bookmarker-for-pinboard/id1451400394?l=en&mt=12) - 用于将当前页面添加到 Pinboard
   - 1Password for Safari - 密码管理器，我是将 Safari 原生的填充给关了
   - AdGuard for Safari - 广告拦截器，不过用的不太久，还没能体验它和 uBlock Origin 的区别
-  - 沉浸式翻译 - 用于翻译，我喜欢的颜色是 `#FB8F68`
+  - 沉浸式翻译 - 用于翻译，已经离不开了，我喜欢的颜色是 `#FB8F68`
+
+## 手机 or 平板 APP
+
+- 健康检测
+  - [Pokemon Sleep](https://www.pokemon.com/us/app/pokemon-sleep) - 用于监测我睡眠的 APP，同时收集点小精灵的睡姿。
+
+- 购物
+  - [多抓鱼](https://www.duozhuayu.com/book) - 之前很喜欢买各种我永远不会看的书，现在已经当作是奢侈品了，不再买，省钱。
+
+- 音乐 & 视频 & 音频
+  - [Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替代原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。
+  - [Podcasts](https://www.apple.com/cn/apple-podcasts/) - 已经将喜马拉雅删除了，仅仅保留 Apple Podcasts 用来听播客。
+  - [YouTube](https://www.youtube.com/) - 因为广告的原因，在手机上看会比电脑上看频率少不少。
+  - [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。
+
+- 阅读
+  - [Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。
+  - [读库 APP](https://www.duku.cn) - 每一期读库都会有一些被志愿者转成音频的文章，茶余饭后我就在这里听。
+  - [微信阅读](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
+  - [萌娘百科 App] - 主要是用来收藏词条，以及无聊的时候看的。
+  - [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
+  - [哔哩哔哩漫画] - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。
+
+
 
 ## Reference
 
