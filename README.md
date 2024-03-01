@@ -17,14 +17,12 @@
 - [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 有的东西，没有的时候会觉得哪哪都缺了它，但是真的到手了之后，就发现生活中好像它不存在似的～～
 - [AirTag](https://www.apple.com/cn/airtag/) - 买了四件套，还是很有用的（自我感觉良好🤣）
 
-
 ### 手机以及平板
 
 - [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 256G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。
 - [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏
 - [Boox Leaf](https://zh.boox.com/leaf) - Tachiyomi 启动器。虽然阅读体验还是比 kindle 差不少，但是还是比安卓手机看的要好一点的
 - ~[Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器~
-
 
 ### 耳机及音箱
 
@@ -36,7 +34,6 @@
 - [Nintendo Switch 续航版](https://www.nintendo.com/switch/) - 我的第一台游戏机，日版，一开始是为了玩动物森友会。
 - [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。
 - [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了
-
 
 ## 软件工具
 
@@ -90,10 +87,19 @@
   - [Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。
   - [读库 APP](https://www.duku.cn) - 每一期读库都会有一些被志愿者转成音频的文章，茶余饭后我就在这里听。
   - [微信阅读](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
-  - [萌娘百科 App] - 主要是用来收藏词条，以及无聊的时候看的。
+  - [萌娘百科 App](https://zh.moegirl.org.cn/) - 主要是用来收藏词条，以及无聊的时候看的。
   - [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
   - [哔哩哔哩漫画] - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。
+  - [多邻国](https://www.duolingo.com/) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～)
+  - [inoreader App](https://www.inoreader.com/folder/News) - 作为手机上的 RSS 阅读器
 
+- 社交
+  - [Telegram App](https://telegram.org/) - 手机上必须是要有一个的
+  - [微信](https://weixin.qq.com/) - 用于和家人朋友联系，不过日常 99% 的时候都不看朋友圈，也不发朋友圈。公众号倒是偶尔会看看，要移除一些好友才行了。
+
+- 出行吃饭
+  - [美团](https://www.meituan.com/) - 用于点外卖，应该自己做而不是叫外卖的～～
+  - [Apple Maps](https://www.apple.com/cn/maps/) - 本着断舍离的心态将高德删除了，用这个的时候却是会有不少问题，要看看情况
 
 ## Reference
 
