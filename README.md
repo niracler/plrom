@@ -108,4 +108,5 @@
 
 ## Reference
 
+- [GitHub - niracler/plrom: 关于我周围的人和物](https://github.com/niracler/plrom) - 这个项目就是我自己的，用于记录我周围的人和物，更新的时候自动同步到 xlog 上。
 - [GitHub - pseudoyu/yu-tools: 我的个人工具箱 (设备, macOS 软件, iOS Apps...)](https://github.com/pseudoyu/yu-tools) - 我这一个项目就是模仿 yu 君的, 很多分类不会分的时候就是参考他的
