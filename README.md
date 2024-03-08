@@ -37,8 +37,9 @@
 
 ## 软件工具
 
-### 信息管理
+### 信息管理 & 通信
 
+- [fastmail](https://www.fastmail.com/) - 随机匿名邮箱是反跟踪的利器, 现在我各种网站尽量能用邮箱注册就用都用 fastmail 生成的随机邮箱（与 1Password 联动确实方便）
 - [inoreader](https://www.inoreader.com/folder/News) - RSS 阅读器，我是在这里订阅了许多博客，然后通过 RSSHub 来订阅一些不支持 RSS 的网站。不过 RSS 对于我还是太零碎了，我一般会在周末的时候集中过一遍，然后将感兴趣的文章通过 [Pinboard](https://pinboard.in/) 收藏起来。日常手机上就不装 RSS 相关的软件了，因为作为新闻的输入，没有必要每天输入这么多新闻。
 - [萌娘百科](https://zh.moegirl.org.cn/) - 萌娘百科的词条是真的很有趣，哈哈
 - [Telegram](https://telegram.org/) -  TG 频道是当作我个人碎碎念以及日常生活吐槽的地方，用于发泄「一年快 2000 条信息」的话痨体质。X 也有这个功效，但对于我这种有些社恐的赛博电子人来说，在 X 发信息就像是在广场里面大叫，让我感到羞耻度爆表。而 TG 频道上「大叫」时感觉就像在家里，最多只有邻居能听到，对于我来说更加自在一点。
@@ -87,6 +88,7 @@
   - [Podcasts](https://www.apple.com/cn/apple-podcasts/) - 已经将喜马拉雅删除了，仅仅保留 Apple Podcasts 用来听播客。
   - [YouTube](https://www.youtube.com/) - 因为广告的原因，在手机上看会比电脑上看频率少不少。
   - [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。
+  - [infuse](https://firecore.com/infuse) - 界面很好看，结合阿里云盘一起用的话，效果很不错。
 
 - 阅读
   - [Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。
@@ -98,13 +100,24 @@
   - [多邻国](https://www.duolingo.com/) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～)
   - [inoreader App](https://www.inoreader.com/folder/News) - 作为手机上的 RSS 阅读器
 
-- 社交
+- 社交 & 通讯
   - [Telegram App](https://telegram.org/) - 手机上必须是要有一个的
   - [微信](https://weixin.qq.com/) - 用于和家人朋友联系，不过日常 99% 的时候都不看朋友圈，也不发朋友圈。公众号倒是偶尔会看看，要移除一些好友才行了。
+  - [Fastmail App](https://www.fastmail.com/) - 手机上的邮件客户端，用于查看 fastmail 的邮件
 
 - 出行吃饭
   - [美团](https://www.meituan.com/) - 用于点外卖，应该自己做而不是叫外卖的～～
   - [Apple Maps](https://www.apple.com/cn/maps/) - 本着断舍离的心态将高德删除了，用这个的时候却是会有不少问题，要看看情况
+  - [嘀嗒出行](https://www.didachuxing.com/) - 用于叫顺丰车，在各个市之间移动的时候用的比较多
+
+- 隐私安全
+  - [1Password App](https://1password.com/) - 在 iPhone 上可以选用它的自动填充。
+  - [XLocker](https://apps.apple.com/us/app/xlocker-control-screen-time/id6447595893) - 在适当的时候用来隐藏 iPhone 以及 iPad 上的一些应用。结合快捷指令可以做到一键隐藏。
+
+- 游戏
+  - [Steam App](https://store.steampowered.com/) - 主要用来做 steam 验证用的，平常因为网络太卡了，也很少用。
+  - [崩坏: 星穹铁道](https://sr.mihoyo.com/) - 最近玩起来觉得还不错。（绝对不是因为藿藿入坑的～～）
+  - [崩坏3rd](https://www.bh3.com/) - 用来玩的游戏，不过我已经很久没玩了，因为我觉得我玩游戏的时候，我就是在浪费时间。
 
 ## Reference
 
