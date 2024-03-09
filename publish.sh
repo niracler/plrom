@@ -3,10 +3,14 @@
 content="$(< README.md jq -Rs -r '@json')"
 version="${1:?version is required}"
 
-git tag "$version"
-git push origin "$version"
+if git tag | grep -q "$version"; then
+    echo "Tag $version already exists"
+else
+    git tag "$version"
+    git push origin "$version"
+fi
 
-curl -X POST \
+curl -X POST -v \
     -H "Authorization: Bearer $XLOG_TOKEN" \
     -H "Content-Type: application/json" \
     -d '{
