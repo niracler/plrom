@@ -15,7 +15,7 @@ curl -X POST -v \
     -H "Content-Type: application/json" \
     -d '{
             "metadata": {
-                "tags": ["post", "life"],
+                "tags": ["post", "life", "software", "hardware", "community", "people", "tools", "xlog"],
                 "type": "note",
                 "title": "人 X 社区 X 物 - '"$version"'",
                 "content": '"$content"',
