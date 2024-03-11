@@ -51,6 +51,7 @@
   - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
   - [Copilot | LazyVim](https://www.lazyvim.org/extras/coding/copilot) - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。
   - [autoime.nvim](https://github.com/OliverChao/autoime.nvim) - ECS 自动使用 im-select 帮你将输入法切换为英文。避免频繁将输入法从中文模式切换到英文模式，来输入 vim 命令。
+- [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
 
 ### > 命令行工具(Command Line Interface)
 
@@ -61,6 +62,22 @@
 - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
 - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
 - [docker](https://www.docker.com/) - 用于开发和部署容器化应用的工具, 也是属于一个基本不能不用的软件了
+
+### 📈 生产力工具
+
+- [OpenCat](https://opencat.app/) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用 3.5，于是就通过它来使用 4。
+- ~~[Alfred](https://www.alfredapp.com/)~~ - 最开始是用它的粘贴板历史功能，但是后面用上 Raycast 之后就不怎么用，被平替掉了，毕竟要钱。不过它的搜索功能还是很好用的。
+- [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。
+
+### ⚙️ 自动化
+
+- [n8n](https://n8n.io/) - 用于做一些自动化的工作，例如将 RSSHub 的数据同步到 telegram 频道上。(糟糕，现在 niracler 已经没有频道了)
+- ~~[ifttt](https://ifttt.com/) - 最开始是用它来同步内容到 Telegram 频道上的~~，不过后来发现 n8n 更好用，就停用了。(关键是付费挺贵的)
+- ~~[zapier](https://zapier.com/)~~ - 同上，都是同类型工具，现在已经没用了
+
+### 💰 理财
+
+- [YNAB](https://www.youneedabudget.com/) - 用于做每个月的预算规划，减轻了我「好像有用不完的钱」的错觉。
 
 ### 📷 图片处理
 
@@ -81,6 +98,7 @@
 - ~~[X](https://x.com)~~ - 同上，不过这是已销号😭
 - [Fastmail](https://www.fastmail.com/) - 随机匿名邮箱是反跟踪的利器, 现在我各种网站尽量能用邮箱注册就用都用 fastmail 生成的随机邮箱（与 1Password 联动确实方便）
 - [微信](https://weixin.qq.com/) - 用于和家人朋友联系，不过日常 99% 的时候都不看朋友圈，也不发朋友圈。公众号倒是偶尔会看看，要移除一些好友才行了。
+- [熊猫吃短信](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818) - 用于在 iPhone 上拦截短信，不过很多时候因为长时间没点开，然后手机自动帮我删除了🤣
 
 ### 🔑 隐私安全
 
@@ -131,6 +149,10 @@
 - [萌娘百科 App](https://zh.moegirl.org.cn/) - 主要是用来收藏词条，以及无聊的时候看的。
 - [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
 - [哔哩哔哩漫画](https://manga.bilibili.com/) - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。
+- [xlog](https://xlog.app) - 被我当作是赛博酒吧，偶尔点开看一下其他博主的更新。我自己也会稍微写写
+- [hackernew](https://news.ycombinator.com/) - 对于我们这个行业来说，毋庸置疑的前沿新闻来源，不过偶尔一刷就停不下来了。
+- [pinboard](https://pinboard.in/) - 用于收藏我感兴趣的文章，也会在上面进行相应的思考点评。
+- [mox.moe](https://mox.moe) - 非常全的漫画源，一键就能够将漫画推送到 kindle 上，在 iPad 上全靠它来启动看漫画了。
 
 ### 🚗 出行 & 🍽️ 吃饭
 

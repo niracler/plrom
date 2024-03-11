@@ -33,4 +33,4 @@ curl -X POST -v \
                 }]
             }
     }' \
-    "https://indexer.crossbell.io/v1/siwe/contract/characters/$CHARACTER_ID/notes/273/metadata"
+    "https://indexer.crossbell.io/v1/siwe/contract/characters/57410/notes/273/metadata"
