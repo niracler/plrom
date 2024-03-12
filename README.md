@@ -16,25 +16,38 @@
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画
 - [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 有的东西，没有的时候会觉得哪哪都缺了它，但是真的到手了之后，就发现生活中好像它不存在似的～～
 - [AirTag](https://www.apple.com/cn/airtag/) - 买了四件套，还是很有用的（自我感觉良好🤣）
+- [海备思 熊猫色 Switch 便携底座 + 65W氮化镓](https://www.bilibili.com/video/BV17L4y1b7Qc/) - 某种意义上的神器 主打一个多功能，我现在宿舍的就剩它一个拓展坞了。
 
 ### 📱 手机以及平板
 
 - [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 256G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。
 - [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏
 - [Boox Leaf](https://zh.boox.com/leaf) - Tachiyomi 启动器。虽然阅读体验还是比 kindle 差不少，但是还是比安卓手机看的要好一点的
-- ~~[Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器~~
+- ~~[Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器~~ **想送人了**
 
 ### 🎧 耳机及音箱
 
 - [AirPods Pro2](https://www.apple.com/cn/airpods-pro/) - 很糟糕的是，我已经是第三个 AirPods Pro 了， 前两个都被洗衣机洗了，现在已经不敢放到裤袋里面了
+- [Sony WH-XB910N](https://www.sony.com/electronics/headband-headphones/wh-xb910n) - 不知道是不是不是旗舰的原因，我觉得戴久了很不舒服，尤其是压着我眼镜架了。不过音质还是不错的，头戴式的降噪效果应该说比 AirPods Pro 2 也要好些。不常用，觉得不方便，**甚至想出手了**。
+- ~~[Sony WI-1000X](https://www.sony.com/lr/electronics/in-ear-headphones/wi-1000x) - 降噪耳机，降噪效果我觉得比 AirPods Pro 好。~~ 大学时期花「重金」买下的，陪伴了我很重要的几年。还没到 3 年，最后是在保修期内因为认为因素损害的。尸体至今还在。这种放脖子形式的耳机的好处就是我不会误扔到洗衣机～～
 - [小爱智能音箱](https://www.mi.com/aispeaker) - 也是基本上不能缺的设备，用来控制家里的各种智能家居。不过基本没有用来听音乐就是了。
 
 ### 🎮 游戏娱乐设备
 
 - [Nintendo Switch 续航版](https://www.nintendo.com/switch/) - 我的第一台游戏机，日版，一开始是为了玩动物森友会。
-- [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。
+- [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着 xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。**想出手了**
+  - [Reletech Xbox Serie x Xbox Serie s1tb2tb Solid State Drive](https://www.amazon.com/Storage-Expansion-Serie-1TB2TB-Solid/dp/B09TPCQ7Z7?th=1) - 用于扩展 xbox 的存储空间，因为 xbox 的游戏太大了，内置的 512G 已经不够用了。警惕后世人，要买就买 XBox Series X，不然就是后悔。
 - [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了
 - [Apple TV 4K](https://www.apple.com/cn/apple-tv/) - 结合 infuse 是家里的主力播放器，不过我也很少看电视，主要是给住在远方的父母平日看的。
+
+### 💤 睡眠
+
+- [安耳悠 隔音耳塞](https://item.jd.com/2987931.html#none) - 高中时期精神紧张，导致对声音比较敏感，所以睡觉的时候会戴上它。直到两年前，我还会因为睡觉的时候没有带上它而失眠，会被自己转身的声音吵醒。现在睡觉已经可以不戴了。
+
+### ❄️ 降温设备
+
+- [米家落地扇](https://www.mi.com/shop/buy/detail?product_id=12010) - 用于夏天的时候，不过很多时候不够，所以还是会开空调。
+- [小米直流变频两季扇](https://item.jd.com/10048740377675.html) (塔扇 黑) - 买亏了，真不应该想着冬天去用它的。而且夏天其实也不够，还是要买空调～～
 
 ## 软件工具
 
@@ -68,6 +81,7 @@
 - [OpenCat](https://opencat.app/) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用 3.5，于是就通过它来使用 4。
 - ~~[Alfred](https://www.alfredapp.com/)~~ - 最开始是用它的粘贴板历史功能，但是后面用上 Raycast 之后就不怎么用，被平替掉了，毕竟要钱。不过它的搜索功能还是很好用的。
 - [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。
+- [ServerCat](https://servercat.app/) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。
 
 ### ⚙️ 自动化
 
@@ -110,6 +124,7 @@
 - [Pokemon Sleep](https://www.pokemon.com/us/app/pokemon-sleep) - 用于监测我睡眠的 APP，同时收集点小精灵的睡姿。(虽然睡眠质量还是很糟糕就是了～～)
 - [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，不过我也不是很关心这些数据，只是偶尔看看。
 - [Apple Fitness+](https://www.apple.com/cn/apple-fitness-plus/) - 订阅了 Apple One 之后就有了这个服务，替代掉之前使用的 Keep。不过使用频率堪忧。
+- [Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。
 - ~~[Keep](https://www.gotokeep.com/) - 结合跳绳的方案其实还挺好的。~~ 之前用来做健身的，不过现在已经停用了，转去用 Fitness+。
 - ~~[AutoSleep](https://autosleepapp.tantsissa.com/) - 用于监测我睡眠的 APP~~, 感觉没什么意义，现在已经停用了。
 - ~~[Pillow](https://www.neybox.com/pillow) - 用于监测我睡眠的 APP~~, 试着订阅了一年，但发现其实跟 AutoSleep 拉不开距离而且跟原生 Health 的睡眠监测体感也没什么区别，所以也停用了。
