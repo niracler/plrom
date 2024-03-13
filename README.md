@@ -17,6 +17,11 @@
 - [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 有的东西，没有的时候会觉得哪哪都缺了它，但是真的到手了之后，就发现生活中好像它不存在似的～～
 - [AirTag](https://www.apple.com/cn/airtag/) - 买了四件套，还是很有用的（自我感觉良好🤣）
 - [海备思 熊猫色 Switch 便携底座 + 65W氮化镓](https://www.bilibili.com/video/BV17L4y1b7Qc/) - 某种意义上的神器 主打一个多功能，我现在宿舍的就剩它一个拓展坞了。
+- [Zendure 65W氮化镓充电器](https://zhuanlan.zhihu.com/p/136728410) - 一带 3 而且轻便，出行以及在家充电基本都靠它同时充手机、电脑、手表了。不过会漏电，这就是坑爹的地方了。
+- [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - 买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。（不过在 steam deck 玩游戏的时候或许可以用用）
+- [米家智能IH电饭煲 3L](https://www.mi.com/dianfanbao2) - 后悔买这么小了，只有我一个人时不想做饭。而人多又不够容量(估计三个人勉强)～～
+- [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
+- [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 一开始是用来打代码的，不过用了 MacBook 之后就吃灰了。
 
 ### 📱 手机以及平板
 
@@ -48,6 +53,16 @@
 
 - [米家落地扇](https://www.mi.com/shop/buy/detail?product_id=12010) - 用于夏天的时候，不过很多时候不够，所以还是会开空调。
 - [小米直流变频两季扇](https://item.jd.com/10048740377675.html) (塔扇 黑) - 买亏了，真不应该想着冬天去用它的。而且夏天其实也不够，还是要买空调～～
+
+### 💺 桌椅
+
+- [八九间U5人体工学电脑椅](https://item.jd.com/100022812552.html) - 坐一天是不累的，不过后来试了一下宜家中的 1700 块的人体工学椅子，才发现这个其实并没有这么贴身。要是腰竖直时，背靠是无法紧贴后背的，只有主动靠后下去才能靠到。
+- [梦百合（MLILY）零压床垫 150*200*10cm](https://item.jd.com/100056201836.html#crumb-wrap) - 买了两年了，还是很舒服的。家里跟宿舍都买了一个，睡眠质量 UP UP（也可能因为我没有用过更好的床垫了）。
+
+### 🔦 照明
+
+- [Yeelight 智能床头灯 D2](https://zhuanlan.zhihu.com/p/148626907) - 一开始用来体验 homekit 的，光线很柔和。然而并没有什么用，又比较贵。
+- [米家 LED 智能台灯](https://www.mi.com/mjsmartlamp) - 绝对神器，用了之后我宿舍房间的顶灯我就基本没开过了。联合小爱同学实现随叫随开。
 
 ## 软件工具
 
