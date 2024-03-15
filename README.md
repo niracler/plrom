@@ -1,3 +1,13 @@
+---
+- title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
+- tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
+- cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
+- slug: plrom
+- summary: 一个人所用的工具以及关注的事情，很大程度上定义了他是谁
+- note_id: 273
+---
+
+
 # plrom
 
 关于我周围的人和物
