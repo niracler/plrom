@@ -7,14 +7,26 @@
 - note_id: 273
 ---
 
-
 # plrom
 
-关于我周围的人和物
+关于我关注的人和物
 
 ## 人
 
 > 一些不方便公开的人，我就不在这里写了，隐藏的上限是 100 个
+
+### 漫画家
+
+- [石黑正数](https://twitter.com/masakazuishi) - 《天国大大魔境》的作者，他的故事非常值得让人琢磨，他的每一部作品我都至少看两次的。
+- [山田中人](https://twitter.com/abetsukasa) - 《葬送的芙莉莲》作者，虽然打斗场面堪比 PPT，但是他的故事让我感到很有趣。
+- [七尾七希](https://twitter.com/nanaki_nanao/) - 谁说《勇者赫鲁库》是搞笑向的，虐的我死去活来～～
+- [谏山创](https://twitter.com/hajime_isayama) - 大家都觉得烂尾了，但其实我觉得某种意义上，它的结局就该是那样。
+- [大暮维人](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%9A%AE%E7%BB%B4%E4%BA%BA) - 画风别具一格，只要不是他写的原作，漫画都很好看。例如《化物语》《深渊融接》。
+- [one](https://twitter.com/ONE_rakugaki/) - 《一拳超人》的原作作者，加上灵能百分百，即使是只有线条的画风我也觉得很好看。
+- [木城幸人](https://zh.wikipedia.org/wiki/ONE_(%E6%BC%AB%E7%95%AB%E5%AE%B6)) - 是《铳梦》教会了我什么是赛博朋克。
+- [藤本树](https://twitter.com/nagayama_koharu) - 鬼才作家，永远都无法让人预测的剧情。真想给他一发炎拳。
+- [八木教広](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E6%9C%A8%E6%95%99%E5%BB%A3) - 《大剑》中觉醒者与人的区别真的很让人值得玩味。非常微妙。
+- [冈本伦](https://zh.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E5%80%AB) - 现在的《平行天堂》已经到了什么神经病剧情了～～
 
 ## 组织或社区
 
