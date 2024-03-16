@@ -9,7 +9,7 @@
 
 # plrom
 
-关于我关注的人和物
+关于我关注的人和物。这其实是一个很有个人倾向的主题，很多时候我觉得好的东西可能别人觉得不好，毕竟这事情受限于我个人的阅历和经验。不过我还是会尽量列出一些我觉得好的东西，希望能给你一些启发。
 
 ## 人
 
@@ -17,18 +17,28 @@
 
 ### 🎨 漫画家
 
+> 漫画家的话，我尽量列他们的 X 帐号
+
 - [石黑正数](https://twitter.com/masakazuishi) - 《天国大大魔境》的作者，他的故事非常值得让人琢磨，他的每一部作品我都至少看两次的。
 - [山田中人](https://twitter.com/abetsukasa) - 《葬送的芙莉莲》作者，虽然打斗场面堪比 PPT，但是他的故事让我感到很有趣。
 - [七尾七希](https://twitter.com/nanaki_nanao/) - 谁说《勇者赫鲁库》是搞笑向的，虐的我死去活来～～
 - [谏山创](https://twitter.com/hajime_isayama) - 大家都觉得烂尾了，但其实我觉得某种意义上，它的结局就该是那样。
 - [大暮维人](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%9A%AE%E7%BB%B4%E4%BA%BA) - 画风别具一格，只要不是他写的原作，漫画都很好看。例如《化物语》《深渊融接》。
 - [one](https://twitter.com/ONE_rakugaki/) - 《一拳超人》的原作作者，加上灵能百分百，即使是只有线条的画风我也觉得很好看。
-- [木城幸人](https://zh.wikipedia.org/wiki/ONE_(%E6%BC%AB%E7%95%AB%E5%AE%B6)) - 是《铳梦》教会了我什么是赛博朋克。
+- [木城幸人](https://zh.wikipedia.org/wiki/%E6%9C%A8%E5%9F%8E%E5%B9%B8%E4%BA%BA) - 是《铳梦》教会了我什么是赛博朋克。
 - [藤本树](https://twitter.com/nagayama_koharu) - 鬼才作家，永远都无法让人预测的剧情。真想给他一发炎拳。
 - [八木教広](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E6%9C%A8%E6%95%99%E5%BB%A3) - 《大剑》中觉醒者与人的区别真的很让人值得玩味。非常微妙。
-- [冈本伦](https://zh.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E5%80%AB) - 现在的《平行天堂》已经到了什么神经病剧情了～～
+- [冈本伦](https://twitter.com/okamotolynn) - 现在的《平行天堂》已经到了什么神经病剧情了～～
 
 ## 组织或社区
+
+> 我尽量放他们的 RSS 订阅地址，应该挺多是来源 RSSHub 的。因为一下子想不到分类，就都放一起了。
+
+- [The Cloudflare Blog](https://blog.cloudflare.com/rss) - 首先 Cloudflare 的文档就很友好（相对于 ali/aws），然后他们的博客也是很有意思，很值得去读。
+- [Node.js Blog](https://nodejs.org/en/feed/blog.xml) - 作为一个 Node.js 开发者，我觉得这个博客是必须要订阅的。
+- [读库](https://feedmaker.kindle4rss.com/feeds/dukuxiaobao.weixin.xml) - 持续订阅读库已经有五年了，我没有看完的本数是越来越多了。
+- [RSSHub](https://rsshub.app/) - RSS 的重度用户，日常的新闻、博客都是通过它来订阅的。
+- [HelloGitHub](https://rsshub.app/hellogithub/hot) - 日常用来看看有什么新的开源项目。
 
 ## 物
 
