@@ -45,15 +45,12 @@
 ### 💻 电脑及配件
 
 - [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美
+- [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 一开始是用来打代码的，不过用了 MacBook 之后就吃灰了。
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画
 - [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 有的东西，没有的时候会觉得哪哪都缺了它，但是真的到手了之后，就发现生活中好像它不存在似的～～
 - [AirTag](https://www.apple.com/cn/airtag/) - 买了四件套，还是很有用的（自我感觉良好🤣）
-- [海备思 熊猫色 Switch 便携底座 + 65W氮化镓](https://www.bilibili.com/video/BV17L4y1b7Qc/) - 某种意义上的神器 主打一个多功能，我现在宿舍的就剩它一个拓展坞了。
-- [Zendure 65W氮化镓充电器](https://zhuanlan.zhihu.com/p/136728410) - 一带 3 而且轻便，出行以及在家充电基本都靠它同时充手机、电脑、手表了。不过会漏电，这就是坑爹的地方了。
 - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - 买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。（不过在 steam deck 玩游戏的时候或许可以用用）
-- [米家智能IH电饭煲 3L](https://www.mi.com/dianfanbao2) - 后悔买这么小了，只有我一个人时不想做饭。而人多又不够容量(估计三个人勉强)～～
 - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
-- [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 一开始是用来打代码的，不过用了 MacBook 之后就吃灰了。
 
 ### 📱 手机以及平板
 
@@ -77,14 +74,22 @@
 - [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了
 - [Apple TV 4K](https://www.apple.com/cn/apple-tv/) - 结合 infuse 是家里的主力播放器，不过我也很少看电视，主要是给住在远方的父母平日看的。
 
+### 🔋 充电
+
+- [海备思 熊猫色 Switch 便携底座 + 65W氮化镓](https://www.bilibili.com/video/BV17L4y1b7Qc/) - 某种意义上的神器 主打一个多功能，我现在宿舍的就剩它一个拓展坞了。
+- [Zendure 65W氮化镓充电器](https://zhuanlan.zhihu.com/p/136728410) - 一带 3 而且轻便，出行以及在家充电基本都靠它同时充手机、电脑、手表了。不过会漏电，这就是坑爹的地方了。
+- [倍思 苹果 Magsafe 磁吸无线充电宝](https://item.jd.com/100042985009.html) - iPhone 是真的不够电，出行一天的情况必须要带充电宝。
+
 ### 💤 睡眠
 
 - [安耳悠 隔音耳塞](https://item.jd.com/2987931.html#none) - 高中时期精神紧张，导致对声音比较敏感，所以睡觉的时候会戴上它。直到两年前，我还会因为睡觉的时候没有带上它而失眠，会被自己转身的声音吵醒。现在睡觉已经可以不戴了。
 
-### ❄️ 降温设备
+### ❄️ 💧 温湿度控制
 
 - [米家落地扇](https://www.mi.com/shop/buy/detail?product_id=12010) - 用于夏天的时候，不过很多时候不够，所以还是会开空调。
 - [小米直流变频两季扇](https://item.jd.com/10048740377675.html) (塔扇 黑) - 买亏了，真不应该想着冬天去用它的。而且夏天其实也不够，还是要买空调～～
+- [米家电子温湿度计 Pro](https://zhuanlan.zhihu.com/p/187539523) - 才发现，广东的湿度真的很高，基本都是 80% 以上。
+- [小米抽湿机13L](https://zhuanlan.zhihu.com/p/676013675) - 比想像中的要大要重，噪声也是有的。一开始以为没什么用，直到我去倒水。要将湿度从 80% -> 60% 感觉我要倒无数次水～～
 
 ### 💺 桌椅
 
@@ -95,6 +100,10 @@
 
 - [Yeelight 智能床头灯 D2](https://zhuanlan.zhihu.com/p/148626907) - 一开始用来体验 homekit 的，光线很柔和。然而并没有什么用，又比较贵。
 - [米家 LED 智能台灯](https://www.mi.com/mjsmartlamp) - 绝对神器，用了之后我宿舍房间的顶灯我就基本没开过了。联合小爱同学实现随叫随开。
+
+### 🍳 做饭
+
+- [米家智能IH电饭煲 3L](https://www.mi.com/dianfanbao2) - 后悔买这么小了，只有我一个人时不想做饭。而人多又不够容量(估计三个人勉强)～～
 
 ## 软件工具
 
@@ -142,7 +151,8 @@
 
 ### 📷 图片处理
 
-- [Affinity Photo](https://affinity.serif.com/en-gb/photo/) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
+- [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
+- [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/) - 用于上传图片到图床的工具，我用的是 XXX 图床。
 
 ### 🌐 浏览器
 
@@ -157,6 +167,7 @@
 
 - ~~[Telegram](https://telegram.org/) - TG 频道是当作我个人碎碎念以及日常生活吐槽的地方，用于发泄「一年快 2000 条信息」的话痨体质。X 也有这个功效，但对于我这种有些社恐的赛博电子人来说，在 X 发信息就像是在广场里面大叫，让我感到羞耻度爆表。而 TG 频道上「大叫」时感觉就像在家里，最多只有邻居能听到，对于我来说更加自在一点。~~ 因某种不可抗力，已停更，有缘江湖再见😭
 - ~~[X](https://x.com)~~ - 同上，不过这是已销号😭
+- [Discord](https://discord.com/) - 平常几乎是不用的，不过很多开源社区都是在这进行交流的，我也主要是上去报 BUG 而已。
 - [Fastmail](https://www.fastmail.com/) - 随机匿名邮箱是反跟踪的利器, 现在我各种网站尽量能用邮箱注册就用都用 fastmail 生成的随机邮箱（与 1Password 联动确实方便）
 - [微信](https://weixin.qq.com/) - 用于和家人朋友联系，不过日常 99% 的时候都不看朋友圈，也不发朋友圈。公众号倒是偶尔会看看，要移除一些好友才行了。
 - [熊猫吃短信](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818) - 用于在 iPhone 上拦截短信，不过很多时候因为长时间没点开，然后手机自动帮我删除了🤣
@@ -229,6 +240,17 @@
 - [Steam](https://store.steampowered.com/) - 主要用来做 steam 验证用的，平常因为网络太卡了，也很少用。
 - [崩坏: 星穹铁道](https://sr.mihoyo.com/) - 最近玩起来觉得还不错。（绝对不是因为藿藿入坑的～～）
 - [崩坏3rd](https://www.bh3.com/) - 重新下载回来，弄了个真理鸭～～
+
+### ➕ 其他
+
+> 有些我真的一下子想不到分类，就放这里了。期待后面可以分类？
+
+- [CleanShot X](https://cleanshot.com/) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑。
+- [iTerm 2](https://iterm2.com/) - 用于替代原生的终端，主要是它可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
+- [MongoDB Compass](https://www.mongodb.com/products/compass) - 用于连接 MongoDB 数据库的客户端。
+- [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于将树莓派的镜像写入到 SD 卡上的工具。
+- [Wireshark](https://www.wireshark.org/) - 用于抓包的工具，不过我也不是很会用。
+- [Zoom](https://zoom.us/) - 用于远程会议的工具，不过我也很少用。
 
 ## Reference
 
