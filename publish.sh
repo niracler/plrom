@@ -6,7 +6,7 @@ content="$(< README.md jq -Rs -r '@json')"
 
 flag=0
 while read -r line; do
-    if [ "$line" = "---" ]; then
+    if [ "$line" = "<!--" ] || [ "$line" = "-->" ]; then
         if [ "$flag" -eq 0 ]; then
             flag=1
             elif [ "$flag" -eq 1 ]; then
