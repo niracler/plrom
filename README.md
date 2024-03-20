@@ -17,17 +17,20 @@
 
 > 一些不方便公开的人，我就不在这里写了，隐藏的上限是 100 个
 
-### 技术博主
+### 📚 技术博主
 
 - [阮一峰](https://www.ruanyifeng.com/blog/) - 他的科技爱好者周刊基本是我每周必读的，他的文章对于初学者来说非常通俗易懂。
 
-### 作家
+### ✍️ 作家
 
 - [六神磊磊](https://book.douban.com/author/330996/) - 点评金庸的部份姑且不谈，他的《唐诗寒武纪》读起来很轻松， 甚至有一种在品武侠小说的感觉。
 - [沃尔特·艾萨克森](https://book.douban.com/author/197148/) - 乔布斯传以及马斯克传的作者，他的传记写的非常好，我觉得他的传记是我读过的最好的传记。（虽然我本身没有看过几本书）
 - [住野夜](https://book.douban.com/author/4625207/) - 好久没有新作，以至于我都快忘记了。虽说出道即巅峰，后面评分一本比一本低，但其实我还是很喜欢的。
 - [阿尔贝·加缪](https://book.douban.com/author/4513690/) - 《西西弗神话》虽然我看的不太懂，但是大受震撼。尤其喜欢里面对荒谬的定义以及陈述。
 - [卡夫卡](https://book.douban.com/author/4539732/) - 虽然我只看过他的《变形记》，但单单是变形记就让我对他的作品充满了好奇。
+- [钱钟书](https://book.douban.com/author/4502389/) - 《围城》我最开始看的时候还以为是关于泡妞的 72 绝技的～～
+- [刘慈欣](https://book.douban.com/author/4561353/) - 是三体第一次让我知道了什么是硬科幻。
+- [榎宮祐](https://twitter.com/yuukamiya68) - 《NO GAME NO LIFE》的作者，已经买了一套。
 
 ### 🎨 漫画家
 
@@ -43,6 +46,17 @@
 - [藤本树](https://twitter.com/nagayama_koharu) - 鬼才作家，永远都无法让人预测的剧情。真想给他一发炎拳。
 - [八木教広](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E6%9C%A8%E6%95%99%E5%BB%A3) - 《大剑》中觉醒者与人的区别真的很让人值得玩味。非常微妙。
 - [冈本伦](https://twitter.com/okamotolynn) - 现在的《平行天堂》已经到了什么神经病剧情了～～
+- [荒木飛呂彥](https://zh.wikipedia.org/wiki/%E8%8D%92%E6%9C%A8%E9%A3%9B%E5%91%82%E5%BD%A5) - 刚才谁提到 JOJO 了？
+- [市川春子](https://zh.wikipedia.org/wiki/%E5%B8%82%E5%B7%9D%E6%98%A5%E5%AD%90) - 《宝石之国》可能是我大学时期最喜欢的作品。
+
+### 🎬 导演
+
+- [今敏](https://movie.douban.com/celebrity/1053554/) - 可惜我认识他已经太晚了。
+- [李安](https://movie.douban.com/celebrity/1054421/) - 《少年派的奇幻漂流》今年看的时候被吓到了。
+- [宫崎骏](https://movie.douban.com/celebrity/1054439/) - 我竟然只看了《千与千寻》和《龙猫》两部作品，剩下的还要看。
+- [新海诚](https://movie.douban.com/celebrity/1005177/) - 最喜欢的是《秒速五厘米》。
+- [克里斯托弗·诺兰](https://movie.douban.com/celebrity/1054524/) - 感觉每一部都有一定的叙事诡计在里面。
+- [丹尼斯·维伦纽瓦](https://movie.douban.com/celebrity/1028333/) - 只看过《银翼杀手 2049》，还有《沙丘》，焦土之城还没看。
 
 ## 组织或社区
 
@@ -167,6 +181,13 @@
 
 - [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
 - [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/) - 用于上传图片到图床的工具，我用的是 XXX 图床。
+
+### 💾 云存储
+
+- [iCloud](https://www.apple.com/icloud/) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记。以及各种文件。
+- [阿里云盘](https://www.aliyundrive.com/download) - 现在主要用它存储影视节目，然后通过 infuse 来观看，一般能跑满带宽。开了年费会员
+- ~~[百度网盘](https://pan.baidu.com/) - 以前的各种 H 游戏都是靠它下载的，现在审查越来越严格了~~，基本上不怎么用了。
+- ~~[坚果云](https://www.jianguoyun.com/) - 大学初期用来同步多个电脑上的项目~~，后续用上 git 之后就不怎么用了。
 
 ### 🌐 浏览器
 
