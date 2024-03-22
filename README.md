@@ -31,6 +31,7 @@
 - [钱钟书](https://book.douban.com/author/4502389/) - 《围城》我最开始看的时候还以为是关于泡妞的 72 绝技的～～
 - [刘慈欣](https://book.douban.com/author/4561353/) - 是三体第一次让我知道了什么是硬科幻。
 - [榎宮祐](https://twitter.com/yuukamiya68) - 《NO GAME NO LIFE》的作者，已经买了一套。
+- [陈忠实](https://baike.baidu.com/item/%E9%99%88%E5%BF%A0%E5%AE%9E/45450) - 《白鹿原》可以说是中国的《百年孤独》了
 
 ### 🎨 漫画家
 
@@ -48,6 +49,7 @@
 - [冈本伦](https://twitter.com/okamotolynn) - 现在的《平行天堂》已经到了什么神经病剧情了～～
 - [荒木飛呂彥](https://zh.wikipedia.org/wiki/%E8%8D%92%E6%9C%A8%E9%A3%9B%E5%91%82%E5%BD%A5) - 刚才谁提到 JOJO 了？
 - [市川春子](https://zh.wikipedia.org/wiki/%E5%B8%82%E5%B7%9D%E6%98%A5%E5%AD%90) - 《宝石之国》可能是我大学时期最喜欢的作品。
+- [大武政夫](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A6%E6%94%BF%E5%A4%AB) - 《超能力女儿》真的是每一话都戳中我的笑点～～
 
 ### 🎬 导演
 
@@ -57,6 +59,7 @@
 - [新海诚](https://movie.douban.com/celebrity/1005177/) - 最喜欢的是《秒速五厘米》。
 - [克里斯托弗·诺兰](https://movie.douban.com/celebrity/1054524/) - 感觉每一部都有一定的叙事诡计在里面。
 - [丹尼斯·维伦纽瓦](https://movie.douban.com/celebrity/1028333/) - 只看过《银翼杀手 2049》，还有《沙丘》，焦土之城还没看。
+- [姜文](https://movie.douban.com/celebrity/1021999/) - 《让子弹飞》是少有的国内我觉得不错的电影。
 
 ## 组织或社区
 
@@ -67,6 +70,8 @@
 - [读库](https://feedmaker.kindle4rss.com/feeds/dukuxiaobao.weixin.xml) - 持续订阅读库已经有五年了，我没有看完的本数是越来越多了。
 - [RSSHub](https://rsshub.app/) - RSS 的重度用户，日常的新闻、博客都是通过它来订阅的。
 - [HelloGitHub](https://rsshub.app/hellogithub/hot) - 日常用来看看有什么新的开源项目。
+- [板机社(TRIGGER)](https://zh.moegirl.org.cn/TRIGGER(%E5%85%AC%E5%8F%B8)#) - 独一档的画风以及质量，基本是属于它出的都可以看并且很好看的地步。（话说我差点以为《天元突破》也是他们的。原来是他们老东家的作品）
+- [京都动画](https://zh.moegirl.org.cn/%E4%BA%AC%E9%83%BD%E5%8A%A8%E7%94%BB) - 也是属于基本上每一部都可以看一下的公司。
 
 ## 物
 
