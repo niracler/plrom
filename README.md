@@ -12,6 +12,7 @@
 关于我关注的人和物。这其实是一个很有个人倾向的主题，很多时候我觉得好的东西可能别人觉得不好，毕竟这事情受限于我个人的阅历和经验。不过我还是会尽量列出一些我觉得好的东西，希望能给你一些启发。
 
 > 一般来说，处于下面个列表中的人或者组织，关于他们的信息我都会用 RSS 订阅并且基本都阅读的。
+> 顺序不分前后，纯靠心情
 
 ## 人
 
@@ -50,6 +51,7 @@
 - [荒木飛呂彥](https://zh.wikipedia.org/wiki/%E8%8D%92%E6%9C%A8%E9%A3%9B%E5%91%82%E5%BD%A5) - 刚才谁提到 JOJO 了？
 - [市川春子](https://zh.wikipedia.org/wiki/%E5%B8%82%E5%B7%9D%E6%98%A5%E5%AD%90) - 《宝石之国》可能是我大学时期最喜欢的作品。
 - [大武政夫](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A6%E6%94%BF%E5%A4%AB) - 《超能力女儿》真的是每一话都戳中我的笑点～～
+- [富坚义博](https://twitter.com/Un4v5s8bgsVk9Xp) - 猎人的世界观真的是太丰富了，我觉得他的每一部作品都值得一看。
 
 ### 🎬 导演
 
@@ -60,6 +62,20 @@
 - [克里斯托弗·诺兰](https://movie.douban.com/celebrity/1054524/) - 感觉每一部都有一定的叙事诡计在里面。
 - [丹尼斯·维伦纽瓦](https://movie.douban.com/celebrity/1028333/) - 只看过《银翼杀手 2049》，还有《沙丘》，焦土之城还没看。
 - [姜文](https://movie.douban.com/celebrity/1021999/) - 《让子弹飞》是少有的国内我觉得不错的电影。
+
+### 🎬 UP主
+
+### 🛩️ TG芳邻
+
+- [Garyの漫窝](https://t.me/GarynoManga) - 少有的可以聊漫画的群呢
+- [一起偷偷观察 DIYgod](https://t.me/awesomeDIYgod) - 知名网红开发者，应该不用介绍了吧
+- [Tomoko RD](https://t.me/tomoko_channel) - 哈哈，不知道是谁的频道呢？？
+- [Laoself 🙂‍↕️](https://t.me/laoself) - [網路上的芳鄰](https://t.me/addlist/bSV5jwS5TOA4MDll) 这个文件夹就是他开设的，几乎涵盖了 Telegram 中文方面大多数的信息了，总会在其中的频道中流通的。
+- [槿呈Goidea](https://t.me/justgoidea) - 关于读书｜新知｜生活禅方面的频道？
+- [gledos 的微型博客](https://t.me/gledos_microblogging) - 每天 7:30 定期更新，有各种好有趣的题材。
+- [Hexagram Daily（aka. 帕鲁日常）](https://t.me/hexagram_daily) - 反正是一个很厉害的后辈
+- [Raye's Journey](https://t.me/RayeJourney) - 很有文化的程序员。
+- [Yu’s Life](https://t.me/pseudoyulife) - 工具控，非常友善和蔼，乐于助人。
 
 ## 组织或社区
 
@@ -240,6 +256,7 @@
 - [YouTube](https://www.youtube.com/) - 因为广告的原因，在手机上看会比电脑上看频率少不少。
 - [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。
 - [infuse](https://firecore.com/infuse) - 界面很好看，结合阿里云盘一起用的话，效果很不错。
+- [剪映专业版](https://www.capcut.cn/) - 用于剪辑视频，结合 Samba 将树莓派的动画视频映射到电脑上，可以做到在电脑上剪辑。
 
 ### 🎙️ 播客
   
