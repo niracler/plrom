@@ -76,12 +76,20 @@
 - [Garyの漫窝](https://t.me/GarynoManga) - 少有的可以聊漫画的群呢
 - [一起偷偷观察 DIYgod](https://t.me/awesomeDIYgod) - 知名网红开发者，应该不用介绍了吧
 - [Tomoko RD](https://t.me/tomoko_channel) - 哈哈，不知道是谁的频道呢？？
-- [Laoself 🙂‍↕️](https://t.me/laoself) - [網路上的芳鄰](https://t.me/addlist/bSV5jwS5TOA4MDll) 这个文件夹就是他开设的，几乎涵盖了 Telegram 中文方面大多数的信息了，总会在其中的频道中流通的。
+- [Laoself](https://t.me/laoself) - [網路上的芳鄰](https://t.me/addlist/bSV5jwS5TOA4MDll) 这个文件夹就是他开设的，几乎涵盖了 Telegram 中文方面大多数的信息了，总会在其中的频道中流通的。
 - [槿呈Goidea](https://t.me/justgoidea) - 关于读书｜新知｜生活禅方面的频道？
 - [gledos 的微型博客](https://t.me/gledos_microblogging) - 每天 7:30 定期更新，有各种好有趣的题材。
 - [Hexagram Daily（aka. 帕鲁日常）](https://t.me/hexagram_daily) - 反正是一个很厉害的后辈
 - [Raye's Journey](https://t.me/RayeJourney) - 很有文化的程序员。
 - [Yu’s Life](https://t.me/pseudoyulife) - 工具控，非常友善和蔼，乐于助人。
+
+### 播客
+
+- [忽左忽右](https://podcasts.apple.com/cn/podcast/%E5%BF%BD%E5%B7%A6%E5%BF%BD%E5%8F%B3/id1493503146) - 他们谈论的话题很有趣，不过主要是我听得不够多，暂时不好判断
+- [科学史评话](https://podcasts.apple.com/cn/podcast/%E7%A7%91%E5%AD%A6%E5%8F%B2%E8%AF%84%E8%AF%9D%E6%9C%80%E6%96%B0%E4%B8%93%E8%BE%91/id1166109768) - 讲科学的历史，其实很有趣的。
+- [科学有故事](https://podcasts.apple.com/cn/podcast/%E6%B1%AA%E8%AF%98-%E7%A7%91%E5%AD%A6%E6%9C%89%E6%95%85%E4%BA%8B-%E4%B8%BB%E6%89%93/id1163969355) - 可能是国内最好的科普主播了，讲的内容非常通俗易懂，而且他是真的想教懂小孩子们科学思维。
+- [纵横四海](https://podcasts.apple.com/cn/podcast/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/id1671490972) - 「做一份人人都需要的人类使用说明书」。也是听得不多，从他的情绪那一期听起，感觉很不错。
+- [原来是这样 Dscience](https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7-dscience/id852289138) - 很有主播范的科普播客
 
 ## 组织或社区
 
@@ -101,7 +109,7 @@
 
 - [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美
 - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 一开始是用来打代码的，不过用了 MacBook 之后就吃灰了。
-- [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画
+- [Raspberry Pi 4 Model B](https://www.raspberrypi./products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画
 - [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 有的东西，没有的时候会觉得哪哪都缺了它，但是真的到手了之后，就发现生活中好像它不存在似的～～
 - [AirTag](https://www.apple.com/cn/airtag/) - 买了四件套，还是很有用的（自我感觉良好🤣）
 - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - 买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。（不过在 steam deck 玩游戏的时候或许可以用用）
