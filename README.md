@@ -127,7 +127,7 @@
 - [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着 xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。**想出手了**
   - [Reletech Xbox Serie x Xbox Serie s1tb2tb Solid State Drive](https://www.amazon.com/Storage-Expansion-Serie-1TB2TB-Solid/dp/B09TPCQ7Z7?th=1) - 用于扩展 xbox 的存储空间，因为 xbox 的游戏太大了，内置的 512G 已经不够用了。警惕后世人，要买就买 XBox Series X，不然就是后悔。
 - [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了
-- [Apple TV 4K](https://www.apple.com/cn/apple-tv/) - 结合 infuse 是家里的主力播放器，不过我也很少看电视，主要是给住在远方的父母平日看的。
+- [Apple TV 4K](https://www.apple.com/apple-tv-4k/) - 结合 infuse 是家里的主力播放器，不过我也很少看电视，主要是给住在远方的父母平日看的。
 
 ### 🔋 充电
 
@@ -171,7 +171,7 @@
   - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
   - NewLine - 用于在文件末尾添加空行的插件。至于为什么要加空行，参考 [这篇文章](https://niracler.com/newline)。
   - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
-- [neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/neovim-config) 上了。
+- [neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/nvim-config) 上了。
   - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
   - [Copilot | LazyVim](https://www.lazyvim.org/extras/coding/copilot) - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。
   - [autoime.nvim](https://github.com/OliverChao/autoime.nvim) - ECS 自动使用 im-select 帮你将输入法切换为英文。避免频繁将输入法从中文模式切换到英文模式，来输入 vim 命令。
@@ -243,7 +243,7 @@
 
 - [Pokemon Sleep](https://www.pokemon.com/us/app/pokemon-sleep) - 用于监测我睡眠的 APP，同时收集点小精灵的睡姿。(虽然睡眠质量还是很糟糕就是了～～)
 - [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，不过我也不是很关心这些数据，只是偶尔看看。
-- [Apple Fitness+](https://www.apple.com/cn/apple-fitness-plus/) - 订阅了 Apple One 之后就有了这个服务，替代掉之前使用的 Keep。不过使用频率堪忧。
+- [Apple Fitness+](https://www.apple.com/apple-fitness-plus/) - 订阅了 Apple One 之后就有了这个服务，替代掉之前使用的 Keep。不过使用频率堪忧。
 - [Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。
 - ~~[Keep](https://www.gotokeep.com/) - 结合跳绳的方案其实还挺好的。~~ 之前用来做健身的，不过现在已经停用了，转去用 Fitness+。
 - ~~[AutoSleep](https://autosleepapp.tantsissa.com/) - 用于监测我睡眠的 APP~~, 感觉没什么意义，现在已经停用了。
@@ -265,7 +265,7 @@
 - [剪映专业版](https://www.capcut.cn/) - 用于剪辑视频，结合 Samba 将树莓派的动画视频映射到电脑上，可以做到在电脑上剪辑。
 
 ### 🎙️ 播客
-  
+
 - [Podcasts](https://www.apple.com/cn/apple-podcasts/) - 已经将喜马拉雅删除了，仅仅保留 Apple Podcasts 用来听播客。因为我在喜马拉雅上听的播客都可以在 Apple Podcasts 上找到。
 - ~~[喜马拉雅](https://www.ximalaya.com/) - 我大学很喜欢在上面听科学声音的系列节目~~, 不过广告真的是很烦人。
 - ~~[小宇宙](https://www.xiaoyuzhoufm.com/) - 挺好看，挺优雅的~~, 不过因为我发现我听的播客都可以在 Apple Podcasts 上找到，所以就删除了。
