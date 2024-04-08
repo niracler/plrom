@@ -52,6 +52,11 @@
 - [市川春子](https://zh.wikipedia.org/wiki/%E5%B8%82%E5%B7%9D%E6%98%A5%E5%AD%90) - 《宝石之国》可能是我大学时期最喜欢的作品。
 - [大武政夫](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A6%E6%94%BF%E5%A4%AB) - 《超能力女儿》真的是每一话都戳中我的笑点～～
 - [富坚义博](https://twitter.com/Un4v5s8bgsVk9Xp) - 猎人的世界观真的是太丰富了，我觉得他的每一部作品都值得一看。
+- [奈央晃德](https://twitter.com/naoakinari) - 原来奈央晃徳的《七人魔法使》 还在画，都 31 卷了。 这是同时在开两个月刊漫画啊，《我立于百万生命之上》也是他画的，画风挺有辨识度的，男主角都长的一样～～
+
+漫画原作
+
+- [山川直輝](https://twitter.com/yamakawaMGnaoki) - 《我家的英雄》以及《我立于百万生命之上》的原作作者，故事很有趣，就是带了好多政治方面的观念。而且两部作品动画化都暴死了。
 
 ### 🎬 导演
 
@@ -229,6 +234,7 @@
 
 - [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
 - [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/) - 用于上传图片到图床的工具，我用的是 XXX 图床。
+- [upscayl](https://github.com/upscayl/upscayl) - 用来做高分辨率重建的工具，看上去效果是挺不错的。
 
 ### 💾 云存储
 
@@ -259,6 +265,13 @@
 
 - [1Password](https://1password.com/) - 在 iPhone 上可以选用它的自动填充。
 - [XLocker](https://apps.apple.com/us/app/xlocker-control-screen-time/id6447595893) - 在适当的时候用来隐藏 iPhone 以及 iPad 上的一些应用。结合快捷指令可以做到一键隐藏。
+- [dama](https://apps.apple.com/us/app/dama-auto-redact-privacy/id1534690075) - 用了之后发现很智能，可以自动识别你照片上可能的隐私信息，然后自动打码。还能帮你处理照片 meta 里面的一些敏感信息。
+
+### 🌏 网络工具
+
+- [AdGuard](https://adguard.com/) - 用于拦截广告的工具，不过我觉得它的效果并不是很好，可能是我没配置好。
+- [Surge](https://nssurge.com/) - 现在 Mac 以及 iPhone 上都用它了。
+- ～～[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 转用 Surge 之后，它就被我放弃了。～～
 
 ### 💪 健康检测
 
