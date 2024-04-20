@@ -58,6 +58,10 @@
 
 - [山川直輝](https://twitter.com/yamakawaMGnaoki) - 《我家的英雄》以及《我立于百万生命之上》的原作作者，故事很有趣，就是带了好多政治方面的观念。而且两部作品动画化都暴死了。
 
+### 🎨 里漫画家
+
+- [あいらんどう](https://twitter.com/airandou_) - 这个画师的画风好涩，好喜欢他画的妹妹
+
 ### 🎬 导演
 
 - [今敏](https://movie.douban.com/celebrity/1053554/) - 可惜我认识他已经太晚了。
@@ -95,6 +99,7 @@
 - [科学有故事](https://podcasts.apple.com/cn/podcast/%E6%B1%AA%E8%AF%98-%E7%A7%91%E5%AD%A6%E6%9C%89%E6%95%85%E4%BA%8B-%E4%B8%BB%E6%89%93/id1163969355) - 可能是国内最好的科普主播了，讲的内容非常通俗易懂，而且他是真的想教懂小孩子们科学思维。
 - [纵横四海](https://podcasts.apple.com/cn/podcast/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/id1671490972) - 「做一份人人都需要的人类使用说明书」。也是听得不多，从他的情绪那一期听起，感觉很不错。
 - [原来是这样 Dscience](https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7-dscience/id852289138) - 很有主播范的科普播客
+- [大老李聊数学](https://podcasts.apple.com/us/podcast/%E5%A4%A7%E8%80%81%E6%9D%8E%E8%81%8A%E6%95%B0%E5%AD%A6-%E5%85%A8%E9%9B%86/id1389947641) - 讲数学能讲的这么有趣，真是有他的，尤其我最喜欢的一期是讲凉宫春日中的超级排列数的那一期。
 
 ### 🎤 歌手 & 音乐制作人
 
@@ -292,7 +297,8 @@
 
 ### 📺 视频
 
-- [Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替代原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。
+- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替代原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
+- [YT MUSIC](https://music.youtube.com/) - 现在已经将我的音乐软件转成这个了，发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
 - [YouTube](https://www.youtube.com/) - 因为广告的原因，在手机上看会比电脑上看频率少不少。
 - [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。
 - [infuse](https://firecore.com/infuse) - 界面很好看，结合阿里云盘一起用的话，效果很不错。
