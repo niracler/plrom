@@ -255,7 +255,7 @@
   - 1Password for Safari - 密码管理器，我是将 Safari 原生的填充给关了
   - AdGuard for Safari - 广告拦截器，不过用的不太久，还没能体验它和 uBlock Origin 的区别
   - 沉浸式翻译 - 用于翻译，已经离不开了，我喜欢的颜色是 `#FB8F68`
-- [Arc](https://arc.net) - 现在的阻力浏览器。可以将两个 workspace 分别两个 profile 来用，一个用于工作，一个用于生活。将身份切割好。
+- [Arc](https://arc.net) - 现在的主力浏览器。可以将两个 workspace 分别两个 profile 来用，一个用于工作，一个用于生活。将身份切割好。
 
 ### 💬 通讯工具
 
