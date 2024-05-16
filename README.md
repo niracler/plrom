@@ -97,7 +97,7 @@
 - [忽左忽右](https://podcasts.apple.com/cn/podcast/%E5%BF%BD%E5%B7%A6%E5%BF%BD%E5%8F%B3/id1493503146) - 他们谈论的话题很有趣，不过主要是我听得不够多，暂时不好判断
 - [科学史评话](https://podcasts.apple.com/cn/podcast/%E7%A7%91%E5%AD%A6%E5%8F%B2%E8%AF%84%E8%AF%9D%E6%9C%80%E6%96%B0%E4%B8%93%E8%BE%91/id1166109768) - 讲科学的历史，其实很有趣的。
 - [科学有故事](https://podcasts.apple.com/cn/podcast/%E6%B1%AA%E8%AF%98-%E7%A7%91%E5%AD%A6%E6%9C%89%E6%95%85%E4%BA%8B-%E4%B8%BB%E6%89%93/id1163969355) - 可能是国内最好的科普主播了，讲的内容非常通俗易懂，而且他是真的想教懂小孩子们科学思维。
-- [纵横四海](https://podcasts.apple.com/cn/podcast/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/id1671490972) - 「做一份人人都需要的人类使用说明书」。也是听得不多，从他的情绪那一期听起，感觉很不错。
+- [纵横四海](https://podcasts.apple.com/cn/podcast/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/id1671490972) - 「做一份人人都需要的人类使用说明书」。也是听得不多，从她的情绪那一期听起，感觉很不错。
 - [原来是这样 Dscience](https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7-dscience/id852289138) - 很有主播范的科普播客
 - [大老李聊数学](https://podcasts.apple.com/us/podcast/%E5%A4%A7%E8%80%81%E6%9D%8E%E8%81%8A%E6%95%B0%E5%AD%A6-%E5%85%A8%E9%9B%86/id1389947641) - 讲数学能讲的这么有趣，真是有他的，尤其我最喜欢的一期是讲凉宫春日中的超级排列数的那一期。
 
@@ -108,6 +108,11 @@
 - [Garoad](https://www.garoadmusic.com/) - VA-11 HALL-A 的原声音乐制作人，在工作的时候听非常合适。（什么调酒师歌单啊～～）
 - [YOASOBI](https://www.yoasobi-music.jp/) - 通过《葬送的芙莉莲》的 OP 才意识到他们的存在，然后就开始听他们的歌了。（是否有机会在音乐节现场听呢？）
 - [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe) - 《尼尔：机械纪元》的原声音乐制作人。可以说这个游戏单单这音乐就值了。
+- [RADWIMPS](https://radwimps.jp/) - 《你的名字》的原声音乐制作人，他们的音乐真的很好听，尤其是《前前前世》。后面的《天气之子》《铃芽之旅》的音乐也是有他们。成立于 2001 年，乐队的名称由 「Rad」和 「wimps」组成，其中「Rad」来自「radical」，意味着「酷、帅、顶呱呱」，而「wimps」则是「窝囊废」的意思，整体上可以理解为「非常帅气的胆小鬼，非常有用的混蛋」。
+- [iri](https://www.iriofficial.com/) - 嗓音极具独特魅力 —— 沙哑而充满磁力。朋友觉得她的声音和中岛美嘉相似。是在音乐节上认识的。
+- [yama](https://www.sonymusic.co.jp/artist/yama/) - 《国王排名》的插曲《Oz.》就是她的作品。也是在音乐节上认识的。
+- [Queen Bee](https://music.youtube.com/channel/UCcDtIC4qOmjrNUcBo4u1tvw) - 女王蜂的音乐风格妖艳独特，以朋克乐为根基，同时融合了日本歌谣曲、trap、放克乐、民谣和迪斯科等元素。我是从观看《多罗罗》和《不死不幸》的主题曲开始接触的。事实上，我参加这场音乐节最初就是为了女王蜂和 YOASOBI，而 iri 和 yama 则是令我现场心动的额外惊喜。
+- [Aimer](https://www.aimer-web.jp/) - 她为多部动画、电视剧和电影演唱了主题曲，包括著名的《BLEACH》、《Fate/stay night [Unlimited Blade Works]》、《夏目友人帐》等。是音乐节上的群友介绍的。
 
 ## 组织或社区
 
