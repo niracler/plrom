@@ -78,5 +78,28 @@ if [ -n "$note_id" ]; then
         "https://indexer.crossbell.io/v1/siwe/contract/characters/$CHARACTER_ID/notes/${note_id}/metadata"
 else
     echo Create note
-    echo ....
+    curl -X PUT -v \
+        -H "Authorization: Bearer $XLOG_TOKEN" \
+        -H "Content-Type: application/json" \
+        -d '{
+                "metadata": {
+                    "tags": ["post", '"$tags"'],
+                    "type": "note",
+                    "title": "'"$title"'",
+                    "content": '"$content"',
+                    "summary": "'"$summary"'",
+                    "sources": ["xlog"],
+                    "date_published": "2024-05-13T00:00:00.000Z",
+                    "attributes": [{
+                        "value": "'"$slug"'",
+                        "trait_type": "xlog_slug"
+                    }],
+                    "attachments": [{
+                        "name": "cover",
+                        "address": "'"$cover"'",
+                        "mime_type": ""
+                    }]
+                }
+        }' \
+        "https://indexer.crossbell.io/v1/siwe/contract/characters/${CHARACTER_ID}/notes"
 fi
