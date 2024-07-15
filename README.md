@@ -1,11 +1,11 @@
-<!--
-- title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
-- tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
-- cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
-- slug: plrom
-- summary: 关于我关注的人和物。这其实是一个很有个人倾向的主题，很多时候我觉得好的东西可能别人觉得不好，毕竟这事情受限于我个人的阅历和经验。不过我还是会尽量列出一些我觉得好的东西，希望能给你一些启发。
-- note_id: 273
--->
+---
+title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
+tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
+cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
+slug: plrom
+summary: 关于我关注的人和物。这其实是一个很有个人倾向的主题，很多时候我觉得好的东西可能别人觉得不好，毕竟这事情受限于我个人的阅历和经验。不过我还是会尽量列出一些我觉得好的东西，希望能给你一些启发。
+note_id: 273
+---
 
 # plrom
 
