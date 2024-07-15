@@ -122,9 +122,11 @@
 - [Node.js Blog](https://nodejs.org/en/feed/blog.xml) - 作为一个 Node.js 开发者，我觉得这个博客是必须要订阅的。
 - [读库](https://feedmaker.kindle4rss.com/feeds/dukuxiaobao.weixin.xml) - 持续订阅读库已经有五年了，我没有看完的本数是越来越多了。
 - [RSSHub](https://rsshub.app/) - RSS 的重度用户，日常的新闻、博客都是通过它来订阅的。
-- [HelloGitHub](https://rsshub.app/hellogithub/hot) - 日常用来看看有什么新的开源项目。
+- [HelloGitHub](https://hellogithub.com/) - 日常用来看看有什么新的开源项目。
 - [板机社(TRIGGER)](https://zh.moegirl.org.cn/TRIGGER(%E5%85%AC%E5%8F%B8)#) - 独一档的画风以及质量，基本是属于它出的都可以看并且很好看的地步。（话说我差点以为《天元突破》也是他们的。原来是他们老东家的作品）
 - [京都动画](https://zh.moegirl.org.cn/%E4%BA%AC%E9%83%BD%E5%8A%A8%E7%94%BB) - 也是属于基本上每一部都可以看一下的公司。
+- [香草社](https://mzh.moegirl.org.cn/Vanillaware) - 玩过他的《圣兽之王》，美术是真的顶。
+- [SuperTechFans](https://www.supertechfans.com/cn/post/2024-07-15-HackerNews/) - 对 Hacker News 每天的热点文章，生成中文的 AI 摘要。感觉还不错。
 
 ## 物
 
@@ -191,6 +193,10 @@
 
 - [米家智能IH电饭煲 3L](https://www.mi.com/dianfanbao2) - 后悔买这么小了，只有我一个人时不想做饭。而人多又不够容量(估计三个人勉强)～～
 
+### 💆 按摩
+
+- [米家迷你筋膜枪2C](https://www.mi.com/shop/buy/detail?product_id=18607&cfrom=search) - 开始健身之后发现身体哪哪都酸痛，于是就买一个来进行按摩了。
+
 ## 软件工具
 
 ### 📝 文本编辑 & IDE
@@ -220,7 +226,7 @@
 - [docker](https://www.docker.com/) - 用于开发和部署容器化应用的工具, 也是属于一个基本不能不用的软件了
 - [frp](https://github.com/fatedier/frp) - 用于内网穿透的工具，我用它来将我的树莓派暴露出来，为了 ServerCat 可以连上。（Cloudflare Tunnel 穿透出来的连不上）
 - [hurl](https://github.com/Orange-OpenSource/hurl) - 用于测试 HTTP 请求的工具。
-- [markdown-link-check](https://github.com/tcort/markdown-link-check) - 用于检查 markdown 文件中的链接是否有效。
+- [markdown-link-check](https://github.com/tcort/markdown-link-check) - 用于检查 markdown 文件中的链接是否有效。我这篇文章的链接就主要是靠它检查的。
 - [zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - 用于在 zsh 中使用 fzf 来搜索历史命令。
 
 ### 📈 生产力工具
@@ -229,6 +235,8 @@
 - ~~[Alfred](https://www.alfredapp.com/)~~ - 最开始是用它的粘贴板历史功能，但是后面用上 Raycast 之后就不怎么用，被平替掉了，毕竟要钱。不过它的搜索功能还是很好用的。
 - [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。
 - [ServerCat](https://servercat.app/) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。
+- [align](https://apps.apple.com/sk/app/align-organize-app-windows/id6480428845) - 专为 macOS 设计的窗口管理工具，限免的时候入的。一开始我觉得没什么用，因为我大多数情况下是用多桌面而不是多窗口的，直到我用了 4K 显示器～～
+- [keybr.com](https://www.keybr.com/) - 我这段时间用来练习打字的网站。
 
 ### ⚙️ 自动化
 
@@ -245,11 +253,13 @@
 - [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
 - [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/) - 用于上传图片到图床的工具，我用的是 XXX 图床。
 - [upscayl](https://github.com/upscayl/upscayl) - 用来做高分辨率重建的工具，看上去效果是挺不错的。
+- [webp](https://webp.se/) - 能够自动加水印，压缩图片的重定向服务，我的图床就用它套了一层。
 
 ### 💾 云存储
 
 - [iCloud](https://www.apple.com/icloud/) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记。以及各种文件。
 - [阿里云盘](https://www.aliyundrive.com/download) - 现在主要用它存储影视节目，然后通过 infuse 来观看，一般能跑满带宽。开了年费会员
+- [夸克云盘](https://www.quark.cn/) - 用于存储一些不太重要的文件，主要是淘宝 88 会员送的。
 - ~~[百度网盘](https://pan.baidu.com/) - 以前的各种 H 游戏都是靠它下载的，现在审查越来越严格了~~，基本上不怎么用了。
 - ~~[坚果云](https://www.jianguoyun.com/) - 大学初期用来同步多个电脑上的项目~~，后续用上 git 之后就不怎么用了。
 
@@ -293,6 +303,10 @@
 - ~~[AutoSleep](https://autosleepapp.tantsissa.com/) - 用于监测我睡眠的 APP~~, 感觉没什么意义，现在已经停用了。
 - ~~[Pillow](https://www.neybox.com/pillow) - 用于监测我睡眠的 APP~~, 试着订阅了一年，但发现其实跟 AutoSleep 拉不开距离而且跟原生 Health 的睡眠监测体感也没什么区别，所以也停用了。
 
+### 🤖 智能家居
+
+- [米家](https://home.mi.com/) - 用于控制家里的各种智能设备，例如灯、空调、扫地机器人等等。不过这么多智能设备，在家里断网的时候，简直就是灾难。
+
 ### 🛒 购物
 
 - [多抓鱼](https://www.duozhuayu.com/book) - 之前很喜欢买各种我永远不会看的书，现在已经当作是奢侈品了，不再买，省钱。
@@ -322,24 +336,33 @@
 ### 📰 新闻 & 阅读
 
 - [inoreader](https://www.inoreader.com/folder/News) - RSS 阅读器，我是在这里订阅了许多博客，然后通过 RSSHub 来订阅一些不支持 RSS 的网站。不过 RSS 对于我还是太零碎了，我一般会在周末的时候集中过一遍，然后将感兴趣的文章通过 [Pinboard](https://pinboard.in/) 收藏起来。日常手机上就不装 RSS 相关的软件了，因为作为新闻的输入，没有必要每天输入这么多新闻。
-- [萌娘百科](https://zh.moegirl.org.cn/) - 萌娘百科的词条是真的很有趣，哈哈
 - 豆瓣 - 看各种作品前总要来这里看看评分，不过我也有很多看了之后没有标记的作品。总想着写好了评语再标记，然后就鸽到猴年马月了。
-- [Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。
 - [读库 APP](https://www.duku.cn) - 每一期读库都会有一些被志愿者转成音频的文章，茶余饭后我就在这里听。
 - [微信阅读](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
-- [萌娘百科 App](https://zh.moegirl.org.cn/) - 主要是用来收藏词条，以及无聊的时候看的。
-- [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
-- [哔哩哔哩漫画](https://manga.bilibili.com/) - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。
 - [xlog](https://xlog.app) - 被我当作是赛博酒吧，偶尔点开看一下其他博主的更新。我自己也会稍微写写
 - [hackernew](https://news.ycombinator.com/) - 对于我们这个行业来说，毋庸置疑的前沿新闻来源，不过偶尔一刷就停不下来了。
 - [pinboard](https://pinboard.in/) - 用于收藏我感兴趣的文章，也会在上面进行相应的思考点评。
+- [小红书](https://www.xiaohongshu.com/) - 用于看一些生活小技巧，用来补充我所剩不多的常识。不过我也不是很经常用。
+- [知乎](https://www.zhihu.com/) - 用于看一些有趣的问题，不过我也不是很经常用。
+
+### 🌟⭐️✨ 动画 & 漫画
+
+- [萌娘百科](https://zh.moegirl.org.cn/) - 萌娘百科的词条是真的很有趣，哈哈。主要是用来收藏词条，以及无聊的时候看的。
+- [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
+- ~~[哔哩哔哩漫画](https://manga.bilibili.com/) - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。~~ 已经卸载了，现在主要是用回 Tachiyomi 了。
+- [Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。
 - [mox.moe](https://mox.moe) - 非常全的漫画源，一键就能够将漫画推送到 kindle 上，在 iPad 上全靠它来启动看漫画了。
+- [蜜柑计划](https://mikanani.me/) - 用于追番，autoBangumi 的 RSS 订阅就靠它了。
+- [AutoBangumi](https://www.autobangumi.org/) - 用自动根据 RSS 的订阅来下载，我现在基本是靠它了。
 
 ### 🚗 出行 & 🍽️ 吃饭
 
 - [美团](https://www.meituan.com/) - 用于点外卖，应该自己做而不是叫外卖的～～
+- [饿了么](https://www.ele.me/) - 开了淘宝的 88 会员之后，就再也没买过美团的券了。
 - [Apple Maps](https://www.apple.com/cn/maps/) - 本着断舍离的心态将高德删除了，用这个的时候却是会有不少问题，要看看情况
-- [嘀嗒出行](https://www.didachuxing.com/) - 用于叫顺丰车，在各个市之间移动的时候用的比较多
+- [高德地图](https://www.amap.com/) - 最后还是用回它了，现在打车也就主要靠它了。
+- [嘀嗒出行](https://www.didachuxing.com/) - 用于叫顺风车，在各个市之间移动的时候用的比较多。
+- [Rond](https://sspai.com/post/85355) - 一款用于记录我去了哪里的软件。软件很优雅，现阶段我很喜欢。
 
 ### 🕹️ 游戏
 
@@ -347,7 +370,9 @@
 
 - [Steam](https://store.steampowered.com/) - 主要用来做 steam 验证用的，平常因为网络太卡了，也很少用。
 - [崩坏: 星穹铁道](https://sr.mihoyo.com/) - 最近玩起来觉得还不错。（绝对不是因为藿藿入坑的～～）
-- [崩坏3rd](https://www.bh3.com/) - 重新下载回来，弄了个真理鸭～～
+- ~~[崩坏3rd](https://www.bh3.com/) - 重新下载回来，弄了个真理鸭～～~~ 已经不属于这个时代的游戏了，肝度什么的都太高了。看来我只好[看视频](https://www.bilibili.com/video/BV12W411h76f/)云了。
+- [绝区零](https://zzz.mihoyo.com/main/) - 犹豫了很久，还是进了。
+- [小黑盒](https://www.xiaoheihe.cn) - 主要用来看各种游戏机上面的游戏时长，以前的话会在上面看游戏点评以及买游戏什么的。
 
 ### ➕ 其他
 
@@ -360,6 +385,14 @@
 - [Wireshark](https://www.wireshark.org/) - 用于抓包的工具，不过我也不是很会用。
 - [Zoom](https://zoom.us/) - 用于远程会议的工具，不过我也很少用。
 - [Applite](https://github.com/milanvarady/Applite) - 现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。
+
+## 定时检查
+
+大概一个月会检查一下有没有更新，来源不限于:
+
+1. 手机、电脑、平板上的软件
+2. tachiyomi 上的漫画订阅 (主要是检查新的漫画家)
+3. inoreader 上的订阅源
 
 ## Reference
 
