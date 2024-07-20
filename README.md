@@ -274,8 +274,8 @@ note_id: 273
 
 ### 💬 通讯工具
 
-- ~~[Telegram](https://telegram.org/) - TG 频道是当作我个人碎碎念以及日常生活吐槽的地方，用于发泄「一年快 2000 条信息」的话痨体质。X 也有这个功效，但对于我这种有些社恐的赛博电子人来说，在 X 发信息就像是在广场里面大叫，让我感到羞耻度爆表。而 TG 频道上「大叫」时感觉就像在家里，最多只有邻居能听到，对于我来说更加自在一点。~~ 因某种不可抗力，已停更，有缘江湖再见😭
-- ~~[X](https://x.com)~~ - 同上，不过这是已销号😭
+- [Telegram](https://telegram.org/) - TG 频道是当作我个人碎碎念以及日常生活吐槽的地方，用于发泄「一年快 2000 条信息」的话痨体质。X 也有这个功效，但对于我这种有些社恐的赛博电子人来说，在 X 发信息就像是在广场里面大叫，让我感到羞耻度爆表。而 TG 频道上「大叫」时感觉就像在家里，最多只有邻居能听到，对于我来说更加自在一点。
+- [X](https://x.com) - 还是不太习惯用呢~~
 - [Discord](https://discord.com/) - 平常几乎是不用的，不过很多开源社区都是在这进行交流的，我也主要是上去报 BUG 而已。
 - [Fastmail](https://www.fastmail.com/) - 随机匿名邮箱是反跟踪的利器, 现在我各种网站尽量能用邮箱注册就用都用 fastmail 生成的随机邮箱（与 1Password 联动确实方便）
 - [微信](https://weixin.qq.com/) - 用于和家人朋友联系，不过日常 99% 的时候都不看朋友圈，也不发朋友圈。公众号倒是偶尔会看看，要移除一些好友才行了。
@@ -291,7 +291,7 @@ note_id: 273
 
 - [AdGuard](https://adguard.com/) - 用于拦截广告的工具，不过我觉得它的效果并不是很好，可能是我没配置好。
 - [Surge](https://nssurge.com/) - 现在 Mac 以及 iPhone 上都用它了。
-- ～～[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 转用 Surge 之后，它就被我放弃了。～～
+- ~~[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 转用 Surge 之后，它就被我放弃了。~~
 
 ### 💪 健康检测
 
@@ -396,5 +396,6 @@ note_id: 273
 
 ## Reference
 
+- [人 X 社区 X 物 - niracler](https://niracler.com/plrom) - Blog 上也有同步这篇文章
 - [GitHub - niracler/plrom: 关于我周围的人和物](https://github.com/niracler/plrom) - 这个项目就是我自己的，用于记录我周围的人和物，更新的时候自动同步到 xlog 上。
 - [GitHub - pseudoyu/yu-tools: 我的个人工具箱 (设备, macOS 软件, iOS Apps...)](https://github.com/pseudoyu/yu-tools) - 我这一个项目就是模仿 yu 君的, 很多分类不会分的时候就是参考他的
