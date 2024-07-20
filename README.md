@@ -201,25 +201,28 @@ note_id: 273
 
 ### 📝 文本编辑 & IDE
 
-- VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它
+- VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它。
   - GitHub Copilot - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免使用呢？
   - GitLens - 用于查看 git 历史记录的插件，它的 `blame` 功能太好用了，在团队合作的时候可以一眼看到谁写的代码。
   - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
   - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
   - NewLine - 用于在文件末尾添加空行的插件。至于为什么要加空行，参考 [这篇文章](https://niracler.com/newline)。
   - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
-- [neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/nvim-config) 上了。
+- ~~[neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/nvim-config) 上了。~~ 我的 M1 AIR 用起来会卡顿，而且是真的入手难度高，所以就暂时放弃了。
   - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
   - [Copilot | LazyVim](https://www.lazyvim.org/extras/coding/copilot) - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。
   - [autoime.nvim](https://github.com/OliverChao/autoime.nvim) - ECS 自动使用 im-select 帮你将输入法切换为英文。避免频繁将输入法从中文模式切换到英文模式，来输入 vim 命令。
-- [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
+- [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
   - [obsidian-linter](https://github.com/platers/obsidian-linter) - 用于格式化 markdown 的插件，不过我觉得它的功能还是不够完善，有时候会出现一些奇怪的问题。
+  - [obsidian-git](https://github.com/Vinzent03/obsidian-git) - 用于将 obsidian 的笔记同步到 git 仓库的插件。Obsidian 用起来有一个问题，就是没有版本控制，很多时候我写一些记录会进行删删改改，以至于有一些历史的想法可能就流失了。于是就用这个插件。
+  - [obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - 用于将 pinboard 的书签同步到 obsidian 日记中的插件。主要是为了可以在 obsidian 中搜索到我之前的书签以及对应的评论。
+  - [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) - 用于将 obsidian 中的图片自动上传到图床的插件。
 
 ### > 命令行工具(Command Line Interface)
 
 > 不过其实太多了，我这里只挑我用的最多的 20 个
 
-- [brew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的
+- [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的
 - [x-cmd](https://x-cmd.com) - 我本职工作的公司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + ... )`
 - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
 - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
@@ -228,6 +231,11 @@ note_id: 273
 - [hurl](https://github.com/Orange-OpenSource/hurl) - 用于测试 HTTP 请求的工具。
 - [markdown-link-check](https://github.com/tcort/markdown-link-check) - 用于检查 markdown 文件中的链接是否有效。我这篇文章的链接就主要是靠它检查的。
 - [zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - 用于在 zsh 中使用 fzf 来搜索历史命令。
+- [rsync](https://rsync.samba.org/) - 服务器间的文件同步命令。类 Linux 系统应该都是自带的，服务器之间的文件传输我都是靠它的。我最喜欢用的参数是 `-acvP` 。
+- [rclone](https://rclone.org/) - 可以将本地文件传输到云存储上。用过 S3、R2、OSS 等云产品的同学应该都多多少少用过的。
+- [imagemagick](https://imagemagick.org/index.php) - 用于处理图片的命令行工具，我主要用它来批量转换图片格式。
+- [ffmpeg](https://ffmpeg.org/) - 用于处理视频的命令行工具，简单的视频切片、转码等操作都可以用它来完成。
+- [ollama](https://ollama.com/) - 很方便地在本地跑 LLM 的工具，当然了，电脑性能是否足够是另外的问题了。
 
 ### 📈 生产力工具
 
@@ -253,7 +261,7 @@ note_id: 273
 - [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
 - [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/) - 用于上传图片到图床的工具，我用的是 XXX 图床。
 - [upscayl](https://github.com/upscayl/upscayl) - 用来做高分辨率重建的工具，看上去效果是挺不错的。
-- [webp](https://webp.se/) - 能够自动加水印，压缩图片的重定向服务，我的图床就用它套了一层。
+- [webp](https://webp.se/) - 能够自动加水印，压缩图片的重定向服务，我的图床就用它套了一层。主要是谢谢 yu 君的 [从零开始搭建你的免费图床系统 （Cloudflare R2 + WebP Cloud + PicGo）](https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo/)
 
 ### 💾 云存储
 
@@ -274,7 +282,7 @@ note_id: 273
 
 ### 💬 通讯工具
 
-- [Telegram](https://telegram.org/) - TG 频道是当作我个人碎碎念以及日常生活吐槽的地方，用于发泄「一年快 2000 条信息」的话痨体质。X 也有这个功效，但对于我这种有些社恐的赛博电子人来说，在 X 发信息就像是在广场里面大叫，让我感到羞耻度爆表。而 TG 频道上「大叫」时感觉就像在家里，最多只有邻居能听到，对于我来说更加自在一点。
+- [Telegram](https://telegram.org/) - TG 频道是当作我个人碎碎念以及日常生活吐槽的地方，用于发泄「**一年快 2000 条信息**」的话痨体质。X 也有这个功效，但对于我这种有些社恐的赛博电子人来说，在 X 发信息就像是在广场里面大叫，让我感到羞耻度爆表。而 TG 频道上「大叫」时感觉就像在家里，最多只有邻居能听到，对于我来说更加自在一点。大家也可以来我的频道作客哦，虽然没有什么深度内容 [Tomoko RD]( https://t.me/tomoko_channel)
 - [X](https://x.com) - 还是不太习惯用呢~~
 - [Discord](https://discord.com/) - 平常几乎是不用的，不过很多开源社区都是在这进行交流的，我也主要是上去报 BUG 而已。
 - [Fastmail](https://www.fastmail.com/) - 随机匿名邮箱是反跟踪的利器, 现在我各种网站尽量能用邮箱注册就用都用 fastmail 生成的随机邮箱（与 1Password 联动确实方便）
@@ -295,10 +303,10 @@ note_id: 273
 
 ### 💪 健康检测
 
-- [Pokemon Sleep](https://www.pokemon.com/us/app/pokemon-sleep) - 用于监测我睡眠的 APP，同时收集点小精灵的睡姿。(虽然睡眠质量还是很糟糕就是了～～)
+- ~~[Pokemon Sleep](https://www.pokemon.com/us/app/pokemon-sleep) - 用于监测我睡眠的 APP，同时收集点小精灵的睡姿。(虽然睡眠质量还是很糟糕就是了～～)~~ 还是弃用了，明天都要定时打开，还是挺费精神的。现在就仅仅保留了 Apple Health
 - [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，不过我也不是很关心这些数据，只是偶尔看看。
 - [Apple Fitness+](https://www.apple.com/apple-fitness-plus/) - 订阅了 Apple One 之后就有了这个服务，替代掉之前使用的 Keep。不过使用频率堪忧。
-- [Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。
+- [Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。（后面才知道这个 APP 是也会同步体重数据到 Apple Health 上的）
 - ~~[Keep](https://www.gotokeep.com/) - 结合跳绳的方案其实还挺好的。~~ 之前用来做健身的，不过现在已经停用了，转去用 Fitness+。
 - ~~[AutoSleep](https://autosleepapp.tantsissa.com/) - 用于监测我睡眠的 APP~~, 感觉没什么意义，现在已经停用了。
 - ~~[Pillow](https://www.neybox.com/pillow) - 用于监测我睡眠的 APP~~, 试着订阅了一年，但发现其实跟 AutoSleep 拉不开距离而且跟原生 Health 的睡眠监测体感也没什么区别，所以也停用了。
@@ -310,9 +318,10 @@ note_id: 273
 ### 🛒 购物
 
 - [多抓鱼](https://www.duozhuayu.com/book) - 之前很喜欢买各种我永远不会看的书，现在已经当作是奢侈品了，不再买，省钱。
-- [京东](https://www.jd.com/) - 京东会员我是一直都有开
+- [京东](https://www.jd.com/) - 京东会员我是一直都有开。
 - [拼多多](https://www.pinduoduo.com/) - switch 卡带、乐高、模型这些娱乐用的东西的时候可以上去买。
 - [淘宝](https://www.taobao.com/) - 主要是买一些奇形怪状的东西，例如台版书籍、各种外区点卡什么的。
+- ~~[得物](https://www.dewu.com/) - 买过几个东西。~~有点不懂为什么要有在这个平台上买，一般上面几个就符合我需求了
 
 ### 📺 视频
 
@@ -320,8 +329,10 @@ note_id: 273
 - [YT MUSIC](https://music.youtube.com/) - 现在已经将我的音乐软件转成这个了，发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
 - [YouTube](https://www.youtube.com/) - 因为广告的原因，在手机上看会比电脑上看频率少不少。
 - [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。
-- [infuse](https://firecore.com/infuse) - 界面很好看，结合阿里云盘一起用的话，效果很不错。
+- [infuse](https://firecore.com/infuse) - 用来播放阿里云盘里的视频资源。界面很好看，结合阿里云盘一起用的话，效果很不错。
 - [剪映专业版](https://www.capcut.cn/) - 用于剪辑视频，结合 Samba 将树莓派的动画视频映射到电脑上，可以做到在电脑上剪辑。
+- [iina](https://iina.io/) - 视频播放器，我主要用它来播放本地的视频文件。
+- [obs](https://obsproject.com/) - 用于录制屏幕的工具，之前主要是配合串流软件录制游戏机的游戏视频。
 
 ### 🎙️ 播客软件
 
@@ -332,6 +343,7 @@ note_id: 273
 ### 📖 学习
 
 - [多邻国](https://www.duolingo.com/) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～)
+- [xmind](https://www.xmind.cn/) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
 
 ### 📰 新闻 & 阅读
 
@@ -350,7 +362,8 @@ note_id: 273
 - [萌娘百科](https://zh.moegirl.org.cn/) - 萌娘百科的词条是真的很有趣，哈哈。主要是用来收藏词条，以及无聊的时候看的。
 - [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
 - ~~[哔哩哔哩漫画](https://manga.bilibili.com/) - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。~~ 已经卸载了，现在主要是用回 Tachiyomi 了。
-- [Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。
+- ~~[Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。~~ 被封锁了~~
+- [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - 继任者，新一代的王。
 - [mox.moe](https://mox.moe) - 非常全的漫画源，一键就能够将漫画推送到 kindle 上，在 iPad 上全靠它来启动看漫画了。
 - [蜜柑计划](https://mikanani.me/) - 用于追番，autoBangumi 的 RSS 订阅就靠它了。
 - [AutoBangumi](https://www.autobangumi.org/) - 用自动根据 RSS 的订阅来下载，我现在基本是靠它了。
