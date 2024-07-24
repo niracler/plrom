@@ -57,10 +57,29 @@ note_id: 273
 漫画原作
 
 - [山川直輝](https://twitter.com/yamakawaMGnaoki) - 《我家的英雄》以及《我立于百万生命之上》的原作作者，故事很有趣，就是带了好多政治方面的观念。而且两部作品动画化都暴死了。
+- [舞城王太郎](https://twitter.com/maijouotarou) - 设定非常有趣，但是故事也就如此。是《异度入侵》和《深渊融接》的原作作者。
 
 ### 🎨 里漫画家
 
-- [あいらんどう](https://twitter.com/airandou_) - 这个画师的画风好涩，好喜欢他画的妹妹
+> 我怎么可能在这讲得这么详细呢？这个章节大家意会就好。
+
+<details>
+<summary>你是满 18 岁的男生吗？</summary>
+
+- [あいらんどう](https://myanimelist.net/people/53762/Airandou) - FBI open the door!!! 这个画师的画风好涩，好喜欢他画的妹妹
+- [師走の翁](https://myanimelist.net/people/3775/Shiwasu_no_Okina/) - 除了偶像那一部比较喜欢，其他我都觉得一般般。天体沙滩应该是最出名的一部，还出动画了。
+- [zerodo](https://degree123.fanbox.cc/) - 主要是常识改变系列，可以看到各种偶像被 XX。
+- [満開開花](https://mankaikaika1.fanbox.cc/) - 基本上每一部都很喜欢，最出名的应该是催眠家族系列。
+- [あやかわりく](https://ayakawariku.fanbox.cc/) - 才发现原来是《魔装学園H×H》的插画师，他的发情魔眼系列挺有趣的，还在更新中。
+- [赤月みゅうと](https://myanimelist.net/people/15043/Myuuto_Akatsuki) - 奴隶兔，应该算是「家喻户晓」的作品了吧。他的作品中，我觉得不错的应该是一半一半。
+- [ゼロの者](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD%E3%81%AE%E8%80%85) - 这位应该挺冷门的，翻译都不多。主要是一些 Incest 的作品，画风是上个世纪的，比例很奇怪。我比较喜欢的是他的妹妹作家系列。（原来是 74 年生人，已经 50 岁了，画不动了）
+- [あきのそら](https://akinosora.fanbox.cc/) - 《異世界謳歌》系列的作者，不过画风真的很不错，尤其是某个位置。基本上每一部我都会认真拜读的。看得最多的是姉季折々
+- [大嘘](https://myanimelist.net/people/27325/Oouso) - 大嘘的腿应该也是家喻户晓了，不过我唯一喜欢的应该是那个飞机杯系列了。
+- [八尋ぽち](https://myanimelist.net/people/17375/Pochi_Yahiro) - 画风很不错，不过让我比较印象深刻的只有黑魔法那个系列。
+- [角煮煮](https://twitter.com/kakuninii) - 他的常識改変系列也是很有趣，基本每一部都挺不错。
+
+</details>
+
 
 ### 🎬 导演
 
@@ -79,13 +98,14 @@ note_id: 273
 - [老懂是我了_DongGaming](https://space.bilibili.com/1074636993/) - 玩《崩坏：星穹铁道》的中档位朋友们，真应该去看一下他的分析，真的够懂的。
 - [罗翔说刑法](https://space.bilibili.com/517327498/) - 还是要了解一些的。
 - [天真的和感伤的小说家](https://space.bilibili.com/314521322/) - 文学类型的知名 UP 主
+- [三個字 SunGuts](https://www.youtube.com/user/ray123822) - 他的视频内容主要是科普日常的身体酸痛知识，并分享简单的检测方式及自救方法。我有跟着去改一些日常姿态以及运动的坏习惯。
 
 ### 🛩️ TG芳邻
 
 - [Garyの漫窝](https://t.me/GarynoManga) - 少有的可以聊漫画的群呢
 - [一起偷偷观察 DIYgod](https://t.me/awesomeDIYgod) - 知名网红开发者，应该不用介绍了吧
 - [Tomoko RD](https://t.me/tomoko_channel) - 哈哈，不知道是谁的频道呢？？
-- [Laoself](https://t.me/laoself) - [網路上的芳鄰](https://t.me/addlist/bSV5jwS5TOA4MDll) 这个文件夹就是他开设的，几乎涵盖了 Telegram 中文方面大多数的信息了，总会在其中的频道中流通的。
+- [Laoself](https://t.me/laoself) - [網路上的芳鄰](https://t.me/addlist/bSV5jwS5TOA4MDll) 这个文件夹就是他开设的，几乎涵盖了 Telegram 中文圈子的各种个人频道。
 - [槿呈Goidea](https://t.me/justgoidea) - 关于读书｜新知｜生活禅方面的频道？
 - [gledos 的微型博客](https://t.me/gledos_microblogging) - 每天 7:30 定期更新，有各种好有趣的题材。
 - [Hexagram Daily（aka. 帕鲁日常）](https://t.me/hexagram_daily) - 反正是一个很厉害的后辈
@@ -114,13 +134,21 @@ note_id: 273
 - [Queen Bee](https://music.youtube.com/channel/UCcDtIC4qOmjrNUcBo4u1tvw) - 女王蜂的音乐风格妖艳独特，以朋克乐为根基，同时融合了日本歌谣曲、trap、放克乐、民谣和迪斯科等元素。我是从观看《多罗罗》和《不死不幸》的主题曲开始接触的。事实上，我参加这场音乐节最初就是为了女王蜂和 YOASOBI，而 iri 和 yama 则是令我现场心动的额外惊喜。
 - [Aimer](https://www.aimer-web.jp/) - 她为多部动画、电视剧和电影演唱了主题曲，包括著名的《BLEACH》、《Fate/stay night [Unlimited Blade Works]》、《夏目友人帐》等。是音乐节上的群友介绍的。
 
+### 🛍️ 淘宝店主
+
+- [肥王书店](https://feiwangacg.taobao.com/shop/view_shop.htm?shop_id=105832190) - 主要是卖台版漫画已经轻小说的。我好像七八年前就一直在他这买书了，每年都会有订单给他。
+- [优衣库官方旗舰店](https://uniqlo.tmall.com/shop/view_shop.htm?shop_id=57303596) - 大多数的衣服都是在这里买的。。。
+- [hopi](https://hpoi.taobao.com/shop/view_shop.htm?shop_id=320873901) - 买手办的地方，不过一年也买不到一个啦。
+- [achobby](https://achobby.taobao.com/shop/view_shop.htm?shop_id=70489541) - 抱枕？谁会买抱枕呢？哈哈，哈哈，哈哈
+- [梦百合官方旗舰店](https://mengbaihe.tmall.com/shop/view_shop.htm?shop_id=108266005) - 这个牌子的床垫挺不错的，虽然我没有买过其他牌子。
+
 ## 组织或社区
 
 > 我尽量放他们的 RSS 订阅地址，应该挺多是来源 RSSHub 的。因为一下子想不到分类，就都放一起了。
 
 - [The Cloudflare Blog](https://blog.cloudflare.com/rss) - 首先 Cloudflare 的文档就很友好（相对于 ali/aws），然后他们的博客也是很有意思，很值得去读。
 - [Node.js Blog](https://nodejs.org/en/feed/blog.xml) - 作为一个 Node.js 开发者，我觉得这个博客是必须要订阅的。
-- [读库](https://feedmaker.kindle4rss.com/feeds/dukuxiaobao.weixin.xml) - 持续订阅读库已经有五年了，我没有看完的本数是越来越多了。
+- [读库](https://post.smzdm.com/p/alxwmkdg/) - 我也不知道如何介绍呢～ 可以理解为是一个出版商，主营业务是一个以年为单位的杂志？每几个月一期，每期都精心挑选和出版深度丰富的非虚构作品。我持续订阅读库已经有五年了。（不过，我没有看完的本数也是越来越多了）
 - [RSSHub](https://rsshub.app/) - RSS 的重度用户，日常的新闻、博客都是通过它来订阅的。
 - [HelloGitHub](https://hellogithub.com/) - 日常用来看看有什么新的开源项目。
 - [板机社(TRIGGER)](https://zh.moegirl.org.cn/TRIGGER(%E5%85%AC%E5%8F%B8)#) - 独一档的画风以及质量，基本是属于它出的都可以看并且很好看的地步。（话说我差点以为《天元突破》也是他们的。原来是他们老东家的作品）
@@ -307,7 +335,7 @@ note_id: 273
 - [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，不过我也不是很关心这些数据，只是偶尔看看。
 - [Apple Fitness+](https://www.apple.com/apple-fitness-plus/) - 订阅了 Apple One 之后就有了这个服务，替代掉之前使用的 Keep。不过使用频率堪忧。
 - [Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。（后面才知道这个 APP 是也会同步体重数据到 Apple Health 上的）
-- ~~[Keep](https://www.gotokeep.com/) - 结合跳绳的方案其实还挺好的。~~ 之前用来做健身的，不过现在已经停用了，转去用 Fitness+。
+- ~~[Keep](https://www.gotokeep.com/) - 结合跳绳的方案其实还挺好的。~~ ~~之前用来做健身的，不过现在已经停用了，转去用 Fitness+。~~ 怎么说呢，keep 其实很适合新手根练，但是对于我这种已经有一定基础的人来说，就有点不够了。我现在已经是通过自己的安排，结合视频来练了。
 - ~~[AutoSleep](https://autosleepapp.tantsissa.com/) - 用于监测我睡眠的 APP~~, 感觉没什么意义，现在已经停用了。
 - ~~[Pillow](https://www.neybox.com/pillow) - 用于监测我睡眠的 APP~~, 试着订阅了一年，但发现其实跟 AutoSleep 拉不开距离而且跟原生 Health 的睡眠监测体感也没什么区别，所以也停用了。
 
