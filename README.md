@@ -9,10 +9,10 @@ note_id: 273
 
 # plrom
 
-这其实是一个很有个人倾向的主题，很多时候我觉得好的东西可能别人觉得不好，毕竟这事情受限于我个人的阅历和经验。不过我还是会尽量列出一些我觉得好的东西，希望能给你一些启发。
+这个主题非常个人化，很多时候我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 
-> 一般来说，处于下面个列表中的人或者组织，关于他们的信息我都会用 RSS 订阅并且基本都阅读的。
-> 顺序不分前后，纯靠心情
+> 一般来说，我都会使用 RSS 订阅以下列表中的人或组织，并且几乎每篇都阅读。
+> 顺序不分先后，纯靠心情
 
 ## 人
 
@@ -20,17 +20,18 @@ note_id: 273
 
 ### 📚 技术博主
 
-- [阮一峰](https://www.ruanyifeng.com/blog/) - 他的科技爱好者周刊基本是我每周必读的，他的文章对于初学者来说非常通俗易懂。
+- [阮一峰](https://www.ruanyifeng.com/blog/) - 他的科技爱好者周刊是我每周必读的，文章通俗易懂，特别适合初学者。
+- [DIYgod](https://diygod.me/) - 无论是 RSSHub 还是 XLog，都充满了温度和人情味，怎能不喜欢呢？
 
 ### ✍️ 作家
 
-- [六神磊磊](https://book.douban.com/author/330996/) - 点评金庸的部份姑且不谈，他的《唐诗寒武纪》读起来很轻松， 甚至有一种在品武侠小说的感觉。
-- [沃尔特·艾萨克森](https://book.douban.com/author/197148/) - 乔布斯传以及马斯克传的作者，他的传记写的非常好，我觉得他的传记是我读过的最好的传记。（虽然我本身没有看过几本书）
-- [住野夜](https://book.douban.com/author/4625207/) - 好久没有新作，以至于我都快忘记了。虽说出道即巅峰，后面评分一本比一本低，但其实我还是很喜欢的。
-- [阿尔贝·加缪](https://book.douban.com/author/4513690/) - 《西西弗神话》虽然我看的不太懂，但是大受震撼。尤其喜欢里面对荒谬的定义以及陈述。
-- [卡夫卡](https://book.douban.com/author/4539732/) - 虽然我只看过他的《变形记》，但单单是变形记就让我对他的作品充满了好奇。
+- [六神磊磊](https://book.douban.com/author/330996/) - 点评金庸的部分不多谈，《唐诗寒武纪》轻松易读，仿若在品味武侠小说。
+- [沃尔特·艾萨克森](https://book.douban.com/author/197148/) - 乔布斯传以及马斯克传的作者，他写的传记是我读过的最好的传记。
+- [住野夜](https://book.douban.com/author/4625207/) - 好久没有新作，以至于我都快忘记了。出道即巅峰，后面评分一本比一本低，但其实我还是很喜欢的。
+- [阿尔贝·加缪](https://book.douban.com/author/4513690/) - 《西西弗神话》虽然我看的不太懂，但是大受震撼。尤其喜欢里面对荒谬的定义以及陈述。(事后发现，荒谬就是崩铁中的「虚无」命途)
+- [卡夫卡](https://book.douban.com/author/4539732/) - 但单单是《变形记》就让我对他的作品充满了好奇。
 - [钱钟书](https://book.douban.com/author/4502389/) - 《围城》我最开始看的时候还以为是关于泡妞的 72 绝技的～～
-- [刘慈欣](https://book.douban.com/author/4561353/) - 是三体第一次让我知道了什么是硬科幻。
+- [刘慈欣](https://book.douban.com/author/4561353/) - 是《三体》第一次让我知道了什么是硬科幻。
 - [榎宮祐](https://twitter.com/yuukamiya68) - 《NO GAME NO LIFE》的作者，已经买了一套。
 - [陈忠实](https://baike.baidu.com/item/%E9%99%88%E5%BF%A0%E5%AE%9E/45450) - 《白鹿原》可以说是中国的《百年孤独》了
 
@@ -38,7 +39,7 @@ note_id: 273
 
 > 漫画家的话，我尽量列他们的 X 帐号。一般标着这里的作者，一般不止一部作品。我是会关注他后续作品的。
 
-- [石黑正数](https://twitter.com/masakazuishi) - 《天国大大魔境》的作者，他的故事非常值得让人琢磨，他的每一部作品我都至少看两次的。
+- [石黑正数](https://twitter.com/masakazuishi) - 《天国大大魔境》作者，故事非常值得让人琢磨，他每一部作品我都至少看两次的。
 - [山田中人](https://twitter.com/abetsukasa) - 《葬送的芙莉莲》作者，虽然打斗场面堪比 PPT，但是他的故事让我感到很有趣。
 - [七尾七希](https://twitter.com/nanaki_nanao/) - 谁说《勇者赫鲁库》是搞笑向的，虐的我死去活来～～
 - [谏山创](https://twitter.com/hajime_isayama) - 大家都觉得烂尾了，但其实我觉得某种意义上，它的结局就该是那样。
@@ -72,16 +73,16 @@ note_id: 273
 <summary>你是满 18 岁的男生吗？</summary>
 
 - [あいらんどう](https://myanimelist.net/people/53762/Airandou) - FBI open the door!!! 这个画师的画风好涩，好喜欢他画的妹妹
-- [師走の翁](https://myanimelist.net/people/3775/Shiwasu_no_Okina/) - 除了偶像那一部比较喜欢，其他我都觉得一般般。天体沙滩应该是最出名的一部，还出动画了。
-- [zerodo](https://degree123.fanbox.cc/) - 主要是常识改变系列，可以看到各种偶像被 XX。
-- [満開開花](https://mankaikaika1.fanbox.cc/) - 基本上每一部都很喜欢，最出名的应该是催眠家族系列。
-- [あやかわりく](https://ayakawariku.fanbox.cc/) - 才发现原来是《魔装学園H×H》的插画师，他的发情魔眼系列挺有趣的，还在更新中。
-- [赤月みゅうと](https://myanimelist.net/people/15043/Myuuto_Akatsuki) - 奴隶兔，应该算是「家喻户晓」的作品了吧。他的作品中，我觉得不错的应该是一半一半。
-- [ゼロの者](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD%E3%81%AE%E8%80%85) - 这位应该挺冷门的，翻译都不多。主要是一些 Incest 的作品，画风是上个世纪的，比例很奇怪。我比较喜欢的是他的妹妹作家系列。（原来是 74 年生人，已经 50 岁了，画不动了）
-- [あきのそら](https://akinosora.fanbox.cc/) - 《異世界謳歌》系列的作者，不过画风真的很不错，尤其是某个位置。基本上每一部我都会认真拜读的。看得最多的是姉季折々
+- [師走の翁](https://myanimelist.net/people/3775/Shiwasu_no_Okina/) - 除了偶像那部作品之外，其他的我觉得一般。天体沙滩应该是他最出名的一部，还有动画呢。
+- [zerodo](https://degree123.fanbox.cc/) - 主要是常识改变系列，里面有各种偶像被 XX 的情节。
+- [満開開花](https://mankaikaika1.fanbox.cc/) - 基本上每一部作品我都很喜欢，他最出名的应该是催眠家族系列。
+- [あやかわりく](https://ayakawariku.fanbox.cc/) - 才发现原来他是《魔装学园H×H》的插画师，他的发情魔眼系列挺有趣，还在更新中。
+- [赤月みゅうと](https://myanimelist.net/people/15043/Myuuto_Akatsuki) - 《奴隶兔》应该算是家喻户晓的作品了。在他的作品中，我觉得还不错的有一半左右。
+- [ゼロの者](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD%E3%81%AE%E8%80%85) - 这位画师可能比较冷门，翻译资料不多。主要创作一些 Incest 题材的作品，画风带有上个世纪的风格，比例也很奇怪。我比较喜欢他的妹妹作家系列。（原来是1974年出生的，已经50岁了，可能画得比较艰难。）
+- [あきのそら](https://akinosora.fanbox.cc/) - 《異世界謳歌》系列的作者，画风十分出色，尤其是某些细节。基本上每一部我都会认真阅读，看得最多的是《姉季折々》。
 - [大嘘](https://myanimelist.net/people/27325/Oouso) - 大嘘的腿应该也是家喻户晓了，不过我唯一喜欢的应该是那个飞机杯系列了。
 - [八尋ぽち](https://myanimelist.net/people/17375/Pochi_Yahiro) - 画风很不错，不过让我比较印象深刻的只有黑魔法那个系列。
-- [角煮煮](https://twitter.com/kakuninii) - 他的常識改変系列也是很有趣，基本每一部都挺不错。
+- [角煮煮](https://twitter.com/kakuninii) - 他的常识改变系列也非常有趣，基本上每一部都很不错。
 
 </details>
 
@@ -100,10 +101,11 @@ note_id: 273
 
 - [Fuji_玫瑰叔](https://space.bilibili.com/36726929/) - 一开始是品冰火、后面三体、天龙八部、然后现在是倚天屠龙记。我每周必追的 UP 主。看他的点评的优点就是可以在一定程度地不看原著也非常深刻。单单讲《三体》就用了 12 个小时的时长
 - [马刀刻森](https://space.bilibili.com/14048220/) - 一个做原创动画的 UP 主。他的动画非常有趣且有梗。
-- [老懂是我了_DongGaming](https://space.bilibili.com/1074636993/) - 玩《崩坏：星穹铁道》的中档位朋友们，真应该去看一下他的分析，真的够懂的。
+- [老懂是我了_DongGaming](https://space.bilibili.com/1074636993/) - 玩崩铁的朋友们，真应该去看一下他的分析，真的够懂的。
 - [罗翔说刑法](https://space.bilibili.com/517327498/) - 还是要了解一些的。
 - [天真的和感伤的小说家](https://space.bilibili.com/314521322/) - 文学类型的知名 UP 主
 - [三個字 SunGuts](https://www.youtube.com/user/ray123822) - 他的视频内容主要是科普日常的身体酸痛知识，并分享简单的检测方式及自救方法。我有跟着去改一些日常姿态以及运动的坏习惯。
+- [孫沁岳](https://www.youtube.com/@yorke) - 是一个专门做漫画评论的油管主。
 
 ### 🛩️ TG芳邻
 
@@ -119,7 +121,7 @@ note_id: 273
 
 ### 🎙️ 播客
 
-- [忽左忽右](https://podcasts.apple.com/cn/podcast/%E5%BF%BD%E5%B7%A6%E5%BF%BD%E5%8F%B3/id1493503146) - 他们谈论的话题很有趣，不过主要是我听得不够多，暂时不好判断
+- [忽左忽右](https://www.xiaoyuzhoufm.com/podcast/5e4ee557418a84a0466737b7) - 他们谈论的话题很有趣，不过主要是我听得不够多，暂时不好判断
 - [科学史评话](https://podcasts.apple.com/cn/podcast/%E7%A7%91%E5%AD%A6%E5%8F%B2%E8%AF%84%E8%AF%9D%E6%9C%80%E6%96%B0%E4%B8%93%E8%BE%91/id1166109768) - 讲科学的历史，其实很有趣的。
 - [科学有故事](https://podcasts.apple.com/cn/podcast/%E6%B1%AA%E8%AF%98-%E7%A7%91%E5%AD%A6%E6%9C%89%E6%95%85%E4%BA%8B-%E4%B8%BB%E6%89%93/id1163969355) - 可能是国内最好的科普主播了，讲的内容非常通俗易懂，而且他是真的想教懂小孩子们科学思维。
 - [纵横四海](https://podcasts.apple.com/cn/podcast/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/id1671490972) - 「做一份人人都需要的人类使用说明书」。也是听得不多，从她的情绪那一期听起，感觉很不错。
@@ -151,15 +153,24 @@ note_id: 273
 
 > 我尽量放他们的 RSS 订阅地址，应该挺多是来源 RSSHub 的。因为一下子想不到分类，就都放一起了。
 
+### 🏢 组织
+
 - [The Cloudflare Blog](https://blog.cloudflare.com/rss) - 首先 Cloudflare 的文档就很友好（相对于 ali/aws），然后他们的博客也是很有意思，很值得去读。
 - [Node.js Blog](https://nodejs.org/en/feed/blog.xml) - 作为一个 Node.js 开发者，我觉得这个博客是必须要订阅的。
 - [读库](https://post.smzdm.com/p/alxwmkdg/) - 我也不知道如何介绍呢～ 可以理解为是一个出版商，主营业务是一个以年为单位的杂志？每几个月一期，每期都精心挑选和出版深度丰富的非虚构作品。我持续订阅读库已经有五年了。（不过，我没有看完的本数也是越来越多了）
 - [RSSHub](https://rsshub.app/) - RSS 的重度用户，日常的新闻、博客都是通过它来订阅的。
-- [HelloGitHub](https://hellogithub.com/) - 日常用来看看有什么新的开源项目。
+
+### 🏢 游戏 & 动画公司
+
 - [板机社(TRIGGER)](https://zh.moegirl.org.cn/TRIGGER(%E5%85%AC%E5%8F%B8)#) - 独一档的画风以及质量，基本是属于它出的都可以看并且很好看的地步。（话说我差点以为《天元突破》也是他们的。原来是他们老东家的作品）
 - [京都动画](https://zh.moegirl.org.cn/%E4%BA%AC%E9%83%BD%E5%8A%A8%E7%94%BB) - 也是属于基本上每一部都可以看一下的公司。
 - [香草社](https://mzh.moegirl.org.cn/Vanillaware) - 玩过他的《圣兽之王》，美术是真的顶。
+
+### 📰 技术新闻
+
+- [Hacker News](https://news.ycombinator.com/rss) - 作为一个程序员，我觉得这个网站是必须要订阅的。
 - [SuperTechFans](https://www.supertechfans.com/cn/post/2024-07-15-HackerNews/) - 对 Hacker News 每天的热点文章，生成中文的 AI 摘要。感觉还不错。
+- [HelloGitHub](https://hellogithub.com/) - 日常用来看看有什么新的开源项目。
 
 ## 物
 
@@ -232,25 +243,6 @@ note_id: 273
 
 ## 软件工具
 
-### 📝 文本编辑 & IDE
-
-- VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它。
-  - GitHub Copilot - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免使用呢？
-  - GitLens - 用于查看 git 历史记录的插件，它的 `blame` 功能太好用了，在团队合作的时候可以一眼看到谁写的代码。
-  - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
-  - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
-  - NewLine - 用于在文件末尾添加空行的插件。至于为什么要加空行，参考 [这篇文章](https://niracler.com/newline)。
-  - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
-- ~~[neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/nvim-config) 上了。~~ 我的 M1 AIR 用起来会卡顿，而且是真的入手难度高，所以就暂时放弃了。
-  - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
-  - [Copilot | LazyVim](https://www.lazyvim.org/extras/coding/copilot) - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。
-  - [autoime.nvim](https://github.com/OliverChao/autoime.nvim) - ECS 自动使用 im-select 帮你将输入法切换为英文。避免频繁将输入法从中文模式切换到英文模式，来输入 vim 命令。
-- [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
-  - [obsidian-linter](https://github.com/platers/obsidian-linter) - 用于格式化 markdown 的插件，不过我觉得它的功能还是不够完善，有时候会出现一些奇怪的问题。
-  - [obsidian-git](https://github.com/Vinzent03/obsidian-git) - 用于将 obsidian 的笔记同步到 git 仓库的插件。Obsidian 用起来有一个问题，就是没有版本控制，很多时候我写一些记录会进行删删改改，以至于有一些历史的想法可能就流失了。于是就用这个插件。
-  - [obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - 用于将 pinboard 的书签同步到 obsidian 日记中的插件。主要是为了可以在 obsidian 中搜索到我之前的书签以及对应的评论。
-  - [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) - 用于将 obsidian 中的图片自动上传到图床的插件。
-
 ### > 命令行工具(Command Line Interface)
 
 > 不过其实太多了，我这里只挑我用的最多的 20 个
@@ -270,13 +262,32 @@ note_id: 273
 - [ffmpeg](https://ffmpeg.org/) - 用于处理视频的命令行工具，简单的视频切片、转码等操作都可以用它来完成。
 - [ollama](https://ollama.com/) - 很方便地在本地跑 LLM 的工具，当然了，电脑性能是否足够是另外的问题了。
 
+### 📝 文本编辑 & IDE
+
+- VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它。
+  - GitHub Copilot - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免使用呢？
+  - GitLens - 用于查看 git 历史记录的插件，它的 `blame` 功能太好用了，在团队合作的时候可以一眼看到谁写的代码。
+  - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
+  - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
+  - NewLine - 用于在文件末尾添加空行的插件。至于为什么要加空行，参考 [这篇文章](https://niracler.com/newline)。
+  - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
+- ~~[neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/nvim-config) 上了。~~ 我的 M1 AIR 用起来会卡顿，而且是真的入手难度高，所以就暂时放弃了。
+  - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
+  - [Copilot | LazyVim](https://www.lazyvim.org/extras/coding/copilot) - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。
+  - [autoime.nvim](https://github.com/OliverChao/autoime.nvim) - ECS 自动使用 im-select 帮你将输入法切换为英文。避免频繁将输入法从中文模式切换到英文模式，来输入 vim 命令。
+- [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
+  - [obsidian-linter](https://github.com/platers/obsidian-linter) - 用于格式化 markdown 的插件，不过我觉得它的功能还是不够完善，有时候会出现一些奇怪的问题。
+  - [obsidian-git](https://github.com/Vinzent03/obsidian-git) - 用于将 obsidian 的笔记同步到 git 仓库的插件。Obsidian 用起来有一个问题，就是没有版本控制，很多时候我写一些记录会进行删删改改，以至于有一些历史的想法可能就流失了。于是就用这个插件。
+  - [obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - 用于将 pinboard 的书签同步到 obsidian 日记中的插件。主要是为了可以在 obsidian 中搜索到我之前的书签以及对应的评论。
+  - [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) - 用于将 obsidian 中的图片自动上传到图床的插件。
+
 ### 📈 生产力工具
 
-- [OpenCat](https://opencat.app/) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用 3.5，于是就通过它来使用 4。
+- [OpenCat Pro](https://opencat.app/)(¥38) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用一定次数的 4，所以就通过他来用 gpt-4 了。（当然，也可以用 [DeepSeek](https://www.deepseek.com/zh) 啦）
 - ~~[Alfred](https://www.alfredapp.com/)~~ - 最开始是用它的粘贴板历史功能，但是后面用上 Raycast 之后就不怎么用，被平替掉了，毕竟要钱。不过它的搜索功能还是很好用的。
-- [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。
-- [ServerCat](https://servercat.app/) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。
-- [align](https://apps.apple.com/sk/app/align-organize-app-windows/id6480428845) - 专为 macOS 设计的窗口管理工具，限免的时候入的。一开始我觉得没什么用，因为我大多数情况下是用多桌面而不是多窗口的，直到我用了 4K 显示器～～
+- [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。
+- [ServerCat](https://servercat.app/)(¥38) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。
+- [align](https://apps.apple.com/sk/app/align-organize-app-windows/id6480428845)(限免) - 专为 macOS 设计的窗口管理工具，限免的时候入的。一开始我觉得没什么用，因为我大多数情况下是用多桌面而不是多窗口的，直到我用了 4K 显示器～～
 - [keybr.com](https://www.keybr.com/) - 我这段时间用来练习打字的网站。
 
 ### ⚙️ 自动化
@@ -287,19 +298,19 @@ note_id: 273
 
 ### 💰 理财
 
-- [YNAB](https://www.youneedabudget.com/) - 用于做每个月的预算规划，减轻了我「好像有用不完的钱」的错觉。
+- [YNAB](https://www.youneedabudget.com/)($100/y) - 用于做每个月的预算规划，减轻了我「好像有用不完的钱」的错觉。
 
 ### 📷 图片处理
 
-- [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
+- [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/)(¥688) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
 - [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/) - 用于上传图片到图床的工具，我用的是 XXX 图床。
 - [upscayl](https://github.com/upscayl/upscayl) - 用来做高分辨率重建的工具，看上去效果是挺不错的。
 - [webp](https://webp.se/) - 能够自动加水印，压缩图片的重定向服务，我的图床就用它套了一层。主要是谢谢 yu 君的 [从零开始搭建你的免费图床系统 （Cloudflare R2 + WebP Cloud + PicGo）](https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo/)
 
 ### 💾 云存储
 
-- [iCloud](https://www.apple.com/icloud/) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记。以及各种文件。
-- [阿里云盘](https://www.aliyundrive.com/download) - 现在主要用它存储影视节目，然后通过 infuse 来观看，一般能跑满带宽。开了年费会员
+- [iCloud](https://www.apple.com/icloud/)(¥68/m) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记。以及各种文件。
+- [阿里云盘](https://www.aliyundrive.com/download)(¥168/y) - 现在主要用它存储影视节目，然后通过 infuse 来观看，一般能跑满带宽。开了年费会员
 - [夸克云盘](https://www.quark.cn/) - 用于存储一些不太重要的文件，主要是淘宝 88 会员送的。
 - ~~[百度网盘](https://pan.baidu.com/) - 以前的各种 H 游戏都是靠它下载的，现在审查越来越严格了~~，基本上不怎么用了。
 - ~~[坚果云](https://www.jianguoyun.com/) - 大学初期用来同步多个电脑上的项目~~，后续用上 git 之后就不怎么用了。
@@ -318,35 +329,43 @@ note_id: 273
 - [Telegram](https://telegram.org/) - TG 频道是当作我个人碎碎念以及日常生活吐槽的地方，用于发泄「**一年快 2000 条信息**」的话痨体质。X 也有这个功效，但对于我这种有些社恐的赛博电子人来说，在 X 发信息就像是在广场里面大叫，让我感到羞耻度爆表。而 TG 频道上「大叫」时感觉就像在家里，最多只有邻居能听到，对于我来说更加自在一点。大家也可以来我的频道作客哦，虽然没有什么深度内容 [Tomoko RD]( https://t.me/tomoko_channel)
 - [X](https://x.com) - 还是不太习惯用呢~~
 - [Discord](https://discord.com/) - 平常几乎是不用的，不过很多开源社区都是在这进行交流的，我也主要是上去报 BUG 而已。
-- [Fastmail](https://www.fastmail.com/) - 随机匿名邮箱是反跟踪的利器, 现在我各种网站尽量能用邮箱注册就用都用 fastmail 生成的随机邮箱（与 1Password 联动确实方便）
+- [Fastmail](https://www.fastmail.com/)($50/y) - 随机匿名邮箱是反跟踪的利器, 现在我各种网站尽量能用邮箱注册就用都用 fastmail 生成的随机邮箱（与 1Password 联动确实方便）
 - [微信](https://weixin.qq.com/) - 用于和家人朋友联系，不过日常 99% 的时候都不看朋友圈，也不发朋友圈。公众号倒是偶尔会看看，要移除一些好友才行了。
-- [熊猫吃短信](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818) - 用于在 iPhone 上拦截短信，不过很多时候因为长时间没点开，然后手机自动帮我删除了🤣
+- [熊猫吃短信 2](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818)(¥12/y) - 用于在 iPhone 上拦截短信，不过很多时候因为长时间没点开，然后手机自动帮我删除了🤣
 
 ### 🔑 隐私安全
 
-- [1Password](https://1password.com/) - 在 iPhone 上可以选用它的自动填充。
-- [XLocker](https://apps.apple.com/us/app/xlocker-control-screen-time/id6447595893) - 在适当的时候用来隐藏 iPhone 以及 iPad 上的一些应用。结合快捷指令可以做到一键隐藏。
-- [dama](https://apps.apple.com/us/app/dama-auto-redact-privacy/id1534690075) - 用了之后发现很智能，可以自动识别你照片上可能的隐私信息，然后自动打码。还能帮你处理照片 meta 里面的一些敏感信息。
+- [1Password](https://1password.com/)(¥248/y) - 在 iPhone 上可以选用它的自动填充。
+- [XLocker](https://apps.apple.com/us/app/xlocker-control-screen-time/id6447595893)($9.99) - 在适当的时候用来隐藏 iPhone 以及 iPad 上的一些应用。结合快捷指令可以做到一键隐藏。
+- [dama](https://apps.apple.com/us/app/dama-auto-redact-privacy/id1534690075)(¥12) - 用了之后发现很智能，可以自动识别你照片上可能的隐私信息，然后自动打码。还能帮你处理照片 meta 里面的一些敏感信息。
 
 ### 🌏 网络工具
 
-- [AdGuard](https://adguard.com/) - 用于拦截广告的工具，不过我觉得它的效果并不是很好，可能是我没配置好。
-- [Surge](https://nssurge.com/) - 现在 Mac 以及 iPhone 上都用它了。
+- [AdGuard](https://adguard.com/)($18.37) - 用于拦截广告的工具，不过我觉得它的效果并不是很好，可能是我没配置好。
+- [Surge 5](https://nssurge.com/)($49.99) - 现在 Mac 以及 iPhone 上都用它了。
 - ~~[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 转用 Surge 之后，它就被我放弃了。~~
 
 ### 💪 健康检测
 
-- ~~[Pokemon Sleep](https://www.pokemon.com/us/app/pokemon-sleep) - 用于监测我睡眠的 APP，同时收集点小精灵的睡姿。(虽然睡眠质量还是很糟糕就是了～～)~~ 还是弃用了，明天都要定时打开，还是挺费精神的。现在就仅仅保留了 Apple Health
-- [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，不过我也不是很关心这些数据，只是偶尔看看。
-- [Apple Fitness+](https://www.apple.com/apple-fitness-plus/) - 订阅了 Apple One 之后就有了这个服务，替代掉之前使用的 Keep。不过使用频率堪忧。
+
+- [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，不过我也不是很关心这些数据，只是偶尔看看。最近睡眠时间优化了午睡检测，效果真不错。
 - [Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。（后面才知道这个 APP 是也会同步体重数据到 Apple Health 上的）
+- [fasty](https://apps.apple.com/us/app/intermittent-fasting-tracker/id6448909309) - 最近在用这个实践 Intermittent Fasting，16:8 还是超容易做到了。具体为什么要 IF，可以看看这篇文章 [断食记|椒盐豆鼓](https://blog.douchi.space/intermittent-fasting/#gsc.tab=0)。
+- [Waterllama](https://apps.apple.com/us/app/water-tracker-waterllama/id1454778585)($9.99) - 喝水是一个稍微容易让人忽略的重要的事情。
+
+已弃用:
+
+- ~~[Apple Fitness+](https://www.apple.com/apple-fitness-plus/) - 订阅了 Apple One 之后就有了这个服务，替代掉之前使用的 Keep。不过使用频率堪忧。~~ 首先没有中文，二来也贵，所以还是停用了。
 - ~~[Keep](https://www.gotokeep.com/) - 结合跳绳的方案其实还挺好的。~~ ~~之前用来做健身的，不过现在已经停用了，转去用 Fitness+。~~ 怎么说呢，keep 其实很适合新手根练，但是对于我这种已经有一定基础的人来说，就有点不够了。我现在已经是通过自己的安排，结合视频来练了。
 - ~~[AutoSleep](https://autosleepapp.tantsissa.com/) - 用于监测我睡眠的 APP~~, 感觉没什么意义，现在已经停用了。
 - ~~[Pillow](https://www.neybox.com/pillow) - 用于监测我睡眠的 APP~~, 试着订阅了一年，但发现其实跟 AutoSleep 拉不开距离而且跟原生 Health 的睡眠监测体感也没什么区别，所以也停用了。
+- ~~[Pokemon Sleep](https://www.pokemon.com/us/app/pokemon-sleep) - 用于监测我睡眠的 APP，同时收集点小精灵的睡姿。(虽然睡眠质量还是很糟糕就是了～～)~~ 还是弃用了，明天都要定时打开，还是挺费精神的。现在就仅仅保留了 Apple Health
 
 ### 🤖 智能家居
 
-- [米家](https://home.mi.com/) - 用于控制家里的各种智能设备，例如灯、空调、扫地机器人等等。不过这么多智能设备，在家里断网的时候，简直就是灾难。
+> 毕竟除了米家外，我也不想装其余的只能家居的软件了。所以一般买设备都会优先看是否支持米家，当然了电饭煲支持米家，其实完全没有多大用。
+
+- [米家](https://home.mi.com/) - 用于控制家里的各种智能设备，例如灯、空调、扫地机器人等等。不过这么多智能设备，在家里断网的时候，简直就是灾难。（好像可以用网关解决？）
 
 ### 🛒 购物
 
@@ -356,50 +375,53 @@ note_id: 273
 - [淘宝](https://www.taobao.com/) - 主要是买一些奇形怪状的东西，例如台版书籍、各种外区点卡什么的。
 - ~~[得物](https://www.dewu.com/) - 买过几个东西。~~有点不懂为什么要有在这个平台上买，一般上面几个就符合我需求了
 
-### 📺 视频
+### 📺 视频 & 🎵 音乐
 
-- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替代原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
-- [YT MUSIC](https://music.youtube.com/) - 现在已经将我的音乐软件转成这个了，发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
-- [YouTube](https://www.youtube.com/) - 因为广告的原因，在手机上看会比电脑上看频率少不少。
-- [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。
-- [infuse](https://firecore.com/infuse) - 用来播放阿里云盘里的视频资源。界面很好看，结合阿里云盘一起用的话，效果很不错。
+- [YT MUSIC](https://music.youtube.com/)(¥120/y) - 慎用。槽点还是太多了，梯子节点不太稳定的时候就直接断了，一般需要下载下来才比较好，而且有些区是不能用的。不过现在已经将我的音乐软件转成这个了，架不住我想听的都有。发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
+- [YouTube](https://www.youtube.com/) - 上面 MUSIC 开了会员后，没有广告，现在使用量高上来了。
+- [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。（大会员是什么？）
+- [infuse](https://firecore.com/infuse)($12.99/y) - 用来播放阿里云盘里的视频资源。界面很好看，结合阿里云盘一起用的话，效果很不错。
 - [剪映专业版](https://www.capcut.cn/) - 用于剪辑视频，结合 Samba 将树莓派的动画视频映射到电脑上，可以做到在电脑上剪辑。
 - [iina](https://iina.io/) - 视频播放器，我主要用它来播放本地的视频文件。
 - [obs](https://obsproject.com/) - 用于录制屏幕的工具，之前主要是配合串流软件录制游戏机的游戏视频。
+- ~~[网易云音乐](https://music.163.com/) - 用于听一些音乐~~ 二次元的音乐是真的多，评论区也很棒，在国内体验好于 YT Music。不过因为时常会没有版权然后变灰，这个是硬伤，现在已经转到 YT MUSIC 了。
+- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替代原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
 
 ### 🎙️ 播客软件
 
 - [Podcasts](https://www.apple.com/cn/apple-podcasts/) - 已经将喜马拉雅删除了，仅仅保留 Apple Podcasts 用来听播客。因为我在喜马拉雅上听的播客都可以在 Apple Podcasts 上找到。
 - ~~[喜马拉雅](https://www.ximalaya.com/) - 我大学很喜欢在上面听科学声音的系列节目~~, 不过广告真的是很烦人。
-- ~~[小宇宙](https://www.xiaoyuzhoufm.com/) - 挺好看，挺优雅的~~, 不过因为我发现我听的播客都可以在 Apple Podcasts 上找到，所以就删除了。
+- [小宇宙](https://www.xiaoyuzhoufm.com/) - 挺好看，挺优雅的。主要是 RSS 订阅的时候用到。
 
 ### 📖 学习
 
-- [多邻国](https://www.duolingo.com/) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～)
+- [多邻国](https://www.duolingo.com/)(¥40/y) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～)
 - [xmind](https://www.xmind.cn/) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
 
 ### 📰 新闻 & 阅读
 
-- [inoreader](https://www.inoreader.com/folder/News) - RSS 阅读器，我是在这里订阅了许多博客，然后通过 RSSHub 来订阅一些不支持 RSS 的网站。不过 RSS 对于我还是太零碎了，我一般会在周末的时候集中过一遍，然后将感兴趣的文章通过 [Pinboard](https://pinboard.in/) 收藏起来。日常手机上就不装 RSS 相关的软件了，因为作为新闻的输入，没有必要每天输入这么多新闻。
-- 豆瓣 - 看各种作品前总要来这里看看评分，不过我也有很多看了之后没有标记的作品。总想着写好了评语再标记，然后就鸽到猴年马月了。
-- [读库 APP](https://www.duku.cn) - 每一期读库都会有一些被志愿者转成音频的文章，茶余饭后我就在这里听。
+- [RSSHub](https://rsshub.app/) - 让许多不支持 RSS 的网站可以实现 RSS 订阅，并且许多路由可以通过参数调整订阅内容。
+- [Follow](https://github.com/RSSNext/follow) - 之前在 [xlog](https://xlog.app) 上与 DIYgod 混了脸熟，这次幸运地获得了内测资格，替代了 inoreader。并不仅仅是将 RSS 从 Inoreader 迁移到 Follow，而是将 Telegram、YouTube、Bilibili、Pixiv、Twitter 等平台的订阅一并转移。[这是](https://t.me/tomoko_channel/592) 我的点评。你还可以查看我的 [Follow 主页](https://web.follow.is/profile/niracler)。
+- [豆瓣](https://douban.com) - 看各种作品前总要来这里查看评分，不过我也有许多看完后没有标记的作品。总想着写好评语再标记，结果就一直鸽到猴年马月。这是我的 [豆瓣主页](https://www.douban.com/people/niracler/)，大多数时候都是在评论 ACG 作品。
+- [读库 APP](https://www.duku.cn)(需要订阅读库) - 每一期读库都会有一些被志愿者转成音频的文章，茶余饭后我就在这里听。
 - [微信阅读](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
-- [xlog](https://xlog.app) - 被我当作是赛博酒吧，偶尔点开看一下其他博主的更新。我自己也会稍微写写
+- [xlog](https://xlog.app) - 被我当作是赛博酒吧，偶尔点开看一下其他博主的更新。我自己也会稍微写写。有很多伙伴都在上面更新周记，每周看他们的周记，感觉就像是有了一批赛博邻居。
 - [hackernew](https://news.ycombinator.com/) - 对于我们这个行业来说，毋庸置疑的前沿新闻来源，不过偶尔一刷就停不下来了。
-- [pinboard](https://pinboard.in/) - 用于收藏我感兴趣的文章，也会在上面进行相应的思考点评。
+- [pinboard](https://pinboard.in/) - 用于收藏我感兴趣的文章，也会在上面进行相应的思考点评。[Pinboard 主页](https://pinboard.in/u:niracler)
 - [小红书](https://www.xiaohongshu.com/) - 用于看一些生活小技巧，用来补充我所剩不多的常识。不过我也不是很经常用。
 - [知乎](https://www.zhihu.com/) - 用于看一些有趣的问题，不过我也不是很经常用。
+- ~~[inoreader](https://www.inoreader.com/folder/News) - RSS 阅读器~~，因为拿到了 Follow 的内测资格，已经弃用。
 
 ### 🌟⭐️✨ 动画 & 漫画
 
 - [萌娘百科](https://zh.moegirl.org.cn/) - 萌娘百科的词条是真的很有趣，哈哈。主要是用来收藏词条，以及无聊的时候看的。
 - [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
-- ~~[哔哩哔哩漫画](https://manga.bilibili.com/) - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。~~ 已经卸载了，现在主要是用回 Tachiyomi 了。
-- ~~[Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。~~ 被封锁了~~
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - 继任者，新一代的王。
 - [mox.moe](https://mox.moe) - 非常全的漫画源，一键就能够将漫画推送到 kindle 上，在 iPad 上全靠它来启动看漫画了。
 - [蜜柑计划](https://mikanani.me/) - 用于追番，autoBangumi 的 RSS 订阅就靠它了。
 - [AutoBangumi](https://www.autobangumi.org/) - 用自动根据 RSS 的订阅来下载，我现在基本是靠它了。
+- ~~[哔哩哔哩漫画](https://manga.bilibili.com/) - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。~~ 已经卸载了，现在主要是用回 Tachiyomi 了。
+- ~~[Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。~~ 被封锁了~~
 
 ### 🚗 出行 & 🍽️ 吃饭
 
@@ -415,10 +437,10 @@ note_id: 273
 > 这里只列出我在打卡的游戏，以及常用的与游戏有关的软件
 
 - [Steam](https://store.steampowered.com/) - 主要用来做 steam 验证用的，平常因为网络太卡了，也很少用。
-- [崩坏: 星穹铁道](https://sr.mihoyo.com/) - 最近玩起来觉得还不错。（绝对不是因为藿藿入坑的～～）
-- ~~[崩坏3rd](https://www.bh3.com/) - 重新下载回来，弄了个真理鸭～～~~ 已经不属于这个时代的游戏了，肝度什么的都太高了。看来我只好[看视频](https://www.bilibili.com/video/BV12W411h76f/)云了。
-- [绝区零](https://zzz.mihoyo.com/main/) - 犹豫了很久，还是进了。
+- [崩坏: 星穹铁道](https://sr.mihoyo.com/) - 半年了，感觉就像是每个月花两张电影票的钱去看两场电影。（绝对不是因为藿藿入坑的～～）
+- [绝区零](https://zzz.mihoyo.com/main/) - 犹豫了很久，还是进了。（后续：玩不下去）
 - [小黑盒](https://www.xiaoheihe.cn) - 主要用来看各种游戏机上面的游戏时长，以前的话会在上面看游戏点评以及买游戏什么的。
+- ~~[崩坏3rd](https://www.bh3.com/) - 重新下载回来，弄了个真理鸭～～~~ 已经不属于这个时代的游戏了，肝度什么的都太高了。看来我只好[看视频](https://www.bilibili.com/video/BV12W411h76f/)云了。
 
 ### ➕ 其他
 
@@ -439,6 +461,10 @@ note_id: 273
 1. 手机、电脑、平板上的软件
 2. tachiyomi 上的漫画订阅 (主要是检查新的漫画家)
 3. inoreader 上的订阅源
+
+其他:
+
+1. 标明软件 订阅 或者 一次性付费 的费用（可能不全）
 
 ## Reference
 
