@@ -1,17 +1,20 @@
 ---
+aliases: 
 title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
 tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
 cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
 slug: plrom
 summary: 关于我关注的人和物。
 note_id: 273
+date: 2024-09-26
+modified: 2024-09-26
 ---
 
 # plrom
 
 这个主题非常个人化，很多时候我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 
-> 一般来说，我都会使用 RSS 订阅以下列表中的人或组织，并且几乎每篇都阅读。
+> 一般来说，我都会使用 RSS 订阅以下列表中的人或组织，并且几乎每篇都阅读。  
 > 顺序不分先后，纯靠心情
 
 ## 人
@@ -76,16 +79,15 @@ note_id: 273
 - [師走の翁](https://myanimelist.net/people/3775/Shiwasu_no_Okina/) - 除了偶像那部作品之外，其他的我觉得一般。天体沙滩应该是他最出名的一部，还有动画呢。
 - [zerodo](https://degree123.fanbox.cc/) - 主要是常识改变系列，里面有各种偶像被 XX 的情节。
 - [満開開花](https://mankaikaika1.fanbox.cc/) - 基本上每一部作品我都很喜欢，他最出名的应该是催眠家族系列。
-- [あやかわりく](https://ayakawariku.fanbox.cc/) - 才发现原来他是《魔装学园H×H》的插画师，他的发情魔眼系列挺有趣，还在更新中。
+- [あやかわりく](https://ayakawariku.fanbox.cc/) - 才发现原来他是《魔装学园 H×H》的插画师，他的发情魔眼系列挺有趣，还在更新中。
 - [赤月みゅうと](https://myanimelist.net/people/15043/Myuuto_Akatsuki) - 《奴隶兔》应该算是家喻户晓的作品了。在他的作品中，我觉得还不错的有一半左右。
-- [ゼロの者](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD%E3%81%AE%E8%80%85) - 这位画师可能比较冷门，翻译资料不多。主要创作一些 Incest 题材的作品，画风带有上个世纪的风格，比例也很奇怪。我比较喜欢他的妹妹作家系列。（原来是1974年出生的，已经50岁了，可能画得比较艰难。）
+- [ゼロの者](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD%E3%81%AE%E8%80%85) - 这位画师可能比较冷门，翻译资料不多。主要创作一些 Incest 题材的作品，画风带有上个世纪的风格，比例也很奇怪。我比较喜欢他的妹妹作家系列。（原来是 1974 年出生的，已经 50 岁了，可能画得比较艰难。）
 - [あきのそら](https://akinosora.fanbox.cc/) - 《異世界謳歌》系列的作者，画风十分出色，尤其是某些细节。基本上每一部我都会认真阅读，看得最多的是《姉季折々》。
 - [大嘘](https://myanimelist.net/people/27325/Oouso) - 大嘘的腿应该也是家喻户晓了，不过我唯一喜欢的应该是那个飞机杯系列了。
 - [八尋ぽち](https://myanimelist.net/people/17375/Pochi_Yahiro) - 画风很不错，不过让我比较印象深刻的只有黑魔法那个系列。
 - [角煮煮](https://twitter.com/kakuninii) - 他的常识改变系列也非常有趣，基本上每一部都很不错。
 
 </details>
-
 
 ### 🎬 导演
 
@@ -97,7 +99,7 @@ note_id: 273
 - [丹尼斯·维伦纽瓦](https://movie.douban.com/celebrity/1028333/) - 只看过《银翼杀手 2049》，还有《沙丘》，焦土之城还没看。
 - [姜文](https://movie.douban.com/celebrity/1021999/) - 《让子弹飞》是少有的国内我觉得不错的电影。
 
-### 🎬 UP主 & 油管主
+### 🎬 UP 主 & 油管主
 
 - [Fuji_玫瑰叔](https://space.bilibili.com/36726929/) - 一开始是品冰火、后面三体、天龙八部、然后现在是倚天屠龙记。我每周必追的 UP 主。看他的点评的优点就是可以在一定程度地不看原著也非常深刻。单单讲《三体》就用了 12 个小时的时长
 - [马刀刻森](https://space.bilibili.com/14048220/) - 一个做原创动画的 UP 主。他的动画非常有趣且有梗。
@@ -107,7 +109,7 @@ note_id: 273
 - [三個字 SunGuts](https://www.youtube.com/user/ray123822) - 他的视频内容主要是科普日常的身体酸痛知识，并分享简单的检测方式及自救方法。我有跟着去改一些日常姿态以及运动的坏习惯。
 - [孫沁岳](https://www.youtube.com/@yorke) - 是一个专门做漫画评论的油管主。
 
-### 🛩️ TG芳邻
+### 🛩️ TG 芳邻
 
 - [Garyの漫窝](https://t.me/GarynoManga) - 少有的可以聊漫画的群呢
 - [一起偷偷观察 DIYgod](https://t.me/awesomeDIYgod) - 知名网红开发者，应该不用介绍了吧
@@ -235,7 +237,7 @@ note_id: 273
 
 ### 🍳 做饭
 
-- [米家智能IH电饭煲 3L](https://www.mi.com/dianfanbao2) - 后悔买这么小了，只有我一个人时不想做饭。而人多又不够容量(估计三个人勉强)～～
+- [米家智能IH电饭煲 3L](https://www.mi.com/dianfanbao2) - 后悔买这么小了，只有我一个人时不想做饭。而人多又不够容量 (估计三个人勉强)～～
 
 ### 💆 按摩
 
@@ -243,12 +245,12 @@ note_id: 273
 
 ## 软件工具
 
-### > 命令行工具(Command Line Interface)
+### > 命令行工具 (Command Line Interface)
 
 > 不过其实太多了，我这里只挑我用的最多的 20 个
 
 - [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的
-- [x-cmd](https://x-cmd.com) - 我本职工作的公司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + ... )`
+- [x-cmd](https://x-cmd.com) - 我本职工作的公司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + … )`
 - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
 - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
 - [docker](https://www.docker.com/) - 用于开发和部署容器化应用的工具, 也是属于一个基本不能不用的软件了
@@ -347,7 +349,6 @@ note_id: 273
 
 ### 💪 健康检测
 
-
 - [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，不过我也不是很关心这些数据，只是偶尔看看。最近睡眠时间优化了午睡检测，效果真不错。
 - [Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。（后面才知道这个 APP 是也会同步体重数据到 Apple Health 上的）
 - [fasty](https://apps.apple.com/us/app/intermittent-fasting-tracker/id6448909309) - 最近在用这个实践 Intermittent Fasting，16:8 还是超容易做到了。具体为什么要 IF，可以看看这篇文章 [断食记|椒盐豆鼓](https://blog.douchi.space/intermittent-fasting/#gsc.tab=0)。
@@ -440,7 +441,7 @@ note_id: 273
 - [崩坏: 星穹铁道](https://sr.mihoyo.com/) - 半年了，感觉就像是每个月花两张电影票的钱去看两场电影。（绝对不是因为藿藿入坑的～～）
 - [绝区零](https://zzz.mihoyo.com/main/) - 犹豫了很久，还是进了。（后续：玩不下去）
 - [小黑盒](https://www.xiaoheihe.cn) - 主要用来看各种游戏机上面的游戏时长，以前的话会在上面看游戏点评以及买游戏什么的。
-- ~~[崩坏3rd](https://www.bh3.com/) - 重新下载回来，弄了个真理鸭～～~~ 已经不属于这个时代的游戏了，肝度什么的都太高了。看来我只好[看视频](https://www.bilibili.com/video/BV12W411h76f/)云了。
+- ~~[崩坏3rd](https://www.bh3.com/) - 重新下载回来，弄了个真理鸭～～~~ 已经不属于这个时代的游戏了，肝度什么的都太高了。看来我只好 [看视频](https://www.bilibili.com/video/BV12W411h76f/) 云了。
 
 ### ➕ 其他
 
