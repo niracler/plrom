@@ -12,9 +12,9 @@ modified: 2024-09-26
 
 # plrom
 
-这个主题非常个人化，很多时候我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
+这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 
-> 一般来说，我都会使用 RSS 订阅以下列表中的人或组织，并且几乎每篇都阅读。  
+> 我一般用 RSS 订阅以下列表中的人或组织，并且几乎每篇都读。  
 > 顺序不分先后，纯靠心情
 
 ## 人
@@ -31,24 +31,24 @@ modified: 2024-09-26
 - [六神磊磊](https://book.douban.com/author/330996/) - 点评金庸的部分不多谈，《唐诗寒武纪》轻松易读，仿若在品味武侠小说。
 - [沃尔特·艾萨克森](https://book.douban.com/author/197148/) - 乔布斯传以及马斯克传的作者，他写的传记是我读过的最好的传记。
 - [住野夜](https://book.douban.com/author/4625207/) - 好久没有新作，以至于我都快忘记了。出道即巅峰，后面评分一本比一本低，但其实我还是很喜欢的。
-- [阿尔贝·加缪](https://book.douban.com/author/4513690/) - 《西西弗神话》虽然我看的不太懂，但是大受震撼。尤其喜欢里面对荒谬的定义以及陈述。(事后发现，荒谬就是崩铁中的「虚无」命途)
-- [卡夫卡](https://book.douban.com/author/4539732/) - 但单单是《变形记》就让我对他的作品充满了好奇。
+- [阿尔贝·加缪](https://book.douban.com/author/4513690/) - 《西西弗神话》虽然我看得不太懂，但是大受震撼。尤其喜欢里面对荒谬的定义以及陈述。(事后发现，荒谬就是崩铁中的「虚无」命途)
+- [卡夫卡](https://book.douban.com/author/4539732/) - 单单是《变形记》就让我对他的作品充满了好奇。
 - [钱钟书](https://book.douban.com/author/4502389/) - 《围城》我最开始看的时候还以为是关于泡妞的 72 绝技的～～
-- [刘慈欣](https://book.douban.com/author/4561353/) - 是《三体》第一次让我知道了什么是硬科幻。
+- [刘慈欣](https://book.douban.com/author/4561353/) - 《三体》第一次让我知道了什么是硬科幻。
 - [榎宮祐](https://twitter.com/yuukamiya68) - 《NO GAME NO LIFE》的作者，已经买了一套。
 - [陈忠实](https://baike.baidu.com/item/%E9%99%88%E5%BF%A0%E5%AE%9E/45450) - 《白鹿原》可以说是中国的《百年孤独》了
 
 ### 🎨 漫画家
 
-> 漫画家的话，我尽量列他们的 X 帐号。一般标着这里的作者，一般不止一部作品。我是会关注他后续作品的。
+> 漫画家的话，我尽量列他们的 X 帐号。一般标着这里的作者，不止一部作品。我会关注他后续作品。
 
-- [石黑正数](https://twitter.com/masakazuishi) - 《天国大大魔境》作者，故事非常值得让人琢磨，他每一部作品我都至少看两次的。
+- [石黑正数](https://twitter.com/masakazuishi) - 《天国大大魔境》作者，故事非常值得让人琢磨，他每一部作品我都至少看两次。
 - [山田中人](https://twitter.com/abetsukasa) - 《葬送的芙莉莲》作者，虽然打斗场面堪比 PPT，但是他的故事让我感到很有趣。
-- [七尾七希](https://twitter.com/nanaki_nanao/) - 谁说《勇者赫鲁库》是搞笑向的，虐的我死去活来～～
+- [七尾七希](https://twitter.com/nanaki_nanao/) - 谁说《勇者赫鲁库》是搞笑向的，虐得我死去活来～～
 - [谏山创](https://twitter.com/hajime_isayama) - 大家都觉得烂尾了，但其实我觉得某种意义上，它的结局就该是那样。
 - [大暮维人](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%9A%AE%E7%BB%B4%E4%BA%BA) - 画风别具一格，只要不是他写的原作，漫画都很好看。例如《化物语》《深渊融接》。
 - [one](https://twitter.com/ONE_rakugaki/) - 《一拳超人》的原作作者，加上灵能百分百，即使是只有线条的画风我也觉得很好看。
-- [木城幸人](https://zh.wikipedia.org/wiki/%E6%9C%A8%E5%9F%8E%E5%B9%B8%E4%BA%BA) - 是《铳梦》教会了我什么是赛博朋克。
+- [木城幸人](https://zh.wikipedia.org/wiki/%E6%9C%A8%E5%9F%8E%E5%B9%B8%E4%BA%BA) - 《铳梦》教会了我什么是赛博朋克。
 - [藤本树](https://twitter.com/nagayama_koharu) - 鬼才作家，永远都无法让人预测的剧情。真想给他一发炎拳。
 - [八木教広](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E6%9C%A8%E6%95%99%E5%BB%A3) - 《大剑》中觉醒者与人的区别真的很让人值得玩味。非常微妙。
 - [冈本伦](https://twitter.com/okamotolynn) - 现在的《平行天堂》已经到了什么神经病剧情了～～
@@ -56,7 +56,7 @@ modified: 2024-09-26
 - [市川春子](https://zh.wikipedia.org/wiki/%E5%B8%82%E5%B7%9D%E6%98%A5%E5%AD%90) - 《宝石之国》可能是我大学时期最喜欢的作品。
 - [大武政夫](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A6%E6%94%BF%E5%A4%AB) - 《超能力女儿》真的是每一话都戳中我的笑点～～
 - [富坚义博](https://twitter.com/Un4v5s8bgsVk9Xp) - 猎人的世界观真的是太丰富了，我觉得他的每一部作品都值得一看。
-- [奈央晃德](https://twitter.com/naoakinari) - 原来奈央晃徳的《七人魔法使》 还在画，都 31 卷了。 这是同时在开两个月刊漫画啊，《我立于百万生命之上》也是他画的，画风挺有辨识度的，男主角都长的一样～～
+- [奈央晃德](https://twitter.com/naoakinari) - 原来奈央晃徳的《七人魔法使》还在画，都 31 卷了。这是同时在开两个月刊漫画啊，《我立于百万生命之上》也是他画的，画风挺有辨识度的，男主角都长得一样～～
 - [赤坂明](https://twitter.com/akasaka_aka) - 《我推的孩子》和《辉夜大小姐想让我告白》的作者，他的作品都很有趣，尤其是《我推的孩子》。（肯定是因为加了横枪萌果的元素）
 - [石田スイ](https://twitter.com/sui_ishida_jpn) - 《東京喰種》可是我高中时期最喜欢的漫画。那时候还要在周日深夜借同学的手机看。作品骗黑暗画风，主角嘛总是被虐成渣子。
 - [走马灯](https://twitter.com/somatoma) - 《影宅》的作者，艾米丽可怎么能这么可爱。
@@ -119,7 +119,7 @@ modified: 2024-09-26
 - [gledos 的微型博客](https://t.me/gledos_microblogging) - 每天 7:30 定期更新，有各种好有趣的题材。
 - [Hexagram Daily（aka. 帕鲁日常）](https://t.me/hexagram_daily) - 反正是一个很厉害的后辈
 - [Raye's Journey](https://t.me/RayeJourney) - 很有文化的程序员。
-- [Yu’s Life](https://t.me/pseudoyulife) - 工具控，非常友善和蔼，乐于助人。
+- [Yu's Life](https://t.me/pseudoyulife) - 工具控，非常友善和蔼，乐于助人。
 
 ### 🎙️ 播客
 
@@ -426,21 +426,21 @@ modified: 2024-09-26
 
 ### 🚗 出行 & 🍽️ 吃饭
 
-- [美团](https://www.meituan.com/) - 用于点外卖，应该自己做而不是叫外卖的～～
+- [美团](https://www.meituan.com/) - 日常景点买票、以及订酒店是用的这个。
 - [饿了么](https://www.ele.me/) - 开了淘宝的 88 会员之后，就再也没买过美团的券了。
-- [Apple Maps](https://www.apple.com/cn/maps/) - 本着断舍离的心态将高德删除了，用这个的时候却是会有不少问题，要看看情况
 - [高德地图](https://www.amap.com/) - 最后还是用回它了，现在打车也就主要靠它了。
 - [嘀嗒出行](https://www.didachuxing.com/) - 用于叫顺风车，在各个市之间移动的时候用的比较多。
-- [Rond](https://sspai.com/post/85355) - 一款用于记录我去了哪里的软件。软件很优雅，现阶段我很喜欢。
+- [Rond](https://sspai.com/post/85355)(¥98) - 一款基于本地数据记录行程的软件，软件很优雅。
+- ~~[Apple Maps](https://www.apple.com/cn/maps/) - 本着断舍离的心态将高德删除了，用这个的时候却是会有不少问题，要看看情况~~ 在国内挺难使用的，
 
 ### 🕹️ 游戏
 
 > 这里只列出我在打卡的游戏，以及常用的与游戏有关的软件
 
-- [Steam](https://store.steampowered.com/) - 主要用来做 steam 验证用的，平常因为网络太卡了，也很少用。
-- [崩坏: 星穹铁道](https://sr.mihoyo.com/) - 半年了，感觉就像是每个月花两张电影票的钱去看两场电影。（绝对不是因为藿藿入坑的～～）
-- [绝区零](https://zzz.mihoyo.com/main/) - 犹豫了很久，还是进了。（后续：玩不下去）
+- [Steam](https://store.steampowered.com/) - 手机 App，作为验证用的，平常因为网络太卡了，也很少用。
+- [崩坏: 星穹铁道](https://sr.mihoyo.com/) - 当作是每月花两张电影票的钱去看两场电影，以及可以锻炼一下自己的规划能力。（当时是因为藿藿入坑的～～）
 - [小黑盒](https://www.xiaoheihe.cn) - 主要用来看各种游戏机上面的游戏时长，以前的话会在上面看游戏点评以及买游戏什么的。
+- ~~[绝区零](https://zzz.mihoyo.com/main/) - 犹豫了很久，还是进了。~~ 后续：玩不下去，资金真的是撑不住两个氪金手游。
 - ~~[崩坏3rd](https://www.bh3.com/) - 重新下载回来，弄了个真理鸭～～~~ 已经不属于这个时代的游戏了，肝度什么的都太高了。看来我只好 [看视频](https://www.bilibili.com/video/BV12W411h76f/) 云了。
 
 ### ➕ 其他
@@ -460,8 +460,8 @@ modified: 2024-09-26
 大概一个月会检查一下有没有更新，来源不限于:
 
 1. 手机、电脑、平板上的软件
-2. tachiyomi 上的漫画订阅 (主要是检查新的漫画家)
-3. inoreader 上的订阅源
+2. Tachiyomi 上的漫画订阅 (主要是检查新的漫画家)
+3. Follow 上的订阅源
 
 其他:
 
