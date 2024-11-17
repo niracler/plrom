@@ -320,7 +320,8 @@ modified: 2024-09-30
 - [OpenCat Pro](https://opencat.app/)(¥38) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用一定次数的 4，所以就通过他来用 gpt-4 了。（当然，也可以用 [DeepSeek](https://www.deepseek.com/zh) 啦）
 - [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。
 - [ServerCat](https://servercat.app/)(¥38) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。
-- [keybr.com](https://www.keybr.com/) - 我这段时间用来练习打字的网站。
+- [keybr.com](https://www.keybr.com/) - 我前段时间用来练习打字的网站。
+- [OrbStack](https://orbstack.dev/) - 一个 Docker Desktop 的轻量级替代品，我用它来管理我的 Docker 容器。
 
 <details>
 <summary>过期列表</summary>
@@ -344,7 +345,7 @@ modified: 2024-09-30
 
 ### 💰 理财
 
-- [YNAB](https://www.youneedabudget.com/)($100/y) - 用于做每个月的预算规划，减轻了我「好像有用不完的钱」的错觉。
+- [YNAB](https://www.youneedabudget.com/)($100/y) - 用于做每个月的预算规划，减轻了我「好像有用不完的钱」的错觉。（不一定是好方案，我看别人用 [Numbers](https://sspai.com/post/93912) 也能做到很好的效果）
 
 ### 📷 图片处理
 
@@ -369,19 +370,18 @@ modified: 2024-09-30
 
 ### 🌐 浏览器
 
-- [Arc](https://arc.net) - 现在的主力浏览器。可以将两个 workspace 分别两个 profile 来用，一个用于工作，一个用于生活。将身份切割好。
-  - 沉浸式翻译 - 用于翻译，已经离不开了，我喜欢的颜色是 `#FB8F68`。
-  - 1Password - 密码管理器，我是将浏览器原生的填充给关了。
-  - pinboard - 用于将当前页面添加到 Pinboard。
+- Safari - 怎么说呢，用了 Chrome 许久，然后又用了 Arc 许久，最后还是用奥卡姆剃刀原理，选择了 Safari。
+  - [bookmarker for pinboard](https://apps.apple.com/de/app/bookmarker-for-pinboard/id1451400394?l=en&mt=12) - 用于将当前页面添加到 Pinboard。
+  - 1Password for Safari - 密码管理器，我是将 Safari 原生的填充给关了。
+  - AdGuard for Safari - 广告拦截器，不过用的不太久，还没能体验它和 uBlock Origin 的区别。
+  - bookmarker for pinboard - 用于将当前页面添加到 Pinboard。
   - RSSHub Radar - 用于查找当前页面的 RSSHub 源，DIYgod 出品。
+  - 沉浸式翻译 - 用于翻译，已经离不开了，我喜欢的颜色是 `#FB8F68`。
 
 <details>
 <summary>过期列表</summary>
 
-- Safari - ~~怎么说呢，用了 Chrome 许久，然后又用了 Arc 许久，最后还是用奥卡姆剃刀原理，选择了 Safari~~ tab 太多以至于点不开，现在又用回了 Arc 了
-  - [bookmarker for pinboard](https://apps.apple.com/de/app/bookmarker-for-pinboard/id1451400394?l=en&mt=12) - 用于将当前页面添加到 Pinboard
-  - 1Password for Safari - 密码管理器，我是将 Safari 原生的填充给关了
-  - AdGuard for Safari - 广告拦截器，不过用的不太久，还没能体验它和 uBlock Origin 的区别
+- ~~[Arc](https://arc.net) - 现在的主力浏览器。可以将两个 workspace 分别两个 profile 来用，一个用于工作，一个用于生活。将身份切割好。~~ 最后还是切割了～～
 
 </details>
 
@@ -429,6 +429,7 @@ modified: 2024-09-30
 > 毕竟除了米家外，我也不想装其余的只能家居的软件了。所以一般买设备都会优先看是否支持米家，当然了电饭煲支持米家，其实完全没有多大用。
 
 - [米家](https://home.mi.com/) - 用于控制家里的各种智能设备，例如灯、空调、扫地机器人等等。不过这么多智能设备，在家里断网的时候，简直就是灾难。（好像可以用网关解决？）
+- [Aqara Home](https://www.aqara.com/) - 主要装了一个摄像头。
 
 ### 🛒 购物
 
@@ -436,11 +437,17 @@ modified: 2024-09-30
 - [京东](https://www.jd.com/) - 京东会员我是一直都有开。
 - [拼多多](https://www.pinduoduo.com/) - switch 卡带、乐高、模型这些娱乐用的东西的时候可以上去买。
 - [淘宝](https://www.taobao.com/) - 主要是买一些奇形怪状的东西，例如台版书籍、各种外区点卡什么的。
+
+<details>
+<summary>过期列表</summary>
+
 - ~~[得物](https://www.dewu.com/) - 买过几个东西。~~有点不懂为什么要有在这个平台上买，一般上面几个就符合我需求了
+
+</details>
 
 ### 📺 视频 & 🎵 音乐
 
-- [YouTube](https://www.youtube.com/) - 上面 MUSIC 开了会员后，没有广告，现在使用量高上来了。
+- [YouTube](https://www.youtube.com/)(¥120/y) - 通过淘宝开的 YouTube Premium，没有广告之后在各个设备上的使用频率明显提高了。
 - [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。（大会员是什么？）
 - [infuse](https://firecore.com/infuse)($12.99/y) - 用来播放阿里云盘里的视频资源。界面很好看，结合阿里云盘一起用的话，效果很不错。
 - [剪映专业版](https://www.capcut.cn/) - 用于剪辑视频，结合 Samba 将树莓派的动画视频映射到电脑上，可以做到在电脑上剪辑。
@@ -480,7 +487,7 @@ modified: 2024-09-30
 - [Follow](https://github.com/RSSNext/follow) - 之前在 [xlog](https://xlog.app) 上与 DIYgod 混了脸熟，这次幸运地获得了内测资格，替代了 inoreader。并不仅仅是将 RSS 从 Inoreader 迁移到 Follow，而是将 Telegram、YouTube、Bilibili、Pixiv、Twitter 等平台的订阅一并转移。[这是](https://t.me/tomoko_channel/592) 我的点评。你还可以查看我的 [Follow 主页](https://web.follow.is/profile/niracler)。
 - [豆瓣](https://douban.com) - 看各种作品前总要来这里查看评分，不过我也有许多看完后没有标记的作品。总想着写好评语再标记，结果就一直鸽到猴年马月。这是我的 [豆瓣主页](https://www.douban.com/people/niracler/)，大多数时候都是在评论 ACG 作品。
 - [读库 APP](https://www.duku.cn)(需要订阅读库) - 每一期读库都会有一些被志愿者转成音频的文章，茶余饭后我就在这里听。
-- [微信阅读](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
+- [微信读书](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
 - [xlog](https://xlog.app) - 被我当作是赛博酒吧，偶尔点开看一下其他博主的更新。我自己也会稍微写写。有很多伙伴都在上面更新周记，每周看他们的周记，感觉就像是有了一批赛博邻居。
 - [hackernew](https://news.ycombinator.com/) - 对于我们这个行业来说，毋庸置疑的前沿新闻来源，不过偶尔一刷就停不下来了。
 - [pinboard](https://pinboard.in/) - 用于收藏我感兴趣的文章，也会在上面进行相应的思考点评。[Pinboard 主页](https://pinboard.in/u:niracler)
@@ -510,6 +517,12 @@ modified: 2024-09-30
 - ~~[Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。~~ 被封锁了~~
 
 </details>
+
+### 🤝 求职
+
+- [BOSS 直聘](https://www.zhipin.com/) - 用于找工作，不过我也不是很积极，只是偶尔看看。
+- [一亩三分地](https://www.1point3acres.com/) - 北美最有影响力的华人社区，其实跟我没有什么关系，不过我也会在上面看看一些面经。
+- [脉脉](https://maimai.cn/) - 没在大厂工作过，所以其实挺难理解里面的人的。感觉使用起来不那么顺畅。
 
 ### 🚗 出行 & 🍽️ 吃饭
 
@@ -546,7 +559,7 @@ modified: 2024-09-30
 
 > 有些我真的一下子想不到分类，就放这里了。期待后面可以分类？
 
-- [CleanShot X](https://cleanshot.com/) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑。
+- [CleanShot X](https://cleanshot.com/) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑，(最近发现还有滚动截屏的功能～)
 - [iTerm 2](https://iterm2.com/) - 用于替代原生的终端，主要是它可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 用于连接 MongoDB 数据库的客户端。
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于将树莓派的镜像写入到 SD 卡上的工具。
