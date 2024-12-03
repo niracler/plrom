@@ -20,7 +20,7 @@ modified: 2024-09-30
 ## 人
 
 > 一些不方便公开的人，我就不在这里写了，隐藏的上限是 100 个（可能会调整）  
-> 后面想一个法子将此处的列表跟我的 [Follow 关注](https://app.follow.is/profile/@niracler) 进行同步才行，重复程度有点太高了。近期应该不更新这个列表。国庆写个脚本用于同步。
+> 后面想一个法子将此处的列表跟我的 [Follow 关注](https://app.follow.is/profile/@niracler) 进行同步才行，重复程度有点太高了。近期应该不更新这个列表。~~国庆写个脚本用于同步。~~
 
 ### 📚 技术博主
 
@@ -291,7 +291,8 @@ modified: 2024-09-30
 
 ### 📝 文本编辑 & IDE
 
-- VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它。
+- ~~VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它。~~
+- [cursor](https://www.cursor.com/) - 最近在体验中，还没有重度使用。暂时替代了 VS Code 成为我的主力编辑器。
   - GitHub Copilot - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免使用呢？
   - GitLens - 用于查看 git 历史记录的插件，它的 `blame` 功能太好用了，在团队合作的时候可以一眼看到谁写的代码。
   - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
@@ -303,7 +304,6 @@ modified: 2024-09-30
   - [obsidian-git](https://github.com/Vinzent03/obsidian-git) - 用于将 obsidian 的笔记同步到 git 仓库的插件。Obsidian 用起来有一个问题，就是没有版本控制，很多时候我写一些记录会进行删删改改，以至于有一些历史的想法可能就流失了。于是就用这个插件。
   - [obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - 用于将 pinboard 的书签同步到 obsidian 日记中的插件。主要是为了可以在 obsidian 中搜索到我之前的书签以及对应的评论。
   - [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) - 用于将 obsidian 中的图片自动上传到图床的插件。
-- [cursor](https://www.cursor.com/) - 最近在体验中，还没有重度使用。
 
 <details>
 <summary>过期列表</summary>
@@ -321,13 +321,25 @@ modified: 2024-09-30
 - [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。
 - [ServerCat](https://servercat.app/)(¥38) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。
 - [keybr.com](https://www.keybr.com/) - 我前段时间用来练习打字的网站。
-- [OrbStack](https://orbstack.dev/) - 一个 Docker Desktop 的轻量级替代品，我用它来管理我的 Docker 容器。
+- [iStat Menus](https://bjango.com/mac/istatmenus/)(¥30) - 用于在菜单栏显示系统状态的工具。(其实我觉得没有什么用，😂)
 
 <details>
 <summary>过期列表</summary>
 
 - ~~[Alfred](https://www.alfredapp.com/)~~ - 最开始是用它的粘贴板历史功能，但是后面用上 Raycast 之后就不怎么用，被平替掉了，毕竟要钱。不过它的搜索功能还是很好用的。
 - ~~[align](https://apps.apple.com/sk/app/align-organize-app-windows/id6480428845)(限免) - 专为 macOS 设计的窗口管理工具，限免的时候入的。一开始我觉得没什么用，因为我大多数情况下是用多桌面而不是多窗口的，直到我用了 4K 显示器～～~~ 现在 MacOS 已经自带了
+
+</details>
+
+### 💻 虚拟化
+
+- [OrbStack](https://orbstack.dev/) - 一个 Docker Desktop 的轻量级替代品，我用它来管理我的 Docker 容器。
+- [UTM](https://mac.getutm.app/) - 用于在 Mac 上运行各种虚拟机。我是跑了一个 Home Assistant 做测试。
+
+<details>
+<summary>过期列表</summary>
+
+- ~~[Docker Desktop](https://www.docker.com/products/docker-desktop/)~~ - 现在用 OrbStack 了
 
 </details>
 
@@ -398,7 +410,7 @@ modified: 2024-09-30
 
 - [1Password](https://1password.com/)(¥248/y) - 在 iPhone 上可以选用它的自动填充。
 - [XLocker](https://apps.apple.com/us/app/xlocker-control-screen-time/id6447595893)($9.99) - 在适当的时候用来隐藏 iPhone 以及 iPad 上的一些应用。结合快捷指令可以做到一键隐藏。
-- [dama](https://apps.apple.com/us/app/dama-auto-redact-privacy/id1534690075)(¥12) - 用了之后发现很智能，可以自动识别你照片上可能的隐私信息，然后自动打码。还能帮你处理照片 meta 里面的一些敏感信息。
+- [DAMA](https://apps.apple.com/us/app/dama-auto-redact-privacy/id1534690075)(¥12) - 用了之后发现很智能，可以自动识别你照片上可能的隐私信息，然后自动打码。还能帮你处理照片 meta 里面的一些敏感信息。
 
 ### 🌏 网络工具
 
@@ -434,8 +446,8 @@ modified: 2024-09-30
 ### 🛒 购物
 
 - [多抓鱼](https://www.duozhuayu.com/book) - 之前很喜欢买各种我永远不会看的书，现在已经当作是奢侈品了，不再买，省钱。
-- [京东](https://www.jd.com/) - 京东会员我是一直都有开。
-- [拼多多](https://www.pinduoduo.com/) - switch 卡带、乐高、模型这些娱乐用的东西的时候可以上去买。
+- [京东](https://www.jd.com/)(小程序) - 渐渐觉得京东会员没有什么用了。
+- [拼多多](https://www.pinduoduo.com/)(小程序) - switch 卡带、乐高、模型这些娱乐用的东西的时候可以上去买。
 - [淘宝](https://www.taobao.com/) - 主要是买一些奇形怪状的东西，例如台版书籍、各种外区点卡什么的。
 
 <details>
@@ -449,7 +461,7 @@ modified: 2024-09-30
 
 - [YouTube](https://www.youtube.com/)(¥120/y) - 通过淘宝开的 YouTube Premium，没有广告之后在各个设备上的使用频率明显提高了。
 - [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。（大会员是什么？）
-- [infuse](https://firecore.com/infuse)($12.99/y) - 用来播放阿里云盘里的视频资源。界面很好看，结合阿里云盘一起用的话，效果很不错。
+- [infuse](https://firecore.com/infuse)($12.99/y) - 用来播放阿里云盘里的视频资源。界面很好看，结合阿里云盘一起用的话，效果很不错。（不过这条路成本越来越高了，看看如何省）
 - [剪映专业版](https://www.capcut.cn/) - 用于剪辑视频，结合 Samba 将树莓派的动画视频映射到电脑上，可以做到在电脑上剪辑。
 - [iina](https://iina.io/) - 视频播放器，我主要用它来播放本地的视频文件。
 - [obs](https://obsproject.com/) - 用于录制屏幕的工具，之前主要是配合串流软件录制游戏机的游戏视频。
@@ -479,7 +491,14 @@ modified: 2024-09-30
 ### 📖 学习
 
 - [多邻国](https://www.duolingo.com/)(¥40/y) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～)
+- [MindNode](https://mindnode.com) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
+
+<details>
+<summary>过期列表</summary>
+
 - [xmind](https://www.xmind.cn/) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
+
+</details>
 
 ### 📰 新闻 & 阅读
 
@@ -490,7 +509,7 @@ modified: 2024-09-30
 - [微信读书](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
 - [xlog](https://xlog.app) - 被我当作是赛博酒吧，偶尔点开看一下其他博主的更新。我自己也会稍微写写。有很多伙伴都在上面更新周记，每周看他们的周记，感觉就像是有了一批赛博邻居。
 - [hackernew](https://news.ycombinator.com/) - 对于我们这个行业来说，毋庸置疑的前沿新闻来源，不过偶尔一刷就停不下来了。
-- [pinboard](https://pinboard.in/) - 用于收藏我感兴趣的文章，也会在上面进行相应的思考点评。[Pinboard 主页](https://pinboard.in/u:niracler)
+- [inboard](https://pinboard.in/) - 用于收藏我感兴趣的文章，也会在上面进行相应的思考点评。[Pinboard 主页](https://pinboard.in/u:niracler)
 - [小红书](https://www.xiaohongshu.com/) - 用于看一些生活小技巧，用来补充我所剩不多的常识。不过我也不是很经常用。
 - [知乎](https://www.zhihu.com/) - 用于看一些有趣的问题，不过我也不是很经常用。
 
@@ -526,16 +545,16 @@ modified: 2024-09-30
 
 ### 🚗 出行 & 🍽️ 吃饭
 
-- [美团](https://www.meituan.com/) - 日常景点买票、以及订酒店是用的这个。
-- [饿了么](https://www.ele.me/) - 开了淘宝的 88 会员之后，就再也没买过美团的券了。
-- [高德地图](https://www.amap.com/) - 最后还是用回它了，现在打车也就主要靠它了。
-- [嘀嗒出行](https://www.didachuxing.com/) - 用于叫顺风车，在各个市之间移动的时候用的比较多。
+- [美团](https://www.meituan.com/)(小程序) - 日常景点买票、以及订酒店是用的这个。
+- [嘀嗒出行](https://www.didachuxing.com/)(小程序) - 用于叫顺风车，在各个市之间移动的时候用的比较多。
 - [Rond](https://sspai.com/post/85355)(¥98) - 一款基于本地数据记录行程的软件，软件很优雅。
+- [Apple Maps](https://www.apple.com/cn/maps/) - 在国内挺难使用的，再坚持用一会吧（不过大概率很快就又切换回高德了）
 
 <details>
 <summary>过期列表</summary>
 
-- ~~[Apple Maps](https://www.apple.com/cn/maps/) - 本着断舍离的心态将高德删除了，用这个的时候却是会有不少问题，要看看情况~~ 在国内挺难使用的，
+- ~~[高德地图](https://www.amap.com/) - 最后还是用回它了，现在打车也就主要靠它了。~~ 卸载了，我不太喜欢这种什么花里胡哨功能都有的软件。
+- [饿了么](https://www.ele.me/) - 开了淘宝的 88 会员之后，就再也没买过美团的券了。 -> 还是用不习惯～～
 
 </details>
 
@@ -566,6 +585,7 @@ modified: 2024-09-30
 - [Wireshark](https://www.wireshark.org/) - 用于抓包的工具，不过我也不是很会用。
 - [Zoom](https://zoom.us/) - 用于远程会议的工具，不过我也很少用。
 - [Applite](https://github.com/milanvarady/Applite) - 现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。
+- [MQTTX](https://mqttx.app/) - 用于测试 MQTT 协议的工具，我一般用它来测试 Mosquitto 的配置。
 
 ## 定时检查
 
@@ -578,7 +598,15 @@ modified: 2024-09-30
 其他:
 
 1. 标明软件 订阅 或者 一次性付费 的费用（可能不全）
-2. 若是已经没在用的，放到过期列表中。
+2. 标明是 小程序 还是 原生 App 还是 网页
+3. 若是已经没在用的，放到过期列表中。
+
+### 一些选择软件的考量
+
+1. 若不是没得选，我一般不会选那种什么功能都有的软件。我真的不想我手机上有 20 个能借钱的 App。
+2. 有一些没有必要的，就直接小程序了。
+3. AutoBangumi 的体验不行，我想自己写一个。用户体验实在是不太好。
+4. 那种联网性质特别强的软件也是不太想用，例如 https://www.reddit.com/r/mindmapping/comments/16x5u8z/xmind_alternative/ 这里说到的。
 
 ## Reference
 
