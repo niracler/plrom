@@ -1,0 +1,10 @@
+files:
+  - README.md
+ignorePatterns:
+  - pattern: '^https://podcasts.apple.com/us/podcast/*$'
+  - pattern: '^https://www.zhihu.com/question/*$'
+  - pattern: '^https://zhuanlan.zhihu.com/p/*$'
+  - pattern: '^https://news.ycombinator.com/$'
+  - pattern: '^https://zh.moegirl.org.cn/$'
+
+useGitIgnore: true
