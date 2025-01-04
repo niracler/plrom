@@ -183,7 +183,7 @@ modified: 2024-09-30
 
 - [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美。（已经有点不太够用来开发了，**转正后考虑换一个新的**）
   - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 一开始是用来敲代码的。这次没带来西安，**吃灰中**。
-- [Raspberry Pi 4 Model B](https://www.raspberrypi./products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画。（不行，真的不能这么做，太不稳定了，硬盘经常掉挂载）
+- [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画。（不行，真的不能这么做，太不稳定了，硬盘经常掉挂载）
   - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
 - 13600kf+4070s - 最近配的一台主机，但是还没发现更具体的用途，单纯只是用来完了两盘《文明 6 》。不过现在下班后都是用它了。在熟悉 MacOS 到 Windows 的过程。
   - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在主机就一定要用了。
@@ -198,7 +198,7 @@ modified: 2024-09-30
 
 - [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 256G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。
 - [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏
-- [Boox Leaf](https://zh.boox.com/leaf) - 现在仅仅用来睡前看电子书，看漫画太难受了。
+- **Boox Leaf** - 现在仅仅用来睡前看电子书，看漫画太难受了。
 - [Redmi Pad](https://www.mi.com/redmipad) - Tachiyomi 启动器。
 
 <details>
@@ -218,7 +218,7 @@ modified: 2024-09-30
 <details>
 <summary>不活跃列表</summary>
 
-- ~~[Sony WI-1000X](https://www.sony.com/lr/electronics/in-ear-headphones/wi-1000x) - 降噪耳机，降噪效果我觉得比 AirPods Pro 好。~~ 大学时期花「重金」买下的，陪伴了我很重要的几年。还没到 3 年，最后是在保修期内因为认为因素损害的。**尸体至今还在**。这种放脖子形式的耳机的好处就是我不会误扔到洗衣机～～
+- ~~Sony WI-1000X - 降噪耳机，降噪效果我觉得比 AirPods Pro 好。~~ 大学时期花「重金」买下的，陪伴了我很重要的几年。还没到 3 年，最后是在保修期内因为认为因素损害的。**尸体至今还在**。这种放脖子形式的耳机的好处就是我不会误扔到洗衣机～～
 
 </details>
 
@@ -298,7 +298,7 @@ modified: 2024-09-30
   - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
   - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
   - NewLine - 用于在文件末尾添加空行的插件。至于为什么要加空行，参考 [这篇文章](https://niracler.com/newline)。
-  - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。s
+  - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
 - [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
   - [obsidian-linter](https://github.com/platers/obsidian-linter) - 用于格式化 markdown 的插件，不过我觉得它的功能还是不够完善，有时候会出现一些奇怪的问题。
   - [obsidian-git](https://github.com/Vinzent03/obsidian-git) - 用于将 obsidian 的笔记同步到 git 仓库的插件。Obsidian 用起来有一个问题，就是没有版本控制，很多时候我写一些记录会进行删删改改，以至于有一些历史的想法可能就流失了。于是就用这个插件。
@@ -310,7 +310,7 @@ modified: 2024-09-30
 
 - ~~[neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/nvim-config) 上了。~~ 我的 M1 AIR 用起来会卡顿，而且是真的入手难度高，所以就暂时放弃了。
   - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
-  - [Copilot | LazyVim](https://www.lazyvim.org/extras/coding/copilot) - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。
+  - ~Copilot | LazyVim - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。~
   - [autoime.nvim](https://github.com/OliverChao/autoime.nvim) - ECS 自动使用 im-select 帮你将输入法切换为英文。避免频繁将输入法从中文模式切换到英文模式，来输入 vim 命令。
 
 </details>
