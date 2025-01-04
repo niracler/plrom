@@ -183,7 +183,7 @@ modified: 2024-09-30
 
 - [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美。（已经有点不太够用来开发了，**转正后考虑换一个新的**）
   - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 一开始是用来敲代码的。这次没带来西安，**吃灰中**。
-- [Raspberry Pi 4 Model B](https://www.raspberrypi./products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画
+- [Raspberry Pi 4 Model B](https://www.raspberrypi./products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画。（不行，真的不能这么做，太不稳定了，硬盘经常掉挂载）
   - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
 - 13600kf+4070s - 最近配的一台主机，但是还没发现更具体的用途，单纯只是用来完了两盘《文明 6 》。不过现在下班后都是用它了。在熟悉 MacOS 到 Windows 的过程。
   - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在主机就一定要用了。
@@ -368,7 +368,7 @@ modified: 2024-09-30
 
 ### 💾 云存储
 
-- [iCloud](https://www.apple.com/icloud/)(¥68/m) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记。以及各种文件。
+- [iCloud](https://www.apple.com/icloud/)(¥24/m 淘宝) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记。以及各种文件。现在用的是 1T 的淘宝家庭车。
 - [阿里云盘](https://www.aliyundrive.com/download)(¥168/y) - 现在主要用它存储影视节目，然后通过 infuse 来观看，一般能跑满带宽。开了年费会员。（很犹豫，现在 infuse 看推流还要额外付费，相当于价格翻倍了）
 
 <details>
@@ -399,12 +399,12 @@ modified: 2024-09-30
 
 ### 💬 通讯工具
 
-- [Telegram](https://telegram.org/) - TG 频道是当作我个人碎碎念以及日常生活吐槽的地方，用于发泄「**一年快 2000 条信息**」的话痨体质。X 也有这个功效，但对于我这种有些社恐的赛博电子人来说，在 X 发信息就像是在广场里面大叫，让我感到羞耻度爆表。而 TG 频道上「大叫」时感觉就像在家里，最多只有邻居能听到，对于我来说更加自在一点。大家也可以来我的频道作客哦，虽然没有什么深度内容 [Tomoko RD]( https://t.me/tomoko_channel)
-- [X](https://x.com) - 还是不太习惯用呢~~
-- [Discord](https://discord.com/) - 平常几乎是不用的，不过很多开源社区都是在这进行交流的，我也主要是上去报 BUG 而已。
-- [Fastmail](https://www.fastmail.com/)($50/y) - 随机匿名邮箱是反跟踪的利器, 现在我各种网站尽量能用邮箱注册就用都用 fastmail 生成的随机邮箱（与 1Password 联动确实方便）
-- [微信](https://weixin.qq.com/) - 用于和家人朋友联系，不过日常 99% 的时候都不看朋友圈，也不发朋友圈。公众号倒是偶尔会看看，要移除一些好友才行了。
-- [熊猫吃短信 2](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818)(¥12/y) - 用于在 iPhone 上拦截短信，不过很多时候因为长时间没点开，然后手机自动帮我删除了🤣
+- [Telegram](https://telegram.org/) - 我的 TG 频道 [Tomoko RD](https://t.me/tomoko_channel) 是我的个人碎碎念空间。作为一个话痨(年发2000+条消息)，我更喜欢在这里分享生活琐事，而不是在 X 上 - 在 TG 频道发言就像在家里自言自语，而 X 则像是在广场上大喊，对我这个社恐来说压力太大了。欢迎来我的频道逛逛，虽然都是些日常琐碎。
+- [X](https://x.com) - 主要用来关注一些技术博主和开源项目的动态。
+- [Discord](https://discord.com/) - 主要用于参与开源社区讨论和反馈问题，日常很少使用。
+- [Fastmail](https://www.fastmail.com/)($50/y) - 我的主力邮箱服务。它的随机匿名邮箱功能配合 1Password 使用非常方便，是我注册各类网站的首选。这个功能也很好地保护了我的隐私。
+- [微信](https://weixin.qq.com/) - 主要用于和国内亲友联系。我很少刷朋友圈，也基本不发朋友圈。偶尔会看看关注的公众号。
+- [熊猫吃短信 2](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818)(¥12/y) - iPhone 上的垃圾短信拦截工具。虽然效果不错，但有时因为长期不查看，系统会自动清理掉被拦截的短信。
 
 ### 🔑 隐私安全
 
@@ -438,41 +438,45 @@ modified: 2024-09-30
 
 ### 🤖 智能家居
 
-> 毕竟除了米家外，我也不想装其余的只能家居的软件了。所以一般买设备都会优先看是否支持米家，当然了电饭煲支持米家，其实完全没有多大用。
+> 我尽量只使用米家生态的智能家居设备,避免安装过多不同平台的 App。购买设备时会优先考虑是否支持米家,不过有些设备(如电饭煲)支持米家的意义并不大。
 
-- [米家](https://home.mi.com/) - 用于控制家里的各种智能设备，例如灯、空调、扫地机器人等等。不过这么多智能设备，在家里断网的时候，简直就是灾难。（好像可以用网关解决？）
-- [Aqara Home](https://www.aqara.com/) - 主要装了一个摄像头。
+- [米家](https://home.mi.com/) - 用于控制家里的智能设备,如灯、空调、扫地机器人等。不过当家里断网时,这些智能设备就成了摆设(似乎可以通过网关解决这个问题)。
+- [Aqara Home](https://www.aqara.com/) - 因为使用了 Aqara 的摄像头而不得不安装。
+- [Home Assistant](https://www.home-assistant.io/) - 已部署在树莓派上,后续会逐步扩展这方面的应用。
+- [Apple Home](https://www.apple.com/cn/apple-home/) - 设备价格偏高,目前只有少量设备。不过配合 Home Assistant 后应该会有更多可能性。
 
 ### 🛒 购物
 
-- [多抓鱼](https://www.duozhuayu.com/book) - 之前很喜欢买各种我永远不会看的书，现在已经当作是奢侈品了，不再买，省钱。
-- [京东](https://www.jd.com/)(小程序) - 渐渐觉得京东会员没有什么用了。
-- [拼多多](https://www.pinduoduo.com/)(小程序) - switch 卡带、乐高、模型这些娱乐用的东西的时候可以上去买。
-- [淘宝](https://www.taobao.com/) - 主要是买一些奇形怪状的东西，例如台版书籍、各种外区点卡什么的。
+- [多抓鱼](https://www.duozhuayu.com/book) - 以前常买各种书籍,现在已将其视为奢侈品,不再盲目购买。
+- [京东](https://www.jd.com/)(小程序) - 会员价值感逐渐降低。
+- [拼多多](https://www.pinduoduo.com/)(小程序) - 主要用于购买 Switch 游戏卡带、乐高、模型等娱乐用品。
+- [淘宝](https://www.taobao.com/) - 适合购买特殊商品,如台版书籍、外区充值卡等。
+- [闲鱼](https://www.goofish.com) - 因不愿花时间讨价还价,很少用于卖物。每年购买几件二手商品,在消费降级趋势下可能会增加使用频率。
+- [朴朴超市](http://www.pupumall.com) - 买菜以及生活用品之类的。
 
 <details>
 <summary>过期列表</summary>
 
-- ~~[得物](https://www.dewu.com/) - 买过几个东西。~~有点不懂为什么要有在这个平台上买，一般上面几个就符合我需求了
+- ~~[得物](https://www.dewu.com/) - 买过几个东西。~~ 其他主流购物平台已能满足需求,无需使用额外平台。
 
 </details>
 
 ### 📺 视频 & 🎵 音乐
 
-- [YouTube](https://www.youtube.com/)(¥120/y) - 通过淘宝开的 YouTube Premium，没有广告之后在各个设备上的使用频率明显提高了。
-- [哔哩哔哩 App](https://www.bilibili.com/) - 其实我不是一个视频重度用户，关注的 UP 主可能就四五是常看的。（大会员是什么？）
-- [infuse](https://firecore.com/infuse)($12.99/y) - 用来播放阿里云盘里的视频资源。界面很好看，结合阿里云盘一起用的话，效果很不错。（不过这条路成本越来越高了，看看如何省）
-- [剪映专业版](https://www.capcut.cn/) - 用于剪辑视频，结合 Samba 将树莓派的动画视频映射到电脑上，可以做到在电脑上剪辑。
-- [iina](https://iina.io/) - 视频播放器，我主要用它来播放本地的视频文件。
-- [obs](https://obsproject.com/) - 用于录制屏幕的工具，之前主要是配合串流软件录制游戏机的游戏视频。
-- [spotify](https://www.spotify.com/) - 兜兜转转还是用它了。
+- [YouTube](https://www.youtube.com/)(¥120/y 淘宝) - 通过淘宝购买的 YouTube Premium 会员，去除广告后体验极佳，各设备使用频率大幅提升。
+- [哔哩哔哩 App](https://www.bilibili.com/) - 轻度视频用户，年观看时长不足 200 小时。主要关注少数几个优质 UP 主的内容更新。
+- [infuse](https://firecore.com/infuse)($12.99/y) - 优雅的视频播放器，完美支持阿里云盘视频播放。界面精美，用户体验出色，但随着成本上升可能需要寻找替代方案。
+- [剪映专业版](https://www.capcut.cn/) - 视频剪辑工具，通过 Samba 协议将树莓派存储的视频映射到电脑，实现便捷的本地剪辑。（或许 iMovie 也可以？）
+- [iina](https://iina.io/) - macOS 上优秀的本地视频播放器，是我的首选播放工具。
+- [obs](https://obsproject.com/) - 功能强大的录屏工具，主要用于配合串流软件录制游戏机画面。
+- [spotify](https://www.spotify.com/) - 尝试过多个音乐平台后，最终选择了 Spotify 作为主力音乐服务。
 
 <details>
 <summary>过期列表</summary>
 
 - ~~[YT MUSIC](https://music.youtube.com/)(¥120/y)~~ - 慎用。槽点还是太多了，梯子节点不太稳定的时候就直接断了，一般需要下载下来才比较好，而且有些区是不能用的。不过现在已经将我的音乐软件转成这个了，架不住我想听的都有。发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
-- ~~[网易云音乐](https://music.163.com/) - 用于听一些音乐~~ 二次元的音乐是真的多，评论区也很棒，在国内体验好于 YT Music。不过因为时常会没有版权然后变灰，这个是硬伤，现在已经转到 YT MUSIC 了。
-- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替代原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
+- ~~[网易云音乐](https://music.163.com/) - 用于听一些音乐~~ 二次元的音��是真的多，评论区也很棒，在国内体验好于 YT Music。不过因为时常会没有版权然后变灰，这个是硬伤，现在已经转到 YT MUSIC 了。
+- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替��原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
 
 </details>
 
@@ -502,16 +506,18 @@ modified: 2024-09-30
 
 ### 📰 新闻 & 阅读
 
-- [RSSHub](https://rsshub.app/) - 让许多不支持 RSS 的网站可以实现 RSS 订阅，并且许多路由可以通过参数调整订阅内容。
-- [Follow](https://github.com/RSSNext/follow) - 之前在 [xlog](https://xlog.app) 上与 DIYgod 混了脸熟，这次幸运地获得了内测资格，替代了 inoreader。并不仅仅是将 RSS 从 Inoreader 迁移到 Follow，而是将 Telegram、YouTube、Bilibili、Pixiv、Twitter 等平台的订阅一并转移。[这是](https://t.me/tomoko_channel/592) 我的点评。你还可以查看我的 [Follow 主页](https://web.follow.is/profile/niracler)。
-- [豆瓣](https://douban.com) - 看各种作品前总要来这里查看评分，不过我也有许多看完后没有标记的作品。总想着写好评语再标记，结果就一直鸽到猴年马月。这是我的 [豆瓣主页](https://www.douban.com/people/niracler/)，大多数时候都是在评论 ACG 作品。
-- [读库 APP](https://www.duku.cn)(需要订阅读库) - 每一期读库都会有一些被志愿者转成音频的文章，茶余饭后我就在这里听。
-- [微信读书](https://weread.qq.com/) - 其实挺全的，不过看技术方面的书籍还是坑爹了，技术书籍还是要看纸质书籍，或者是 PDF。我一般会用来听小说或者传记。
-- [xlog](https://xlog.app) - 被我当作是赛博酒吧，偶尔点开看一下其他博主的更新。我自己也会稍微写写。有很多伙伴都在上面更新周记，每周看他们的周记，感觉就像是有了一批赛博邻居。
-- [hackernew](https://news.ycombinator.com/) - 对于我们这个行业来说，毋庸置疑的前沿新闻来源，不过偶尔一刷就停不下来了。
-- [inboard](https://pinboard.in/) - 用于收藏我感兴趣的文章，也会在上面进行相应的思考点评。[Pinboard 主页](https://pinboard.in/u:niracler)
-- [小红书](https://www.xiaohongshu.com/) - 用于看一些生活小技巧，用来补充我所剩不多的常识。不过我也不是很经常用。
-- [知乎](https://www.zhihu.com/) - 用于看一些有趣的问题，不过我也不是很经常用。
+- [RSSHub](https://rsshub.app/) - 强大的 RSS 生成器，可为众多不支持 RSS 的网站提供订阅源，支持自定义参数调整内容。
+- [Follow](https://github.com/RSSNext/follow) - 一站式信息聚合平台，整合了 RSS、Telegram、YouTube、Bilibili、Pixiv、Twitter 等多平台订阅。作为 Inoreader 的替代品，我写了一篇[使用体验](https://t.me/tomoko_channel/592)。欢迎访问我的 [Follow 主页](https://web.follow.is/profile/niracler)。
+- [豆瓣](https://douban.com) - 影视、书籍、音乐等作品的评分参考平台。这是我的[豆瓣主页](https://www.douban.com/people/niracler/)，主要记录 ACG 作品的观看体验。
+- [读库 APP](https://www.duku.cn)(需要订阅读库) - 提供志愿者朗读的精选文章音频，适合碎片时间收听。
+- [微信读书](https://weread.qq.com/) - 内容丰富的电子书平台，适合阅读文学类作品。技术类书籍建议选择纸质版或 PDF 格式。
+- [得到](https://www.igetget.com/) - 知识付费平台，作为微信读书的补充书源，按需订阅。
+- [Pinterest](https://www.pinterest.com/) - 优质图片资源平台，特别适合寻找头像和壁纸素材。
+- [xlog](https://xlog.app) - Web3 博客平台，氛围轻松愉快。许多用户在此更新周记，阅读他人的生活记录让人感受到赛博邻里的温度。
+- [hackernew](https://news.ycombinator.com/) - 科技行业前沿新闻聚合平台，内容质量高但易沉迷。
+- [inboard](https://pinboard.in/) - 文章收藏与思考记录工具。这是我的 [Pinboard 主页](https://pinboard.in/u:niracler)。
+- [小红书](https://www.xiaohongshu.com/) - 生活分享社区，用于了解生活技巧和常识补充。
+- [知乎](https://www.zhihu.com/) - 问答社区，偶尔浏览感兴趣的话题讨论。
 
 <details>
 <summary>过期列表</summary>
@@ -574,39 +580,50 @@ modified: 2024-09-30
 
 </details>
 
-### ➕ 其他
+### 🖥️ 开发工具
 
-> 有些我真的一下子想不到分类，就放这里了。期待后面可以分类？
-
-- [CleanShot X](https://cleanshot.com/) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑，(最近发现还有滚动截屏的功能～)
 - [iTerm 2](https://iterm2.com/) - 用于替代原生的终端，主要是它可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 用于连接 MongoDB 数据库的客户端。
-- [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于将树莓派的镜像写入到 SD 卡上的工具。
-- [Wireshark](https://www.wireshark.org/) - 用于抓包的工具，不过我也不是很会用。
-- [Zoom](https://zoom.us/) - 用于远程会议的工具，不过我也很少用。
-- [Applite](https://github.com/milanvarady/Applite) - 现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。
 - [MQTTX](https://mqttx.app/) - 用于测试 MQTT 协议的工具，我一般用它来测试 Mosquitto 的配置。
+- [Wireshark](https://www.wireshark.org/) - 用于抓包的工具，不过我也不是很会用。
 
-## 定时检查
+### 📸 截图和录屏
 
-大概一个月会检查一下有没有更新，来源不限于:
+- [CleanShot X](https://cleanshot.com/) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑，(最近发现还有滚动截屏的功能～)
 
-1. 手机、电脑、平板上的软件
-2. TachiyomiSY 上的漫画订阅 (主要是检查新的漫画家)
-3. Follow 上的订阅源
+### 🛠️ 系统工具
 
-其他:
+- [Applite](https://github.com/milanvarady/Applite) - 现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。
+- [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于将树莓派的镜像写入到 SD 卡上的工具。
 
-1. 标明软件 订阅 或者 一次性付费 的费用（可能不全）
-2. 标明是 小程序 还是 原生 App 还是 网页
-3. 若是已经没在用的，放到过期列表中。
+### 🤝 会议工具
 
-### 一些选择软件的考量
+- [Zoom](https://zoom.us/) - 用于远程会议的工具，不过我也很少用。
+- [腾讯会议](https://meeting.tencent.com/) - 挺经常用的，尤其是国内面试基本都是用它。
+- [discord](https://discord.com/) - 在放映室串流方面效果做得很好，挺多时候就是当成用来跟朋友一起远程看大屏了。
 
-1. 若不是没得选，我一般不会选那种什么功能都有的软件。我真的不想我手机上有 20 个能借钱的 App。
-2. 有一些没有必要的，就直接小程序了。
-3. AutoBangumi 的体验不行，我想自己写一个。用户体验实在是不太好。
-4. 那种联网性质特别强的软件也是不太想用，例如 https://www.reddit.com/r/mindmapping/comments/16x5u8z/xmind_alternative/ 这里说到的。
+
+## 维护说明
+
+我会每月定期检查和更新此列表，主要关注以下来源：
+
+1. 各端设备（手机、电脑、平板）上的应用软件
+2. TachiyomiSY 漫画订阅源中的新作者
+3. Follow 平台上关注的内容源
+
+内容规范：
+
+1. 尽可能标注软件的付费方式（订阅制或一次性付费）及具体费用
+2. 明确标注软件形态（小程序、原生应用或网页应用）
+3. 不再使用的项目将移至"过期列表"
+4. 新使用的软件需要稳定使用一段时间后才会加入列表，以确保其实用性和持久性
+5. 有一些涉及敏感信息比较多的软件就不列出来了，例如用什么银行，以及公司用的什么软件等
+
+### 软件选择原则
+
+1. 对于使用频率较低的功能，优先考虑小程序形式（PS. 谁在我手机上装了 20 个可以贷款的软件？）
+2. 对于现有工具不满意时（如 AutoBangumi），会考虑开发更符合个人需求的替代品
+3. 倾向选择本地化程度高的软件，谨慎使用过度依赖网络的应用（参考：[XMind 替代品讨论](https://www.reddit.com/r/mindmapping/comments/16x5u8z/xmind_alternative/)）
 
 ## Reference
 
