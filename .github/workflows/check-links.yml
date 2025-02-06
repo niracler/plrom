@@ -1,6 +1,7 @@
 name: Linkspector
 
 on: [pull_request]
+
 jobs:
   check-links:
     name: runner / linkspector

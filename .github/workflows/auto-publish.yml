@@ -1,0 +1,25 @@
+name: Auto Publish
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up environment
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+      
+      - name: Set execute permission
+        run: chmod +x ./publish.sh
+        
+      - name: Run publish script
+        env:
+          XLOG_TOKEN: ${{ secrets.XLOG_TOKEN }}
+        run: ./publish.sh 
