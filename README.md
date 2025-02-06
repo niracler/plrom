@@ -291,13 +291,10 @@ modified: 2024-09-30
 
 ### 📝 文本编辑 & IDE
 
-- ~~VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它。~~
-- [cursor](https://www.cursor.com/) - 最近在体验中，还没有重度使用。暂时替代了 VS Code 成为我的主力编辑器。
-  - GitHub Copilot - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免使用呢？
+- [cursor](https://www.cursor.com/) - 已经离不开 Cursor 了，它真的太好用了。直觉上，工作中的 70% 代码都是它写的。
   - GitLens - 用于查看 git 历史记录的插件，它的 `blame` 功能太好用了，在团队合作的时候可以一眼看到谁写的代码。
   - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
   - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
-  - NewLine - 用于在文件末尾添加空行的插件。至于为什么要加空行，参考 [这篇文章](https://niracler.com/newline)。
   - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
 - [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
   - [obsidian-linter](https://github.com/platers/obsidian-linter) - 用于格式化 markdown 的插件，不过我觉得它的功能还是不够完善，有时候会出现一些奇怪的问题。
@@ -308,20 +305,26 @@ modified: 2024-09-30
 <details>
 <summary>过期列表</summary>
 
+- ~~VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它。~~
+- ~~NewLine - 用于在文件末尾添加空行的插件。至于为什么要加空行，参考 [这篇文章](https://niracler.com/newline)。~~ 可以直接通过配置开启，无需插件了
 - ~~[neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/nvim-config) 上了。~~ 我的 M1 AIR 用起来会卡顿，而且是真的入手难度高，所以就暂时放弃了。
   - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
   - ~Copilot | LazyVim - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。~
   - [autoime.nvim](https://github.com/OliverChao/autoime.nvim) - ECS 自动使用 im-select 帮你将输入法切换为英文。避免频繁将输入法从中文模式切换到英文模式，来输入 vim 命令。
+  
+- ~~[GitHub Copilot](https://github.com/features/copilot) - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免使用呢？~~ 退款了，Cursor 确实更好用。
 
 </details>
 
 ### 📈 生产力工具
 
 - [OpenCat Pro](https://opencat.app/)(¥38) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用一定次数的 4，所以就通过他来用 gpt-4 了。（当然，也可以用 [DeepSeek](https://www.deepseek.com/zh) 啦）
+- [Chatgpt App](https://openai.com/chatgpt/overview/) - 绑定了 cmd + space 来快速打开。一般用来快速问答。
 - [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。
 - [ServerCat](https://servercat.app/)(¥38) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。
 - [keybr.com](https://www.keybr.com/) - 我前段时间用来练习打字的网站。
-- [iStat Menus](https://bjango.com/mac/istatmenus/)(¥30) - 用于在菜单栏显示系统状态的工具。(其实我觉得没有什么用，😂)
+- [iStat Menus](https://bjango.com/mac/istatmenus/)(Setapp) - 用于在菜单栏显示系统状态的工具。(其实我觉得没有什么用，😂)
+- [Session](https://setapp.com/apps/session)(Setapp) - 番茄钟软件，是在 Setapp 大礼包中的，优点在于可以联动 Apple 体系的日历、能够多端联动、以及桌面端足够好用。
 
 <details>
 <summary>过期列表</summary>
@@ -335,6 +338,7 @@ modified: 2024-09-30
 
 - [OrbStack](https://orbstack.dev/) - 一个 Docker Desktop 的轻量级替代品，我用它来管理我的 Docker 容器。
 - [UTM](https://mac.getutm.app/) - 用于在 Mac 上运行各种虚拟机。我是跑了一个 Home Assistant 做测试。
+- [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于烧录树莓派系统镜像的官方工具，界面简单直观，支持多种系统选择。
 
 <details>
 <summary>过期列表</summary>
@@ -361,10 +365,11 @@ modified: 2024-09-30
 
 ### 📷 图片处理
 
-- [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/)(¥688) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
+- [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/)(全家桶 ¥688) - 很强大的修图工具，不过我只停留在了修改分辨率以及裁剪的阶段，实在是可惜。
 - [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/) - 用于上传图片到图床的工具，我用的是 XXX 图床。
 - [upscayl](https://github.com/upscayl/upscayl) - 用来做高分辨率重建的工具，看上去效果是挺不错的。
 - [webp](https://webp.se/) - 能够自动加水印，压缩图片的重定向服务，我的图床就用它套了一层。主要是谢谢 yu 君的 [从零开始搭建你的免费图床系统 （Cloudflare R2 + WebP Cloud + PicGo）](https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo/)
+- [TouchRetouch](https://setapp.com/apps/touchretouch)(Setapp) - 专业的图片修复和物体移除工具，可以轻松去除照片中不需要的物体或瑕疵。
 
 ### 💾 云存储
 
@@ -416,6 +421,7 @@ modified: 2024-09-30
 
 - [AdGuard](https://adguard.com/)($18.37) - 用于拦截广告的工具，不过我觉得它的效果并不是很好，可能是我没配置好。
 - [Surge 5](https://nssurge.com/)($49.99) - 现在 Mac 以及 iPhone 上都用它了。
+- [Tailscale](https://tailscale.com/) - 基于 WireGuard 的 VPN 工具，可以让你的设备组成一个私有网络。配置简单，使用方便。超级棒的，若是家里有 ipv6 或者 Fullcone NAT 的话，在外网连接家里的 NAS 超级方便。我当前就是用它来在公司远程宿舍电脑的。更别说可以用来看家里的 AutoBangumi 下载好的番剧。（相见恨晚）
 - ~~[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 转用 Surge 之后，它就被我放弃了。~~
 
 ### 💪 健康检测
@@ -495,7 +501,7 @@ modified: 2024-09-30
 ### 📖 学习
 
 - [多邻国](https://www.duolingo.com/)(¥40/y) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～)
-- [MindNode](https://mindnode.com) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
+- [MindNode](https://mindnode.com)(Setapp) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
 
 <details>
 <summary>过期列表</summary>
@@ -518,6 +524,7 @@ modified: 2024-09-30
 - [inboard](https://pinboard.in/) - 文章收藏与思考记录工具。这是我的 [Pinboard 主页](https://pinboard.in/u:niracler)。
 - [小红书](https://www.xiaohongshu.com/) - 生活分享社区，用于了解生活技巧和常识补充。
 - [知乎](https://www.zhihu.com/) - 问答社区，偶尔浏览感兴趣的话题讨论。
+- [Bob](https://bobtranslate.com/)(¥74.99) - Mac 上优秀的划词翻译工具。
 
 <details>
 <summary>过期列表</summary>
@@ -589,12 +596,14 @@ modified: 2024-09-30
 
 ### 📸 截图和录屏
 
-- [CleanShot X](https://cleanshot.com/) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑，(最近发现还有滚动截屏的功能～)
+- [CleanShot X](https://cleanshot.com/)(Setapp) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑，(最近发现还有滚动截屏的功能～)
 
 ### 🛠️ 系统工具
 
 - [Applite](https://github.com/milanvarady/Applite) - 现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。
+- [CleanMyMac X](https://setapp.com/apps/cleanmymac)(Setapp) - Mac 系统清理和优化工具，既然在 Setapp 礼包中，就秉承着来都来了的原则，就装上了。（我怀疑你不仅仅只是清理垃圾，你还有其他功能）
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于将树莓派的镜像写入到 SD 卡上的工具。
+- [Windows App](https://apps.microsoft.com/detail/9n1f85v9t8bn?hl=en-us&gl=US) - 用来远程控制 Windows 的软件，感觉挺好用的。应该是官方出品。
 
 ### 🤝 会议工具
 
@@ -602,6 +611,9 @@ modified: 2024-09-30
 - [腾讯会议](https://meeting.tencent.com/) - 挺经常用的，尤其是国内面试基本都是用它。
 - [discord](https://discord.com/) - 在放映室串流方面效果做得很好，挺多时候就是当成用来跟朋友一起远程看大屏了。
 
+### 🎁 软件订阅平台
+
+- [Setapp](https://setapp.com/)(¥30/m) - 是一个订阅服务，提供超过 200 款 Mac 和 iOS 应用，涵盖生产力、设计、开发等多个领域。给人的感觉就是「**打包了一堆绝大多数情况用不到的软件卖给你**」，说实话有点鸡肋。大部分软件让我感觉只是我之前订阅的「低级替代品」。但我本身已经订阅了其中几个软件，例如 CleanShot、MindNode、iStat。如果单算这些软件的年度订阅费用，其实总价已经和 Setapp 差不多了。（注意: 消费主义陷阱!!!）
 
 ## 维护说明
 
