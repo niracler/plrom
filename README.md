@@ -1,5 +1,4 @@
 ---
-aliases: 
 title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
 tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
 cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
@@ -24,13 +23,16 @@ modified: 2024-09-30
 
 ### 📚 技术博主
 
+> 至于为什么这么少，因为其它深入一点的技术博主，我都是看不懂的。
+
 - [阮一峰](https://www.ruanyifeng.com/blog/) - 他的科技爱好者周刊是我每周必读的，文章通俗易懂，特别适合初学者。
 - [DIYgod](https://diygod.me/) - 无论是 RSSHub 还是 XLog，都充满了温度和人情味，怎能不喜欢呢？
 - …此处其实应该多找一点，尤其是国外的英文博主
 
 ### ✍️ 作家
 
-- [六神磊磊](https://book.douban.com/author/330996/) - 点评金庸的部分不多谈，《唐诗寒武纪》轻松易读，仿若在品味武侠小说。
+> 这里列的作者，是我抱着「他/她/它」所有的作品我都会去读的态度。
+
 - [沃尔特·艾萨克森](https://book.douban.com/author/197148/) - 乔布斯传以及马斯克传的作者，他写的传记是我读过的最好的传记。
 - [住野夜](https://book.douban.com/author/4625207/) - 好久没有新作，以至于我都快忘记了。出道即巅峰，后面评分一本比一本低，但其实我还是很喜欢的。
 - [阿尔贝·加缪](https://book.douban.com/author/4513690/) - 《西西弗神话》虽然我看得不太懂，但是大受震撼。尤其喜欢里面对荒谬的定义以及陈述。(事后发现，荒谬就是崩铁中的「虚无」命途)
@@ -39,6 +41,8 @@ modified: 2024-09-30
 - [刘慈欣](https://book.douban.com/author/4561353/) - 《三体》第一次让我知道了什么是硬科幻。
 - [榎宮祐](https://twitter.com/yuukamiya68) - 《NO GAME NO LIFE》的作者，已经买了一套。
 - [陈忠实](https://baike.baidu.com/item/%E9%99%88%E5%BF%A0%E5%AE%9E/45450) - 《白鹿原》可以说是中国的《百年孤独》了
+- [刘勃](https://www.douban.com/personage/35430946/) - 历史作家，编剧。看了他的《说三分》，从历史、民间、演义三个角度评述三国故事，很有意思。
+- [六神磊磊](https://book.douban.com/author/330996/) - 点评金庸的部分不多谈，《唐诗寒武纪》轻松易读，仿若在品味武侠小说。
 
 ### 🎨 漫画家
 
@@ -53,24 +57,30 @@ modified: 2024-09-30
 - [木城幸人](https://zh.wikipedia.org/wiki/%E6%9C%A8%E5%9F%8E%E5%B9%B8%E4%BA%BA) - 《铳梦》教会了我什么是赛博朋克。
 - [藤本树](https://twitter.com/nagayama_koharu) - 鬼才作家，永远都无法让人预测的剧情。真想给他一发炎拳。
 - [八木教広](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E6%9C%A8%E6%95%99%E5%BB%A3) - 《大剑》中觉醒者与人的区别真的很让人值得玩味。非常微妙。
-- [冈本伦](https://twitter.com/okamotolynn) - 现在的《平行天堂》已经到了什么神经病剧情了～～
 - [荒木飛呂彥](https://zh.wikipedia.org/wiki/%E8%8D%92%E6%9C%A8%E9%A3%9B%E5%91%82%E5%BD%A5) - 刚才谁提到 JOJO 了？
 - [市川春子](https://zh.wikipedia.org/wiki/%E5%B8%82%E5%B7%9D%E6%98%A5%E5%AD%90) - 《宝石之国》可能是我大学时期最喜欢的作品。
-- [大武政夫](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A6%E6%94%BF%E5%A4%AB) - 《超能力女儿》真的是每一话都戳中我的笑点～～
+- [大武政夫](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A6%E6%94%BF%E5%A4%AB) - 风格所有角色都是一脸扑克脸，但是剧情却非常离谱搞笑。《超能力女儿》真的是每一话都戳中我的笑点～～
 - [富坚义博](https://twitter.com/Un4v5s8bgsVk9Xp) - 猎人的世界观真的是太丰富了，我觉得他的每一部作品都值得一看。
 - [奈央晃德](https://twitter.com/naoakinari) - 原来奈央晃徳的《七人魔法使》还在画，都 31 卷了。这是同时在开两个月刊漫画啊，《我立于百万生命之上》也是他画的，画风挺有辨识度的，男主角都长得一样～～
 - [赤坂明](https://twitter.com/akasaka_aka) - 《我推的孩子》和《辉夜大小姐想让我告白》的作者，他的作品都很有趣，尤其是《我推的孩子》。（肯定是因为加了横枪萌果的元素）
 - [石田スイ](https://twitter.com/sui_ishida_jpn) - 《東京喰種》可是我高中时期最喜欢的漫画。那时候还要在周日深夜借同学的手机看。作品骗黑暗画风，主角嘛总是被虐成渣子。
 - [走马灯](https://twitter.com/somatoma) - 《影宅》的作者，艾米丽可怎么能这么可爱。
 - [创山谏](https://twitter.com/hajime_isayama) - 《进击的巨人》的作者，我觉得他的作品是我看过的最好的作品之一。
-- [矢澤愛](https://twitter.com/nanahachinokoto) - 《NANA》的作者，现在已经不会对奈奈和巧之间的爱情进行纠结了。
+- [矢澤愛](https://twitter.com/nanahachinokoto) - 《NANA》的作者，现在已经不会对奈奈和巧之间的爱情进行纠结了。（可惜无限期停更了）。
 
 漫画原作
 
 - [山川直輝](https://twitter.com/yamakawaMGnaoki) - 《我家的英雄》以及《我立于百万生命之上》的原作作者，故事很有趣，就是带了好多政治方面的观念。而且两部作品动画化都暴死了。
 - [舞城王太郎](https://twitter.com/maijouotarou) - 设定非常有趣，但是故事也就如此。是《异度入侵》和《深渊融接》的原作作者。
 
-### 🎨 里漫画家
+<details>
+<summary>弃坑列表</summary>
+
+- [冈本伦](https://twitter.com/okamotolynn) - 现在的《平行天堂》已经到了什么神经病剧情了～～
+
+</details>
+
+### 🎨 里漫画家 & 里插画师
 
 > 我怎么可能在这讲得这么详细呢？这个章节大家意会就好。
 
@@ -88,6 +98,8 @@ modified: 2024-09-30
 - [大嘘](https://myanimelist.net/people/27325/Oouso) - 大嘘的腿应该也是家喻户晓了，不过我唯一喜欢的应该是那个飞机杯系列了。
 - [八尋ぽち](https://myanimelist.net/people/17375/Pochi_Yahiro) - 画风很不错，不过让我比较印象深刻的只有黑魔法那个系列。
 - [角煮煮](https://twitter.com/kakuninii) - 他的常识改变系列也非常有趣，基本上每一部都很不错。
+- [八宝备仁](https://mzh.moegirl.org.cn/八宝备仁) - 大名顶顶的《美少女万华镜》系列就是他画的。（不对，什么叫「超级实用」？）
+- [石惠](https://x.com/ishi_kei) - 第一次接触是在《LOVE³》，也是超级有辨识度的画风。
 
 </details>
 
@@ -111,6 +123,8 @@ modified: 2024-09-30
 - [三個字 SunGuts](https://www.youtube.com/user/ray123822) - 他的视频内容主要是科普日常的身体酸痛知识，并分享简单的检测方式及自救方法。我有跟着去改一些日常姿态以及运动的坏习惯。
 - [孫沁岳](https://www.youtube.com/@yorke) - 是一个专门做漫画评论的油管主。
 - [李天豪](https://www.youtube.com/@leecehao) - 是一个台湾的历史教师，他讲的历史挺不错的，起码刷新了我很多年的历史观
+- [王志安](https://www.youtube.com/@wangzhian) - 前中央电视台调查记者，2020年移居日本后在YouTube经营自媒体频道"王局拍案"。访谈节目非常专业。
+- [硬件茶谈](https://space.bilibili.com/14871346) - 质量挺高的电脑硬件方面的 UP，之前组装主机时，也受到挺大帮助的。
 
 ### 🛩️ TG 芳邻
 
@@ -121,8 +135,9 @@ modified: 2024-09-30
 - [槿呈Goidea](https://t.me/justgoidea) - 关于读书｜新知｜生活禅方面的频道？
 - [gledos 的微型博客](https://t.me/gledos_microblogging) - 每天 7:30 定期更新，有各种好有趣的题材。
 - [Hexagram Daily（aka. 帕鲁日常）](https://t.me/hexagram_daily) - 反正是一个很厉害的后辈，已经出国读书了。
-- [Raye's Journey](https://t.me/RayeJourney) - 很有文化的程序员。
+- [Raye's Journey](https://t.me/RayeJourney) - 很有文化的程序员。有在组织某大型读书会。
 - [Yu's Life](https://t.me/pseudoyulife) - 工具控，非常友善和蔼，乐于助人。
+- [椒盐豆鼓](https://blog.douchi.space) - 剁手安利以及各种生活指南都挺有参考价值的。
 
 ### 🎙️ 播客
 
@@ -132,6 +147,7 @@ modified: 2024-09-30
 - [纵横四海](https://podcasts.apple.com/cn/podcast/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/id1671490972) - 「做一份人人都需要的人类使用说明书」。也是听得不多，从她的情绪那一期听起，感觉很不错。
 - [原来是这样 Dscience](https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7-dscience/id852289138) - 很有主播范的科普播客
 - [大老李聊数学](https://podcasts.apple.com/us/podcast/%E5%A4%A7%E8%80%81%E6%9D%8E%E8%81%8A%E6%95%B0%E5%AD%A6-%E5%85%A8%E9%9B%86/id1389947641) - 讲数学能讲的这么有趣，真是有他的，尤其我最喜欢的一期是讲凉宫春日中的超级排列数的那一期。
+- [读库 有声书版本](https://www.duku.cn) - 每期读库完全没有时间看怎么办？可以在通勤路上用读库 App 听，效果还挺不错的。
 
 ### 🎤 歌手 & 音乐制作人
 
@@ -145,6 +161,8 @@ modified: 2024-09-30
 - [yama](https://www.sonymusic.co.jp/artist/yama/) - 《国王排名》的插曲《Oz.》就是她的作品。也是在音乐节上认识的。
 - [Queen Bee](https://music.youtube.com/channel/UCcDtIC4qOmjrNUcBo4u1tvw) - 女王蜂的音乐风格妖艳独特，以朋克乐为根基，同时融合了日本歌谣曲、trap、放克乐、民谣和迪斯科等元素。我是从观看《多罗罗》和《不死不幸》的主题曲开始接触的。事实上，我参加这场音乐节最初就是为了女王蜂和 YOASOBI，而 iri 和 yama 则是令我现场心动的额外惊喜。
 - [Aimer](https://www.aimer-web.jp/) - 她为多部动画、电视剧和电影演唱了主题曲，包括著名的《BLEACH》、《Fate/stay night [Unlimited Blade Works]》、《夏目友人帐》等。是音乐节上的群友介绍的。
+- [中岛美嘉](https://zh.wikipedia.org/wiki/中島美嘉) - 怎么能这么帅，NANA 本 NA。朋友说 iri 的风格跟她很像。
+- [いとうかなこ](https://ja.wikipedia.org/wiki/いとうかなこ) - 以演唱多部动漫、游戏主题曲而闻名，最著名的作品包括《命运石之门》（Steins;Gate）系列的主题曲。
 
 ### 🛍️ 淘宝店主
 
@@ -164,6 +182,8 @@ modified: 2024-09-30
 - [Node.js Blog](https://nodejs.org/en/feed/blog.xml) - 作为一个 Node.js 开发者，我觉得这个博客是必须要订阅的。
 - [读库](https://post.smzdm.com/p/alxwmkdg/) - 我也不知道如何介绍呢～ 可以理解为是一个出版商，主营业务是一个以年为单位的杂志？每几个月一期，每期都精心挑选和出版深度丰富的非虚构作品。我持续订阅读库已经有五年了。（不过，我没有看完的本数也是越来越多了）
 - [RSSHub](https://rsshub.app/) - RSS 的重度用户，日常的新闻、博客都是通过它来订阅的。
+- [少数派](https://sspai.com) - 出来工作这几年，染上了重度的「买买买」的习惯，其实就是从这里来的。。。
+- [琉璃神社](https://www.hacg.ceo) - 「琉璃神社是一个分享最新最酷的ACG同人作品资讯社团,在这里你能找到很多欢乐」。懂的都懂，实为看了十几年神社的老登了～～
 
 ### 🏢 游戏 & 动画公司
 
@@ -174,7 +194,7 @@ modified: 2024-09-30
 ### 📰 技术新闻
 
 - [Hacker News](https://news.ycombinator.com/rss) - 作为一个程序员，我觉得这个网站是必须要订阅的。
-- [SuperTechFans](https://www.supertechfans.com/cn/post/2024-07-15-HackerNews/) - 对 Hacker News 每天的热点文章，生成中文的 AI 摘要。感觉还不错。
+- [SuperTechFans](https://www.supertechfans.com/cn/post/2024-07-15-HackerNews/) - 对 Hacker News 每天的热点文章，生成中文的 AI 摘要。感觉还不错。(已经变成每天都看了)
 - [HelloGitHub](https://hellogithub.com/) - 日常用来看看有什么新的开源项目。
 
 ## 物
@@ -182,16 +202,16 @@ modified: 2024-09-30
 ### 💻 电脑及配件
 
 - [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美。（已经有点不太够用来开发了，**转正后考虑换一个新的**）
-  - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 一开始是用来敲代码的。这次没带来西安，**吃灰中**。
+  - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 七年老键盘了，现在宿舍电脑就是用的它。
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画。（不行，真的不能这么做，太不稳定了，硬盘经常掉挂载）
   - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
 - 13600kf+4070s - 最近配的一台主机，但是还没发现更具体的用途，单纯只是用来完了两盘《文明 6 》。不过现在下班后都是用它了。在熟悉 MacOS 到 Windows 的过程。
   - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在主机就一定要用了。
-  - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 现在主机在用它。
+  - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 上班在用。
 
 ### 🏷️ 随身设备
 
-- [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 有的东西，没有的时候会觉得哪哪都缺了它，但是真的到手了之后，就发现生活中好像它不存在似的～～
+- [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 很难说的出来具体有什么作用，直到有一天忘记戴去上班。才发现已经离不开它了。
 - [AirTag](https://www.apple.com/cn/airtag/) - 买了四件套，还是很有用的（自我感觉良好🤣）
 
 ### 📱 手机以及平板
@@ -232,13 +252,23 @@ modified: 2024-09-30
 
 ### 🔋 充电
 
-- [海备思 熊猫色 Switch 便携底座 + 65W氮化镓](https://www.bilibili.com/video/BV17L4y1b7Qc/) - 某种意义上的神器 主打一个多功能，我现在宿舍的就剩它一个拓展坞了。
-- [Zendure 65W氮化镓充电器](https://zhuanlan.zhihu.com/p/136728410) - 一带 3 而且轻便，出行以及在家充电基本都靠它同时充手机、电脑、手表了。不过会漏电，这就是坑爹的地方了。
-- [倍思 苹果 Magsafe 磁吸无线充电宝](https://item.jd.com/100042985009.html) - iPhone 是真的不够电，出行一天的情况必须要带充电宝。
+- [Anker 140W 氮化镓充电器](https://www.anker.com/products/a2697-anker-charger-140w-4-port?variant=44320558055574) - 其实并不需要 140W，只是图它有四个接口，我日常充电的设备也是四个。（笔记本电脑/手机/手表/平板）
+- [Anker MagGo 三合一无线充电器](https://www.anker.com/products/a2557-maggo-qi2-wireless-charging-station-magsafe-compatible?variant=43008153616534) - 这个是放在公司用的，手机横屏无线充的同时可以通过 standby 模式看时间。
+- Anker magsafe 充电宝（5000mAh） - 用起来挺轻便的，作为充电宝的易丢体质，也不知道能不能用超过一年～～
+- [海备思 熊猫色 Switch 便携底座 + 65W氮化镓](https://www.bilibili.com/video/BV17L4y1b7Qc/) - 某种意义上的神器，Steam Deck 和 Switch 都靠它拓展。
+
+<details>
+<summary>过期列表</summary>
+
+- ~~[Zendure 65W氮化镓充电器](https://zhuanlan.zhihu.com/p/136728410) - 一带 3 而且轻便，出行以及在家充电基本都靠它同时充手机、电脑、手表了。不过会漏电，这就是坑爹的地方了。~~ 不太行。
+- ~~[倍思 苹果 Magsafe 磁吸无线充电宝](https://item.jd.com/100042985009.html) - iPhone 是真的不够电，出行一天的情况必须要带充电宝。~~ 丢了
+
+</details>
 
 ### 💤 睡眠
 
 - [安耳悠 隔音耳塞](https://item.jd.com/2987931.html#none) - 高中时期精神紧张，导致对声音比较敏感，所以睡觉的时候会戴上它。直到两年前，我还会因为睡觉的时候没有带上它而失眠，会被自己转身的声音吵醒。现在睡觉已经可以不戴了。
+- [梦百合（MLILY）零压床垫 150*200*10cm](https://item.jd.com/100056201836.html#crumb-wrap) - 买了两年了，还是很舒服的。家里跟宿舍都买了一个，睡眠质量 UP UP（也可能因为我没有用过更好的床垫了）。
 
 ### ❄️ 💧 温湿度控制
 
@@ -251,7 +281,10 @@ modified: 2024-09-30
 ### 💺 桌椅
 
 - [八九间U5人体工学电脑椅](https://item.jd.com/100022812552.html) - 坐一天是不累的，不过后来试了一下宜家中的 1700 块的人体工学椅子，才发现这个其实并没有这么贴身。要是腰竖直时，背靠是无法紧贴后背的，只有主动靠后下去才能靠到。
-- [梦百合（MLILY）零压床垫 150*200*10cm](https://item.jd.com/100056201836.html#crumb-wrap) - 买了两年了，还是很舒服的。家里跟宿舍都买了一个，睡眠质量 UP UP（也可能因为我没有用过更好的床垫了）。
+
+### 💪 健康
+
+- [小米八电极体脂秤](https://www.mi.com/shop/buy/detail?product_id=16576) - 用于测量体重、体脂率等身体数据，可以和小米运动健康 App 联动。
 
 ### 🔦 照明
 
@@ -427,9 +460,9 @@ modified: 2024-09-30
 ### 💪 健康检测
 
 - [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，不过我也不是很关心这些数据，只是偶尔看看。最近睡眠时间优化了午睡检测，效果真不错。
-- [Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。（后面才知道这个 APP 是也会同步体重数据到 Apple Health 上的）
 - [fasty](https://apps.apple.com/us/app/intermittent-fasting-tracker/id6448909309) - 最近在用这个实践 Intermittent Fasting，16:8 还是超容易做到了。具体为什么要 IF，可以看看这篇文章 [断食记|椒盐豆鼓](https://blog.douchi.space/intermittent-fasting/#gsc.tab=0)。
 - [Waterllama](https://apps.apple.com/us/app/water-tracker-waterllama/id1454778585)($9.99) - 喝水是一个稍微容易让人忽略的重要的事情。
+- [小米运动健康](https://apps.apple.com/us/app/mi-fitness-xiaomi-wear-lite/id1493500777) - 主要用来看体脂称上面的数据。
 
 <details>
 <summary>过期列表</summary>
@@ -439,6 +472,7 @@ modified: 2024-09-30
 - ~~[AutoSleep](https://autosleepapp.tantsissa.com/) - 用于监测我睡眠的 APP~~, 感觉没什么意义，现在已经停用了。
 - ~~[Pillow](https://www.neybox.com/pillow) - 用于监测我睡眠的 APP~~, 试着订阅了一年，但发现其实跟 AutoSleep 拉不开距离而且跟原生 Health 的睡眠监测体感也没什么区别，所以也停用了。
 - ~~[Pokemon Sleep](https://www.pokemon.com/us/app/pokemon-sleep) - 用于监测我睡眠的 APP，同时收集点小精灵的睡姿。(虽然睡眠质量还是很糟糕就是了～～)~~ 还是弃用了，明天都要定时打开，还是挺费精神的。现在就仅仅保留了 Apple Health
+- ~~[Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。（后面才知道这个 APP 是也会同步体重数据到 Apple Health 上的）~~ 原来小米运动还在，搞错了。
 
 </details>
 
@@ -625,11 +659,10 @@ modified: 2024-09-30
 
 内容规范：
 
-1. 尽可能标注软件的付费方式（订阅制或一次性付费）及具体费用
-2. 明确标注软件形态（小程序、原生应用或网页应用）
-3. 不再使用的项目将移至"过期列表"
-4. 新使用的软件需要稳定使用一段时间后才会加入列表，以确保其实用性和持久性
-5. 有一些涉及敏感信息比较多的软件就不列出来了，例如用什么银行，以及公司用的什么软件等
+1. 尽可能标注软件的付费方式（订阅制或一次性付费）及具体费用、软件形态（小程序、原生应用或网页应用）、软件平台（iOS、Android、macOS、Windows 等）
+2. 不再使用的项目将移至"过期列表"
+3. 新使用的软件需要稳定使用一段时间后才会加入列表，以确保其实用性和持久性
+4. 有一些涉及敏感信息比较多的软件就不列出来了，例如用什么银行，以及公司用的什么软件等
 
 ### 软件选择原则
 
