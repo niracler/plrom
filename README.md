@@ -1,5 +1,4 @@
 ---
-aliases: 
 title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
 tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
 cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
