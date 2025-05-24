@@ -1,4 +1,4 @@
----
+<!-- 
 title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
 tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
 cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
@@ -7,7 +7,7 @@ summary: 关于我关注的人和物。这个主题很个人化，我喜欢的�
 note_id: 273
 date: 2024-09-26
 modified: 2024-09-30
----
+-->
 
 # plrom
 
