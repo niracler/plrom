@@ -6,5 +6,6 @@ ignorePatterns:
   - pattern: '^https://zhuanlan.zhihu.com/p/*$'
   - pattern: '^https://news.ycombinator.com/$'
   - pattern: '^https://zh.moegirl.org.cn/$'
+  - pattern: '^https://www.damai.cn/*$'
 
 useGitIgnore: true
