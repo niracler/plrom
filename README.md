@@ -1,4 +1,4 @@
----
+<!-- 
 title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
 tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
 cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
@@ -7,7 +7,7 @@ summary: 关于我关注的人和物。这个主题很个人化，我喜欢的�
 note_id: 273
 date: 2024-09-26
 modified: 2024-09-30
----
+-->
 
 # plrom
 
@@ -205,9 +205,10 @@ modified: 2024-09-30
   - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 七年老键盘了，现在宿舍电脑就是用的它。
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画。（不行，真的不能这么做，太不稳定了，硬盘经常掉挂载）
   - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
+- [倍控工控主机四核 J1900 8G内存 256G 固态](https://item.jd.com/10040009548064.html#crumb-wrap) - 一开始用来做软路由来着，但是 OpenWrt 太灵车了，最后还是转回了 Apple TV + Surge 做软路由。后面找找有什么可玩的方案。
 - 13600kf+4070s - 最近配的一台主机，但是还没发现更具体的用途，单纯只是用来完了两盘《文明 6 》。不过现在下班后都是用它了。在熟悉 MacOS 到 Windows 的过程。
   - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在主机就一定要用了。
-  - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 上班在用。
+  - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 上班在用
 
 ### 🏷️ 随身设备
 
@@ -216,7 +217,7 @@ modified: 2024-09-30
 
 ### 📱 手机以及平板
 
-- [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 256G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。
+- [iPhone 16 pro](https://www.apple.com/cn/iphone-16-pro/) - 在 618 国补后 5499 入手的。周围的人都说 128G 肯定不够用呢～～
 - [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏
 - **Boox Leaf** - 现在仅仅用来睡前看电子书，看漫画太难受了。
 - [Redmi Pad](https://www.mi.com/redmipad) - Tachiyomi 启动器。
@@ -224,8 +225,9 @@ modified: 2024-09-30
 <details>
 <summary>不活跃列表</summary>
 
-- ~~[Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器~~ **想送人了**
-- ~~[iPhone SE 2](https://www.apple.com/cn/iphone-se/) - 64G, 其实我很喜欢这种大小，就是续航太拉跨以至于只能换到 14 pro 了。~~ **想送人了**
+- [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 128G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。**给老爸用了**
+- [Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器 **想送人了**
+- [iPhone SE 2](https://www.apple.com/cn/iphone-se/) - 64G, 其实我很喜欢这种大小，就是续航太拉跨以至于只能换到 14 pro 了。 **想送人了**
 
 </details>
 
@@ -248,13 +250,13 @@ modified: 2024-09-30
 - [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着 xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。**想出手了**
   - [Reletech Xbox Serie x Xbox Serie s1tb2tb Solid State Drive](https://www.amazon.com/Storage-Expansion-Serie-1TB2TB-Solid/dp/B09TPCQ7Z7?th=1) - 用于扩展 xbox 的存储空间，因为 xbox 的游戏太大了，内置的 512G 已经不够用了。警惕后世人，要买就买 XBox Series X，不然就是后悔。
 - [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了。《文明 6》都会卡，只能玩小游戏了。
-- [Apple TV 4K](https://www.apple.com/apple-tv-4k/) - 结合 infuse 是家里的主力播放器，不过我也很少看电视，主要是给住在远方的父母平日看的。
+- [Apple TV 4K](https://www.apple.com/apple-tv-4k/) - 结合 infuse 是家里的主力播放器。现在也用来做软路由了。
 
 ### 🔋 充电
 
 - [Anker 140W 氮化镓充电器](https://www.anker.com/products/a2697-anker-charger-140w-4-port?variant=44320558055574) - 其实并不需要 140W，只是图它有四个接口，我日常充电的设备也是四个。（笔记本电脑/手机/手表/平板）
 - [Anker MagGo 三合一无线充电器](https://www.anker.com/products/a2557-maggo-qi2-wireless-charging-station-magsafe-compatible?variant=43008153616534) - 这个是放在公司用的，手机横屏无线充的同时可以通过 standby 模式看时间。
-- Anker magsafe 充电宝（5000mAh） - 用起来挺轻便的，作为充电宝的易丢体质，也不知道能不能用超过一年～～
+- [Anker 安克 MagGo 磁吸充电宝](https://item.jd.com/10114585672375.html)(¥369) - 没有上一个好用，我需要有支架的功能。
 - [海备思 熊猫色 Switch 便携底座 + 65W氮化镓](https://www.bilibili.com/video/BV17L4y1b7Qc/) - 某种意义上的神器，Steam Deck 和 Switch 都靠它拓展。
 
 <details>
@@ -262,6 +264,7 @@ modified: 2024-09-30
 
 - ~~[Zendure 65W氮化镓充电器](https://zhuanlan.zhihu.com/p/136728410) - 一带 3 而且轻便，出行以及在家充电基本都靠它同时充手机、电脑、手表了。不过会漏电，这就是坑爹的地方了。~~ 不太行。
 - ~~[倍思 苹果 Magsafe 磁吸无线充电宝](https://item.jd.com/100042985009.html) - iPhone 是真的不够电，出行一天的情况必须要带充电宝。~~ 丢了
+- Anker magsafe 充电宝（5000mAh） - 用起来挺轻便的，作为充电宝的易丢体质，也不知道能不能用超过一年～～ **没有超过一年**
 
 </details>
 
@@ -269,6 +272,7 @@ modified: 2024-09-30
 
 - [安耳悠 隔音耳塞](https://item.jd.com/2987931.html#none) - 高中时期精神紧张，导致对声音比较敏感，所以睡觉的时候会戴上它。直到两年前，我还会因为睡觉的时候没有带上它而失眠，会被自己转身的声音吵醒。现在睡觉已经可以不戴了。
 - [梦百合（MLILY）零压床垫 150*200*10cm](https://item.jd.com/100056201836.html#crumb-wrap) - 买了两年了，还是很舒服的。家里跟宿舍都买了一个，睡眠质量 UP UP（也可能因为我没有用过更好的床垫了）。
+- 温眠人体工学深睡枕 3.0 (¥279) - 确实会比梦百合送的那几个枕头好些，不过感受到的差距不大。
 
 ### ❄️ 💧 温湿度控制
 
@@ -285,17 +289,27 @@ modified: 2024-09-30
 ### 💪 健康
 
 - [小米八电极体脂秤](https://www.mi.com/shop/buy/detail?product_id=16576) - 用于测量体重、体脂率等身体数据，可以和小米运动健康 App 联动。
+- [QWE 吨吨桶 2000ml](https://item.jd.com/100090973465.html) - 解决了我的喝水问题，每天来到公司装满一瓶，目标就是下班喝完就好。
 
 ### 🔦 照明
 
-- [Yeelight 智能床头灯 D2](https://zhuanlan.zhihu.com/p/148626907) - 一开始用来体验 homekit 的，光线很柔和。然而并没有什么用，又比较贵。
+- [米家显示器挂灯 1S](https://www.mi.com/shop/buy/detail?product_id=15186) - 当前这个算是用来做台灯了。
+- [米家床头灯2 白色](https://www.mi.com/hk/mi-bedside-lamp-2/) - 睡觉前看看漫画先～～
 - [米家 LED 智能台灯](https://www.mi.com/mjsmartlamp) - 绝对神器，用了之后我宿舍房间的顶灯我就基本没开过了。联合小爱同学实现随叫随开。
+
+<details>
+<summary>过期列表</summary>
+
+- [Yeelight 智能床头灯 D2](https://zhuanlan.zhihu.com/p/148626907) - 一开始用来体验 homekit 的，光线很柔和。然而并没有什么用，又比较贵。
+
+</details>
 
 ### 🍳 做饭
 
 - [米家智能IH电饭煲 3L](https://www.mi.com/dianfanbao2) - 后悔买这么小了，只有我一个人时不想做饭。而人多又不够容量 (**父母拿去用了**)
 - [飞利浦空气炸锅](https://www.philips.com.cn/c-p/NA230_00/2000-series-airfryer-2000-series-62l) - 现在每周都在做。
 - [米家电饭煲N1 3L](https://www.mi.com/shop/buy/detail?product_id=20149) - 又买了一个，电源线真短~~
+- [海尔（Haier）小冰箱 123 升](https://item.jd.com/10112656283963.html) - 冰箱确实是挺必须的，不过一个人住这冰箱感觉有点大了。
 
 ### 💆 按摩
 
@@ -324,12 +338,15 @@ modified: 2024-09-30
 
 ### 📝 文本编辑 & IDE
 
-- [cursor](https://www.cursor.com/) - 已经离不开 Cursor 了，它真的太好用了。直觉上，工作中的 70% 代码都是它写的。
+- [cursor](https://www.cursor.com/) - 已经离不开 Cursor 了，它真的太好用了。直觉上，工作中的 70% 代码都是它写的。（事后 => 这个月超额用了 20 刀， 有点想换成 OpenAI 收购的那一家）
+  - [WakaTime](https://wakatime.com/dashboard) - 一个用于跟踪和分析编程时间的工具，才发现我一周开发 28H 已经是我工作中的极限了～～
+  - [dracula-theme](https://github.com/dracula/dracula-theme) - 在用这个主题。
   - GitLens - 用于查看 git 历史记录的插件，它的 `blame` 功能太好用了，在团队合作的时候可以一眼看到谁写的代码。
   - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
   - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
   - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
 - [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
+  - [Shiba lnu](https://github.com/faroukx/Obsidian-shiba-inu-theme) - 现在在用这个主题
   - [obsidian-linter](https://github.com/platers/obsidian-linter) - 用于格式化 markdown 的插件，不过我觉得它的功能还是不够完善，有时候会出现一些奇怪的问题。
   - [obsidian-git](https://github.com/Vinzent03/obsidian-git) - 用于将 obsidian 的笔记同步到 git 仓库的插件。Obsidian 用起来有一个问题，就是没有版本控制，很多时候我写一些记录会进行删删改改，以至于有一些历史的想法可能就流失了。于是就用这个插件。
   - [obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - 用于将 pinboard 的书签同步到 obsidian 日记中的插件。主要是为了可以在 obsidian 中搜索到我之前的书签以及对应的评论。
@@ -344,7 +361,6 @@ modified: 2024-09-30
   - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
   - ~Copilot | LazyVim - 第一个必装的插件也是 Copilot 插件了，已经到了没有这个插件就无法敲代码的地步了。~
   - [autoime.nvim](https://github.com/OliverChao/autoime.nvim) - ECS 自动使用 im-select 帮你将输入法切换为英文。避免频繁将输入法从中文模式切换到英文模式，来输入 vim 命令。
-  
 - ~~[GitHub Copilot](https://github.com/features/copilot) - 几乎不能不用的插件，我已经习惯了它的存在。什么时候我也可以蹭上热门开源项目然后免使用呢？~~ 退款了，Cursor 确实更好用。
 
 </details>
@@ -441,7 +457,8 @@ modified: 2024-09-30
 - [X](https://x.com) - 主要用来关注一些技术博主和开源项目的动态。
 - [Discord](https://discord.com/) - 主要用于参与开源社区讨论和反馈问题，日常很少使用。
 - [Fastmail](https://www.fastmail.com/)($50/y) - 我的主力邮箱服务。它的随机匿名邮箱功能配合 1Password 使用非常方便，是我注册各类网站的首选。这个功能也很好地保护了我的隐私。
-- [微信](https://weixin.qq.com/) - 主要用于和国内亲友联系。我很少刷朋友圈，也基本不发朋友圈。偶尔会看看关注的公众号。
+- [微信](https://weixin.qq.com/) - 主要用于和国内亲友联系。最近重新开始更新朋友圈了，也在找回一起以前的同学朋友进行互动。
+- [QQ](https://im.qq.com/index/) - 现在除了二次元还有谁在玩 QQ 呢 😂，最近手机上也偶尔会刷一下一些旧朋友 QQ 上的说说。
 - [熊猫吃短信 2](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818)(¥12/y) - iPhone 上的垃圾短信拦截工具。虽然效果不错，但有时因为长期不查看，系统会自动清理掉被拦截的短信。
 
 ### 🔑 隐私安全
@@ -459,14 +476,14 @@ modified: 2024-09-30
 
 ### 💪 健康检测
 
-- [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，不过我也不是很关心这些数据，只是偶尔看看。最近睡眠时间优化了午睡检测，效果真不错。
-- [fasty](https://apps.apple.com/us/app/intermittent-fasting-tracker/id6448909309) - 最近在用这个实践 Intermittent Fasting，16:8 还是超容易做到了。具体为什么要 IF，可以看看这篇文章 [断食记|椒盐豆鼓](https://blog.douchi.space/intermittent-fasting/#gsc.tab=0)。
-- [Waterllama](https://apps.apple.com/us/app/water-tracker-waterllama/id1454778585)($9.99) - 喝水是一个稍微容易让人忽略的重要的事情。
+- [Apple Health](https://www.apple.com/cn/ios/health/) - 用于记录我每天的步数以及睡眠时间，我此前的睡眠目标是 0:00-7:00，但这错得离谱。结合 Apple Watch  我发现我睡眠效率还不到 90%（Sleep Apnea），按这种方法睡就相当于长期睡眠 6H，难怪我一直以来都感觉挺困的。最近改成 10:30 上床，大概 11:00 睡着，到 7:00 就差不多了（精神了很多）
 - [小米运动健康](https://apps.apple.com/us/app/mi-fitness-xiaomi-wear-lite/id1493500777) - 主要用来看体脂称上面的数据。
 
 <details>
 <summary>过期列表</summary>
 
+- [fasty](https://apps.apple.com/us/app/intermittent-fasting-tracker/id6448909309) - 最近在用这个实践 Intermittent Fasting，16:8 还是超容易做到了。具体为什么要 IF，可以看看这篇文章 [断食记|椒盐豆鼓](https://blog.douchi.space/intermittent-fasting/#gsc.tab=0)。**经常忘记打卡～～**
+- [Waterllama](https://apps.apple.com/us/app/water-tracker-waterllama/id1454778585)($9.99) - 喝水是一个稍微容易让人忽略的重要的事情。**有上面的 2L 水瓶后就不需要了**
 - ~~[Apple Fitness+](https://www.apple.com/apple-fitness-plus/) - 订阅了 Apple One 之后就有了这个服务，替代掉之前使用的 Keep。不过使用频率堪忧。~~ 首先没有中文，二来也贵，所以还是停用了。
 - ~~[Keep](https://www.gotokeep.com/) - 结合跳绳的方案其实还挺好的。~~ ~~之前用来做健身的，不过现在已经停用了，转去用 Fitness+。~~ 怎么说呢，keep 其实很适合新手根练，但是对于我这种已经有一定基础的人来说，就有点不够了。我现在已经是通过自己的安排，结合视频来练了。
 - ~~[AutoSleep](https://autosleepapp.tantsissa.com/) - 用于监测我睡眠的 APP~~, 感觉没什么意义，现在已经停用了。
@@ -482,8 +499,12 @@ modified: 2024-09-30
 
 - [米家](https://home.mi.com/) - 用于控制家里的智能设备,如灯、空调、扫地机器人等。不过当家里断网时,这些智能设备就成了摆设(似乎可以通过网关解决这个问题)。
 - [Aqara Home](https://www.aqara.com/) - 因为使用了 Aqara 的摄像头而不得不安装。
-- [Home Assistant](https://www.home-assistant.io/) - 已部署在树莓派上,后续会逐步扩展这方面的应用。
+- [Home Assistant](https://www.home-assistant.io/) - 已部署在树莓派上，后续会逐步扩展这方面的应用。
+- [Home Assistant Companion](https://companion.home-assistant.io) - 最近日常手机上都是开 tailscale 来让 HA 识别我是否到家了，到家之前自动开空调电脑之类的。
 - [Apple Home](https://www.apple.com/cn/apple-home/) - 设备价格偏高,目前只有少量设备。不过配合 Home Assistant 后应该会有更多可能性。
+
+(最近摸鱼时调的一个 HA 面板)
+![CleanShot 2025-05-23 at 15.08.17@2x.png](https://image.niracler.com/2025/05/8770f3aca85cdd8a358bf0e17426c353.png)
 
 ### 🛒 购物
 
@@ -504,7 +525,7 @@ modified: 2024-09-30
 ### 📺 视频 & 🎵 音乐
 
 - [YouTube](https://www.youtube.com/)(¥120/y 淘宝) - 通过淘宝购买的 YouTube Premium 会员，去除广告后体验极佳，各设备使用频率大幅提升。
-- [哔哩哔哩 App](https://www.bilibili.com/) - 轻度视频用户，年观看时长不足 200 小时。主要关注少数几个优质 UP 主的内容更新。
+- [哔哩哔哩 App](https://www.bilibili.com/) - 轻度视频用户，年观看时长不足 200 小时。主要关注少数几个 UP 主的内容更新。
 - [infuse](https://firecore.com/infuse)($12.99/y) - 优雅的视频播放器，完美支持阿里云盘视频播放。界面精美，用户体验出色，但随着成本上升可能需要寻找替代方案。
 - [剪映专业版](https://www.capcut.cn/) - 视频剪辑工具，通过 Samba 协议将树莓派存储的视频映射到电脑，实现便捷的本地剪辑。（或许 iMovie 也可以？）
 - [iina](https://iina.io/) - macOS 上优秀的本地视频播放器，是我的首选播放工具。
@@ -551,11 +572,11 @@ modified: 2024-09-30
 - [豆瓣](https://douban.com) - 影视、书籍、音乐等作品的评分参考平台。这是我的[豆瓣主页](https://www.douban.com/people/niracler/)，主要记录 ACG 作品的观看体验。
 - [读库 APP](https://www.duku.cn)(需要订阅读库) - 提供志愿者朗读的精选文章音频，适合碎片时间收听。
 - [微信读书](https://weread.qq.com/) - 内容丰富的电子书平台，适合阅读文学类作品。技术类书籍建议选择纸质版或 PDF 格式。
-- [得到](https://www.igetget.com/) - 知识付费平台，作为微信读书的补充书源，按需订阅。
+- [得到](https://www.igetget.com/) - 知识付费平台，作为微信读书的补充书源，按需订阅。最近用来听书比较多。
 - [Pinterest](https://www.pinterest.com/) - 优质图片资源平台，特别适合寻找头像和壁纸素材。
-- [xlog](https://xlog.app) - Web3 博客平台，氛围轻松愉快。许多用户在此更新周记，阅读他人的生活记录让人感受到赛博邻里的温度。
+- [xlog](https://xlog.app) - Web3 博客平台，氛围轻松愉快。许多用户在此更新周记，阅读他人的生活记录让人感受到赛博邻里的温度。**不过近半年很少看了**
 - [hackernew](https://news.ycombinator.com/) - 科技行业前沿新闻聚合平台，内容质量高但易沉迷。
-- [inboard](https://pinboard.in/) - 文章收藏与思考记录工具。这是我的 [Pinboard 主页](https://pinboard.in/u:niracler)。
+- [pinboard](https://pinboard.in/) - 文章收藏与思考记录工具。这是我的 [Pinboard 主页](https://pinboard.in/u:niracler)。
 - [小红书](https://www.xiaohongshu.com/) - 生活分享社区，用于了解生活技巧和常识补充。
 - [知乎](https://www.zhihu.com/) - 问答社区，偶尔浏览感兴趣的话题讨论。
 - [Bob](https://bobtranslate.com/)(¥74.99) - Mac 上优秀的划词翻译工具。
@@ -596,11 +617,12 @@ modified: 2024-09-30
 - [嘀嗒出行](https://www.didachuxing.com/)(小程序) - 用于叫顺风车，在各个市之间移动的时候用的比较多。
 - [Rond](https://sspai.com/post/85355)(¥98) - 一款基于本地数据记录行程的软件，软件很优雅。
 - [Apple Maps](https://www.apple.com/cn/maps/) - 在国内挺难使用的，再坚持用一会吧（不过大概率很快就又切换回高德了）
+- [大麦](https://www.damai.cn) - 成为现充(伪)经常处于看各种演出之后，现在会偶尔关注这些信息了。（钱包不太能顶得住）
 
 <details>
 <summary>过期列表</summary>
 
-- ~~[高德地图](https://www.amap.com/) - 最后还是用回它了，现在打车也就主要靠它了。~~ 卸载了，我不太喜欢这种什么花里胡哨功能都有的软件。
+- [高德地图](https://www.amap.com/) - 最后还是用回它了，现在打车也就主要靠它了。 卸载了，我不太喜欢这种什么花里胡哨功能都有的软件。
 - [饿了么](https://www.ele.me/) - 开了淘宝的 88 会员之后，就再也没买过美团的券了。 -> 还是用不习惯～～
 
 </details>
@@ -611,6 +633,7 @@ modified: 2024-09-30
 
 - [Steam](https://store.steampowered.com/) - 手机 App，作为验证用的，平常因为网络太卡了，也很少用。
 - [崩坏: 星穹铁道](https://sr.mihoyo.com/) - 当作是每月花两张电影票的钱去看两场电影，以及可以锻炼一下自己的规划能力。（当时是因为藿藿入坑的～～）
+- [Muse Dash](https://musedash.peropero.net/#/version) - 早期计划通，现在看来简直不能再赚了，一直在更新真的很良心。
 - [小黑盒](https://www.xiaoheihe.cn) - 主要用来看各种游戏机上面的游戏时长，以前的话会在上面看游戏点评以及买游戏什么的。
 
 <details>
@@ -623,6 +646,7 @@ modified: 2024-09-30
 
 ### 🖥️ 开发工具
 
+- [Warp](https://www.warp.dev) - 还在尝试使用，也配了一个下拉式终端。
 - [iTerm 2](https://iterm2.com/) - 用于替代原生的终端，主要是它可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 用于连接 MongoDB 数据库的客户端。
 - [MQTTX](https://mqttx.app/) - 用于测试 MQTT 协议的工具，我一般用它来测试 Mosquitto 的配置。
@@ -630,7 +654,7 @@ modified: 2024-09-30
 
 ### 📸 截图和录屏
 
-- [CleanShot X](https://cleanshot.com/)(Setapp) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑，(最近发现还有滚动截屏的功能～)
+- [CleanShot X](https://cleanshot.com/)(Setapp) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑，(还有滚动截屏的功能)
 
 ### 🛠️ 系统工具
 
