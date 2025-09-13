@@ -26,7 +26,7 @@ modified: 2024-09-30
 > 至于为什么这么少，因为其它深入一点的技术博主，我都是看不懂的。
 
 - [阮一峰](https://www.ruanyifeng.com/blog/) - 他的科技爱好者周刊是我每周必读的，文章通俗易懂，特别适合初学者。
-- [DIYgod](https://diygod.me/) - 无论是 RSSHub 还是 XLog，都充满了温度和人情味，怎能不喜欢呢？
+- [DIYgod](https://diygod.me/) - 无论是 RSSHub ~~还是 XLog~~，都充满了温度和人情味，怎能不喜欢呢？(默哀 XLog 基本不能用了)
 - …此处其实应该多找一点，尤其是国外的英文博主
 
 ### ✍️ 作家
@@ -100,6 +100,7 @@ modified: 2024-09-30
 - [角煮煮](https://twitter.com/kakuninii) - 他的常识改变系列也非常有趣，基本上每一部都很不错。
 - [八宝备仁](https://mzh.moegirl.org.cn/八宝备仁) - 大名顶顶的《美少女万华镜》系列就是他画的。（不对，什么叫「超级实用」？）
 - [石惠](https://x.com/ishi_kei) - 第一次接触是在《LOVE³》，也是超级有辨识度的画风。
+- [23.4ド(イチリ)](https://x.com/234itiri) - 《堕天计画》系列的作者，天使恶堕什么的，是我没法抗拒的题材呢。
 
 </details>
 
@@ -201,14 +202,17 @@ modified: 2024-09-30
 
 ### 💻 电脑及配件
 
-- [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美。（已经有点不太够用来开发了，**转正后考虑换一个新的**）
-  - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 七年老键盘了，现在宿舍电脑就是用的它。
-- [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - 8G RAM, 用于做一些小玩意儿。外接了一个 2T 的硬盘，用于存储 AutoBangumi 的动画。（不行，真的不能这么做，太不稳定了，硬盘经常掉挂载）
-  - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
+- [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美。（工作上换成公司的 M4 mini 了，这台仅仅留在宿舍低频使用了）
+- [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - 8G RAM, 现在用来运行 [HAOS](https://www.home-assistant.io/installation/)
 - [倍控工控主机四核 J1900 8G内存 256G 固态](https://item.jd.com/10040009548064.html#crumb-wrap) - 一开始用来做软路由来着，但是 OpenWrt 太灵车了，最后还是转回了 Apple TV + Surge 做软路由。后面找找有什么可玩的方案。
 - 13600kf+4070s - 最近配的一台主机，但是还没发现更具体的用途，单纯只是用来完了两盘《文明 6 》。不过现在下班后都是用它了。在熟悉 MacOS 到 Windows 的过程。
-  - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在主机就一定要用了。
-  - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 上班在用
+  - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 八年老键盘了，现在宿舍电脑就是用的它。
+  - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在是连着 windows 主机在用。
+  - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
+- [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 拿去公司上班用了
+
+(远远称不上整洁的桌面😂)
+![28D407F9-1DD6-48B1-8F06-B58A44EF392A_1_105_c.jpeg](https://image.niracler.com/2025/09/ae548461d451ed36ab16001c1832028c.jpeg)
 
 ### 🏷️ 随身设备
 
@@ -218,9 +222,9 @@ modified: 2024-09-30
 ### 📱 手机以及平板
 
 - [iPhone 16 pro](https://www.apple.com/cn/iphone-16-pro/) - 在 618 国补后 5499 入手的。周围的人都说 128G 肯定不够用呢～～
-- [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏
-- **Boox Leaf** - 现在仅仅用来睡前看电子书，看漫画太难受了。
-- [Redmi Pad](https://www.mi.com/redmipad) - Tachiyomi 启动器。
+- [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏。
+- **Boox Leaf** - 现在仅仅用来睡前看电子书，看漫画太难受了。**借给朋友去用了**。
+- [Redmi Pad](https://www.mi.com/redmipad) - Tachiyomi 启动器。为了克制一下不要全天在看漫画，**现在一般两个月才回家集中看两天漫画**（是吗？能做到吗？）
 
 <details>
 <summary>不活跃列表</summary>
@@ -246,7 +250,7 @@ modified: 2024-09-30
 
 ### 🎮 游戏娱乐设备
 
-- [Nintendo Switch 续航版](https://www.nintendo.com/switch/) - 我的第一台游戏机，日版，一开始是为了玩动物森友会。
+- [Nintendo Switch 续航版](https://www.nintendo.com/switch/) - 我的第一台游戏机，日版，一开始是为了玩动物森友会。**新火纹要出了，准备送人买 switch2**
 - [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着 xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。**想出手了**
   - [Reletech Xbox Serie x Xbox Serie s1tb2tb Solid State Drive](https://www.amazon.com/Storage-Expansion-Serie-1TB2TB-Solid/dp/B09TPCQ7Z7?th=1) - 用于扩展 xbox 的存储空间，因为 xbox 的游戏太大了，内置的 512G 已经不够用了。警惕后世人，要买就买 XBox Series X，不然就是后悔。
 - [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了。《文明 6》都会卡，只能玩小游戏了。
@@ -264,7 +268,7 @@ modified: 2024-09-30
 
 - ~~[Zendure 65W氮化镓充电器](https://zhuanlan.zhihu.com/p/136728410) - 一带 3 而且轻便，出行以及在家充电基本都靠它同时充手机、电脑、手表了。不过会漏电，这就是坑爹的地方了。~~ 不太行。
 - ~~[倍思 苹果 Magsafe 磁吸无线充电宝](https://item.jd.com/100042985009.html) - iPhone 是真的不够电，出行一天的情况必须要带充电宝。~~ 丢了
-- Anker magsafe 充电宝（5000mAh） - 用起来挺轻便的，作为充电宝的易丢体质，也不知道能不能用超过一年～～ **没有超过一年**
+- Anker magsafe 充电宝（5000mAh） - 用起来挺轻便的，作为充电宝的易丢体质，也不知道能不能用超过一年～～ **丢了，没有超过一年**
 
 </details>
 
@@ -276,11 +280,12 @@ modified: 2024-09-30
 
 ### ❄️ 💧 温湿度控制
 
-- [米家落地扇](https://www.mi.com/shop/buy/detail?product_id=12010) - 用于夏天的时候，不过很多时候不够，所以还是会开空调。
-- [小米直流变频两季扇](https://item.jd.com/10048740377675.html) (塔扇 黑) - 买亏了，真不应该想着冬天去用它的。而且夏天其实也不够，还是要买空调～～
+- [米家落地扇](https://www.mi.com/shop/buy/detail?product_id=12010) - 用于夏天的时候，不过很多时候不够，所以还是会开空调。**现在在宿舍就用这个**
+- [小米直流变频两季扇](https://item.jd.com/10048740377675.html) (塔扇 黑) - 买亏了，真不应该想着冬天去用它的。而且夏天其实也不够，还是要买空调～～ **是家里父母在用**
 - [米家电子温湿度计 Pro](https://zhuanlan.zhihu.com/p/187539523) - 才发现，广东的湿度真的很高，基本都是 80% 以上。
 - [小米抽湿机13L](https://zhuanlan.zhihu.com/p/676013675) - 比想像中的要大要重，噪声也是有的。一开始以为没什么用，直到我去倒水。要将湿度从 80% -> 60% 感觉我要倒无数次水～～
-- [小米空气净化器 5](https://www.mi.com/shop/buy/detail?product_id=20266&cfrom=search) - 西安这边空气不太好。
+- [小米空气净化器 5](https://www.mi.com/shop/buy/detail?product_id=20266&cfrom=search) - ~~西安这边空气不太好。~~ 回到广东基本就是吃灰状态了。
+- [米家智能香氛机](https://www.mi.com/shop/buy/detail?product_id=20564) - 用于改善室内空气氛围，提供舒适的香氛体验。公司活动送的，**用起来有点微妙**
 
 ### 💺 桌椅
 
@@ -290,6 +295,7 @@ modified: 2024-09-30
 
 - [小米八电极体脂秤](https://www.mi.com/shop/buy/detail?product_id=16576) - 用于测量体重、体脂率等身体数据，可以和小米运动健康 App 联动。
 - [QWE 吨吨桶 2000ml](https://item.jd.com/100090973465.html) - 解决了我的喝水问题，每天来到公司装满一瓶，目标就是下班喝完就好。
+- [米家负离子吹风机 H301](https://www.mi.com/shop/buy/detail?product_id=16725) - 日常洗发后使用，**不过我还是自然干的比较多**。
 
 ### 🔦 照明
 
@@ -313,7 +319,7 @@ modified: 2024-09-30
 
 ### 💆 按摩
 
-- [米家迷你筋膜枪2C](https://www.mi.com/shop/buy/detail?product_id=18607&cfrom=search) - 开始健身之后发现身体哪哪都酸痛，于是就买一个来进行按摩了。
+- [米家迷你筋膜枪2C](https://www.mi.com/shop/buy/detail?product_id=18607&cfrom=search) - 开始健身之后发现身体哪哪都酸痛，于是就买一个来进行按摩了。**还是跟着视频去做各种拉伸动作比较靠谱**
 
 ## 软件工具
 
@@ -321,12 +327,12 @@ modified: 2024-09-30
 
 > 不过其实太多了，我这里只挑我用的最多的 20 个
 
-- [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的
+- [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的。
+- [Claude Code](https://claude.ai/code) - 现在已经是我的米饭帮主了，没有它我没法展开工作。
 - [x-cmd](https://x-cmd.com) - 我前司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + … )`
 - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
 - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
 - [docker](https://www.docker.com/) - 用于开发和部署容器化应用的工具, 也是属于一个基本不能不用的软件了
-- [frp](https://github.com/fatedier/frp) - 用于内网穿透的工具，我用它来将我的树莓派暴露出来，为了 ServerCat 可以连上。（Cloudflare Tunnel 穿透出来的连不上）
 - [hurl](https://github.com/Orange-OpenSource/hurl) - 用于测试 HTTP 请求的工具。
 - [markdown-link-check](https://github.com/tcort/markdown-link-check) - 用于检查 markdown 文件中的链接是否有效。我这篇文章的链接就主要是靠它检查的。
 - [zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - 用于在 zsh 中使用 fzf 来搜索历史命令。
@@ -335,10 +341,18 @@ modified: 2024-09-30
 - [imagemagick](https://imagemagick.org/index.php) - 用于处理图片的命令行工具，我主要用它来批量转换图片格式。
 - [ffmpeg](https://ffmpeg.org/) - 用于处理视频的命令行工具，简单的视频切片、转码等操作都可以用它来完成。
 - [ollama](https://ollama.com/) - 很方便地在本地跑 LLM 的工具，当然了，电脑性能是否足够是另外的问题了。
+- [onefetch](https://github.com/o2sh/onefetch) - 用 Rust 编写的命令行 Git 仓库信息展示工具，类似于 neofetch 但专门用于显示代码仓库的详细信息。
+
+<details>
+<summary>过期列表</summary>
+
+- [frp](https://github.com/fatedier/frp) - 用于内网穿透的工具，我用它来将我的树莓派暴露出来，为了 ServerCat 可以连上。（Cloudflare Tunnel 穿透出来的连不上） **在用上 tailscale 之后就基本不用它了**
+
+</details>
 
 ### 📝 文本编辑 & IDE
 
-- [cursor](https://www.cursor.com/) - 已经离不开 Cursor 了，它真的太好用了。直觉上，工作中的 70% 代码都是它写的。（事后 => 这个月超额用了 20 刀， 有点想换成 OpenAI 收购的那一家）
+- [VS Code](https://code.visualstudio.com/) - 现在主要使用的编辑器，配合 Claude Code 使用体验很好。
   - [WakaTime](https://wakatime.com/dashboard) - 一个用于跟踪和分析编程时间的工具，才发现我一周开发 28H 已经是我工作中的极限了～～
   - [dracula-theme](https://github.com/dracula/dracula-theme) - 在用这个主题。
   - GitLens - 用于查看 git 历史记录的插件，它的 `blame` 功能太好用了，在团队合作的时候可以一眼看到谁写的代码。
@@ -351,11 +365,13 @@ modified: 2024-09-30
   - [obsidian-git](https://github.com/Vinzent03/obsidian-git) - 用于将 obsidian 的笔记同步到 git 仓库的插件。Obsidian 用起来有一个问题，就是没有版本控制，很多时候我写一些记录会进行删删改改，以至于有一些历史的想法可能就流失了。于是就用这个插件。
   - [obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - 用于将 pinboard 的书签同步到 obsidian 日记中的插件。主要是为了可以在 obsidian 中搜索到我之前的书签以及对应的评论。
   - [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) - 用于将 obsidian 中的图片自动上传到图床的插件。
+  - [obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - 自动获取链接的标题并替换链接文本，让链接更易读和美观。
+  - [simple-anki-sync](https://github.com/lukmay/simple-anki-sync) - 将 Obsidian 笔记同步到 Anki 卡片的插件，便于将知识点转化为记忆卡片。
 
 <details>
 <summary>过期列表</summary>
 
-- ~~VS Code - 已经作为我 All in One 的编辑器了，开发什么语言都用它。~~
+- ~~[cursor](https://www.cursor.com/) - 已经离不开 Cursor 了，它真的太好用了。直觉上，工作中的 70% 代码都是它写的。（事后 => 这个月超额用了 20 刀， 有点想换成 OpenAI 收购的那一家）~~ 现在改用 VS Code + Claude Code 了
 - ~~NewLine - 用于在文件末尾添加空行的插件。至于为什么要加空行，参考 [这篇文章](https://niracler.com/newline)。~~ 可以直接通过配置开启，无需插件了
 - ~~[neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/nvim-config) 上了。~~ 我的 M1 AIR 用起来会卡顿，而且是真的入手难度高，所以就暂时放弃了。
   - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
@@ -367,10 +383,9 @@ modified: 2024-09-30
 
 ### 📈 生产力工具
 
-- [OpenCat Pro](https://opencat.app/)(¥38) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用一定次数的 4，所以就通过他来用 gpt-4 了。（当然，也可以用 [DeepSeek](https://www.deepseek.com/zh) 啦）
+- [align](https://apps.apple.com/sk/app/align-organize-app-windows/id6480428845)(限免) - 专为 macOS 设计的窗口管理工具，限免的时候入的。一开始我觉得没什么用，因为我大多数情况下是用多桌面而不是多窗口的，直到我用了 4K 显示器～～ 现在 MacOS 已经自带了，**但是没它好用，就装回来了**
 - [Chatgpt App](https://openai.com/chatgpt/overview/) - 绑定了 cmd + space 来快速打开。一般用来快速问答。
-- [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。
-- [ServerCat](https://servercat.app/)(¥38) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。
+- [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。**现在 Spotlight 的功能也稍微起来了**
 - [keybr.com](https://www.keybr.com/) - 我前段时间用来练习打字的网站。
 - [iStat Menus](https://bjango.com/mac/istatmenus/)(Setapp) - 用于在菜单栏显示系统状态的工具。(其实我觉得没有什么用，😂)
 - [Session](https://setapp.com/apps/session)(Setapp) - 番茄钟软件，是在 Setapp 大礼包中的，优点在于可以联动 Apple 体系的日历、能够多端联动、以及桌面端足够好用。
@@ -379,19 +394,21 @@ modified: 2024-09-30
 <summary>过期列表</summary>
 
 - ~~[Alfred](https://www.alfredapp.com/)~~ - 最开始是用它的粘贴板历史功能，但是后面用上 Raycast 之后就不怎么用，被平替掉了，毕竟要钱。不过它的搜索功能还是很好用的。
-- ~~[align](https://apps.apple.com/sk/app/align-organize-app-windows/id6480428845)(限免) - 专为 macOS 设计的窗口管理工具，限免的时候入的。一开始我觉得没什么用，因为我大多数情况下是用多桌面而不是多窗口的，直到我用了 4K 显示器～～~~ 现在 MacOS 已经自带了
+- [OpenCat Pro](https://opencat.app/)(¥38) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用一定次数的 4，所以就通过他来用 gpt-4 了。（当然，也可以用 [DeepSeek](https://www.deepseek.com/zh) 啦）**订阅了 claude pro 之后就基本没用上了，抱歉☹️**
+- [ServerCat](https://servercat.app/)(¥38) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。**也没怎么用了**
 
 </details>
 
 ### 💻 虚拟化
 
 - [OrbStack](https://orbstack.dev/) - 一个 Docker Desktop 的轻量级替代品，我用它来管理我的 Docker 容器。
-- [UTM](https://mac.getutm.app/) - 用于在 Mac 上运行各种虚拟机。我是跑了一个 Home Assistant 做测试。
+- [VMware Fusion](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - 最近主要是用来跑 HAOS 测试，比 UTM 要好用。
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于烧录树莓派系统镜像的官方工具，界面简单直观，支持多种系统选择。
 
 <details>
 <summary>过期列表</summary>
 
+- [UTM](https://mac.getutm.app/) - 用于在 Mac 上运行各种虚拟机。我是跑了一个 Home Assistant 做测试。
 - ~~[Docker Desktop](https://www.docker.com/products/docker-desktop/)~~ - 现在用 OrbStack 了
 
 </details>
@@ -499,7 +516,14 @@ modified: 2024-09-30
 
 - [米家](https://home.mi.com/) - 用于控制家里的智能设备,如灯、空调、扫地机器人等。不过当家里断网时,这些智能设备就成了摆设(似乎可以通过网关解决这个问题)。
 - [Aqara Home](https://www.aqara.com/) - 因为使用了 Aqara 的摄像头而不得不安装。
-- [Home Assistant](https://www.home-assistant.io/) - 已部署在树莓派上，后续会逐步扩展这方面的应用。
+- [Home Assistant](https://www.home-assistant.io/) - 已部署在树莓派上，后续会逐步扩展这方面的应用。**其实还有其他的，不过我就列一些用的比较多的**
+  - [HomeKit 集成](https://www.home-assistant.io/integrations/homekit) - 将 Home Assistant 设备桥接到 Apple HomeKit 生态系统，实现与 Apple Home 的互联互通。
+  - [Steam Online 集成](https://www.home-assistant.io/integrations/steam_online) - 监控 Steam 账户的在线状态和游戏活动，可用于自动化场景判断。
+  - [小米智能家居集成](https://github.com/XiaoMi/ha_xiaomi_home) - 官方的小米智能家居集成，支持米家生态系统的各种设备控制和自动化。**谁能想到，我全是小米的设备，后面打算买些其他厂商的**
+  - [OneDrive 集成](https://www.home-assistant.io/integrations/onedrive) - 连接 Microsoft OneDrive 云存储服务，可用于备份配置文件和自动化数据存储。
+  - [HACS](https://www.hacs.xyz/) - Home Assistant Community Store，社区驱动的附加组件商店，提供丰富的自定义集成、前端组件和自动化工具。**重点重点，没有这个很多插件都没有的**
+  - [VS Code Add-on](https://github.com/hassio-addons/addon-vscode) - 在 Home Assistant 中直接运行 Visual Studio Code，方便编辑配置文件和开发自动化脚本。
+  - [SSH Add-on](https://github.com/hassio-addons/addon-ssh) - 为 Home Assistant 提供 SSH 服务器功能，支持远程终端访问和文件管理。
 - [Home Assistant Companion](https://companion.home-assistant.io) - 最近日常手机上都是开 tailscale 来让 HA 识别我是否到家了，到家之前自动开空调电脑之类的。
 - [Apple Home](https://www.apple.com/cn/apple-home/) - 设备价格偏高,目前只有少量设备。不过配合 Home Assistant 后应该会有更多可能性。
 
@@ -555,7 +579,8 @@ modified: 2024-09-30
 
 ### 📖 学习
 
-- [多邻国](https://www.duolingo.com/)(¥40/y) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～)
+- [多邻国](https://www.duolingo.com/)(¥40/y) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～) **稍微有点不想继续了**
+- [Anki](https://apps.ankiweb.net/) - 间隔重复记忆软件，用于高效记忆和复习各种知识点。最近看书为了不忘记一些内容，试着做了一些 anki 的 card，也专门写了一个 prompt 用于生成对应的 card。
 - [MindNode](https://mindnode.com)(Setapp) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
 
 <details>
@@ -573,8 +598,9 @@ modified: 2024-09-30
 - [读库 APP](https://www.duku.cn)(需要订阅读库) - 提供志愿者朗读的精选文章音频，适合碎片时间收听。
 - [微信读书](https://weread.qq.com/) - 内容丰富的电子书平台，适合阅读文学类作品。技术类书籍建议选择纸质版或 PDF 格式。
 - [得到](https://www.igetget.com/) - 知识付费平台，作为微信读书的补充书源，按需订阅。最近用来听书比较多。
+- [Apple Books](https://www.apple.com/apple-books/) - 最近看电子书时用得比较多，主要用来导入 Z-Library 的 EPUB 格式然后同步到 iCloud。
+- [Z-Library](https://z-library.sk) - 全球最大的数字图书馆之一，提供海量免费电子书和学术论文资源。
 - [Pinterest](https://www.pinterest.com/) - 优质图片资源平台，特别适合寻找头像和壁纸素材。
-- [xlog](https://xlog.app) - Web3 博客平台，氛围轻松愉快。许多用户在此更新周记，阅读他人的生活记录让人感受到赛博邻里的温度。**不过近半年很少看了**
 - [hackernew](https://news.ycombinator.com/) - 科技行业前沿新闻聚合平台，内容质量高但易沉迷。
 - [pinboard](https://pinboard.in/) - 文章收藏与思考记录工具。这是我的 [Pinboard 主页](https://pinboard.in/u:niracler)。
 - [小红书](https://www.xiaohongshu.com/) - 生活分享社区，用于了解生活技巧和常识补充。
@@ -584,6 +610,7 @@ modified: 2024-09-30
 <details>
 <summary>过期列表</summary>
 
+- [xlog](https://xlog.app) - Web3 博客平台，氛围轻松愉快。许多用户在此更新周记，阅读他人的生活记录让人感受到赛博邻里的温度。**不过近半年很少看，已经在墓地了**
 - ~~[inoreader](https://www.inoreader.com/folder/News) - RSS 阅读器~~，因为拿到了 Follow 的内测资格，已经弃用。
 
 </details>
@@ -615,6 +642,7 @@ modified: 2024-09-30
 
 - [美团](https://www.meituan.com/)(小程序) - 日常景点买票、以及订酒店是用的这个。
 - [嘀嗒出行](https://www.didachuxing.com/)(小程序) - 用于叫顺风车，在各个市之间移动的时候用的比较多。
+- [飞猪](https://www.fliggy.com) - 现在签证和境外机票都是在这里买的。**正准备第一次出国**
 - [Rond](https://sspai.com/post/85355)(¥98) - 一款基于本地数据记录行程的软件，软件很优雅。
 - [Apple Maps](https://www.apple.com/cn/maps/) - 在国内挺难使用的，再坚持用一会吧（不过大概率很快就又切换回高德了）
 - [大麦](https://www.damai.cn) - 成为现充(伪)经常处于看各种演出之后，现在会偶尔关注这些信息了。（钱包不太能顶得住）
@@ -646,8 +674,8 @@ modified: 2024-09-30
 
 ### 🖥️ 开发工具
 
-- [Warp](https://www.warp.dev) - 还在尝试使用，也配了一个下拉式终端。
-- [iTerm 2](https://iterm2.com/) - 用于替代原生的终端，主要是它可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
+- [Warp](https://www.warp.dev) - 现在主要使用的终端，AI 辅助功能比较鸡肋，也配了一个下拉式终端。
+- [iTerm 2](https://iterm2.com/) - 之前主要使用的终端，现在用得比较少了。主要是它可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 用于连接 MongoDB 数据库的客户端。
 - [MQTTX](https://mqttx.app/) - 用于测试 MQTT 协议的工具，我一般用它来测试 Mosquitto 的配置。
 - [Wireshark](https://www.wireshark.org/) - 用于抓包的工具，不过我也不是很会用。
