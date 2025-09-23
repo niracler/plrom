@@ -190,7 +190,11 @@ modified: 2024-09-30
 
 - [板机社(TRIGGER)](https://zh.moegirl.org.cn/TRIGGER(%E5%85%AC%E5%8F%B8)#) - 独一档的画风以及质量，基本是属于它出的都可以看并且很好看的地步。（话说我差点以为《天元突破》也是他们的。原来是他们老东家的作品）
 - [京都动画](https://zh.moegirl.org.cn/%E4%BA%AC%E9%83%BD%E5%8A%A8%E7%94%BB) - 也是属于基本上每一部都可以看一下的公司。
-- [香草社](https://mzh.moegirl.org.cn/Vanillaware) - 玩过他的《圣兽之王》，美术是真的顶。
+- [AliceSoft](https://www.alicesoft.com/) - 成立于 1989 年的日本成人游戏制作公司，以《兰斯》系列闻名，每次人生发生重大变动时都会重玩《战国兰斯》。
+- [Qruppo](https://qruppo.com/) - 新锐游戏公司，以《抜きゲーみたいな島》(拔作岛)系列受到关注，Henpri 让我狠狠爱上，后续一定要玩拔作岛系列。
+- ~~[Eushully](https://zh.moegirl.org.cn/Eushully) - 成立于 2005 年的 E 社，曾是我游戏启蒙的公司，上大学前内存只有 2G 时它的 RPG 游戏就是我的主要娱乐。~~
+- [Intelligent Systems](https://www.intsys.co.jp/) - 成立于 1986 年的任天堂第二方开发商，《火焰纹章》系列制作方，在 Switch上 游戏时长最长的游戏系列。
+- [香草社](https://mzh.moegirl.org.cn/Vanillaware) - 成立于 2002 年的 Vanillaware，以精美2D美术著称，玩过《圣兽之王》美术真的顶，《十三机兵防卫圈》一直在我的 todo list 里。
 
 ### 📰 技术新闻
 
