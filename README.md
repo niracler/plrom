@@ -1,4 +1,4 @@
-<!-- 
+<!--
 title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
 tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
 cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
@@ -6,12 +6,12 @@ slug: plrom
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 note_id: 273
 date: 2024-09-26
-modified: 2024-09-30
+modified: 2025-10-21
 -->
 
 # plrom
 
-这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
+关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 
 > 我一般用 RSS 订阅以下列表中的人或组织，并且几乎每篇都读。  
 > 顺序不分先后，纯靠心情
@@ -215,8 +215,7 @@ modified: 2024-09-30
   - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
 - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 拿去公司上班用了
 
-(远远称不上整洁的桌面😂)
-![28D407F9-1DD6-48B1-8F06-B58A44EF392A_1_105_c.jpeg](https://image.niracler.com/2025/09/ae548461d451ed36ab16001c1832028c.jpeg)
+![远远称不上整洁的桌面😂](https://image.niracler.com/2025/09/ae548461d451ed36ab16001c1832028c.jpeg)
 
 ### 🏷️ 随身设备
 
@@ -531,8 +530,7 @@ modified: 2024-09-30
 - [Home Assistant Companion](https://companion.home-assistant.io) - 最近日常手机上都是开 tailscale 来让 HA 识别我是否到家了，到家之前自动开空调电脑之类的。
 - [Apple Home](https://www.apple.com/cn/apple-home/) - 设备价格偏高,目前只有少量设备。不过配合 Home Assistant 后应该会有更多可能性。
 
-(最近摸鱼时调的一个 HA 面板)
-![CleanShot 2025-05-23 at 15.08.17@2x.png](https://image.niracler.com/2025/05/8770f3aca85cdd8a358bf0e17426c353.png)
+![最近摸鱼时调的一个 HA 面板](https://image.niracler.com/2025/05/8770f3aca85cdd8a358bf0e17426c353.png)
 
 ### 🛒 购物
 
@@ -540,8 +538,8 @@ modified: 2024-09-30
 - [京东](https://www.jd.com/)(小程序) - 会员价值感逐渐降低。
 - [拼多多](https://www.pinduoduo.com/)(小程序) - 主要用于购买 Switch 游戏卡带、乐高、模型等娱乐用品。
 - [淘宝](https://www.taobao.com/) - 适合购买特殊商品,如台版书籍、外区充值卡等。
-- [闲鱼](https://www.goofish.com) - 因不愿花时间讨价还价,很少用于卖物。每年购买几件二手商品,在消费降级趋势下可能会增加使用频率。
-- [朴朴超市](http://www.pupumall.com) - 买菜以及生活用品之类的。
+- [闲鱼](https://www.goofish.com)(小程序) - 因不愿花时间讨价还价,很少用于卖物。每年购买几件二手商品,在消费降级趋势下可能会增加使用频率。
+- [朴朴超市](http://www.pupumall.com)(小程序) - 买菜以及生活用品之类的。
 
 <details>
 <summary>过期列表</summary>
