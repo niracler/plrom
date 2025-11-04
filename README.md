@@ -6,7 +6,7 @@ slug: plrom
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 note_id: 273
 date: 2024-09-26
-modified: 2025-10-21
+modified: 2025-11-04
 -->
 
 # plrom
@@ -213,6 +213,7 @@ modified: 2025-10-21
   - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 八年老键盘了，现在宿舍电脑就是用的它。
   - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在是连着 windows 主机在用。
   - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
+  - [Pioneer BDR-XD07B 便携式蓝光刻录机](https://www.amazon.com/Pioneer-BDR-XD07B-Slim-Portable-Burner/dp/B07ZJX5HSH)(¥356 二手) - 用来读取蓝光光盘，主要是去日本旅游买了几张 CD，被迫跟着要对应的配套设施了。
 - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 拿去公司上班用了
 
 ![远远称不上整洁的桌面😂](https://image.niracler.com/2025/09/ae548461d451ed36ab16001c1832028c.jpeg)
@@ -227,7 +228,6 @@ modified: 2025-10-21
 - [iPhone 16 pro](https://www.apple.com/cn/iphone-16-pro/) - 在 618 国补后 5499 入手的。周围的人都说 128G 肯定不够用呢～～
 - [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏。
 - **Boox Leaf** - 现在仅仅用来睡前看电子书，看漫画太难受了。**借给朋友去用了**。
-- [Redmi Pad](https://www.mi.com/redmipad) - Tachiyomi 启动器。为了克制一下不要全天在看漫画，**现在一般两个月才回家集中看两天漫画**（是吗？能做到吗？）
 
 <details>
 <summary>不活跃列表</summary>
@@ -235,6 +235,7 @@ modified: 2025-10-21
 - [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 128G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。**给老爸用了**
 - [Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器 **想送人了**
 - [iPhone SE 2](https://www.apple.com/cn/iphone-se/) - 64G, 其实我很喜欢这种大小，就是续航太拉跨以至于只能换到 14 pro 了。 **想送人了**
+- [Redmi Pad](https://www.mi.com/redmipad) - ~~Tachiyomi 启动器。为了克制一下不要全天在看漫画~~，**现在一般两个月才回家集中看两天漫画**（已经送家里人了）
 
 </details>
 
@@ -243,6 +244,7 @@ modified: 2025-10-21
 - [AirPods Pro2](https://www.apple.com/cn/airpods-pro/) - 很糟糕的是，我已经是第三个 AirPods Pro 了， 前两个都被洗衣机洗了，现在已经不敢放到裤袋里面了
 - [Sony WH-XB910N](https://www.sony.com/electronics/headband-headphones/wh-xb910n) - 不知道是不是不是旗舰的原因，我觉得戴久了很不舒服，尤其是压着我眼镜架了。不过音质还是不错的，头戴式的降噪效果应该说比 AirPods Pro 2 也要好些。不常用，觉得不方便，**吃灰中，想出手了**。
 - [小爱智能音箱](https://www.mi.com/aispeaker) - 也是基本上不能缺的设备，用来控制家里的各种智能家居。不过基本没有用来听音乐就是了。
+- [HomePod mini](https://www.apple.com/homepod-mini/)(¥438 转转二手) - 二手入手了一个，继续践行「每月买一个物联网设备」的计划（不是😂）。音质比小爱好不少。
 
 <details>
 <summary>不活跃列表</summary>
@@ -332,6 +334,7 @@ modified: 2025-10-21
 
 - [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的。
 - [Claude Code](https://claude.ai/code) - 现在已经是我的米饭帮主了，没有它我没法展开工作。
+- [OpenAI Codex CLI](https://openai.com/codex/) - 最近在尝试使用的 AI 编程助手命令行工具，可以在终端直接用自然语言生成和执行命令。
 - [x-cmd](https://x-cmd.com) - 我前司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + … )`
 - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
 - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
@@ -362,6 +365,7 @@ modified: 2025-10-21
   - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
   - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
   - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
+- [Zed](https://zed.dev/) - 最近开始尝试的新编辑器，性能确实很快，尤其是启动速度和响应。正在试着替换 VS Code，不过生态和插件还有点差距，暂时还是双修状态。用一下这种更原始的方案，反而能发现 VS Code 里哪些是必要的设计、哪些是好的设计、哪些是过度设计。这种「降级体验」或许是挺不错的让我了解设计细节的方案。
 - [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
   - [Shiba lnu](https://github.com/faroukx/Obsidian-shiba-inu-theme) - 现在在用这个主题，我博客的配色就是参考的它。
   - [obsidian-linter](https://github.com/platers/obsidian-linter) - 用于格式化 markdown 的插件，不过我觉得它的功能还是不够完善，有时候会出现一些奇怪的问题。
@@ -575,7 +579,7 @@ modified: 2025-10-21
 
 - ~~[YT MUSIC](https://music.youtube.com/)(¥120/y)~~ - 慎用。槽点还是太多了，梯子节点不太稳定的时候就直接断了，一般需要下载下来才比较好，而且有些区是不能用的。不过现在已经将我的音乐软件转成这个了，架不住我想听的都有。发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
 - ~~[网易云音乐](https://music.163.com/) - 用于听一些音乐~~ 二次元的音��是真的多，评论区也很棒，在国内体验好于 YT Music。不过因为时常会没有版权然后变灰，这个是硬伤，现在已经转到 YT MUSIC 了。
-- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替��原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
+- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
 
 </details>
 
@@ -688,11 +692,18 @@ modified: 2025-10-21
 
 ### 🖥️ 开发工具
 
-- [Warp](https://www.warp.dev) - 现在主要使用的终端，AI 辅助功能比较鸡肋，也配了一个下拉式终端。
+- [Ghostty](https://ghostty.org) - 现在主要使用的终端，简洁轻量，没有多余的功能，正是我想要的。性能也很不错，同样支持配置下拉式终端。
 - [iTerm 2](https://iterm2.com/) - 之前主要使用的终端，现在用得比较少了。主要是它可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 用于连接 MongoDB 数据库的客户端。
 - [MQTTX](https://mqttx.app/) - 用于测试 MQTT 协议的工具，我一般用它来测试 Mosquitto 的配置。
 - [Wireshark](https://www.wireshark.org/) - 用于抓包的工具，不过我也不是很会用。
+
+<details>
+<summary>过期列表</summary>
+
+- ~~[Warp](https://www.warp.dev)~~ - AI 辅助功能比较鸡肋，界面也有点复杂，最后还是回归简洁的终端了。
+
+</details>
 
 ### 📸 截图和录屏
 
