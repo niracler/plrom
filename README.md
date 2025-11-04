@@ -13,12 +13,12 @@ modified: 2025-10-21
 
 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 
-> 我一般用 RSS 订阅以下列表中的人或组织，并且几乎每篇都读。  
+> 我一般用 RSS 订阅以下列表中的人或组织，并且几乎每篇都读。
 > 顺序不分先后，纯靠心情
 
 ## 人
 
-> 一些不方便公开的人，我就不在这里写了，隐藏的上限是 100 个（可能会调整）  
+> 一些不方便公开的人，我就不在这里写了，隐藏的上限是 100 个（可能会调整）
 > 后面想一个法子将此处的列表跟我的 [Follow 关注](https://app.follow.is/profile/@niracler) 进行同步才行，重复程度有点太高了。近期应该不更新这个列表。~~国庆写个脚本用于同步。~~
 
 ### 📚 技术博主
@@ -363,7 +363,7 @@ modified: 2025-10-21
   - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
   - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
 - [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
-  - [Shiba lnu](https://github.com/faroukx/Obsidian-shiba-inu-theme) - 现在在用这个主题
+  - [Shiba lnu](https://github.com/faroukx/Obsidian-shiba-inu-theme) - 现在在用这个主题，我博客的配色就是参考的它。
   - [obsidian-linter](https://github.com/platers/obsidian-linter) - 用于格式化 markdown 的插件，不过我觉得它的功能还是不够完善，有时候会出现一些奇怪的问题。
   - [obsidian-git](https://github.com/Vinzent03/obsidian-git) - 用于将 obsidian 的笔记同步到 git 仓库的插件。Obsidian 用起来有一个问题，就是没有版本控制，很多时候我写一些记录会进行删删改改，以至于有一些历史的想法可能就流失了。于是就用这个插件。
   - [obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - 用于将 pinboard 的书签同步到 obsidian 日记中的插件。主要是为了可以在 obsidian 中搜索到我之前的书签以及对应的评论。
@@ -484,15 +484,27 @@ modified: 2025-10-21
 ### 🔑 隐私安全
 
 - [1Password](https://1password.com/)(¥248/y) - 在 iPhone 上可以选用它的自动填充。
-- [XLocker](https://apps.apple.com/us/app/xlocker-control-screen-time/id6447595893)($9.99) - 在适当的时候用来隐藏 iPhone 以及 iPad 上的一些应用。结合快捷指令可以做到一键隐藏。
 - [DAMA](https://apps.apple.com/us/app/dama-auto-redact-privacy/id1534690075)(¥12) - 用了之后发现很智能，可以自动识别你照片上可能的隐私信息，然后自动打码。还能帮你处理照片 meta 里面的一些敏感信息。
+
+<details>
+<summary>过期列表</summary>
+
+- [XLocker](https://apps.apple.com/us/app/xlocker-control-screen-time/id6447595893)($9.99) - 在适当的时候用来隐藏 iPhone 以及 iPad 上的一些应用。结合快捷指令可以做到一键隐藏。(不好用，直接用 iOS 自带的 hidden 算了😐)
+
+</details>
 
 ### 🌏 网络工具
 
 - [AdGuard](https://adguard.com/)($18.37) - 用于拦截广告的工具，不过我觉得它的效果并不是很好，可能是我没配置好。
 - [Surge 5](https://nssurge.com/)($49.99) - 现在 Mac 以及 iPhone 上都用它了。
 - [Tailscale](https://tailscale.com/) - 基于 WireGuard 的 VPN 工具，可以让你的设备组成一个私有网络。配置简单，使用方便。超级棒的，若是家里有 ipv6 或者 Fullcone NAT 的话，在外网连接家里的 NAS 超级方便。我当前就是用它来在公司远程宿舍电脑的。更别说可以用来看家里的 AutoBangumi 下载好的番剧。（相见恨晚）
+
+<details>
+<summary>过期列表</summary>
+
 - ~~[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 转用 Surge 之后，它就被我放弃了。~~
+
+</details>
 
 ### 💪 健康检测
 
