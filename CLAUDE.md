@@ -78,6 +78,14 @@ Configuration is in [.linkspector.yml](.linkspector.yml) which ignores certain d
 
 - Validates all links in README.md on pushes and PRs
 
+### Bokushi Sync Workflow
+
+[.github/workflows/sync-to-bokushi.yml](.github/workflows/sync-to-bokushi.yml):
+
+- **Trigger**: Pushes to `main` (README/publish tooling changes) or manual `workflow_dispatch`
+- **Process**: Renders README metadata with [.github/scripts/sync_to_bokushi.py](.github/scripts/sync_to_bokushi.py), updates `niracler/bokushi`'s `src/content/blog/plrom.md`, and opens a PR via `peter-evans/create-pull-request`
+- **Secret Required**: `BOKUSHI_SYNC_TOKEN` (Classic PAT with `repo` scope) so the workflow can push branches to `niracler/bokushi`
+
 ## Content Structure
 
 The [README.md](README.md) is organized into three main sections:

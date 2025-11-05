@@ -1,0 +1,52 @@
+name: Sync to Bokushi
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - publish.sh
+      - .github/scripts/sync_to_bokushi.py
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    if: ${{ github.repository_owner == 'niracler' }}
+
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate Bokushi content
+        run: |
+          mkdir -p generated
+          python .github/scripts/sync_to_bokushi.py README.md generated/plrom.md
+
+      - name: Checkout Bokushi repository
+        uses: actions/checkout@v4
+        with:
+          repository: niracler/bokushi
+          token: ${{ secrets.BOKUSHI_SYNC_TOKEN }}
+          path: bokushi
+          fetch-depth: 0
+
+      - name: Update blog post
+        run: cp generated/plrom.md bokushi/src/content/blog/plrom.md
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.BOKUSHI_SYNC_TOKEN }}
+          path: bokushi
+          commit-message: "chore: sync plrom content from plrom repo"
+          branch: chore/sync-plrom-${{ github.run_id }}
+          title: "Sync plrom content from plrom repo"
+          body: |
+            Automated sync triggered by https://github.com/${{ github.repository }}/commit/${{ github.sha }}.
+          base: main
