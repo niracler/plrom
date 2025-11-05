@@ -6,19 +6,19 @@ slug: plrom
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 note_id: 273
 date: 2024-09-26
-modified: 2025-10-21
+modified: 2025-11-05
 -->
 
 # plrom
 
 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 
-> 我一般用 RSS 订阅以下列表中的人或组织，并且几乎每篇都读。  
+> 我一般用 RSS 订阅以下列表中的人或组织，并且几乎每篇都读。
 > 顺序不分先后，纯靠心情
 
 ## 人
 
-> 一些不方便公开的人，我就不在这里写了，隐藏的上限是 100 个（可能会调整）  
+> 一些不方便公开的人，我就不在这里写了，隐藏的上限是 100 个（可能会调整）
 > 后面想一个法子将此处的列表跟我的 [Follow 关注](https://app.follow.is/profile/@niracler) 进行同步才行，重复程度有点太高了。近期应该不更新这个列表。~~国庆写个脚本用于同步。~~
 
 ### 📚 技术博主
@@ -213,7 +213,9 @@ modified: 2025-10-21
   - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 八年老键盘了，现在宿舍电脑就是用的它。
   - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在是连着 windows 主机在用。
   - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
+  - [Pioneer BDR-XD07B 便携式蓝光刻录机](https://www.amazon.com/Pioneer-BDR-XD07B-Slim-Portable-Burner/dp/B07ZJX5HSH)(¥356 二手) - 用来读取蓝光光盘，主要是去日本旅游买了几张 CD，被迫跟着要对应的配套设施了。
 - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 拿去公司上班用了
+- [Magic Trackpad](https://support.apple.com/en-hk/111884) - pseudoyu 送的，现在在公司用。已经用了四五年 MacBook 的触摸板，鼠标变成超级用的不习惯了，于是就求救弄了一个😂。
 
 ![远远称不上整洁的桌面😂](https://image.niracler.com/2025/09/ae548461d451ed36ab16001c1832028c.jpeg)
 
@@ -226,8 +228,6 @@ modified: 2025-10-21
 
 - [iPhone 16 pro](https://www.apple.com/cn/iphone-16-pro/) - 在 618 国补后 5499 入手的。周围的人都说 128G 肯定不够用呢～～
 - [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏。
-- **Boox Leaf** - 现在仅仅用来睡前看电子书，看漫画太难受了。**借给朋友去用了**。
-- [Redmi Pad](https://www.mi.com/redmipad) - Tachiyomi 启动器。为了克制一下不要全天在看漫画，**现在一般两个月才回家集中看两天漫画**（是吗？能做到吗？）
 
 <details>
 <summary>不活跃列表</summary>
@@ -235,6 +235,8 @@ modified: 2025-10-21
 - [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 128G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。**给老爸用了**
 - [Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器 **想送人了**
 - [iPhone SE 2](https://www.apple.com/cn/iphone-se/) - 64G, 其实我很喜欢这种大小，就是续航太拉跨以至于只能换到 14 pro 了。 **想送人了**
+- [Redmi Pad](https://www.mi.com/redmipad) - ~~Tachiyomi 启动器。为了克制一下不要全天在看漫画~~，**现在一般两个月才回家集中看两天漫画**（已经送家里人了）
+- **Boox Leaf** - ~~现在仅仅用来睡前看电子书，看漫画太难受了~~。**借给朋友去用了**。
 
 </details>
 
@@ -243,6 +245,7 @@ modified: 2025-10-21
 - [AirPods Pro2](https://www.apple.com/cn/airpods-pro/) - 很糟糕的是，我已经是第三个 AirPods Pro 了， 前两个都被洗衣机洗了，现在已经不敢放到裤袋里面了
 - [Sony WH-XB910N](https://www.sony.com/electronics/headband-headphones/wh-xb910n) - 不知道是不是不是旗舰的原因，我觉得戴久了很不舒服，尤其是压着我眼镜架了。不过音质还是不错的，头戴式的降噪效果应该说比 AirPods Pro 2 也要好些。不常用，觉得不方便，**吃灰中，想出手了**。
 - [小爱智能音箱](https://www.mi.com/aispeaker) - 也是基本上不能缺的设备，用来控制家里的各种智能家居。不过基本没有用来听音乐就是了。
+- [HomePod mini](https://www.apple.com/homepod-mini/)(¥438 转转二手) - 二手入手了一个，继续践行「每月买一个物联网设备」的计划（不是😂）。音质比小爱好不少。
 
 <details>
 <summary>不活跃列表</summary>
@@ -332,6 +335,7 @@ modified: 2025-10-21
 
 - [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的。
 - [Claude Code](https://claude.ai/code) - 现在已经是我的米饭帮主了，没有它我没法展开工作。
+- [OpenAI Codex CLI](https://openai.com/codex/) - 最近在尝试使用的 AI 编程助手命令行工具，可以在终端直接用自然语言生成和执行命令。
 - [x-cmd](https://x-cmd.com) - 我前司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + … )`
 - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
 - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
@@ -362,8 +366,9 @@ modified: 2025-10-21
   - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
   - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
   - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
+- [Zed](https://zed.dev/) - 最近开始尝试的新编辑器，性能确实很快，尤其是启动速度和响应。正在试着替换 VS Code，不过生态和插件还有点差距，暂时还是双修状态。用一下这种更原始的方案，反而能发现 VS Code 里哪些是必要的设计、哪些是好的设计、哪些是过度设计。这种「降级体验」或许是挺不错的让我了解设计细节的方案。
 - [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
-  - [Shiba lnu](https://github.com/faroukx/Obsidian-shiba-inu-theme) - 现在在用这个主题
+  - [Shiba lnu](https://github.com/faroukx/Obsidian-shiba-inu-theme) - 现在在用这个主题，我博客的配色就是参考的它。
   - [obsidian-linter](https://github.com/platers/obsidian-linter) - 用于格式化 markdown 的插件，不过我觉得它的功能还是不够完善，有时候会出现一些奇怪的问题。
   - [obsidian-git](https://github.com/Vinzent03/obsidian-git) - 用于将 obsidian 的笔记同步到 git 仓库的插件。Obsidian 用起来有一个问题，就是没有版本控制，很多时候我写一些记录会进行删删改改，以至于有一些历史的想法可能就流失了。于是就用这个插件。
   - [obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - 用于将 pinboard 的书签同步到 obsidian 日记中的插件。主要是为了可以在 obsidian 中搜索到我之前的书签以及对应的评论。
@@ -463,6 +468,7 @@ modified: 2025-10-21
   - bookmarker for pinboard - 用于将当前页面添加到 Pinboard。
   - RSSHub Radar - 用于查找当前页面的 RSSHub 源，DIYgod 出品。
   - 沉浸式翻译 - 用于翻译，已经离不开了，我喜欢的颜色是 `#FB8F68`。
+- [Chrome](https://www.google.com/chrome/) - 还是摆脱不了，某些网站和开发场景必须用它。
 
 <details>
 <summary>过期列表</summary>
@@ -484,15 +490,27 @@ modified: 2025-10-21
 ### 🔑 隐私安全
 
 - [1Password](https://1password.com/)(¥248/y) - 在 iPhone 上可以选用它的自动填充。
-- [XLocker](https://apps.apple.com/us/app/xlocker-control-screen-time/id6447595893)($9.99) - 在适当的时候用来隐藏 iPhone 以及 iPad 上的一些应用。结合快捷指令可以做到一键隐藏。
 - [DAMA](https://apps.apple.com/us/app/dama-auto-redact-privacy/id1534690075)(¥12) - 用了之后发现很智能，可以自动识别你照片上可能的隐私信息，然后自动打码。还能帮你处理照片 meta 里面的一些敏感信息。
+
+<details>
+<summary>过期列表</summary>
+
+- [XLocker](https://apps.apple.com/us/app/xlocker-control-screen-time/id6447595893)($9.99) - 在适当的时候用来隐藏 iPhone 以及 iPad 上的一些应用。结合快捷指令可以做到一键隐藏。(不好用，直接用 iOS 自带的 hidden 算了😐)
+
+</details>
 
 ### 🌏 网络工具
 
 - [AdGuard](https://adguard.com/)($18.37) - 用于拦截广告的工具，不过我觉得它的效果并不是很好，可能是我没配置好。
 - [Surge 5](https://nssurge.com/)($49.99) - 现在 Mac 以及 iPhone 上都用它了。
 - [Tailscale](https://tailscale.com/) - 基于 WireGuard 的 VPN 工具，可以让你的设备组成一个私有网络。配置简单，使用方便。超级棒的，若是家里有 ipv6 或者 Fullcone NAT 的话，在外网连接家里的 NAS 超级方便。我当前就是用它来在公司远程宿舍电脑的。更别说可以用来看家里的 AutoBangumi 下载好的番剧。（相见恨晚）
+
+<details>
+<summary>过期列表</summary>
+
 - ~~[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 转用 Surge 之后，它就被我放弃了。~~
+
+</details>
 
 ### 💪 健康检测
 
@@ -550,20 +568,21 @@ modified: 2025-10-21
 
 ### 📺 视频 & 🎵 音乐
 
-- [YouTube](https://www.youtube.com/)(¥120/y 淘宝) - 通过淘宝购买的 YouTube Premium 会员，去除广告后体验极佳，各设备使用频率大幅提升。
+- [YouTube](https://www.youtube.com/) - 现在不续 Premium 会员了，手机观看场景基本能用电脑替代；配合 AdGuard 去广告就够用。
 - [哔哩哔哩 App](https://www.bilibili.com/) - 轻度视频用户，年观看时长不足 200 小时。主要关注少数几个 UP 主的内容更新。
 - [infuse](https://firecore.com/infuse)($12.99/y) - 优雅的视频播放器，完美支持阿里云盘视频播放。界面精美，用户体验出色，但随着成本上升可能需要寻找替代方案。
 - [剪映专业版](https://www.capcut.cn/) - 视频剪辑工具，通过 Samba 协议将树莓派存储的视频映射到电脑，实现便捷的本地剪辑。（或许 iMovie 也可以？）
 - [iina](https://iina.io/) - macOS 上优秀的本地视频播放器，是我的首选播放工具。
 - [obs](https://obsproject.com/) - 功能强大的录屏工具，主要用于配合串流软件录制游戏机画面。
 - [spotify](https://www.spotify.com/) - 尝试过多个音乐平台后，最终选择了 Spotify 作为主力音乐服务。
+- [网易云音乐](https://music.163.com/) - 为了评论区功能，以及可以跟国内的朋友分享。今年还是开回来了。
 
 <details>
 <summary>过期列表</summary>
 
 - ~~[YT MUSIC](https://music.youtube.com/)(¥120/y)~~ - 慎用。槽点还是太多了，梯子节点不太稳定的时候就直接断了，一般需要下载下来才比较好，而且有些区是不能用的。不过现在已经将我的音乐软件转成这个了，架不住我想听的都有。发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
 - ~~[网易云音乐](https://music.163.com/) - 用于听一些音乐~~ 二次元的音��是真的多，评论区也很棒，在国内体验好于 YT Music。不过因为时常会没有版权然后变灰，这个是硬伤，现在已经转到 YT MUSIC 了。
-- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替��原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
+- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
 
 </details>
 
@@ -595,7 +614,7 @@ modified: 2025-10-21
 ### 📰 新闻 & 阅读
 
 - [RSSHub](https://rsshub.app/) - 强大的 RSS 生成器，可为众多不支持 RSS 的网站提供订阅源，支持自定义参数调整内容。
-- [Follow](https://github.com/RSSNext/follow) - 一站式信息聚合平台，整合了 RSS、Telegram、YouTube、Bilibili、Pixiv、Twitter 等多平台订阅。作为 Inoreader 的替代品，我写了一篇[使用体验](https://t.me/tomoko_channel/592)。欢迎访问我的 [Follow 主页](https://web.follow.is/profile/niracler)。
+- [Folo](https://github.com/RSSNext/Folo) - 一站式信息聚合平台，整合了 RSS、Telegram、YouTube、Bilibili、Pixiv、Twitter 等多平台订阅。作为 Inoreader 的替代品，我写了一篇[使用体验](https://t.me/tomoko_channel/592)。欢迎访问我的 [Folo 主页](https://app.folo.is/share/users/niracler)。
 - [豆瓣](https://douban.com) - 影视、书籍、音乐等作品的评分参考平台。这是我的[豆瓣主页](https://www.douban.com/people/niracler/)，主要记录 ACG 作品的观看体验。
 - [读库 APP](https://www.duku.cn)(需要订阅读库) - 提供志愿者朗读的精选文章音频，适合碎片时间收听。
 - [微信读书](https://weread.qq.com/) - 内容丰富的电子书平台，适合阅读文学类作品。技术类书籍建议选择纸质版或 PDF 格式。
@@ -620,9 +639,7 @@ modified: 2025-10-21
 ### 🌟⭐️✨ 动画 & 漫画
 
 - [萌娘百科](https://zh.moegirl.org.cn/) - 萌娘百科的词条是真的很有趣，哈哈。主要是用来收藏词条，以及无聊的时候看的。
-- [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
-- [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - 继任者，新一代的王。
-- [mox.moe](https://mox.moe) - 非常全的漫画源，一键就能够将漫画推送到 kindle 上，在 iPad 上全靠它来启动看漫画了。
+- [Tachimanga](https://tachimanga.app/)($24.99 LifeTime) - iOS 端的 Tachiyomi 替代方案，终身会员直接无脑开。至此所有看漫画的设备都可以退役，iPad 成为唯一主力。
 - [蜜柑计划](https://mikanani.me/) - 用于追番，autoBangumi 的 RSS 订阅就靠它了。
 - [AutoBangumi](https://www.autobangumi.org/) - 用自动根据 RSS 的订阅来下载，我现在基本是靠它了。
 
@@ -631,6 +648,9 @@ modified: 2025-10-21
 
 - ~~[哔哩哔哩漫画](https://manga.bilibili.com/) - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。~~ 已经卸载了，现在主要是用回 Tachiyomi 了。
 - ~~[Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。~~ 被封锁了~~
+- [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - ~~继任者，新一代的王，现阶段留作 Android 备用，~~ 主力已经转到 iPad 的 Tachimanga。
+- [mox.moe](https://mox.moe) - 非常全的漫画源，一键就能够将漫画推送到 kindle 上，在 iPad 上全靠它来启动看漫画了。(**同转到 Tachimanga**)
+- [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）(**同转到 Tachimanga**)
 
 </details>
 
@@ -676,11 +696,18 @@ modified: 2025-10-21
 
 ### 🖥️ 开发工具
 
-- [Warp](https://www.warp.dev) - 现在主要使用的终端，AI 辅助功能比较鸡肋，也配了一个下拉式终端。
+- [Ghostty](https://ghostty.org) - 现在主要使用的终端，简洁轻量，没有多余的功能，正是我想要的。性能也很不错，同样支持配置下拉式终端。
 - [iTerm 2](https://iterm2.com/) - 之前主要使用的终端，现在用得比较少了。主要是它可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 用于连接 MongoDB 数据库的客户端。
 - [MQTTX](https://mqttx.app/) - 用于测试 MQTT 协议的工具，我一般用它来测试 Mosquitto 的配置。
 - [Wireshark](https://www.wireshark.org/) - 用于抓包的工具，不过我也不是很会用。
+
+<details>
+<summary>过期列表</summary>
+
+- ~~[Warp](https://www.warp.dev)~~ - AI 辅助功能比较鸡肋，界面也有点复杂，最后还是回归简洁的终端了。
+
+</details>
 
 ### 📸 截图和录屏
 
@@ -688,10 +715,15 @@ modified: 2025-10-21
 
 ### 🛠️ 系统工具
 
-- [Applite](https://github.com/milanvarady/Applite) - 现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。
 - [CleanMyMac X](https://setapp.com/apps/cleanmymac)(Setapp) - Mac 系统清理和优化工具，既然在 Setapp 礼包中，就秉承着来都来了的原则，就装上了。（我怀疑你不仅仅只是清理垃圾，你还有其他功能）
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于将树莓派的镜像写入到 SD 卡上的工具。
 - [Windows App](https://apps.microsoft.com/detail/9n1f85v9t8bn?hl=en-us&gl=US) - 用来远程控制 Windows 的软件，感觉挺好用的。应该是官方出品。
+
+<summary>过期列表</summary>
+
+- [Applite](https://github.com/milanvarady/Applite) - ~~现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。~~ 基本没有在用了
+
+</details>
 
 ### 🤝 会议工具
 
@@ -708,8 +740,8 @@ modified: 2025-10-21
 我会每月定期检查和更新此列表，主要关注以下来源：
 
 1. 各端设备（手机、电脑、平板）上的应用软件
-2. TachiyomiSY 漫画订阅源中的新作者
-3. Follow 平台上关注的内容源
+2. Tachimanga 漫画订阅源中的新作者
+3. Folo 平台上关注的内容源
 
 内容规范：
 
