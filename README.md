@@ -6,7 +6,11 @@ slug: plrom
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 note_id: 273
 date: 2024-09-26
+<<<<<<< HEAD
 modified: 2025-11-04
+=======
+modified: 2025-11-05
+>>>>>>> 8c217b8ca93a8034bc84e4e3cc2710f5c28d005a
 -->
 
 # plrom
@@ -215,6 +219,7 @@ modified: 2025-11-04
   - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
   - [Pioneer BDR-XD07B 便携式蓝光刻录机](https://www.amazon.com/Pioneer-BDR-XD07B-Slim-Portable-Burner/dp/B07ZJX5HSH)(¥356 二手) - 用来读取蓝光光盘，主要是去日本旅游买了几张 CD，被迫跟着要对应的配套设施了。
 - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 拿去公司上班用了
+- [Magic Trackpad](https://support.apple.com/en-hk/111884) - pseudoyu 送的，现在在公司用。已经用了四五年 MacBook 的触摸板，鼠标变成超级用的不习惯了，于是就求救弄了一个😂。
 
 ![远远称不上整洁的桌面😂](https://image.niracler.com/2025/09/ae548461d451ed36ab16001c1832028c.jpeg)
 
@@ -227,7 +232,11 @@ modified: 2025-11-04
 
 - [iPhone 16 pro](https://www.apple.com/cn/iphone-16-pro/) - 在 618 国补后 5499 入手的。周围的人都说 128G 肯定不够用呢～～
 - [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏。
+<<<<<<< HEAD
 - **Boox Leaf** - 现在仅仅用来睡前看电子书，看漫画太难受了。**借给朋友去用了**。
+=======
+- [Redmi Pad](https://www.mi.com/redmipad) - Tachiyomi 启动器。为了克制一下不要全天在看漫画，**现在一般两个月才回家集中看两天漫画**（是吗？能做到吗？）
+>>>>>>> 8c217b8ca93a8034bc84e4e3cc2710f5c28d005a
 
 <details>
 <summary>不活跃列表</summary>
@@ -235,7 +244,11 @@ modified: 2025-11-04
 - [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 128G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。**给老爸用了**
 - [Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器 **想送人了**
 - [iPhone SE 2](https://www.apple.com/cn/iphone-se/) - 64G, 其实我很喜欢这种大小，就是续航太拉跨以至于只能换到 14 pro 了。 **想送人了**
+<<<<<<< HEAD
 - [Redmi Pad](https://www.mi.com/redmipad) - ~~Tachiyomi 启动器。为了克制一下不要全天在看漫画~~，**现在一般两个月才回家集中看两天漫画**（已经送家里人了）
+=======
+- **Boox Leaf** - ~~现在仅仅用来睡前看电子书，看漫画太难受了~~。**借给朋友去用了**。
+>>>>>>> 8c217b8ca93a8034bc84e4e3cc2710f5c28d005a
 
 </details>
 
@@ -467,6 +480,7 @@ modified: 2025-11-04
   - bookmarker for pinboard - 用于将当前页面添加到 Pinboard。
   - RSSHub Radar - 用于查找当前页面的 RSSHub 源，DIYgod 出品。
   - 沉浸式翻译 - 用于翻译，已经离不开了，我喜欢的颜色是 `#FB8F68`。
+- [Chrome](https://www.google.com/chrome/) - 还是摆脱不了，某些网站和开发场景必须用它。
 
 <details>
 <summary>过期列表</summary>
@@ -566,13 +580,14 @@ modified: 2025-11-04
 
 ### 📺 视频 & 🎵 音乐
 
-- [YouTube](https://www.youtube.com/)(¥120/y 淘宝) - 通过淘宝购买的 YouTube Premium 会员，去除广告后体验极佳，各设备使用频率大幅提升。
+- [YouTube](https://www.youtube.com/) - 现在不续 Premium 会员了，手机观看场景基本能用电脑替代；配合 AdGuard 去广告就够用。
 - [哔哩哔哩 App](https://www.bilibili.com/) - 轻度视频用户，年观看时长不足 200 小时。主要关注少数几个 UP 主的内容更新。
 - [infuse](https://firecore.com/infuse)($12.99/y) - 优雅的视频播放器，完美支持阿里云盘视频播放。界面精美，用户体验出色，但随着成本上升可能需要寻找替代方案。
 - [剪映专业版](https://www.capcut.cn/) - 视频剪辑工具，通过 Samba 协议将树莓派存储的视频映射到电脑，实现便捷的本地剪辑。（或许 iMovie 也可以？）
 - [iina](https://iina.io/) - macOS 上优秀的本地视频播放器，是我的首选播放工具。
 - [obs](https://obsproject.com/) - 功能强大的录屏工具，主要用于配合串流软件录制游戏机画面。
 - [spotify](https://www.spotify.com/) - 尝试过多个音乐平台后，最终选择了 Spotify 作为主力音乐服务。
+- [网易云音乐](https://music.163.com/) - 为了评论区功能，以及可以跟国内的朋友分享。今年还是开回来了。
 
 <details>
 <summary>过期列表</summary>
@@ -611,7 +626,7 @@ modified: 2025-11-04
 ### 📰 新闻 & 阅读
 
 - [RSSHub](https://rsshub.app/) - 强大的 RSS 生成器，可为众多不支持 RSS 的网站提供订阅源，支持自定义参数调整内容。
-- [Follow](https://github.com/RSSNext/follow) - 一站式信息聚合平台，整合了 RSS、Telegram、YouTube、Bilibili、Pixiv、Twitter 等多平台订阅。作为 Inoreader 的替代品，我写了一篇[使用体验](https://t.me/tomoko_channel/592)。欢迎访问我的 [Follow 主页](https://web.follow.is/profile/niracler)。
+- [Folo](https://github.com/RSSNext/Folo) - 一站式信息聚合平台，整合了 RSS、Telegram、YouTube、Bilibili、Pixiv、Twitter 等多平台订阅。作为 Inoreader 的替代品，我写了一篇[使用体验](https://t.me/tomoko_channel/592)。欢迎访问我的 [Folo 主页](https://app.folo.is/share/users/niracler)。
 - [豆瓣](https://douban.com) - 影视、书籍、音乐等作品的评分参考平台。这是我的[豆瓣主页](https://www.douban.com/people/niracler/)，主要记录 ACG 作品的观看体验。
 - [读库 APP](https://www.duku.cn)(需要订阅读库) - 提供志愿者朗读的精选文章音频，适合碎片时间收听。
 - [微信读书](https://weread.qq.com/) - 内容丰富的电子书平台，适合阅读文学类作品。技术类书籍建议选择纸质版或 PDF 格式。
@@ -636,9 +651,7 @@ modified: 2025-11-04
 ### 🌟⭐️✨ 动画 & 漫画
 
 - [萌娘百科](https://zh.moegirl.org.cn/) - 萌娘百科的词条是真的很有趣，哈哈。主要是用来收藏词条，以及无聊的时候看的。
-- [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）
-- [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - 继任者，新一代的王。
-- [mox.moe](https://mox.moe) - 非常全的漫画源，一键就能够将漫画推送到 kindle 上，在 iPad 上全靠它来启动看漫画了。
+- [Tachimanga](https://tachimanga.app/)($24.99 LifeTime) - iOS 端的 Tachiyomi 替代方案，终身会员直接无脑开。至此所有看漫画的设备都可以退役，iPad 成为唯一主力。
 - [蜜柑计划](https://mikanani.me/) - 用于追番，autoBangumi 的 RSS 订阅就靠它了。
 - [AutoBangumi](https://www.autobangumi.org/) - 用自动根据 RSS 的订阅来下载，我现在基本是靠它了。
 
@@ -647,6 +660,9 @@ modified: 2025-11-04
 
 - ~~[哔哩哔哩漫画](https://manga.bilibili.com/) - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。~~ 已经卸载了，现在主要是用回 Tachiyomi 了。
 - ~~[Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。~~ 被封锁了~~
+- [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - ~~继任者，新一代的王，现阶段留作 Android 备用，~~ 主力已经转到 iPad 的 Tachimanga。
+- [mox.moe](https://mox.moe) - 非常全的漫画源，一键就能够将漫画推送到 kindle 上，在 iPad 上全靠它来启动看漫画了。(**同转到 Tachimanga**)
+- [Kindle App](https://www.amazon.com/b?node=16571048011) - 虽然硬件是没用了，但是 iPad 上还是保留着用来看漫画，是我 iPad 上存储空间占用最大的软件了。（50G）(**同转到 Tachimanga**)
 
 </details>
 
@@ -711,10 +727,15 @@ modified: 2025-11-04
 
 ### 🛠️ 系统工具
 
-- [Applite](https://github.com/milanvarady/Applite) - 现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。
 - [CleanMyMac X](https://setapp.com/apps/cleanmymac)(Setapp) - Mac 系统清理和优化工具，既然在 Setapp 礼包中，就秉承着来都来了的原则，就装上了。（我怀疑你不仅仅只是清理垃圾，你还有其他功能）
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于将树莓派的镜像写入到 SD 卡上的工具。
 - [Windows App](https://apps.microsoft.com/detail/9n1f85v9t8bn?hl=en-us&gl=US) - 用来远程控制 Windows 的软件，感觉挺好用的。应该是官方出品。
+
+<summary>过期列表</summary>
+
+- [Applite](https://github.com/milanvarady/Applite) - ~~现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。~~ 基本没有在用了
+
+</details>
 
 ### 🤝 会议工具
 
@@ -731,8 +752,8 @@ modified: 2025-11-04
 我会每月定期检查和更新此列表，主要关注以下来源：
 
 1. 各端设备（手机、电脑、平板）上的应用软件
-2. TachiyomiSY 漫画订阅源中的新作者
-3. Follow 平台上关注的内容源
+2. Tachimanga 漫画订阅源中的新作者
+3. Folo 平台上关注的内容源
 
 内容规范：
 
