@@ -228,11 +228,6 @@ modified: 2025-11-05
 
 - [iPhone 16 pro](https://www.apple.com/cn/iphone-16-pro/) - 在 618 国补后 5499 入手的。周围的人都说 128G 肯定不够用呢～～
 - [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏。
-<<<<<<< HEAD
-- **Boox Leaf** - 现在仅仅用来睡前看电子书，看漫画太难受了。**借给朋友去用了**。
-=======
-- [Redmi Pad](https://www.mi.com/redmipad) - Tachiyomi 启动器。为了克制一下不要全天在看漫画，**现在一般两个月才回家集中看两天漫画**（是吗？能做到吗？）
->>>>>>> 8c217b8ca93a8034bc84e4e3cc2710f5c28d005a
 
 <details>
 <summary>不活跃列表</summary>
@@ -240,11 +235,8 @@ modified: 2025-11-05
 - [iPhone 14 pro](https://www.apple.com/cn/iphone-14-pro/) - 128G, 对于我个人使用来说，是完全溢出了。其实我更喜欢 SE 这种系列。**给老爸用了**
 - [Kindle Paperwhite 4](https://www.amazon.cn/dp/B0773F1Y7L) - 结合 [mox.moe](https://mox.moe) 转型成为漫画阅读器了，不过在 kindle 离开大陆之后，因为上网要代理，现在已经有两年没拿出来用了，而且后续也买了一个水墨屏阅读器 **想送人了**
 - [iPhone SE 2](https://www.apple.com/cn/iphone-se/) - 64G, 其实我很喜欢这种大小，就是续航太拉跨以至于只能换到 14 pro 了。 **想送人了**
-<<<<<<< HEAD
 - [Redmi Pad](https://www.mi.com/redmipad) - ~~Tachiyomi 启动器。为了克制一下不要全天在看漫画~~，**现在一般两个月才回家集中看两天漫画**（已经送家里人了）
-=======
 - **Boox Leaf** - ~~现在仅仅用来睡前看电子书，看漫画太难受了~~。**借给朋友去用了**。
->>>>>>> 8c217b8ca93a8034bc84e4e3cc2710f5c28d005a
 
 </details>
 
