@@ -1,12 +1,9 @@
 name: Sync to Bokushi
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - README.md
-      - publish.sh
-      - .github/scripts/sync_to_bokushi.py
+  release:
+    types:
+      - published
   workflow_dispatch:
 
 jobs:
