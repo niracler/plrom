@@ -1,15 +1,13 @@
 <!--
 title: 人 X 社区 X 物 - $(date +%Y-%m-%d)
-tags: [ "life", "software", "hardware", "community", "people", "tools", "xlog" ]
-cover: https://ipfs.crossbell.io/ipfs/QmR5AtZLDJqXUgn9gcYLKbcnRtGA6QtA14Xrzh6PuTsM9c
+tags: [ "社区", "工具" ]
+cover: https://image.niracler.com/2025/11/b2ef6430e8e437cdbff99b1346badbfc.png
 slug: plrom
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 note_id: 273
 date: 2024-09-26
 modified: 2025-11-05
 -->
-
-# plrom
 
 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 
