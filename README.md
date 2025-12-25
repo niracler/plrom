@@ -6,7 +6,7 @@ slug: plrom
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 note_id: 273
 date: 2024-09-26
-modified: 2025-11-05
+modified: 2025-12-04
 -->
 
 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
@@ -182,6 +182,7 @@ modified: 2025-11-05
 - [读库](https://post.smzdm.com/p/alxwmkdg/) - 我也不知道如何介绍呢～ 可以理解为是一个出版商，主营业务是一个以年为单位的杂志？每几个月一期，每期都精心挑选和出版深度丰富的非虚构作品。我持续订阅读库已经有五年了。（不过，我没有看完的本数也是越来越多了）
 - [RSSHub](https://rsshub.app/) - RSS 的重度用户，日常的新闻、博客都是通过它来订阅的。
 - [少数派](https://sspai.com) - 出来工作这几年，染上了重度的「买买买」的习惯，其实就是从这里来的。。。
+- [取伙](https://quhuo.com.cn/Home) - Z 世代年轻人的活动聚集平台，在深圳可以跟着各种观影团去看电影，还有音乐、演出等多样化线下活动体验。
 - [琉璃神社](https://www.hacg.ceo) - 「琉璃神社是一个分享最新最酷的ACG同人作品资讯社团,在这里你能找到很多欢乐」。懂的都懂，实为看了十几年神社的老登了～～
 
 ### 🏢 游戏 & 动画公司
@@ -208,6 +209,7 @@ modified: 2025-11-05
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - 8G RAM, 现在用来运行 [HAOS](https://www.home-assistant.io/installation/)
 - [倍控工控主机四核 J1900 8G内存 256G 固态](https://item.jd.com/10040009548064.html#crumb-wrap) - 一开始用来做软路由来着，但是 OpenWrt 太灵车了，最后还是转回了 Apple TV + Surge 做软路由。后面找找有什么可玩的方案。
 - 13600kf+4070s - 最近配的一台主机，但是还没发现更具体的用途，单纯只是用来完了两盘《文明 6 》。不过现在下班后都是用它了。在熟悉 MacOS 到 Windows 的过程。
+  - [LG 27UQ850V 27英寸 4K 显示器](https://item.jd.com/100081317949.html) - IPS 高清专业设计显示器，TypeC 90W，HDR400，内置音箱。
   - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 八年老键盘了，现在宿舍电脑就是用的它。
   - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在是连着 windows 主机在用。
   - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
@@ -332,13 +334,12 @@ modified: 2025-11-05
 > 不过其实太多了，我这里只挑我用的最多的 20 个
 
 - [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的。
-- [Claude Code](https://claude.ai/code) - 现在已经是我的米饭帮主了，没有它我没法展开工作。
+- [Claude Code](https://claude.ai/code)($100/m) - 现在已经是我的米饭帮主了，没有它我没法展开工作。
 - [OpenAI Codex CLI](https://openai.com/codex/) - 最近在尝试使用的 AI 编程助手命令行工具，可以在终端直接用自然语言生成和执行命令。
 - [x-cmd](https://x-cmd.com) - 我前司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + … )`
 - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
 - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
 - [docker](https://www.docker.com/) - 用于开发和部署容器化应用的工具, 也是属于一个基本不能不用的软件了
-- [hurl](https://github.com/Orange-OpenSource/hurl) - 用于测试 HTTP 请求的工具。
 - [markdown-link-check](https://github.com/tcort/markdown-link-check) - 用于检查 markdown 文件中的链接是否有效。我这篇文章的链接就主要是靠它检查的。
 - [zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - 用于在 zsh 中使用 fzf 来搜索历史命令。
 - [rsync](https://rsync.samba.org/) - 服务器间的文件同步命令。类 Linux 系统应该都是自带的，服务器之间的文件传输我都是靠它的。我最喜欢用的参数是 `-acvP` 。
@@ -352,8 +353,22 @@ modified: 2025-11-05
 <summary>过期列表</summary>
 
 - [frp](https://github.com/fatedier/frp) - 用于内网穿透的工具，我用它来将我的树莓派暴露出来，为了 ServerCat 可以连上。（Cloudflare Tunnel 穿透出来的连不上） **在用上 tailscale 之后就基本不用它了**
+- [hurl](https://github.com/Orange-OpenSource/hurl) - 用于测试 HTTP 请求的工具。**基本没在用了**
 
 </details>
+
+### 🤖 大模型工具
+
+> 配合 Claude Code 使用的 MCP 服务和 Skill 插件
+
+- 开发框架
+  - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - 规范驱动开发框架，让人和 AI 在写代码前先对齐需求。通过 proposal → review → implement → archive 的工作流，避免 AI 编程的不可预测性，特别适合非 0→1 的存量项目迭代。
+  - [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂
+- MCP (Model Context Protocol)
+  - [Context7](https://context7.com/) - 为 LLM 提供最新库文档的 MCP 服务。解决了 AI 训练数据过时的问题，可以实时获取各种库的 API 参考和代码示例。
+  - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 微软官方的浏览器自动化 MCP 服务。基于 Playwright 的无障碍树而非截图，让 AI 能快速、确定性地操作网页，支持表单填写、数据抓取等场景。**这几天 claude-chrome 插件也出来了，先观望一下**
+- Claude Code Skills
+  - [我的 Skill 仓库](https://github.com/niracler/skill) - 我自己写的 Claude Code Skills 集合，包含 Git 工作流、写作助手、Anki 卡片生成、HA 集成审查等。
 
 ### 📝 文本编辑 & IDE
 
@@ -405,6 +420,10 @@ modified: 2025-11-05
 
 </details>
 
+### 📊 演示工具
+
+- [Slidev](https://sli.dev/) - 面向开发者的 Markdown 演示文稿框架。基于 Vue 和 Vite 构建，支持代码高亮、LaTeX 公式、Mermaid 图表，还能嵌入交互式 Vue 组件。用熟悉的工具链写 PPT，还能 Git 版本控制，比传统演示软件灵活得多。**主要是 LLM 生成起来比较简单**
+
 ### 💻 虚拟化
 
 - [OrbStack](https://orbstack.dev/) - 一个 Docker Desktop 的轻量级替代品，我用它来管理我的 Docker 容器。
@@ -442,6 +461,10 @@ modified: 2025-11-05
 - [upscayl](https://github.com/upscayl/upscayl) - 用来做高分辨率重建的工具，看上去效果是挺不错的。
 - [webp](https://webp.se/) - 能够自动加水印，压缩图片的重定向服务，我的图床就用它套了一层。主要是谢谢 yu 君的 [从零开始搭建你的免费图床系统 （Cloudflare R2 + WebP Cloud + PicGo）](https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo/)
 - [TouchRetouch](https://setapp.com/apps/touchretouch)(Setapp) - 专业的图片修复和物体移除工具，可以轻松去除照片中不需要的物体或瑕疵。
+
+### ☁️ 云服务器
+
+- [CloudCone](https://cloudcone.com/) - 在用的 VPS 提供商，包年价格便宜。缺点是管理页面非常卡，网速也一般，基本没法用来科学上网。
 
 ### 💾 云存储
 
@@ -573,13 +596,15 @@ modified: 2025-11-05
 - [iina](https://iina.io/) - macOS 上优秀的本地视频播放器，是我的首选播放工具。
 - [obs](https://obsproject.com/) - 功能强大的录屏工具，主要用于配合串流软件录制游戏机画面。
 - [spotify](https://www.spotify.com/) - 尝试过多个音乐平台后，最终选择了 Spotify 作为主力音乐服务。
+- [Evermusic](https://everappz.com/products/evermusic/) - iOS 上的本地/云音乐播放器。主要是国庆期间去了趟日本买了几张专辑 cd，想着不要浪费就将转录后的 flac 文件放到 iCloud 上了，就是用的这个软件来听。
+- [netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl) - 用这仓库的脚本魔改后自用来下载网易云音乐的专辑。
 - [网易云音乐](https://music.163.com/) - 为了评论区功能，以及可以跟国内的朋友分享。今年还是开回来了。
 
 <details>
 <summary>过期列表</summary>
 
 - ~~[YT MUSIC](https://music.youtube.com/)(¥120/y)~~ - 慎用。槽点还是太多了，梯子节点不太稳定的时候就直接断了，一般需要下载下来才比较好，而且有些区是不能用的。不过现在已经将我的音乐软件转成这个了，架不住我想听的都有。发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
-- ~~[网易云音乐](https://music.163.com/) - 用于听一些音乐~~ 二次元的音��是真的多，评论区也很棒，在国内体验好于 YT Music。不过因为时常会没有版权然后变灰，这个是硬伤，现在已经转到 YT MUSIC 了。
+- ~~[网易云音乐](https://music.163.com/) - 用于听一些音乐~~ 二次元的音乐是真的多，评论区也很棒，在国内体验好于 YT Music。不过因为时常会没有版权然后变灰，这个是硬伤，~~现在已经转到 YT MUSIC 了。~~
 - ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
 
 </details>
@@ -612,7 +637,7 @@ modified: 2025-11-05
 ### 📰 新闻 & 阅读
 
 - [RSSHub](https://rsshub.app/) - 强大的 RSS 生成器，可为众多不支持 RSS 的网站提供订阅源，支持自定义参数调整内容。
-- [Folo](https://github.com/RSSNext/Folo) - 一站式信息聚合平台，整合了 RSS、Telegram、YouTube、Bilibili、Pixiv、Twitter 等多平台订阅。作为 Inoreader 的替代品，我写了一篇[使用体验](https://t.me/tomoko_channel/592)。欢迎访问我的 [Folo 主页](https://app.folo.is/share/users/niracler)。
+- [Folo](https://github.com/RSSNext/Folo)($100/年) - 一站式信息聚合平台，整合了 RSS、Telegram、YouTube、Bilibili、Pixiv、Twitter 等多平台订阅。作为 Inoreader 的替代品，我写了一篇[使用体验](https://t.me/tomoko_channel/592)。欢迎访问我的 [Folo 主页](https://app.folo.is/share/users/niracler)。
 - [豆瓣](https://douban.com) - 影视、书籍、音乐等作品的评分参考平台。这是我的[豆瓣主页](https://www.douban.com/people/niracler/)，主要记录 ACG 作品的观看体验。
 - [读库 APP](https://www.duku.cn)(需要订阅读库) - 提供志愿者朗读的精选文章音频，适合碎片时间收听。
 - [微信读书](https://weread.qq.com/) - 内容丰富的电子书平台，适合阅读文学类作品。技术类书籍建议选择纸质版或 PDF 格式。
@@ -725,9 +750,15 @@ modified: 2025-11-05
 
 ### 🤝 会议工具
 
-- [Zoom](https://zoom.us/) - 用于远程会议的工具，不过我也很少用。
 - [腾讯会议](https://meeting.tencent.com/) - 挺经常用的，尤其是国内面试基本都是用它。
 - [discord](https://discord.com/) - 在放映室串流方面效果做得很好，挺多时候就是当成用来跟朋友一起远程看大屏了。
+
+<details>
+<summary>过期列表</summary>
+
+- ~~[Zoom](https://zoom.us/)~~ - 用于远程会议的工具，基本没有在用了。
+
+</details>
 
 ### 🎁 软件订阅平台
 

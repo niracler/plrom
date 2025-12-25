@@ -26,10 +26,12 @@
 - 扩写多处软件说明：补充 Zed 的使用体验、Chrome 的保留理由、Obsidian 主题补充等内容，同时统一 Markdown 行尾格式。
 
 ### Removed
+
 - 将 Warp、Applite、XLocker、TachiyomiSY 等从主列表移动至“过期列表”，并保留弃用原因说明。
 - 清理 README 中过期描述和冗余换行，使内容结构更紧凑。
 
 ### Technical
+
 - 添加 `.github/scripts/sync_to_bokushi.py` 与 `.github/workflows/sync-to-bokushi.yml`，现调整为仅在发布 release 时生成内容并同步到 `niracler/bokushi`。
 - 引入 `.markdownlint.json`，关闭 MD013 与 MD033 规则，便于维护长行和内嵌 HTML。
 - 新增 `AGENTS.md` 指向 `CLAUDE.md` 的符号链接，并在 `CLAUDE.md` 记录 Bokushi 同步工作流说明。
