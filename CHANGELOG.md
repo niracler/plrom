@@ -7,6 +7,34 @@
 
 ## [Unreleased]
 
+## [2025.12] - 2025-12-25
+
+### Added
+
+- **🤖 大模型工具** (软件 / 新分类) - 新增 AI 辅助开发工具分类：
+  - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - 规范驱动开发框架
+  - [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code 用量分析工具
+  - [Context7](https://context7.com/) - LLM 文档 MCP 服务
+  - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 浏览器自动化 MCP
+  - [我的 Skill 仓库](https://github.com/niracler/skill) - 个人 Claude Code Skills
+- **📊 演示工具** (软件 / 新分类) - 新增 [Slidev](https://sli.dev/) Markdown 演示框架
+- **☁️ 云服务器** (软件 / 新分类) - 新增 [CloudCone](https://cloudcone.com/) VPS 提供商
+- **[取伙](https://quhuo.com.cn/Home)** (组织) - Z 世代年轻人的活动聚集平台
+- **[LG 27UQ850V 4K 显示器](https://item.jd.com/100081317949.html)** (物 / 电脑及配件) - 新增 4K 显示器
+- **[Evermusic](https://everappz.com/products/evermusic/)** (软件 / 视频 & 音乐) - iOS 本地/云音乐播放器
+- **[netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl)** (软件 / 视频 & 音乐) - 网易云音乐下载工具
+
+### Changed
+
+- 更新 Claude Code 价格信息（$100/m）
+- 更新 Folo 价格信息（$100/年）
+- 修复网易云音乐描述中的乱码字符
+
+### Removed
+
+- 将 hurl 移至过期列表
+- 将 Zoom 移至过期列表
+
 ## [2025.11] - 2025-11-05
 
 ### Added
