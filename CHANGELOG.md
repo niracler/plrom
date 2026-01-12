@@ -7,6 +7,17 @@
 
 ## [Unreleased]
 
+## [2026.01] - 2026-01-12
+
+### Added
+
+- **Claude Code 插件配置** (软件 / 大模型工具) - 新增完整的 Claude Code 插件配置列表：
+  - 开发辅助类：code-review、code-simplifier、feature-dev、frontend-design、typescript-lsp、pyright-lsp、security-guidance
+  - 文档与知识类：context7、[obsidian](https://github.com/nicholasrq/obsidian-skills)
+  - 工作流增强：[superpowers](https://github.com/anthropics/claude-code-superpowers)、workflow-skills
+  - 写作与学习类：writing-skills、learning-skills、learning-output-style
+  - 趣味类：fun-skills
+
 ## [2025.12] - 2025-12-25
 
 ### Added
