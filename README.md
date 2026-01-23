@@ -359,37 +359,40 @@ modified: 2025-12-04
 
 ### 🤖 大模型工具
 
-> 配合 Claude Code 使用的 MCP 服务和 Skill 插件
+> 配合 Claude Code 使用的 MCP 服务和 Skill 插件。下面这些是我常用的。
 
-- 开发框架
-  - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - 规范驱动开发框架，让人和 AI 在写代码前先对齐需求。通过 proposal → review → implement → archive 的工作流，避免 AI 编程的不可预测性，特别适合非 0→1 的存量项目迭代。
-  - [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂
-- MCP (Model Context Protocol)
-  - [Context7](https://context7.com/) - 为 LLM 提供最新库文档的 MCP 服务。解决了 AI 训练数据过时的问题，可以实时获取各种库的 API 参考和代码示例。
-  - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 微软官方的浏览器自动化 MCP 服务。基于 Playwright 的无障碍树而非截图，让 AI 能快速、确定性地操作网页，支持表单填写、数据抓取等场景。**这几天 claude-chrome 插件也出来了，先观望一下**
-- Claude Code Skills
-  - [我的 Skill 仓库](https://github.com/niracler/skill) - 我自己写的 Claude Code Skills 集合，包含 Git 工作流、写作助手、Anki 卡片生成、HA 集成审查等。
-- Claude Code 插件配置
-  - 开发辅助类 (官方插件，`claude plugin add <name>` 安装)
-    - **code-review** - 代码审查插件，帮助检查代码质量、发现潜在 bug 和安全漏洞
-    - **code-simplifier** - 代码简化插件，帮助重构代码使其更清晰、可维护
-    - **feature-dev** - 功能开发引导，提供架构分析和实现蓝图
-    - **frontend-design** - 前端设计插件，生成高质量的前端界面代码，避免千篇一律的 AI 风格
-    - **typescript-lsp** - TypeScript 语言服务器，提供更精准的 TS 代码分析
-    - **pyright-lsp** - Python 类型检查器，增强 Python 代码分析能力
-    - **security-guidance** - 安全指导，帮助识别和避免常见安全漏洞
-  - 文档与知识类
-    - **context7** (官方) - 实时查询任意编程库的最新文档和代码示例，告别过时信息
-    - [obsidian](https://github.com/nicholasrq/obsidian-skills) (第三方) - 支持 Obsidian 特有语法：wikilinks、callouts、properties、Canvas 文件等
-  - 工作流增强
-    - [superpowers](https://github.com/anthropics/claude-code-superpowers) (第三方) - 提供一系列高级技能：TDD、系统化调试、头脑风暴、并行任务、代码审查等工作流
-    - [workflow-skills](https://github.com/niracler/skill) (自用) - git-workflow (标准化 Git 提交、PR、Release 流程)、ha-integration-reviewer (Home Assistant 集成代码审查)、yunxiao-cli (阿里云云效 DevOps 工具)
-  - 写作与学习类
-    - [writing-skills](https://github.com/niracler/skill) (自用) - 中文写作助手，启发模式 (写作引导) + 审校模式 (文章润色，含余光中中文风格指南)
-    - [learning-skills](https://github.com/niracler/skill) (自用) - Anki 闪卡生成器，遵循原子化原则，输出 simple-anki-sync 兼容格式
-    - **learning-output-style** (官方) - 学习输出风格，Claude 会边做边解释，适合学习新技术时使用
-  - 趣味类
-    - [fun-skills](https://github.com/niracler/skill) (自用) - 戏言·巫女子风格转换器，将文字转换为西尾维新《戏言系列》葵井巫女子的说话风格
+**开发框架**
+
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) - 规范驱动开发框架，让人和 AI 在写代码前先对齐需求。通过 proposal → review → implement → archive 的工作流，避免 AI 编程的不可预测性，特别适合非 0→1 的存量项目迭代。
+- [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂
+
+**MCP 服务**（要开启 `ENABLE_TOOL_SEARCH=true` 等功能才能装多一两个）
+
+- [Context7](https://context7.com/) - 为 LLM 提供最新库文档的 MCP 服务。解决了 AI 训练数据过时的问题，可以实时获取各种库的 API 参考和代码示例。
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 微软官方的浏览器自动化 MCP 服务。基于 Playwright 的无障碍树而非截图，让 AI 能快速、确定性地操作网页。
+- [Chrome DevTools MCP](https://github.com/anthropics/anthropic-quickstarts/tree/main/mcp-chrome-devtools) - Chrome 浏览器调试工具，支持截图、网络请求分析、性能追踪、脚本执行等。和 Playwright MCP 功能互补。
+- [Greptile](https://www.greptile.com/) - 代码库语义搜索和 PR 审查服务，可以基于整个代码库上下文回答问题。
+- [云效 Yunxiao](https://github.com/aliyun/alibabacloud-devops-mcp-server) - 阿里云 DevOps 平台 MCP 服务，支持代码仓库、流水线、工作项等操作。
+
+**Claude Code Skills**
+
+- [skills.sh](https://skills.sh/) - AI Agent Skills 开源市场，类似 npm 的 skills 分发平台，支持 Claude Code、Cursor、Copilot 等多种 agent。通过 `npx skills add <owner/repo>` 一键安装。
+- [我的 Skill 仓库](https://github.com/niracler/skill) - 自己写的 Skills 集合，包含 Git 工作流、写作助手、Anki 卡片生成、HA 集成审查、戏言风格转换等。
+- [superpowers](https://github.com/anthropics/claude-code-superpowers) - 提供 TDD、系统化调试、头脑风暴、并行任务、代码审查等高级工作流。
+- [obsidian-skills](https://github.com/nicholasrq/obsidian-skills) - 支持 Obsidian 特有语法：wikilinks、callouts、properties、Canvas 文件等。
+- [document-skills](https://github.com/anthropics/claude-code-skills/tree/main/document-skills) (官方) - PDF/DOCX/PPTX/XLSX 文档处理、前端设计、MCP 构建器、算法艺术生成等。
+
+**官方插件** (`claude plugin add <name>` 安装)
+
+- **code-review** - 代码审查插件，帮助检查代码质量、发现潜在 bug 和安全漏洞
+- **code-simplifier** - 代码简化插件，帮助重构代码使其更清晰、可维护
+- **feature-dev** - 功能开发引导，提供架构分析和实现蓝图
+- **frontend-design** - 前端设计插件，生成高质量的前端界面代码，避免千篇一律的 AI 风格
+- **typescript-lsp** - TypeScript 语言服务器，提供更精准的 TS 代码分析
+- **pyright-lsp** - Python 类型检查器，增强 Python 代码分析能力
+- **security-guidance** - 安全指导，帮助识别和避免常见安全漏洞
+- **context7** - 实时查询任意编程库的最新文档和代码示例，告别过时信息
+- **learning-output-style** - 学习输出风格，Claude 会边做边解释，适合学习新技术时使用
 
 ### 📝 文本编辑 & IDE
 
