@@ -377,7 +377,8 @@ modified: 2025-12-04
 
 **Claude Code Skills**
 
-- [skills.sh](https://skills.sh/) - AI Agent Skills 开源市场，类似 npm 的 skills 分发平台，支持 Claude Code、Cursor、Copilot 等多种 agent。通过 `npx skills add <owner/repo>` 一键安装。
+- [skills.sh](https://skills.sh/) - AI Agent Skills 开源生态市场，社区驱动的 skills 分发平台。有热度排行榜和分类浏览，能发现各种高质量 skills（React 最佳实践、Web 设计规范、安全指南等）。支持 Claude Code、Cursor、Copilot 等 30+ 种 agent。
+- [skills CLI](https://github.com/vercel-labs/skills) - Vercel 出品的 Agent Skills 管理命令行工具，`npx skills add <owner/repo>` 一键安装。支持全局/项目级安装、自动检测本地 agent、批量更新 skills。配合 skills.sh 使用，形成完整的 skills 发现→安装→管理流程。
 - [我的 Skill 仓库](https://github.com/niracler/skill) - 自己写的 Skills 集合，包含 Git 工作流、写作助手、Anki 卡片生成、HA 集成审查、戏言风格转换等。
 - [superpowers](https://github.com/anthropics/claude-code-superpowers) - 提供 TDD、系统化调试、头脑风暴、并行任务、代码审查等高级工作流。
 - [obsidian-skills](https://github.com/nicholasrq/obsidian-skills) - 支持 Obsidian 特有语法：wikilinks、callouts、properties、Canvas 文件等。
