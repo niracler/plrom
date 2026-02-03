@@ -360,29 +360,33 @@ modified: 2025-12-04
 
 ### 🤖 大模型工具
 
-> 配合 Claude Code 使用的 MCP 服务和 Skill 插件。下面这些是我常用的。
+> 配合 Coding Agent 使用的 MCP 服务和 Skill 插件。下面这些是我常用的。
 
 **开发框架**
 
-- [OpenSpec](https://github.com/Fission-AI/OpenSpec) - 规范驱动开发框架，让人和 AI 在写代码前先对齐需求。通过 proposal → review → implement → archive 的工作流，避免 AI 编程的不可预测性，特别适合非 0→1 的存量项目迭代。
-- [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) - 规范驱动开发框架，让人和 AI 在写代码前先对齐需求。通过 proposal → review → implement → archive 的工作流，避免 AI 编程的不可预测性，特别适合非 0→1 的存量项目迭代。**最近更新了 1.0 版本，做了一些流程细化，有 explore 阶段就可以抛弃 superpower 的头脑风暴了（不是**
+- [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code Token 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂。Codex 可用 `npx @ccusage/codex@latest`
 
-**MCP 服务**（要开启 `ENABLE_TOOL_SEARCH=true` 等功能才能装多一两个）
+**MCP 服务**（要开启 `ENABLE_TOOL_SEARCH=true` 等功能才能装多一两个， 不然 context 消耗太快了）
 
 - [Context7](https://context7.com/) - 为 LLM 提供最新库文档的 MCP 服务。解决了 AI 训练数据过时的问题，可以实时获取各种库的 API 参考和代码示例。
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 微软官方的浏览器自动化 MCP 服务。基于 Playwright 的无障碍树而非截图，让 AI 能快速、确定性地操作网页。
-- [Chrome DevTools MCP](https://github.com/anthropics/anthropic-quickstarts/tree/main/mcp-chrome-devtools) - Chrome 浏览器调试工具，支持截图、网络请求分析、性能追踪、脚本执行等。和 Playwright MCP 功能互补。
-- [Greptile](https://www.greptile.com/) - 代码库语义搜索和 PR 审查服务，可以基于整个代码库上下文回答问题。
+- [Greptile](https://www.greptile.com/) - 代码库语义搜索和 PR 审查服务，可以基于整个代码库上下文回答问题。**如果项目有 4 G 大小的 SDK 仓库的同学，可以试试**
 - [云效 Yunxiao](https://github.com/aliyun/alibabacloud-devops-mcp-server) - 阿里云 DevOps 平台 MCP 服务，支持代码仓库、流水线、工作项等操作。
+- [Figma MCP](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server) - Figma 官方 MCP 服务,让 AI 能访问设计文件、连接设计组件与代码组件(Code Connect)、获取设计系统规则和变量定义,实现设计到代码的无缝协作。**装了，但基本还没用起来**
 
-**Claude Code Skills**
+**Agent Skills**
 
 - [skills.sh](https://skills.sh/) - AI Agent Skills 开源生态市场，社区驱动的 skills 分发平台。有热度排行榜和分类浏览，能发现各种高质量 skills（React 最佳实践、Web 设计规范、安全指南等）。支持 Claude Code、Cursor、Copilot 等 30+ 种 agent。
 - [skills CLI](https://github.com/vercel-labs/skills) - Vercel 出品的 Agent Skills 管理命令行工具，`npx skills add <owner/repo>` 一键安装。支持全局/项目级安装、自动检测本地 agent、批量更新 skills。配合 skills.sh 使用，形成完整的 skills 发现→安装→管理流程。
-- [我的 Skill 仓库](https://github.com/niracler/skill) - 自己写的 Skills 集合，包含 Git 工作流、写作助手、Anki 卡片生成、HA 集成审查、戏言风格转换等。
-- [superpowers](https://github.com/anthropics/claude-code-superpowers) - 提供 TDD、系统化调试、头脑风暴、并行任务、代码审查等高级工作流。
+- [find-skills](https://skills.sh/vercel-labs/skills/find-skills) - 搜索和推荐适合你的 Skill，通过对话了解需求后提供个性化推荐。
+- [我的 Skill 仓库](https://github.com/niracler/skill) - 个人 Skills 集合，涵盖工作流自动化(Git、云效、代码同步、工作回顾等)、写作辅助(校对、灵感、日记)、学习工具(Anki)和趣味转换(戏言风格)。
+- [humanizer-zh](https://skills.sh/op7418/humanizer-zh/humanizer-zh) - 去除中文 AI 痕迹，让文字更像人写的。基于维基百科的 AI 写作特征指南，检测并修复夸大象征、宣传性语言、模糊归因等模式。
+- [superpowers](https://github.com/anthropics/claude-code-superpowers) - 提供 TDD、系统化调试、头脑风暴、并行任务、代码审查等高级工作流。**最近没怎么用了，跟 claude 官方插件有不少重复的**
 - [obsidian-skills](https://github.com/nicholasrq/obsidian-skills) - 支持 Obsidian 特有语法：wikilinks、callouts、properties、Canvas 文件等。
-- [document-skills](https://github.com/anthropics/claude-code-skills/tree/main/document-skills) (官方) - PDF/DOCX/PPTX/XLSX 文档处理、前端设计、MCP 构建器、算法艺术生成等。
+- [ui-ux-pro-max](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max) - UI/UX 设计智能，支持 50 种风格、21 种配色方案、50 种字体组合，涵盖 React、Next.js、Vue 等 9 种技术栈。
+- [slidev](https://skills.sh/antfu/skills/slidev) - 用 Markdown 创建开发者演示文稿（Slidev），支持代码高亮、动画、Vue 组件等。
+- [document-skills](https://github.com/anthropics/skills) - 官方文档技能全家桶，包含 16 个子技能：PDF/DOCX/PPTX/XLSX 处理、前端设计、MCP 构建器、算法艺术、Web Artifacts 等。
 
 **官方插件** (`claude plugin add <name>` 安装)
 
