@@ -386,6 +386,8 @@ modified: 2025-12-04
 - [obsidian-skills](https://github.com/nicholasrq/obsidian-skills) - 支持 Obsidian 特有语法：wikilinks、callouts、properties、Canvas 文件等。
 - [ui-ux-pro-max](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max) - UI/UX 设计智能，支持 50 种风格、21 种配色方案、50 种字体组合，涵盖 React、Next.js、Vue 等 9 种技术栈。
 - [slidev](https://skills.sh/antfu/skills/slidev) - 用 Markdown 创建开发者演示文稿（Slidev），支持代码高亮、动画、Vue 组件等。
+- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu 的 Vue 生态技能集合，包含 17 个技能：Vue、Nuxt、Vite、Vitest、VitePress、Pinia、UnoCSS、pnpm、Slidev 等，直接从官方文档同步。
+- [vercel-react-best-practices](https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) - Vercel 官方 React/Next.js 性能优化指南，包含 57 条规则分 8 个类别：消除瀑布流、包体积优化、服务端性能、客户端数据获取等。
 - [document-skills](https://github.com/anthropics/skills) - 官方文档技能全家桶，包含 16 个子技能：PDF/DOCX/PPTX/XLSX 处理、前端设计、MCP 构建器、算法艺术、Web Artifacts 等。
 
 **官方插件** (`claude plugin add <name>` 安装)
