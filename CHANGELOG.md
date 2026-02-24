@@ -7,6 +7,28 @@
 
 ## [Unreleased]
 
+## [2026.02] - 2026-02-24
+
+### Added
+
+- **[宝玉](https://baoyu.io/)** (技术博主) - 国内 AI 资讯翻译，面向普通程序员的精华搬运
+- **[skills CLI](https://github.com/vercel-labs/skills)** (大模型工具 / Agent Skills) - Vercel 出品的 Skills 管理命令行工具
+- **[antfu/skills](https://github.com/antfu/skills)** (大模型工具 / Agent Skills) - Anthony Fu 的 Vue 生态技能集合（17 个技能）
+- **[vercel-react-best-practices](https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices)** (大模型工具 / Agent Skills) - Vercel 官方 React/Next.js 性能优化指南
+- **[BuhoCleaner](https://www.drbuho.com/buhocleaner)** (软件 / 系统工具) - Mac 系统清理工具终身版，替代 CleanMyMac X
+
+### Changed
+
+- 重新组织 AI 工具 section，采用扁平列表结构替代分类嵌套
+- iTerm2 恢复为主力终端
+
+### Removed
+
+- **ollama** → 过期列表（有了 Claude Code 之后本地模型基本不玩了）
+- **Ghostty** → 过期列表（稳定性还有不少问题，暂时退役）
+- **OpenCat Pro** → 补加删除线标记（订阅 Claude Pro 后完全不用）
+- **Setapp 相关整理** - iStat Menus、Session、MindNode、CleanMyMac X、TouchRetouch 等移入过期列表，不再续订 Setapp
+
 ## [2026.01] - 2026-01-12
 
 ### Added
@@ -121,6 +143,9 @@
 
 ---
 
-[Unreleased]: https://github.com/niracler/plrom/compare/v2025.11...HEAD
+[Unreleased]: https://github.com/niracler/plrom/compare/v2026.02...HEAD
+[2026.02]: https://github.com/niracler/plrom/compare/v2026.01...v2026.02
+[2026.01]: https://github.com/niracler/plrom/compare/v2025.12...v2026.01
+[2025.12]: https://github.com/niracler/plrom/compare/v2025.11...v2025.12
 [2025.11]: https://github.com/niracler/plrom/compare/v2025.10...v2025.11
 [2025.10]: https://github.com/niracler/plrom/releases/tag/v2025.10
