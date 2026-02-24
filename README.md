@@ -347,7 +347,6 @@ modified: 2025-12-04
 - [rclone](https://rclone.org/) - 可以将本地文件传输到云存储上。用过 S3、R2、OSS 等云产品的同学应该都多多少少用过的。
 - [imagemagick](https://imagemagick.org/index.php) - 用于处理图片的命令行工具，我主要用它来批量转换图片格式。
 - [ffmpeg](https://ffmpeg.org/) - 用于处理视频的命令行工具，简单的视频切片、转码等操作都可以用它来完成。
-- [ollama](https://ollama.com/) - 很方便地在本地跑 LLM 的工具，当然了，电脑性能是否足够是另外的问题了。
 - [onefetch](https://github.com/o2sh/onefetch) - 用 Rust 编写的命令行 Git 仓库信息展示工具，类似于 neofetch 但专门用于显示代码仓库的详细信息。
 
 <details>
@@ -355,6 +354,7 @@ modified: 2025-12-04
 
 - [frp](https://github.com/fatedier/frp) - 用于内网穿透的工具，我用它来将我的树莓派暴露出来，为了 ServerCat 可以连上。（Cloudflare Tunnel 穿透出来的连不上） **在用上 tailscale 之后就基本不用它了**
 - [hurl](https://github.com/Orange-OpenSource/hurl) - 用于测试 HTTP 请求的工具。**基本没在用了**
+- ~~[ollama](https://ollama.com/) - 很方便地在本地跑 LLM 的工具。~~ **有了 Claude Code 之后本地模型基本不玩了**
 
 </details>
 
@@ -440,14 +440,14 @@ modified: 2025-12-04
 - [Chatgpt App](https://openai.com/chatgpt/overview/) - 绑定了 cmd + space 来快速打开。一般用来快速问答。
 - [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。**现在 Spotlight 的功能也稍微起来了**
 - [keybr.com](https://www.keybr.com/) - 我前段时间用来练习打字的网站。
-- [iStat Menus](https://bjango.com/mac/istatmenus/)(Setapp) - 用于在菜单栏显示系统状态的工具。(其实我觉得没有什么用，😂)
-- [Session](https://setapp.com/apps/session)(Setapp) - 番茄钟软件，是在 Setapp 大礼包中的，优点在于可以联动 Apple 体系的日历、能够多端联动、以及桌面端足够好用。
 
 <details>
 <summary>过期列表</summary>
 
+- [iStat Menus](https://bjango.com/mac/istatmenus/)(Setapp) - 用于在菜单栏显示系统状态的工具。(其实我觉得没有什么用，😂)
+- [Session](https://setapp.com/apps/session)(Setapp) - 番茄钟软件，是在 Setapp 大礼包中的，优点在于可以联动 Apple 体系的日历、能够多端联动、以及桌面端足够好用。**不打算继续订阅 setapp 了，故放弃**
 - ~~[Alfred](https://www.alfredapp.com/)~~ - 最开始是用它的粘贴板历史功能，但是后面用上 Raycast 之后就不怎么用，被平替掉了，毕竟要钱。不过它的搜索功能还是很好用的。
-- [OpenCat Pro](https://opencat.app/)(¥38) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用一定次数的 4，所以就通过他来用 gpt-4 了。（当然，也可以用 [DeepSeek](https://www.deepseek.com/zh) 啦）**订阅了 claude pro 之后就基本没用上了，抱歉☹️**
+- ~~[OpenCat Pro](https://opencat.app/)(¥38) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用一定次数的 4，所以就通过他来用 gpt-4 了。~~ **订阅了 claude pro 之后就完全不用了**
 - [ServerCat](https://servercat.app/)(¥38) - 与上面的 OpenCat 一样，都是知名网红开发者 [Baye](https://twitter.com/waylybaye) 的作品。用于查看服务器的状态。**也没怎么用了**
 
 </details>
@@ -492,7 +492,13 @@ modified: 2025-12-04
 - [PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/) - 用于上传图片到图床的工具，我用的是 XXX 图床。
 - [upscayl](https://github.com/upscayl/upscayl) - 用来做高分辨率重建的工具，看上去效果是挺不错的。
 - [webp](https://webp.se/) - 能够自动加水印，压缩图片的重定向服务，我的图床就用它套了一层。主要是谢谢 yu 君的 [从零开始搭建你的免费图床系统 （Cloudflare R2 + WebP Cloud + PicGo）](https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo/)
-- [TouchRetouch](https://setapp.com/apps/touchretouch)(Setapp) - 专业的图片修复和物体移除工具，可以轻松去除照片中不需要的物体或瑕疵。
+
+<details>
+<summary>过期列表</summary>
+
+- [TouchRetouch](https://setapp.com/apps/touchretouch)(Setapp) - 专业的图片修复和物体移除工具，可以轻松去除照片中不需要的物体或瑕疵。**不打算继续订阅 setapp 了，故放弃**
+
+</details>
 
 ### ☁️ 云服务器
 
@@ -657,11 +663,11 @@ modified: 2025-12-04
 
 - [多邻国](https://www.duolingo.com/)(¥40/y) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～) **稍微有点不想继续了**
 - [Anki](https://apps.ankiweb.net/) - 间隔重复记忆软件，用于高效记忆和复习各种知识点。最近看书为了不忘记一些内容，试着做了一些 anki 的 card，也专门写了一个 prompt 用于生成对应的 card。
-- [MindNode](https://mindnode.com)(Setapp) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
 
 <details>
 <summary>过期列表</summary>
 
+- [MindNode](https://mindnode.com)(Setapp) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。**不打算继续订阅 setapp 了，故放弃**
 - [xmind](https://www.xmind.cn/) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
 
 </details>
@@ -751,8 +757,7 @@ modified: 2025-12-04
 
 ### 🖥️ 开发工具
 
-- [Ghostty](https://ghostty.org) - 现在主要使用的终端，简洁轻量，没有多余的功能，正是我想要的。性能也很不错，同样支持配置下拉式终端。
-- [iTerm 2](https://iterm2.com/) - 之前主要使用的终端，现在用得比较少了。主要是它可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
+- [iTerm 2](https://iterm2.com/) - 现在主要使用的终端，可以设置一个超级优雅的下拉式终端。我之前有写一篇 [文章](https://niracler.com/quake-terminal) 专门说这个
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 用于连接 MongoDB 数据库的客户端。
 - [MQTTX](https://mqttx.app/) - 用于测试 MQTT 协议的工具，我一般用它来测试 Mosquitto 的配置。
 - [Wireshark](https://www.wireshark.org/) - 用于抓包的工具，不过我也不是很会用。
@@ -761,21 +766,23 @@ modified: 2025-12-04
 <summary>过期列表</summary>
 
 - ~~[Warp](https://www.warp.dev)~~ - AI 辅助功能比较鸡肋，界面也有点复杂，最后还是回归简洁的终端了。
+- ~~[Ghostty](https://ghostty.org) - 简洁轻量的终端，性能不错。~~ **还有不少问题，暂时退役了**
 
 </details>
 
 ### 📸 截图和录屏
 
-- [CleanShot X](https://cleanshot.com/)(Setapp) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑，(还有滚动截屏的功能)
+- [CleanShot X](https://cleanshot.com/) - 截图软件，感觉我没用上它的高级功能，录制视频时还能进行简单的剪辑，(还有滚动截屏的功能)
 
 ### 🛠️ 系统工具
 
-- [CleanMyMac X](https://setapp.com/apps/cleanmymac)(Setapp) - Mac 系统清理和优化工具，既然在 Setapp 礼包中，就秉承着来都来了的原则，就装上了。（我怀疑你不仅仅只是清理垃圾，你还有其他功能）
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - 用于将树莓派的镜像写入到 SD 卡上的工具。
 - [Windows App](https://apps.microsoft.com/detail/9n1f85v9t8bn?hl=en-us&gl=US) - 用来远程控制 Windows 的软件，感觉挺好用的。应该是官方出品。
+- [BuhoCleaner](https://www.drbuho.com/buhocleaner) - Mac 系统清理工具，终身版，替代了之前的 CleanMyMac X。
 
 <summary>过期列表</summary>
 
+- [CleanMyMac X](https://setapp.com/apps/cleanmymac)(Setapp) - Mac 系统清理和优化工具，既然在 Setapp 礼包中，就秉承着来都来了的原则，就装上了。（我怀疑你不仅仅只是清理垃圾，你还有其他功能）**不打算继续订阅 setapp 了，故放弃**
 - [Applite](https://github.com/milanvarady/Applite) - ~~现在主要是用它统一管理 mac 上的各种桌面应用了。虽说只是 brew 的套壳，但是在 GUI 加持下就有其独特的优势。~~ 基本没有在用了
 
 </details>
@@ -790,11 +797,11 @@ modified: 2025-12-04
 
 - ~~[Zoom](https://zoom.us/)~~ - 用于远程会议的工具，基本没有在用了。
 
+> 🎁 软件订阅平台
+
+- [Setapp](https://setapp.com/)(¥30/m) - 是一个订阅服务，提供超过 200 款 Mac 和 iOS 应用，涵盖生产力、设计、开发等多个领域。给人的感觉就是「**打包了一堆绝大多数情况用不到的软件卖给你**」，说实话有点鸡肋。大部分软件让我感觉只是我之前订阅的「低级替代品」。但我本身已经订阅了其中几个软件，例如 CleanShot、MindNode、iStat。如果单算这些软件的年度订阅费用，其实总价已经和 Setapp 差不多了。（注意: 消费主义陷阱!!!）**不打算继续订阅 setapp 了，故放弃**
+
 </details>
-
-### 🎁 软件订阅平台
-
-- [Setapp](https://setapp.com/)(¥30/m) - 是一个订阅服务，提供超过 200 款 Mac 和 iOS 应用，涵盖生产力、设计、开发等多个领域。给人的感觉就是「**打包了一堆绝大多数情况用不到的软件卖给你**」，说实话有点鸡肋。大部分软件让我感觉只是我之前订阅的「低级替代品」。但我本身已经订阅了其中几个软件，例如 CleanShot、MindNode、iStat。如果单算这些软件的年度订阅费用，其实总价已经和 Setapp 差不多了。（注意: 消费主义陷阱!!!）
 
 ## 维护说明
 
