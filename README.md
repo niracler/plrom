@@ -780,6 +780,7 @@ modified: 2025-12-04
 - [Windows App](https://apps.microsoft.com/detail/9n1f85v9t8bn?hl=en-us&gl=US) - 用来远程控制 Windows 的软件，感觉挺好用的。应该是官方出品。
 - [BuhoCleaner](https://www.drbuho.com/buhocleaner) - Mac 系统清理工具，终身版，替代了之前的 CleanMyMac X。
 
+<details>
 <summary>过期列表</summary>
 
 - [CleanMyMac X](https://setapp.com/apps/cleanmymac)(Setapp) - Mac 系统清理和优化工具，既然在 Setapp 礼包中，就秉承着来都来了的原则，就装上了。（我怀疑你不仅仅只是清理垃圾，你还有其他功能）**不打算继续订阅 setapp 了，故放弃**
