@@ -6,7 +6,7 @@ slug: plrom
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 note_id: 273
 date: 2024-09-26
-modified: 2025-12-04
+modified: 2026-03-18
 -->
 
 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
@@ -206,7 +206,7 @@ modified: 2025-12-04
 
 ### 💻 电脑及配件
 
-- [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD 跟我一起成长的电脑，堪称完美。（工作上换成公司的 M4 mini 了，这台仅仅留在宿舍低频使用了）
+- [MacBook Air (M5, 2026)](https://www.apple.com/macbook-air/) - 32G RAM 512G SSD, M1 Air 以旧换新换的，真香。
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - 8G RAM, 现在用来运行 [HAOS](https://www.home-assistant.io/installation/)
 - [倍控工控主机四核 J1900 8G内存 256G 固态](https://item.jd.com/10040009548064.html#crumb-wrap) - 一开始用来做软路由来着，但是 OpenWrt 太灵车了，最后还是转回了 Apple TV + Surge 做软路由。后面找找有什么可玩的方案。
 - 13600kf+4070s - 最近配的一台主机，但是还没发现更具体的用途，单纯只是用来完了两盘《文明 6 》。不过现在下班后都是用它了。在熟悉 MacOS 到 Windows 的过程。
@@ -217,6 +217,13 @@ modified: 2025-12-04
   - [Pioneer BDR-XD07B 便携式蓝光刻录机](https://www.amazon.com/Pioneer-BDR-XD07B-Slim-Portable-Burner/dp/B07ZJX5HSH)(¥356 二手) - 用来读取蓝光光盘，主要是去日本旅游买了几张 CD，被迫跟着要对应的配套设施了。
 - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 拿去公司上班用了
 - [Magic Trackpad](https://support.apple.com/en-hk/111884) - pseudoyu 送的，现在在公司用。已经用了四五年 MacBook 的触摸板，鼠标变成超级用的不习惯了，于是就求救弄了一个😂。
+
+<details>
+<summary>不活跃列表</summary>
+
+- [MacBook Air (M1, 2020)](https://support.apple.com/kb/SP825?locale=zh_CN) - 16G RAM 512G SSD, 跟我一起成长的电脑，堪称完美。**已以旧换新换成 M5 Air**
+
+</details>
 
 ![远远称不上整洁的桌面😂](https://image.niracler.com/2025/09/ae548461d451ed36ab16001c1832028c.jpeg)
 
