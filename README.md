@@ -4,7 +4,7 @@ tags: [ "社区", "工具" ]
 cover: https://image.niracler.com/2025/11/b2ef6430e8e437cdbff99b1346badbfc.png
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 date: 2024-09-26
-modified: 2026-03-23
+modified: 2026-03-26
 -->
 
 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
@@ -204,7 +204,7 @@ modified: 2026-03-23
 
 ### 💻 电脑及配件
 
-- [MacBook Air (M5, 2026)](https://www.apple.com/macbook-air/) - 32G RAM 512G SSD, M1 Air 以旧换新换的，真香。
+- [MacBook Air (M5, 2026)](https://www.apple.com/macbook-air/)(¥9999 国补+以旧换新 3000) - 32G RAM 512G SSD，四舍五入 7000 块拿下，真香。
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - 8G RAM, 现在用来运行 [HAOS](https://www.home-assistant.io/installation/)
 - [倍控工控主机四核 J1900 8G内存 256G 固态](https://item.jd.com/10040009548064.html#crumb-wrap) - 一开始用来做软路由来着，但是 OpenWrt 太灵车了，最后还是转回了 Apple TV + Surge 做软路由。后面找找有什么可玩的方案。
 - 13600kf+4070s - 最近配的一台主机，但是还没发现更具体的用途，单纯只是用来完了两盘《文明 6 》。不过现在下班后都是用它了。在熟悉 MacOS 到 Windows 的过程。
@@ -262,11 +262,18 @@ modified: 2026-03-23
 
 ### 🎮 游戏娱乐设备
 
-- [Nintendo Switch 续航版](https://www.nintendo.com/switch/) - 我的第一台游戏机，日版，一开始是为了玩动物森友会。**新火纹要出了，准备送人买 switch2**
+- [Nintendo Switch 2](https://www.nintendo.com/us/gaming-systems/nintendo-switch-2/) - 过年前入手，目前主力在玩 Pokopia，体验非常爽。
 - [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着 xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。**想出手了**
   - [Reletech Xbox Serie x Xbox Serie s1tb2tb Solid State Drive](https://www.amazon.com/Storage-Expansion-Serie-1TB2TB-Solid/dp/B09TPCQ7Z7?th=1) - 用于扩展 xbox 的存储空间，因为 xbox 的游戏太大了，内置的 512G 已经不够用了。警惕后世人，要买就买 XBox Series X，不然就是后悔。
 - [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了。《文明 6》都会卡，只能玩小游戏了。
 - [Apple TV 4K](https://www.apple.com/apple-tv-4k/) - 结合 infuse 是家里的主力播放器。现在也用来做软路由了。
+
+<details>
+<summary>不活跃列表</summary>
+
+- [Nintendo Switch 续航版](https://www.nintendo.com/switch/) - 我的第一台游戏机，日版，一开始是为了玩动物森友会。**买了 Switch 2 之后就不怎么用了，准备送人**
+
+</details>
 
 ### 🔋 充电
 
@@ -420,6 +427,7 @@ modified: 2026-03-23
   - shellcheck - 用于检查 shell 脚本的插件，尤其是可以检查哪些写法不是 posix 标准的。这在写各种 shell 兼容的语法的时候非常有用。
   - indent-rainbow - 用于显示缩进的插件。主要是很好看，也可以用于检查代码的缩进是否一致。
   - markdownlint - 用于检查 markdown 语法的插件。不过毕竟是 linter，我觉得没有什么值得特别说的，一般写什么语言都要有对应语言的 linter。
+- [Apifox](https://apifox.com/) - API 设计、调试、测试一体化工具，工作中主要用它来调试接口。
 - [Zed](https://zed.dev/) - 最近开始尝试的新编辑器，性能确实很快，尤其是启动速度和响应。正在试着替换 VS Code，不过生态和插件还有点差距，暂时还是双修状态。用一下这种更原始的方案，反而能发现 VS Code 里哪些是必要的设计、哪些是好的设计、哪些是过度设计。这种「降级体验」或许是挺不错的让我了解设计细节的方案。
 - [Obsidian](https://obsidian.md/) - 用于写日记以及笔记的软件，日常双屏工作的时候其中一个屏幕常驻 obsidian，一旦有想法了，我就直接写在上面。常用于写没有那么技术的文章。（技术文章一般直接用 markdown 写在 vscode 里面。）
   - [Shiba lnu](https://github.com/faroukx/Obsidian-shiba-inu-theme) - 现在在用这个主题，我博客的配色就是参考的它。
@@ -449,11 +457,12 @@ modified: 2026-03-23
 - [Chatgpt App](https://openai.com/chatgpt/overview/) - 绑定了 cmd + space 来快速打开。一般用来快速问答。
 - [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。**现在 Spotlight 的功能也稍微起来了**
 - [keybr.com](https://www.keybr.com/) - 我前段时间用来练习打字的网站。
+- [iStat Menus](https://bjango.com/mac/istatmenus/)(¥60) - 用于在菜单栏显示系统状态的工具，退订 Setapp 后单独买断了。
+- [Keka](https://apps.apple.com/us/app/keka/id470158793?mt=12) - macOS 上的解压缩工具。
 
 <details>
 <summary>过期列表</summary>
 
-- [iStat Menus](https://bjango.com/mac/istatmenus/)(Setapp) - 用于在菜单栏显示系统状态的工具。(其实我觉得没有什么用，😂)
 - [Session](https://setapp.com/apps/session)(Setapp) - 番茄钟软件，是在 Setapp 大礼包中的，优点在于可以联动 Apple 体系的日历、能够多端联动、以及桌面端足够好用。**不打算继续订阅 setapp 了，故放弃**
 - ~~[Alfred](https://www.alfredapp.com/)~~ - 最开始是用它的粘贴板历史功能，但是后面用上 Raycast 之后就不怎么用，被平替掉了，毕竟要钱。不过它的搜索功能还是很好用的。
 - ~~[OpenCat Pro](https://opencat.app/)(¥38) - 用来作为 ChatGPT 的桌面客户端，因为在网页上不开 plus 只能用一定次数的 4，所以就通过他来用 gpt-4 了。~~ **订阅了 claude pro 之后就完全不用了**

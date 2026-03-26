@@ -7,6 +7,20 @@
 
 ## [Unreleased]
 
+## [2026.03] - 2026-03-26
+
+### Added
+
+- **[Nintendo Switch 2](https://www.nintendo.com/us/gaming-systems/nintendo-switch-2/)** (游戏娱乐设备) - 过年前入手，主力在玩 Pokopia
+- **[Apifox](https://apifox.com/)** (软件 / 开发工具) - 工作中用于 API 调试
+- **[Keka](https://apps.apple.com/us/app/keka/id470158793?mt=12)** (软件 / 生产力工具) - macOS 解压缩工具
+
+### Changed
+
+- **MacBook Air (M5)** - 补充国补价格 ¥9999 及以旧换新 3000 块的信息
+- **iStat Menus** - 从过期列表恢复为活跃，退订 Setapp 后单独买断 ¥60
+- **Nintendo Switch 续航版** - 移至不活跃列表（买了 Switch 2 后准备送人）
+
 ## [2026.02] - 2026-02-24
 
 ### Added
