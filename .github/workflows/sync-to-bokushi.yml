@@ -34,7 +34,7 @@ jobs:
           fetch-depth: 0
 
       - name: Update blog post
-        run: cp generated/plrom.md bokushi/src/content/blog/plrom.md
+        run: cp generated/plrom.md bokushi/src/content/blog/zh/plrom.md
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v6
