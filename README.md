@@ -120,7 +120,7 @@ modified: 2026-03-26
 - [天真的和感伤的小说家](https://space.bilibili.com/314521322/) - 文学类型的知名 UP 主
 - [三個字 SunGuts](https://www.youtube.com/user/ray123822) - 他的视频内容主要是科普日常的身体酸痛知识，并分享简单的检测方式及自救方法。我有跟着去改一些日常姿态以及运动的坏习惯。
 - [孫沁岳](https://www.youtube.com/@yorke) - 是一个专门做漫画评论的油管主。
-- [李天豪](https://www.youtube.com/@leecehao) - 是一个台湾的历史教师，他讲的历史挺不错的，起码刷新了我很多年的历史观
+- [李天豪](https://www.youtube.com/@Tenhao1978) - 是一个台湾的历史教师，他讲的历史挺不错的，起码刷新了我很多年的历史观
 - [王志安](https://www.youtube.com/@wangzhian) - 前中央电视台调查记者，2020年移居日本后在YouTube经营自媒体频道"王局拍案"。访谈节目非常专业。
 - [硬件茶谈](https://space.bilibili.com/14871346) - 质量挺高的电脑硬件方面的 UP，之前组装主机时，也受到挺大帮助的。
 
