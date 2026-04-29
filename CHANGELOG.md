@@ -7,6 +7,19 @@
 
 ## [Unreleased]
 
+## [2026.04] - 2026-04-29
+
+### Added
+
+- **[Simon Willison](https://simonwillison.net/)** (博主) - Django 共同作者，每天更 LLM 工具实测和踩坑笔记，海外 AI 工程视角的主要订阅源
+- **[烤肉肉](https://www.lowbee.icu/)** (博主) - xLog 时期的笔友，周更生活向周记多年；从他这里悟出「平凡地记录下自己的生活，就已经足够吸引人」
+- **[触乐](https://www.chuapp.com/)** (组织 / 游戏媒体) - 国内游戏媒体里少有还认真做长文专题的，跟 taste.md 里「带思考的游戏评论」对得上
+- **[Anthropic News](https://www.anthropic.com/news)** (组织) - Claude Code 已经是日常工具，官方 News 应该单独列出来
+
+### Changed
+
+- **📚 技术博主** 标题改为 **📚 ~~技术~~博主**，呼应下面那句「其它深入一点的技术博主，我都是看不懂的」自嘲
+
 ## [2026.03] - 2026-03-26
 
 ### Added
