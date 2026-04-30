@@ -528,7 +528,7 @@ modified: 2026-04-29
 
 ### 💾 云存储
 
-- [iCloud](https://www.apple.com/icloud/)(¥68/m, 2TB) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记和各种文件。已经从淘宝家庭车切回官方 2TB。
+- [iCloud](https://www.apple.com/icloud/)(¥23/m, 2TB 家人三人分摊) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记和各种文件。¥68/m 的 2TB 是跟家里人三人共担，我自己出 1/3。
 - [阿里云盘](https://www.aliyundrive.com/download)(¥168/y) - 现在主要用它存储影视节目，然后通过 infuse 来观看，一般能跑满带宽。开了年费会员。（很犹豫，现在 infuse 看推流还要额外付费，相当于价格翻倍了）
 
 <details>
@@ -560,7 +560,7 @@ modified: 2026-04-29
 
 ### 💬 通讯工具
 
-- [Telegram](https://telegram.org/)($36/y) - Telegram Premium 年付。我的 TG 频道 [Tomoko RD](https://t.me/tomoko_channel) 是我的个人碎碎念空间。作为一个话痨(年发2000+条消息)，我更喜欢在这里分享生活琐事，而不是在 X 上 - 在 TG 频道发言就像在家里自言自语，而 X 则像是在广场上大喊，对我这个社恐来说压力太大了。欢迎来我的频道逛逛，虽然都是些日常琐碎。
+- [Telegram](https://telegram.org/)($36/y) - Telegram Premium 年付。我的 TG 频道 [Tomoko RD](https://t.me/tomoko_channel) 是我的个人碎碎念空间。作为一个话痨(年发2000+条消息)，我更喜欢在这里分享生活琐事，而不是在 X 上 - 在 TG 频道发言就像在家里自言自语，而 X 则像是在广场上大喊，对我这个社恐来说压力太大了。欢迎来我的频道逛逛，虽然都是些日常琐碎。**明年到期不续了——每年都说不续，今年提前画押**。
 - [X](https://x.com) - 主要用来关注一些技术博主和开源项目的动态。
 - [Discord](https://discord.com/) - 主要用于参与开源社区讨论和反馈问题，日常很少使用。
 - [Fastmail](https://www.fastmail.com/)($50/y) - 我的主力邮箱服务。它的随机匿名邮箱功能配合 1Password 使用非常方便，是我注册各类网站的首选。这个功能也很好地保护了我的隐私。
@@ -663,7 +663,7 @@ modified: 2026-04-29
 - [Evermusic](https://everappz.com/products/evermusic/)($9.99/y) - iOS 上的本地/云音乐播放器。主要是国庆期间去了趟日本买了几张专辑 cd，想着不要浪费就将转录后的 flac 文件放到 iCloud 上了，就是用的这个软件来听。Premium Yearly 续上了。
 - [Apple Music](https://www.apple.com/cn/apple-music/)(¥17/m, Family) - 家庭车 Apple Music Family，最近重新订回来跟 iri / Aimer 这些艺人配 iOS 体系听。
 - [netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl) - 用这仓库的脚本魔改后自用来下载网易云音乐的专辑。
-- [网易云音乐](https://music.163.com/)(¥158/y, 黑胶 VIP) - 为了评论区功能，以及可以跟国内的朋友分享。今年还是开回来了。88VIP 季卡之外单独续了黑胶年卡。
+- [网易云音乐](https://music.163.com/)(¥158/y, 黑胶 VIP) - 为了评论区功能，以及可以跟国内的朋友分享。今年还是开回来了。88VIP 季卡之外单独续了黑胶年卡。**明年到期不续——88VIP 季卡 + Apple Music 已经覆盖音乐需求**。
 
 <details>
 <summary>过期列表</summary>
@@ -853,7 +853,7 @@ modified: 2026-04-29
 
 | # | 维度 | 当前 | 上限 | 状态 | 备注 |
 |---|------|------|------|------|------|
-| 1 | 月订阅基础消费 (¥/月) | 781 | 666 | 🚨 超 115 | 钱的容量 |
+| 1 | 月订阅基础消费 (¥/月) | 736 | 666 | 🚨 超 70 | 钱的容量 |
 | 2 | 关注的人 | 86 | 100 | ✅ 留白 14 | README 里你自己声明过的隐藏上限 |
 | 3 | 软件工具总数 | 179 | — | — | 决策疲劳 |
 | 4 | 物理资产 (设备) | 50 | — | — | 物理空间 / 维护成本 |
