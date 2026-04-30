@@ -458,7 +458,7 @@ modified: 2026-04-29
 ### 📈 生产力工具
 
 - [align](https://apps.apple.com/sk/app/align-organize-app-windows/id6480428845)(限免) - 专为 macOS 设计的窗口管理工具，限免的时候入的。一开始我觉得没什么用，因为我大多数情况下是用多桌面而不是多窗口的，直到我用了 4K 显示器～～ 现在 MacOS 已经自带了，**但是没它好用，就装回来了**
-- [Chatgpt App](https://openai.com/chatgpt/overview/)($8/m) - 绑定了 cmd + space 来快速打开。一般用来快速问答。订的是 ChatGPT Go 入门档。
+- [ChatGPT App](https://openai.com/chatgpt/overview/)($8/m) - 绑定了 cmd + space 来快速打开。一般用来快速问答。订的是 ChatGPT Go 入门档。（**最近主要是想用 gpt-image-2.0**）
 - [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。**现在 Spotlight 的功能也稍微起来了**
 - [keybr.com](https://www.keybr.com/) - 我前段时间用来练习打字的网站。
 - [iStat Menus](https://bjango.com/mac/istatmenus/)(¥60) - 用于在菜单栏显示系统状态的工具，退订 Setapp 后单独买断了。
@@ -567,8 +567,8 @@ modified: 2026-04-29
 - [微信](https://weixin.qq.com/) - 主要用于和国内亲友联系。最近重新开始更新朋友圈了，也在找回一起以前的同学朋友进行互动。
 - [QQ](https://im.qq.com/index/) - 现在除了二次元还有谁在玩 QQ 呢 😂，最近手机上也偶尔会刷一下一些旧朋友 QQ 上的说说。
 - [熊猫吃短信 2](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818)(¥1/m) - iPhone 上的垃圾短信拦截工具。虽然效果不错，但有时因为长期不查看，系统会自动清理掉被拦截的短信。
-- [中国移动](https://www.10086.cn/)(¥38/m) - 主号月套餐，流量+通话刚好够日常用。
-- [中国联通](https://www.10010.com/)(¥8/m) - 副号低保套餐，主要给收验证码 / 一些外卖平台留备用号。
+- [中国移动](https://www.10086.cn/)(¥8/m, 保号套餐) - 保号用，主要给收验证码 / 一些外卖平台留的备用号。
+- [中国联通](https://www.10010.com/)(¥38/m, 流量卡) - 主号流量套餐，日常上网+通话靠它。
 
 ### 🔑 隐私安全
 
