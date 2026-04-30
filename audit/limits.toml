@@ -31,11 +31,6 @@ limit = 666
 note = "钱的容量"
 
 [[items]]
-name = "在订订阅条目数"
-metric = "subscription_count"
-note = "心智账户"
-
-[[items]]
 name = "关注的人"
 metric = "h2_active"
 arg = "人"
