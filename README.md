@@ -355,7 +355,7 @@ modified: 2026-04-29
 > 不过其实太多了，我这里只挑我用的最多的 20 个
 
 - [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的。
-- [Claude Code](https://claude.ai/code)($100/m) - 现在已经是我的米饭帮主了，没有它我没法展开工作。
+- [Claude Code](https://claude.ai/code)(Max 5x $124.99/m, 公司付费) - 现在已经是我的米饭帮主了，没有它我没法展开工作。**公司付费，不计入个人订阅总额。**
 - [OpenAI Codex CLI](https://openai.com/codex/) - 最近在尝试使用的 AI 编程助手命令行工具，可以在终端直接用自然语言生成和执行命令。
 - [x-cmd](https://x-cmd.com) - 我前司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + … )`
 - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
@@ -458,7 +458,7 @@ modified: 2026-04-29
 ### 📈 生产力工具
 
 - [align](https://apps.apple.com/sk/app/align-organize-app-windows/id6480428845)(限免) - 专为 macOS 设计的窗口管理工具，限免的时候入的。一开始我觉得没什么用，因为我大多数情况下是用多桌面而不是多窗口的，直到我用了 4K 显示器～～ 现在 MacOS 已经自带了，**但是没它好用，就装回来了**
-- [Chatgpt App](https://openai.com/chatgpt/overview/) - 绑定了 cmd + space 来快速打开。一般用来快速问答。
+- [Chatgpt App](https://openai.com/chatgpt/overview/)($8/m) - 绑定了 cmd + space 来快速打开。一般用来快速问答。订的是 ChatGPT Go 入门档。
 - [Raycast](https://www.raycast.com/) - 用了都说好，好漂亮的界面，现在很多时候就靠它来做各种桌面操作了。粘贴板历史功能是几乎必须的工具。**现在 Spotlight 的功能也稍微起来了**
 - [keybr.com](https://www.keybr.com/) - 我前段时间用来练习打字的网站。
 - [iStat Menus](https://bjango.com/mac/istatmenus/)(¥60) - 用于在菜单栏显示系统状态的工具，退订 Setapp 后单独买断了。
@@ -528,7 +528,7 @@ modified: 2026-04-29
 
 ### 💾 云存储
 
-- [iCloud](https://www.apple.com/icloud/)(¥24/m 淘宝) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记。以及各种文件。现在用的是 1T 的淘宝家庭车。
+- [iCloud](https://www.apple.com/icloud/)(¥68/m, 2TB) - 在满状态的苹果全家桶后，iCloud 展现了它超级连通的价值。主要用来备份 Obsidian 的笔记和各种文件。已经从淘宝家庭车切回官方 2TB。
 - [阿里云盘](https://www.aliyundrive.com/download)(¥168/y) - 现在主要用它存储影视节目，然后通过 infuse 来观看，一般能跑满带宽。开了年费会员。（很犹豫，现在 infuse 看推流还要额外付费，相当于价格翻倍了）
 
 <details>
@@ -560,17 +560,17 @@ modified: 2026-04-29
 
 ### 💬 通讯工具
 
-- [Telegram](https://telegram.org/) - 我的 TG 频道 [Tomoko RD](https://t.me/tomoko_channel) 是我的个人碎碎念空间。作为一个话痨(年发2000+条消息)，我更喜欢在这里分享生活琐事，而不是在 X 上 - 在 TG 频道发言就像在家里自言自语，而 X 则像是在广场上大喊，对我这个社恐来说压力太大了。欢迎来我的频道逛逛，虽然都是些日常琐碎。
+- [Telegram](https://telegram.org/)($36/y) - Telegram Premium 年付。我的 TG 频道 [Tomoko RD](https://t.me/tomoko_channel) 是我的个人碎碎念空间。作为一个话痨(年发2000+条消息)，我更喜欢在这里分享生活琐事，而不是在 X 上 - 在 TG 频道发言就像在家里自言自语，而 X 则像是在广场上大喊，对我这个社恐来说压力太大了。欢迎来我的频道逛逛，虽然都是些日常琐碎。
 - [X](https://x.com) - 主要用来关注一些技术博主和开源项目的动态。
 - [Discord](https://discord.com/) - 主要用于参与开源社区讨论和反馈问题，日常很少使用。
 - [Fastmail](https://www.fastmail.com/)($50/y) - 我的主力邮箱服务。它的随机匿名邮箱功能配合 1Password 使用非常方便，是我注册各类网站的首选。这个功能也很好地保护了我的隐私。
 - [微信](https://weixin.qq.com/) - 主要用于和国内亲友联系。最近重新开始更新朋友圈了，也在找回一起以前的同学朋友进行互动。
 - [QQ](https://im.qq.com/index/) - 现在除了二次元还有谁在玩 QQ 呢 😂，最近手机上也偶尔会刷一下一些旧朋友 QQ 上的说说。
-- [熊猫吃短信 2](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818)(¥12/y) - iPhone 上的垃圾短信拦截工具。虽然效果不错，但有时因为长期不查看，系统会自动清理掉被拦截的短信。
+- [熊猫吃短信 2](https://apps.apple.com/us/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A12-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E6%8B%A6%E6%88%AA/id1642682818)(¥1/m) - iPhone 上的垃圾短信拦截工具。虽然效果不错，但有时因为长期不查看，系统会自动清理掉被拦截的短信。
 
 ### 🔑 隐私安全
 
-- [1Password](https://1password.com/)(¥248/y) - 在 iPhone 上可以选用它的自动填充。
+- [1Password](https://1password.com/)(¥498/y, Families) - 在 iPhone 上可以选用它的自动填充。已升级到 Families 订阅。
 - [DAMA](https://apps.apple.com/us/app/dama-auto-redact-privacy/id1534690075)(¥12) - 用了之后发现很智能，可以自动识别你照片上可能的隐私信息，然后自动打码。还能帮你处理照片 meta 里面的一些敏感信息。
 
 <details>
@@ -583,7 +583,7 @@ modified: 2026-04-29
 ### 🌏 网络工具
 
 - [AdGuard](https://adguard.com/)($18.37) - 用于拦截广告的工具，不过我觉得它的效果并不是很好，可能是我没配置好。
-- [Surge 5](https://nssurge.com/)($49.99) - 现在 Mac 以及 iPhone 上都用它了。
+- [Surge 5](https://nssurge.com/)($14.99/y) - 现在 Mac 以及 iPhone 上都用它了。Feature Subscription 续费档。
 - [Tailscale](https://tailscale.com/) - 基于 WireGuard 的 VPN 工具，可以让你的设备组成一个私有网络。配置简单，使用方便。超级棒的，若是家里有 ipv6 或者 Fullcone NAT 的话，在外网连接家里的 NAS 超级方便。我当前就是用它来在公司远程宿舍电脑的。更别说可以用来看家里的 AutoBangumi 下载好的番剧。（相见恨晚）
 
 <details>
@@ -650,13 +650,15 @@ modified: 2026-04-29
 ### 📺 视频 & 🎵 音乐
 
 - [YouTube](https://www.youtube.com/) - 现在不续 Premium 会员了，手机观看场景基本能用电脑替代；配合 AdGuard 去广告就够用。
-- [哔哩哔哩 App](https://www.bilibili.com/) - 轻度视频用户，年观看时长不足 200 小时。主要关注少数几个 UP 主的内容更新。
+- [哔哩哔哩 App](https://www.bilibili.com/)(高档充电 ¥15/m) - 轻度视频用户，年观看时长不足 200 小时。主要关注少数几个 UP 主的内容更新。给特定 UP 充电。
+- [哔哩哔哩漫画](https://manga.bilibili.com/)(¥248/y) - 畅读卡连续套餐又订回来了，主要看《葬送的芙莉莲》《天国大魔境》一类的连载。
 - [infuse](https://firecore.com/infuse)($12.99/y) - 优雅的视频播放器，完美支持阿里云盘视频播放。界面精美，用户体验出色，但随着成本上升可能需要寻找替代方案。
 - [剪映专业版](https://www.capcut.cn/) - 视频剪辑工具，通过 Samba 协议将树莓派存储的视频映射到电脑，实现便捷的本地剪辑。（或许 iMovie 也可以？）
 - [iina](https://iina.io/) - macOS 上优秀的本地视频播放器，是我的首选播放工具。
 - [obs](https://obsproject.com/) - 功能强大的录屏工具，主要用于配合串流软件录制游戏机画面。
 - [spotify](https://www.spotify.com/) - 尝试过多个音乐平台后，最终选择了 Spotify 作为主力音乐服务。
-- [Evermusic](https://everappz.com/products/evermusic/) - iOS 上的本地/云音乐播放器。主要是国庆期间去了趟日本买了几张专辑 cd，想着不要浪费就将转录后的 flac 文件放到 iCloud 上了，就是用的这个软件来听。
+- [Evermusic](https://everappz.com/products/evermusic/)($9.99/y) - iOS 上的本地/云音乐播放器。主要是国庆期间去了趟日本买了几张专辑 cd，想着不要浪费就将转录后的 flac 文件放到 iCloud 上了，就是用的这个软件来听。Premium Yearly 续上了。
+- [Apple Music](https://www.apple.com/cn/apple-music/)(¥17/m, Family) - 家庭车 Apple Music Family，最近重新订回来跟 iri / Aimer 这些艺人配 iOS 体系听。
 - [netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl) - 用这仓库的脚本魔改后自用来下载网易云音乐的专辑。
 - [网易云音乐](https://music.163.com/) - 为了评论区功能，以及可以跟国内的朋友分享。今年还是开回来了。
 
@@ -665,7 +667,6 @@ modified: 2026-04-29
 
 - ~~[YT MUSIC](https://music.youtube.com/)(¥120/y)~~ - 慎用。槽点还是太多了，梯子节点不太稳定的时候就直接断了，一般需要下载下来才比较好，而且有些区是不能用的。不过现在已经将我的音乐软件转成这个了，架不住我想听的都有。发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
 - ~~[网易云音乐](https://music.163.com/) - 用于听一些音乐~~ 二次元的音乐是真的多，评论区也很棒，在国内体验好于 YT Music。不过因为时常会没有版权然后变灰，这个是硬伤，~~现在已经转到 YT MUSIC 了。~~
-- ~~[Apple Music](https://www.apple.com/cn/apple-music/) - 准备用来替原来在用的网易云音乐，不过有些找不到的歌曲需要自己导进去。~~ Apple One 我还是不想开了
 
 </details>
 
@@ -729,7 +730,6 @@ modified: 2026-04-29
 <details>
 <summary>过期列表</summary>
 
-- ~~[哔哩哔哩漫画](https://manga.bilibili.com/) - 日常追漫画更新的地方，高频使用，有趣的地方在于漫画弹幕以及别人的漫画评论。若是在 Android 的时代，我肯定使用 Tachiyomi 而不是它。~~ 已经卸载了，现在主要是用回 Tachiyomi 了。
 - ~~[Tachiyomi](https://tachiyomi.org/) - 终极看漫画软件。我可是为此买了一个专门用来启动 Tachiyomi 的文石阅读器。不过现在保留到一个月回家看一次了。~~ 被封锁了~~
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - ~~继任者，新一代的王，现阶段留作 Android 备用，~~ 主力已经转到 iPad 的 Tachimanga。
 - [mox.moe](https://mox.moe) - 非常全的漫画源，一键就能够将漫画推送到 kindle 上，在 iPad 上全靠它来启动看漫画了。(**同转到 Tachimanga**)
@@ -748,7 +748,7 @@ modified: 2026-04-29
 - [美团](https://www.meituan.com/)(小程序) - 日常景点买票、以及订酒店是用的这个。
 - [嘀嗒出行](https://www.didachuxing.com/)(小程序) - 用于叫顺风车，在各个市之间移动的时候用的比较多。
 - [飞猪](https://www.fliggy.com) - 现在签证和境外机票都是在这里买的。**正准备第一次出国**
-- [Rond](https://sspai.com/post/85355)(¥98) - 一款基于本地数据记录行程的软件，软件很优雅。
+- [Rond](https://sspai.com/post/85355)(¥48/m, PLUS) - 一款基于本地数据记录行程的软件，软件很优雅。订了 PLUS 月卡。
 - [Apple Maps](https://www.apple.com/cn/maps/) - 在国内挺难使用的，再坚持用一会吧（不过大概率很快就又切换回高德了）
 - [大麦](https://www.damai.cn) - 成为现充(伪)经常处于看各种演出之后，现在会偶尔关注这些信息了。（钱包不太能顶得住）
 
@@ -849,13 +849,13 @@ modified: 2026-04-29
 
 | # | 维度 | 当前 | 上限 | 状态 | 备注 |
 |---|------|------|------|------|------|
-| 1 | 月订阅基础消费 (¥/月) | 941 | — | — | 钱的容量 |
-| 2 | 在订订阅条目数 | 10 | — | — | 心智账户 |
+| 1 | 月订阅基础消费 (¥/月) | 480 | — | — | 钱的容量 |
+| 2 | 在订订阅条目数 | 17 | — | — | 心智账户 |
 | 3 | 关注的人 | 86 | 100 | ✅ 留白 14 | README 里你自己声明过的隐藏上限 |
-| 4 | 软件工具总数 | 173 | — | — | 决策疲劳 |
+| 4 | 软件工具总数 | 175 | — | — | 决策疲劳 |
 | 5 | 物理资产 (设备) | 50 | — | — | 物理空间 / 维护成本 |
 | 6 | 🤖 大模型工具 | 28 | — | — | 涨势最快，FOMO 重灾区 |
-| 7 | 沉睡库存 (不活跃总数) | 84 | — | — | 反指标：太多就该清 |
+| 7 | 沉睡库存 (不活跃总数) | 82 | — | — | 反指标：太多就该清 |
 
 <!-- AUDIT:END -->
 

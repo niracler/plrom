@@ -68,7 +68,12 @@ def extract_label(line: str) -> str:
     return (line[:40] + "…") if len(line) > 40 else line
 
 
+SUBSCRIPTION_SKIP_KEYWORDS = ("公司付费",)
+
+
 def parse_subscription(line: str) -> Subscription | None:
+    if any(kw in line for kw in SUBSCRIPTION_SKIP_KEYWORDS):
+        return None
     for pattern, factor in PRICE_PATTERNS:
         if (m := pattern.search(line)) is not None:
             amount = float(m.group(1))

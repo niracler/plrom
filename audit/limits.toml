@@ -18,6 +18,9 @@
 #   h2_active               指定 H2 下活跃条目数（arg = H2 标题）
 #   h3_active               指定 H3 下活跃条目数（arg = H3 标题，含 emoji 和波浪号）
 #
+# 豁免关键字：行里出现「公司付费」时，subscription_total / subscription_count
+# 自动跳过这一条（适合 Claude Code 这种公司报销但仍想保留 README 标注的情况）。
+#
 # 上限怎么设：先空着跑一两个月，看真实数字、感受痛点，再回填。
 # 这跟记账初期猜预算一个道理 —— 不要一次拍死。
 
