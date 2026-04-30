@@ -18,6 +18,11 @@
 #   h2_active               指定 H2 下活跃条目数（arg = H2 标题）
 #   h3_active               指定 H3 下活跃条目数（arg = H3 标题，含 emoji 和波浪号）
 #
+# 价格标注格式（README 内）：
+#   ($N/m) ($N/y) ($N/年)        美元月费 / 年费
+#   (¥N/m) (¥N/y) (¥N/年)         人民币月费 / 年费
+#   ($N/Nd) (¥N/Nd)              每 N 天一次（如 HSR 大月卡 ¥128/42d 即 6 周一充）
+#
 # 豁免关键字：行里出现「公司付费」时，subscription_total / subscription_count
 # 自动跳过这一条（适合 Claude Code 这种公司报销但仍想保留 README 标注的情况）。
 #

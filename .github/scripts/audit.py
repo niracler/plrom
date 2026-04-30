@@ -25,14 +25,16 @@ LIMITS_PATH = Path("audit/limits.toml")
 
 USD_TO_CNY = 7.2  # rough April 2026 rate
 
-# Subscription patterns: capture amount, then convert to ¥/month
-PRICE_PATTERNS: list[tuple[re.Pattern[str], float]] = [
-    (re.compile(r"\$(\d+(?:\.\d+)?)/m\b"), USD_TO_CNY),
-    (re.compile(r"\$(\d+(?:\.\d+)?)/y\b"), USD_TO_CNY / 12),
-    (re.compile(r"\$(\d+(?:\.\d+)?)/年"), USD_TO_CNY / 12),
-    (re.compile(r"¥(\d+(?:\.\d+)?)/m\b"), 1.0),
-    (re.compile(r"¥(\d+(?:\.\d+)?)/y\b"), 1.0 / 12),
-    (re.compile(r"¥(\d+(?:\.\d+)?)/年"), 1.0 / 12),
+# Subscription patterns: each is (regex, factor_fn) where factor_fn(match) -> ¥/month
+PRICE_PATTERNS: list[tuple[re.Pattern[str], Callable[[re.Match[str]], float]]] = [
+    (re.compile(r"\$(\d+(?:\.\d+)?)/m\b"), lambda _: USD_TO_CNY),
+    (re.compile(r"\$(\d+(?:\.\d+)?)/y\b"), lambda _: USD_TO_CNY / 12),
+    (re.compile(r"\$(\d+(?:\.\d+)?)/年"), lambda _: USD_TO_CNY / 12),
+    (re.compile(r"\$(\d+(?:\.\d+)?)/(\d+)d\b"), lambda m: USD_TO_CNY * 30 / int(m.group(2))),
+    (re.compile(r"¥(\d+(?:\.\d+)?)/m\b"), lambda _: 1.0),
+    (re.compile(r"¥(\d+(?:\.\d+)?)/y\b"), lambda _: 1.0 / 12),
+    (re.compile(r"¥(\d+(?:\.\d+)?)/年"), lambda _: 1.0 / 12),
+    (re.compile(r"¥(\d+(?:\.\d+)?)/(\d+)d\b"), lambda m: 30 / int(m.group(2))),
 ]
 
 LINK_LABEL = re.compile(r"\[([^\]]+)\]")
@@ -71,18 +73,32 @@ def extract_label(line: str) -> str:
 SUBSCRIPTION_SKIP_KEYWORDS = ("公司付费",)
 
 
-def parse_subscription(line: str) -> Subscription | None:
+def parse_subscriptions(line: str) -> list[Subscription]:
+    """Extract every recurring-price annotation on the metadata portion of a bullet line.
+
+    Convention: ``- [Name](url)(price annotation) - free-text description...``
+    Only the part before the first `` - `` separator is treated as authoritative pricing
+    metadata, so prices mentioned descriptively (e.g. iCloud's ¥68/m full price next to the
+    user's ¥23/m share, or 1Password ¥498/y next to ¥166/y share) are NOT double-counted.
+    A line can still carry 2+ recurring prices in metadata (e.g. HSR 大月卡 + 小月卡).
+    """
     if any(kw in line for kw in SUBSCRIPTION_SKIP_KEYWORDS):
-        return None
-    for pattern, factor in PRICE_PATTERNS:
-        if (m := pattern.search(line)) is not None:
+        return []
+    sep = line.find(" - ")
+    metadata = line[:sep] if sep != -1 else line
+    label = extract_label(line)
+    found: list[Subscription] = []
+    for pattern, factor_fn in PRICE_PATTERNS:
+        for m in pattern.finditer(metadata):
             amount = float(m.group(1))
-            return Subscription(
-                label=extract_label(line),
-                raw=m.group(0),
-                yuan_per_month=amount * factor,
+            found.append(
+                Subscription(
+                    label=label,
+                    raw=m.group(0),
+                    yuan_per_month=amount * factor_fn(m),
+                )
             )
-    return None
+    return found
 
 
 def audit(readme: Path) -> list[Category]:
@@ -126,7 +142,7 @@ def audit(readme: Path) -> list[Category]:
             continue  # skip subscription parsing for deprecated items
         cat.active += 1
 
-        if (sub := parse_subscription(stripped)) is not None:
+        for sub in parse_subscriptions(stripped):
             sub.label = f"{sub.label} ({h3})"
             cat.subs.append(sub)
 
