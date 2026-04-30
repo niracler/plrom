@@ -585,6 +585,7 @@ modified: 2026-04-29
 - [AdGuard](https://adguard.com/)($18.37) - 用于拦截广告的工具，不过我觉得它的效果并不是很好，可能是我没配置好。
 - [Surge 5](https://nssurge.com/)($14.99/y) - 现在 Mac 以及 iPhone 上都用它了。Feature Subscription 续费档。
 - [Tailscale](https://tailscale.com/) - 基于 WireGuard 的 VPN 工具，可以让你的设备组成一个私有网络。配置简单，使用方便。超级棒的，若是家里有 ipv6 或者 Fullcone NAT 的话，在外网连接家里的 NAS 超级方便。我当前就是用它来在公司远程宿舍电脑的。更别说可以用来看家里的 AutoBangumi 下载好的番剧。（相见恨晚）
+- [UU 加速器](https://uu.163.com/)(¥24/m, VIP) - 网易出的游戏加速器，玩国际服游戏（HSR/终末地以外的）时用。VIP 月卡。
 
 <details>
 <summary>过期列表</summary>
@@ -619,6 +620,7 @@ modified: 2026-04-29
 - [米家](https://home.mi.com/) - 用于控制家里的智能设备,如灯、空调、扫地机器人等。不过当家里断网时,这些智能设备就成了摆设(似乎可以通过网关解决这个问题)。
 - [Aqara Home](https://www.aqara.com/) - 因为使用了 Aqara 的摄像头而不得不安装。
 - [Home Assistant](https://www.home-assistant.io/) - 已部署在树莓派上，后续会逐步扩展这方面的应用。**其实还有其他的，不过我就列一些用的比较多的**
+- [Home Assistant Cloud (Nabu Casa)](https://www.nabucasa.com/)($6.5/m) - HA 官方云服务，支持远程访问、Alexa/Google Assistant 桥接、加密备份。订阅顺便也是给 Open Home Foundation 捐钱。
   - [HomeKit 集成](https://www.home-assistant.io/integrations/homekit) - 将 Home Assistant 设备桥接到 Apple HomeKit 生态系统，实现与 Apple Home 的互联互通。
   - [Steam Online 集成](https://www.home-assistant.io/integrations/steam_online) - 监控 Steam 账户的在线状态和游戏活动，可用于自动化场景判断。
   - [小米智能家居集成](https://github.com/XiaoMi/ha_xiaomi_home) - 官方的小米智能家居集成，支持米家生态系统的各种设备控制和自动化。**谁能想到，我全是小米的设备，后面打算买些其他厂商的**
@@ -699,7 +701,7 @@ modified: 2026-04-29
 ### 📰 新闻 & 阅读
 
 - [RSSHub](https://rsshub.app/) - 强大的 RSS 生成器，可为众多不支持 RSS 的网站提供订阅源，支持自定义参数调整内容。
-- [Folo](https://github.com/RSSNext/Folo)($100/年) - 一站式信息聚合平台，整合了 RSS、Telegram、YouTube、Bilibili、Pixiv、Twitter 等多平台订阅。作为 Inoreader 的替代品，我写了一篇[使用体验](https://t.me/tomoko_channel/592)。欢迎访问我的 [Folo 主页](https://app.folo.is/share/users/niracler)。
+- [Folo](https://github.com/RSSNext/Folo)($100/年) - 一站式信息聚合平台，整合了 RSS、Telegram、YouTube、Bilibili、Pixiv、Twitter 等多平台订阅。作为 Inoreader 的替代品，我写了一篇[使用体验](https://t.me/tomoko_channel/592)。欢迎访问我的 [Folo 主页](https://app.folo.is/share/users/niracler)。**明年到期可能砍到 Basic 档或者直接不续——目前感觉付费档对我来说有点 over.**
 - [豆瓣](https://douban.com) - 影视、书籍、音乐等作品的评分参考平台。这是我的[豆瓣主页](https://www.douban.com/people/niracler/)，主要记录 ACG 作品的观看体验。
 - [读库 APP](https://www.duku.cn)(需要订阅读库) - 提供志愿者朗读的精选文章音频，适合碎片时间收听。
 - [微信读书](https://weread.qq.com/) - 内容丰富的电子书平台，适合阅读文学类作品。技术类书籍建议选择纸质版或 PDF 格式。
@@ -851,10 +853,10 @@ modified: 2026-04-29
 
 | # | 维度 | 当前 | 上限 | 状态 | 备注 |
 |---|------|------|------|------|------|
-| 1 | 月订阅基础消费 (¥/月) | 710 | 666 | 🚨 超 44 | 钱的容量 |
-| 2 | 在订订阅条目数 | 22 | — | — | 心智账户 |
+| 1 | 月订阅基础消费 (¥/月) | 781 | 666 | 🚨 超 115 | 钱的容量 |
+| 2 | 在订订阅条目数 | 24 | — | — | 心智账户 |
 | 3 | 关注的人 | 86 | 100 | ✅ 留白 14 | README 里你自己声明过的隐藏上限 |
-| 4 | 软件工具总数 | 177 | — | — | 决策疲劳 |
+| 4 | 软件工具总数 | 179 | — | — | 决策疲劳 |
 | 5 | 物理资产 (设备) | 50 | — | — | 物理空间 / 维护成本 |
 | 6 | 🤖 大模型工具 | 28 | — | — | 涨势最快，FOMO 重灾区 |
 | 7 | 沉睡库存 (不活跃总数) | 82 | — | — | 反指标：太多就该清 |
