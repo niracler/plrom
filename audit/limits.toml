@@ -27,6 +27,7 @@
 [[items]]
 name = "月订阅基础消费 (¥/月)"
 metric = "subscription_total"
+limit = 666
 note = "钱的容量"
 
 [[items]]
