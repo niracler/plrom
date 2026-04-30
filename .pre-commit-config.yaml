@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: plrom-audit
+        name: plrom 体量盘点 (auto-update README)
+        language: system
+        entry: python3 .github/scripts/audit.py --update README.md
+        files: '^(README\.md|\.github/scripts/audit\.py|audit/limits\.toml)$'
+        pass_filenames: false
