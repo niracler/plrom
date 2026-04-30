@@ -1,6 +1,15 @@
 repos:
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.22.1
+    hooks:
+      - id: markdownlint-cli2
   - repo: local
     hooks:
+      - id: no-horizontal-rules
+        name: no horizontal rules outside frontmatter
+        entry: scripts/check-horizontal-rules.sh
+        language: script
+        types: [markdown]
       - id: plrom-audit
         name: plrom 体量盘点 (auto-update README)
         language: system
