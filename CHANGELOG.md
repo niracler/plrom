@@ -177,8 +177,6 @@
 - 添加 GitHub Actions 链接检查
 - 规范化版本发布流程（PR + Tag + Release）
 
----
-
 [Unreleased]: https://github.com/niracler/plrom/compare/v2026.02...HEAD
 [2026.02]: https://github.com/niracler/plrom/compare/v2026.01...v2026.02
 [2026.01]: https://github.com/niracler/plrom/compare/v2025.12...v2026.01

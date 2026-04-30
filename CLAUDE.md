@@ -102,7 +102,7 @@ This repository follows a **monthly update cycle**:
 
 ### Branch Naming
 
-```
+```text
 feature/update-YYYY-MM    # Monthly updates
 feature/add-game-companies # Feature additions
 fix/broken-links          # Bug fixes
@@ -119,6 +119,7 @@ docs/update-guide         # Documentation updates
    - Update `modified` date in frontmatter
 
 3. **Update [CHANGELOG.md](CHANGELOG.md)**:
+
    ```markdown
    ## [2025.10] - 2025-10-21
 
@@ -132,6 +133,7 @@ docs/update-guide         # Documentation updates
 4. **Check links**: `npx linkspector .`
 
 5. **Create PR**:
+
    ```bash
    git add README.md CHANGELOG.md
    git commit -m "feat: 2025年10月月度更新"
@@ -140,6 +142,7 @@ docs/update-guide         # Documentation updates
    ```
 
 6. **After merge, create release**:
+
    ```bash
    git checkout main && git pull
    git tag -a v2025.10 -m "2025.10"
@@ -148,7 +151,7 @@ docs/update-guide         # Documentation updates
 
 ### Commit Message Format
 
-```
+```text
 feat: add new items or monthly update
 fix: fix broken links or errors
 docs: documentation updates
