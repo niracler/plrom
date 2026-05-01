@@ -7,6 +7,28 @@
 
 ## [Unreleased]
 
+## [2026.04] - 2026-04-29
+
+### Added
+
+- **[Simon Willison](https://simonwillison.net/)** (博主) - Django 共同作者，每天更 LLM 工具实测和踩坑笔记，海外 AI 工程视角的主要订阅源
+- **[烤肉肉](https://www.lowbee.icu/)** (博主) - xLog 时期的笔友，周更生活向周记多年；从他这里悟出「平凡地记录下自己的生活，就已经足够吸引人」
+- **[触乐](https://www.chuapp.com/)** (组织 / 游戏媒体) - 国内游戏媒体里少有还认真做长文专题的，跟 taste.md 里「带思考的游戏评论」对得上
+- **[Anthropic News](https://www.anthropic.com/news)** (组织) - Claude Code 已经是日常工具，官方 News 应该单独列出来
+
+### Changed
+
+- **📚 技术博主** 标题改为 **📚 ~~技术~~博主**，呼应下面那句「其它深入一点的技术博主，我都是看不懂的」自嘲
+- **订阅价格全面对账**（按 Apple/Stripe 真实账单）：
+  - **Claude Code** — 标记 `公司付费, Max 5x $124.99/m`，不再计入个人订阅
+  - **iCloud** — `¥24/m 淘宝车` → `¥68/m, 2TB` 官方
+  - **1Password** — `¥248/y` → `¥498/y, Families` 升级
+  - **Surge 5** — `$49.99` 一次性 → `$14.99/y` Feature Subscription
+  - **熊猫吃短信 2** — `¥12/y` → `¥1/m`（Apple 显示按月 ¥1）
+  - **Rond** — `¥98` 一次性 → `¥48/m, PLUS` 订阅
+- **新增 7 个一直在订但 README 没标价的订阅**：Chatgpt App ($8/m)、Telegram ($36/y)、Apple Music (¥17/m, Family)、Evermusic ($9.99/y)、哔哩哔哩 App (¥15/m 充电)
+- **从过期列表移回活跃**：Apple Music、哔哩哔哩漫画（畅读卡 ¥248/y）—— 这俩之前写「不订了」，结果又订回来了
+
 ## [2026.03] - 2026-03-26
 
 ### Added
@@ -154,8 +176,6 @@
 - 添加 GitHub Actions 自动发布到 XLog
 - 添加 GitHub Actions 链接检查
 - 规范化版本发布流程（PR + Tag + Release）
-
----
 
 [Unreleased]: https://github.com/niracler/plrom/compare/v2026.02...HEAD
 [2026.02]: https://github.com/niracler/plrom/compare/v2026.01...v2026.02

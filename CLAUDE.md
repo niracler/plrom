@@ -19,6 +19,28 @@ npx linkspector .
 
 Configuration is in [.linkspector.yml](.linkspector.yml) which ignores certain domains that frequently timeout or block bots.
 
+### 体量盘点 (FOMO Limits Dashboard)
+
+[.github/scripts/audit.py](.github/scripts/audit.py) renders a single MECE-ish limits table inside `## 维护说明` between `<!-- AUDIT:START -->` / `<!-- AUDIT:END -->` sentinels. Each row shows a domain (e.g. 月订阅¥, 关注的人, AI 工具数), its current value, the user-set upper limit, and a status (留白 / 持平 / 超额).
+
+**Limits 配置在 [audit/limits.toml](audit/limits.toml)**——这是单一权威源，编辑这里加/减/调上限。支持的 metric 见配置文件头部注释。
+
+```bash
+# Print full audit report (per-H3 detail) to stdout for deep dive
+python3 .github/scripts/audit.py
+
+# Refresh the inline AUDIT block in README based on limits.toml
+python3 .github/scripts/audit.py --update README.md
+```
+
+The pre-commit hook (`.pre-commit-config.yaml`) auto-runs `--update` whenever README.md, audit.py, or limits.toml is staged. First-time setup on a fresh clone:
+
+```bash
+pre-commit install
+```
+
+If the hook modifies README.md, the commit fails — re-stage and re-commit.
+
 ## GitHub Actions Workflow
 
 ### Link Checker Workflow
@@ -80,7 +102,7 @@ This repository follows a **monthly update cycle**:
 
 ### Branch Naming
 
-```
+```text
 feature/update-YYYY-MM    # Monthly updates
 feature/add-game-companies # Feature additions
 fix/broken-links          # Bug fixes
@@ -97,6 +119,7 @@ docs/update-guide         # Documentation updates
    - Update `modified` date in frontmatter
 
 3. **Update [CHANGELOG.md](CHANGELOG.md)**:
+
    ```markdown
    ## [2025.10] - 2025-10-21
 
@@ -110,6 +133,7 @@ docs/update-guide         # Documentation updates
 4. **Check links**: `npx linkspector .`
 
 5. **Create PR**:
+
    ```bash
    git add README.md CHANGELOG.md
    git commit -m "feat: 2025年10月月度更新"
@@ -118,6 +142,7 @@ docs/update-guide         # Documentation updates
    ```
 
 6. **After merge, create release**:
+
    ```bash
    git checkout main && git pull
    git tag -a v2025.10 -m "2025.10"
@@ -126,7 +151,7 @@ docs/update-guide         # Documentation updates
 
 ### Commit Message Format
 
-```
+```text
 feat: add new items or monthly update
 fix: fix broken links or errors
 docs: documentation updates

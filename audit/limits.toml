@@ -1,0 +1,66 @@
+# FOMO limits 表 — 你的「上限定义」单一权威源
+#
+# 每个 [[items]] 是体量盘点表的一行。脚本会读取这里、根据 metric 类型
+# 在 README 里计算当前值，输出到 ## 维护说明 / ### 📊 体量盘点 里。
+#
+# 字段：
+#   name   = 表里显示的维度名
+#   metric = 计算口径（见下方枚举）
+#   arg    = 计算口径需要的参数（可选）
+#   limit  = 你设定的上限（可选，留空 = 暂不限制，状态显示 "—"）
+#   note   = 备注列文案
+#
+# 支持的 metric:
+#   subscription_total      所有订阅折算后的 ¥/月之和
+#   subscription_count      在订订阅条目数
+#   total_active            活跃条目总数
+#   total_deprecated        不活跃 / 过期条目总数
+#   h2_active               指定 H2 下活跃条目数（arg = H2 标题）
+#   h3_active               指定 H3 下活跃条目数（arg = H3 标题，含 emoji 和波浪号）
+#
+# 价格标注格式（README 内）：
+#   ($N/m) ($N/y) ($N/年)        美元月费 / 年费
+#   (¥N/m) (¥N/y) (¥N/年)         人民币月费 / 年费
+#   ($N/Nd) (¥N/Nd)              每 N 天一次（如 HSR 大月卡 ¥128/42d 即 6 周一充）
+#
+# 豁免关键字：行里出现「公司付费」时，subscription_total / subscription_count
+# 自动跳过这一条（适合 Claude Code 这种公司报销但仍想保留 README 标注的情况）。
+#
+# 上限怎么设：先空着跑一两个月，看真实数字、感受痛点，再回填。
+# 这跟记账初期猜预算一个道理 —— 不要一次拍死。
+
+[[items]]
+name = "月订阅基础消费 (¥/月)"
+metric = "subscription_total"
+limit = 666
+note = "钱的容量"
+
+[[items]]
+name = "关注的人"
+metric = "h2_active"
+arg = "人"
+limit = 100
+note = "README 里你自己声明过的隐藏上限"
+
+[[items]]
+name = "软件工具总数"
+metric = "h2_active"
+arg = "软件工具"
+note = "决策疲劳"
+
+[[items]]
+name = "物理资产 (设备)"
+metric = "h2_active"
+arg = "物"
+note = "物理空间 / 维护成本"
+
+[[items]]
+name = "🤖 大模型工具"
+metric = "h3_active"
+arg = "🤖 大模型工具"
+note = "涨势最快，FOMO 重灾区"
+
+[[items]]
+name = "沉睡库存 (不活跃总数)"
+metric = "total_deprecated"
+note = "反指标：太多就该清"
