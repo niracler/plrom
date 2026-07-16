@@ -391,7 +391,7 @@ modified: 2026-04-29
 
 > 这类型 Skill 功能比较固定，我认为使用者无需逐字阅读，即使没有深刻理解也可以安装使用。
 
-- [larksuite/meegle-cli](https://github.com/larksuite/meegle-cli) - 飞书项目（Meegle / Lark Project）命令行工具。在终端中管理工作项、查看排期、搜索数据，无需打开浏览器。(天知道飞书项目和飞书是两个 cli，不过已经是国内一众软件中比较好用的那种了。可以通过 `npx @lark-project/meegle@latest install` 安装)
+- [larksuite/meegle-cli](https://github.com/larksuite/meegle-cli) - 飞书项目的 cli 兼 skill 安装器。公司要用到，不得不装啦。(天知道飞书项目和飞书是两个 cli，不过已经是国内一众软件中比较好用的那种了。可以通过 `npx @lark-project/meegle@latest install` 安装)
 
 <details>
 <summary>过期列表</summary>
