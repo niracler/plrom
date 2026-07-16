@@ -179,7 +179,7 @@ modified: 2026-04-29
 ### 🏢 组织
 
 - [The Cloudflare Blog](https://blog.cloudflare.com/rss) - 首先 Cloudflare 的文档就很友好（相对于 ali/aws），然后他们的博客也是很有意思，很值得去读。
-- [Anthropic News](https://www.anthropic.com/news) - Claude Code 既然成了我的米饭帮主，官方 News 总该订一下。
+- [Anthropic News](https://www.anthropic.com/news) - ~~Claude Code 既然成了我的米饭帮主，官方 News 总该订一下。~~
 - [Node.js Blog](https://nodejs.org/en/feed/blog.xml) - 作为一个 Node.js 开发者，我觉得这个博客是必须要订阅的。
 - [读库](https://post.smzdm.com/p/alxwmkdg/) - 我也不知道如何介绍呢～ 可以理解为是一个出版商，主营业务是一个以年为单位的杂志？每几个月一期，每期都精心挑选和出版深度丰富的非虚构作品。我持续订阅读库已经有五年了。（不过，我没有看完的本数也是越来越多了）
 - [RSSHub](https://rsshub.app/) - RSS 的重度用户，日常的新闻、博客都是通过它来订阅的。
@@ -382,10 +382,21 @@ modified: 2026-04-29
 
 > 配合 Coding Agent 使用的 MCP 服务和 Skill 插件。下面这些是我常用的。
 
-**开发框架**
+**辅助工具**
+
+- [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code Token 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂。Codex 可用 `npx ccusage@latest codex`
+- [skills.sh](https://skills.sh/) - AI Agent Skills 开源生态市场，社区驱动的 skills 分发平台。有热度排行榜和分类浏览，能发现各种高质量 skills（React 最佳实践、Web 设计规范、安全指南等）。支持 Claude Code、Cursor、Copilot 等 30+ 种 agent。
+
+**工具类 Skill**:
+
+> 这类型 Skill 功能比较固定，我认为使用者无需逐字阅读，即使没有深刻理解也可以安装使用。
+
+- [larksuite/meegle-cli](https://github.com/larksuite/meegle-cli) - 飞书项目（Meegle / Lark Project）命令行工具。在终端中管理工作项、查看排期、搜索数据，无需打开浏览器。(天知道飞书项目和飞书是两个 cli，不过已经是国内一众软件中比较好用的那种了。可以通过 `npx @lark-project/meegle@latest install` 安装)
+
+<details>
+<summary>过期列表</summary>
 
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - 规范驱动开发框架，让人和 AI 在写代码前先对齐需求。通过 proposal → review → implement → archive 的工作流，避免 AI 编程的不可预测性，特别适合非 0→1 的存量项目迭代。**最近更新了 1.0 版本，做了一些流程细化，有 explore 阶段就可以抛弃 superpower 的头脑风暴了（不是**
-- [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code Token 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂。Codex 可用 `npx @ccusage/codex@latest`
 
 **MCP 服务**（要开启 `ENABLE_TOOL_SEARCH=true` 等功能才能装多一两个， 不然 context 消耗太快了）
 
@@ -395,9 +406,6 @@ modified: 2026-04-29
 - [云效 Yunxiao](https://github.com/aliyun/alibabacloud-devops-mcp-server) - 阿里云 DevOps 平台 MCP 服务，支持代码仓库、流水线、工作项等操作。
 - [Figma MCP](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server) - Figma 官方 MCP 服务,让 AI 能访问设计文件、连接设计组件与代码组件(Code Connect)、获取设计系统规则和变量定义,实现设计到代码的无缝协作。**装了，但基本还没用起来**
 
-**Agent Skills**
-
-- [skills.sh](https://skills.sh/) - AI Agent Skills 开源生态市场，社区驱动的 skills 分发平台。有热度排行榜和分类浏览，能发现各种高质量 skills（React 最佳实践、Web 设计规范、安全指南等）。支持 Claude Code、Cursor、Copilot 等 30+ 种 agent。
 - [skills CLI](https://github.com/vercel-labs/skills) - Vercel 出品的 Agent Skills 管理命令行工具，`npx skills add <owner/repo>` 一键安装。支持全局/项目级安装、自动检测本地 agent、批量更新 skills。配合 skills.sh 使用，形成完整的 skills 发现→安装→管理流程。
 - [find-skills](https://skills.sh/vercel-labs/skills/find-skills) - 搜索和推荐适合你的 Skill，通过对话了解需求后提供个性化推荐。
 - [我的 Skill 仓库](https://github.com/niracler/skill) - 个人 Skills 集合，涵盖工作流自动化(Git、云效、代码同步、工作回顾等)、写作辅助(校对、灵感、日记)、学习工具(Anki)和趣味转换(戏言风格)。
@@ -421,6 +429,8 @@ modified: 2026-04-29
 - **security-guidance** - 安全指导，帮助识别和避免常见安全漏洞
 - **context7** - 实时查询任意编程库的最新文档和代码示例，告别过时信息
 - **learning-output-style** - 学习输出风格，Claude 会边做边解释，适合学习新技术时使用
+
+</details>
 
 ### 📝 文本编辑 & IDE
 
