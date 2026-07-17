@@ -387,11 +387,12 @@ modified: 2026-04-29
 - [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code Token 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂。Codex 可用 `npx ccusage@latest codex`
 - [skills.sh](https://skills.sh/) - AI Agent Skills 开源生态市场，社区驱动的 skills 分发平台。有热度排行榜和分类浏览，能发现各种高质量 skills（React 最佳实践、Web 设计规范、安全指南等）。支持 Claude Code、Cursor、Copilot 等 30+ 种 agent。
 
-**工具类 Skill**:
+**工具类插件**:
 
-> 这类型 Skill 功能比较固定，我认为使用者无需逐字阅读，即使没有深刻理解也可以安装使用。
+> 这类型功能比较固定，我认为使用者无需逐字阅读，即使没有深刻理解也可以安装使用。
 
-- [larksuite/meegle-cli](https://github.com/larksuite/meegle-cli) - 飞书项目的 cli 兼 skill 安装器。公司要用到，不得不装啦。(天知道飞书项目和飞书是两个 cli，不过已经是国内一众软件中比较好用的那种了。可以通过 `npx @lark-project/meegle@latest install` 安装)
+- [larksuite/meegle-cli](https://github.com/larksuite/meegle-cli)(自带 Skill) - 飞书项目的 cli 兼 skill 安装器。公司要用到，不得不装啦。(天知道飞书项目和飞书是两个 cli，不过已经是国内一众软件中比较好用的那种了。可以通过 `npx @lark-project/meegle@latest install` 安装)
+- [Figma](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)(codex 插件) - 主要用于在开发时读取产品经理在 figma 上设计的原型。
 
 <details>
 <summary>过期列表</summary>
@@ -404,7 +405,6 @@ modified: 2026-04-29
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 微软官方的浏览器自动化 MCP 服务。基于 Playwright 的无障碍树而非截图，让 AI 能快速、确定性地操作网页。
 - [Greptile](https://www.greptile.com/) - 代码库语义搜索和 PR 审查服务，可以基于整个代码库上下文回答问题。**如果项目有 4 G 大小的 SDK 仓库的同学，可以试试**
 - [云效 Yunxiao](https://github.com/aliyun/alibabacloud-devops-mcp-server) - 阿里云 DevOps 平台 MCP 服务，支持代码仓库、流水线、工作项等操作。
-- [Figma MCP](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server) - Figma 官方 MCP 服务,让 AI 能访问设计文件、连接设计组件与代码组件(Code Connect)、获取设计系统规则和变量定义,实现设计到代码的无缝协作。**装了，但基本还没用起来**
 
 - [skills CLI](https://github.com/vercel-labs/skills) - Vercel 出品的 Agent Skills 管理命令行工具，`npx skills add <owner/repo>` 一键安装。支持全局/项目级安装、自动检测本地 agent、批量更新 skills。配合 skills.sh 使用，形成完整的 skills 发现→安装→管理流程。
 - [find-skills](https://skills.sh/vercel-labs/skills/find-skills) - 搜索和推荐适合你的 Skill，通过对话了解需求后提供个性化推荐。
