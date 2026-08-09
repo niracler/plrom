@@ -417,12 +417,15 @@ modified: 2026-08-09
 
 - [ccusage](https://github.com/ryoppippi/ccusage)（辅助工具） - Agent Token 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂。Codex 可用 `npx ccusage@latest codex`
 - [skills.sh](https://skills.sh/)（辅助工具） - AI Agent Skills 开源生态市场，社区驱动的 skills 分发平台。有热度排行榜和分类浏览，能发现各种高质量 skills（React 最佳实践、Web 设计规范、安全指南等）。支持多种 Agent。
+- [Apifox CLI](https://apifox.com/)（接口开发与测试） - 通过 Apifox CLI 管理接口、环境、Schema、Mock、测试套件和 Runner 等项目资源。
+- [飞书 / Lark](https://open.feishu.cn/)（业务流程与团队协作） - 通过本地 Skill 处理文档、云盘、表格、多维表格、日历、消息、邮件、会议、知识库和任务等内容。
+- [Figma](https://www.figma.com/)（设计协作） - 用于读取设计上下文、维护 Code Connect、生成设计系统和辅助设计到代码的工作流。
+- [GitHub](https://github.com/)（代码协作与发布） - 用于查看仓库、处理 Issue 和 PR、排查 CI，以及发布本地变更。
 - Browser（产品验证） - 操作 Codex 内置浏览器，适合打开、检查和测试网页。
 - Chrome（产品验证） - 使用现有 Chrome 的标签页、登录状态和浏览器扩展。
 - Spreadsheets（数据获取与分析） - 创建、编辑、分析和验证表格文件。
 - Visualize（数据获取与分析） - 创建图表、地图、模拟器和交互式数据探索工具。
 - [personal](https://github.com/niracler/skill)（业务流程与团队自动化） - 个人工作流插件，包含周报、双周记、博客和写作辅助。
-- Superpowers（代码质量与审查） - 提供规划、TDD、调试和协作等软件开发工作流。
 - Computer Use（运行基础能力） - 控制 macOS 桌面应用，不属于文章中的 Skill 类型。
 - Node REPL（MCP 服务） - 为浏览器、Chrome 和 Computer Use 提供受控的 JavaScript 运行环境。
 - GitLab（MCP 服务） - 连接内部 GitLab，用于读取和处理代码仓库相关资源。
@@ -892,9 +895,9 @@ PS. 因为模型能力本身的增强，很多原有的用于开发流程的 Ski
 |---|------|------|------|------|------|
 | 1 | 月订阅基础消费 (¥/月) | 727 | 666 | 🚨 超 61 | 钱的容量 |
 | 2 | 关注的人 | 82 | 100 | ✅ 留白 18 | README 里你自己声明过的隐藏上限 |
-| 3 | 软件工具总数 | 158 | — | — | 决策疲劳 |
+| 3 | 软件工具总数 | 161 | — | — | 决策疲劳 |
 | 4 | 物理资产 (设备) | 55 | — | — | 物理空间 / 维护成本 |
-| 5 | 🤖 大模型工具 | 12 | — | — | 涨势最快，FOMO 重灾区 |
+| 5 | 🤖 大模型工具 | 15 | — | — | 涨势最快，FOMO 重灾区 |
 | 6 | 沉睡库存 (不活跃总数) | 109 | — | — | 反指标：太多就该清 |
 
 <!-- AUDIT:END -->
