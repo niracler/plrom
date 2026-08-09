@@ -7,6 +7,35 @@
 
 ## [Unreleased]
 
+## [2026.08] - 2026-08-09
+
+### Added
+
+- **[Skinat](https://skinat.world.tmall.com/shop/view_shop.htm)** (淘宝店主) - 朋友介绍的手机背膜和贴纸店，第一张背膜已经用了快一年半，现在是第二张，继续看看能不能真的贴满两年。
+- **[Rhodia 法国罗地亚橙色头钉便笺本](https://detail.tmall.com/item.htm?id=655586417891)** (物 / 文具) - 公司里用来写草稿和画简笔画的便笺本。
+- **[tomtoc T37 小型旅行斜挎包](https://detail.tmall.com/item.htm?id=1046059603933)** (物 / 包包) - 腰突手术后不能背重物，于是换成了一个只能装纸巾和充电宝的小包。
+- **[IKEA UTESPELARE 游戏桌](https://www.ikea.com/jp/en/p/utespelare-gaming-desk-black-40500350/)** (物 / 桌椅) - 用了很多年的完美桌子，之前搬去西安，现在又跟着搬回来了。
+- **[宜家 BASTBOLL 贝斯博尔电竞椅](https://item.jd.com/10166866497637.html)** (物 / 桌椅) - 因为腰突换掉旧椅子，虽然新椅子更舒服，但还是不能替代定时起身活动。
+- **[爱乐普（eneloop）20 周年限量版 5 号充电电池](https://item.jd.com/100335655360.html)** (物 / 充电) - 主要给 Xbox 手柄使用，免得每次想玩游戏还要临时找电池。
+- **[麦金獭手机钢化膜 AR 抗反射高清高覆盖](https://item.taobao.com/item.htm?abbucket=5&id=1039743168559)** (物 / 手机以及平板) - 当前使用的手机膜，先把链接记录下来，之后换膜时还能找得到。
+
+### Changed
+
+- **🤖 大模型工具** — 这次调整更像是对开发方式的一次反思：随着模型本身能力增强，很多原先用于开发流程的 Skill 已经不再必要。现在尽可能只保留工具类插件；具体开发流程先自己理解，再复述给 LLM，避免把代码交给无法控制的黑盒流程。
+- **Codex** — 更新为 `$100/m, 公司付费`，并按当前实际配置重新整理插件、MCP 服务和辅助工具。
+- **Cursor** — 更新过期列表中的说明，从「改用 VS Code + Claude Code」改为「改用 VS Code + Codex」。
+- **订阅和音乐工具** — 将网易云音乐、`netease-cloud-music-dl`、Evermusic 和 Apple Music 移入过期列表，这些软件现在都已经不用了。
+- **设备状态** — 更新 AirTag、Nintendo Switch 2、Apple TV 4K 和米家智能香氛机的当前使用情况。
+- **仓库工作指南** — 将 `CLAUDE.md` 更名为 `AGENTS.md`，改为面向通用 coding agent 的说明。
+
+### Removed
+
+- **Claude Code、Anthropic News** → 移入过期或不再使用列表。
+- **八九间 U5 人体工学电脑椅** → 移入不活跃列表，换成宜家 BASTBOLL 电竞椅。
+- **忽左忽右、纵横四海、原来是这样 Dscience** → 移入播客不活跃列表，最近已经没怎么听了。
+- **部分 Telegram 频道** → 移除不再关注或基本停止更新的频道。
+- **Anki、simple-anki-sync** → 移入学习和 Obsidian 的过期列表，最近没有稳定使用和维护它们的时间。
+
 ## [2026.04] - 2026-04-29
 
 ### Added
@@ -33,7 +62,7 @@
 
 ### Added
 
-- **[Nintendo Switch 2](https://www.nintendo.com/us/gaming-systems/nintendo-switch-2/)** (游戏娱乐设备) - 过年前入手，主力在玩 Pokopia
+- **[Nintendo Switch 2](https://www.nintendo.com/gaming-systems/switch-2/)** (游戏娱乐设备) - 过年前入手，主力在玩 Pokopia
 - **[Apifox](https://apifox.com/)** (软件 / 开发工具) - 工作中用于 API 调试
 - **[Keka](https://apps.apple.com/us/app/keka/id470158793?mt=12)** (软件 / 生产力工具) - macOS 解压缩工具
 
@@ -177,7 +206,8 @@
 - 添加 GitHub Actions 链接检查
 - 规范化版本发布流程（PR + Tag + Release）
 
-[Unreleased]: https://github.com/niracler/plrom/compare/v2026.02...HEAD
+[Unreleased]: https://github.com/niracler/plrom/compare/v2026.08...HEAD
+[2026.08]: https://github.com/niracler/plrom/compare/v2026.04...v2026.08
 [2026.02]: https://github.com/niracler/plrom/compare/v2026.01...v2026.02
 [2026.01]: https://github.com/niracler/plrom/compare/v2025.12...v2026.01
 [2025.12]: https://github.com/niracler/plrom/compare/v2025.11...v2025.12

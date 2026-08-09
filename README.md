@@ -4,7 +4,7 @@ tags: [ "社区", "工具" ]
 cover: https://image.niracler.com/2025/11/b2ef6430e8e437cdbff99b1346badbfc.png
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 date: 2024-09-26
-modified: 2026-04-29
+modified: 2026-08-09
 -->
 
 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
@@ -129,10 +129,8 @@ modified: 2026-04-29
 ### 🛩️ TG 芳邻
 
 - [Garyの漫窝](https://t.me/GarynoManga) - 少有的可以聊漫画的群呢
-- [一起偷偷观察 DIYgod](https://t.me/awesomeDIYgod) - 知名网红开发者，应该不用介绍了吧
 - [Tomoko RD](https://t.me/tomoko_channel) - 哈哈，不知道是谁的频道呢？？
-- [Laoself](https://t.me/laoself) - [網路上的芳鄰](https://t.me/addlist/bSV5jwS5TOA4MDll) 这个文件夹就是他开设的，几乎涵盖了 Telegram 中文圈子的各种个人频道。
-- [槿呈Goidea](https://t.me/justgoidea) - 关于读书｜新知｜生活禅方面的频道？
+- [Laoself](https://t.me/laoself) - [網路上的芳鄰](https://t.me/addlist/bSV5jwS5TOA4MDll) ~~这个文件夹就是他开设的，几乎涵盖了 Telegram 中文圈子的各种个人频道。~~ 好像基本没更新了。
 - [gledos 的微型博客](https://t.me/gledos_microblogging) - 每天 7:30 定期更新，有各种好有趣的题材。
 - [Hexagram Daily（aka. 帕鲁日常）](https://t.me/hexagram_daily) - 反正是一个很厉害的后辈，已经出国读书了。
 - [Raye's Journey](https://t.me/RayeJourney) - 很有文化的程序员。有在组织某大型读书会。
@@ -141,13 +139,21 @@ modified: 2026-04-29
 
 ### 🎙️ 播客
 
-- [忽左忽右](https://www.xiaoyuzhoufm.com/podcast/5e4ee557418a84a0466737b7) - 他们谈论的话题很有趣，不过主要是我听得不够多，暂时不好判断
 - [科学史评话](https://podcasts.apple.com/cn/podcast/%E7%A7%91%E5%AD%A6%E5%8F%B2%E8%AF%84%E8%AF%9D%E6%9C%80%E6%96%B0%E4%B8%93%E8%BE%91/id1166109768) - 讲科学的历史，其实很有趣的。
 - [科学有故事](https://podcasts.apple.com/cn/podcast/%E6%B1%AA%E8%AF%98-%E7%A7%91%E5%AD%A6%E6%9C%89%E6%95%85%E4%BA%8B-%E4%B8%BB%E6%89%93/id1163969355) - 可能是国内最好的科普主播了，讲的内容非常通俗易懂，而且他是真的想教懂小孩子们科学思维。
-- [纵横四海](https://podcasts.apple.com/cn/podcast/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/id1671490972) - 「做一份人人都需要的人类使用说明书」。也是听得不多，从她的情绪那一期听起，感觉很不错。
-- [原来是这样 Dscience](https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7-dscience/id852289138) - 很有主播范的科普播客
 - [大老李聊数学](https://podcasts.apple.com/us/podcast/%E5%A4%A7%E8%80%81%E6%9D%8E%E8%81%8A%E6%95%B0%E5%AD%A6-%E5%85%A8%E9%9B%86/id1389947641) - 讲数学能讲的这么有趣，真是有他的，尤其我最喜欢的一期是讲凉宫春日中的超级排列数的那一期。
 - [读库 有声书版本](https://www.duku.cn) - 每期读库完全没有时间看怎么办？可以在通勤路上用读库 App 听，效果还挺不错的。
+
+<details>
+<summary>不活跃列表</summary>
+
+主要是最近没怎么听播客，所以一些已经没那么常听的就移除掉吧。
+
+- [忽左忽右](https://www.xiaoyuzhoufm.com/podcast/5e4ee557418a84a0466737b7) - 他们谈论的话题很有趣，不过主要是我听得不够多，暂时不好判断
+- [纵横四海](https://podcasts.apple.com/cn/podcast/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/id1671490972) - 「做一份人人都需要的人类使用说明书」。也是听得不多，从她的情绪那一期听起，感觉很不错。
+- [原来是这样 Dscience](https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7-dscience/id852289138) - 很有主播范的科普播客
+
+</details>
 
 ### 🎤 歌手 & 音乐制作人
 
@@ -167,10 +173,11 @@ modified: 2026-04-29
 ### 🛍️ 淘宝店主
 
 - [肥王书店](https://feiwangacg.taobao.com/shop/view_shop.htm?shop_id=105832190) - 主要是卖台版漫画已经轻小说的。我好像七八年前就一直在他这买书了，每年都会有订单给他。
-- [优衣库官方旗舰店](https://uniqlo.tmall.com/shop/view_shop.htm?shop_id=57303596) - 大多数的衣服都是在这里买的。。。
+- [优衣库官方旗舰店](https://uniqlo.tmall.com/shop/view_shop.htm?shop_id=57303596) - 大多数的衣服都是在这里买的。。。（谁啊，全身都穿的优衣库）
 - [hopi](https://hpoi.taobao.com/shop/view_shop.htm?shop_id=320873901) - 买手办的地方，不过一年也买不到一个啦。
 - [achobby](https://achobby.taobao.com/shop/view_shop.htm?shop_id=70489541) - 抱枕？谁会买抱枕呢？哈哈，哈哈，哈哈
 - [梦百合官方旗舰店](https://mengbaihe.tmall.com/shop/view_shop.htm?shop_id=108266005) - 这个牌子的床垫挺不错的，虽然我没有买过其他牌子。
+- [Skinat](https://skinat.world.tmall.com/shop/view_shop.htm) - 主要卖各种 iPhone MacBook 的贴纸和保护膜。朋友介绍的，第一张手机背膜已经用了快一年半，现在是第二张，继续看看能不能真的贴满两年。假如极端一点，或许就不用戴手机壳了😂（不行不行，我手机经常摔的）
 
 ## 组织或社区
 
@@ -179,13 +186,20 @@ modified: 2026-04-29
 ### 🏢 组织
 
 - [The Cloudflare Blog](https://blog.cloudflare.com/rss) - 首先 Cloudflare 的文档就很友好（相对于 ali/aws），然后他们的博客也是很有意思，很值得去读。
-- [Anthropic News](https://www.anthropic.com/news) - ~~Claude Code 既然成了我的米饭帮主，官方 News 总该订一下。~~
 - [Node.js Blog](https://nodejs.org/en/feed/blog.xml) - 作为一个 Node.js 开发者，我觉得这个博客是必须要订阅的。
 - [读库](https://post.smzdm.com/p/alxwmkdg/) - 我也不知道如何介绍呢～ 可以理解为是一个出版商，主营业务是一个以年为单位的杂志？每几个月一期，每期都精心挑选和出版深度丰富的非虚构作品。我持续订阅读库已经有五年了。（不过，我没有看完的本数也是越来越多了）
 - [RSSHub](https://rsshub.app/) - RSS 的重度用户，日常的新闻、博客都是通过它来订阅的。
 - [少数派](https://sspai.com) - 出来工作这几年，染上了重度的「买买买」的习惯，其实就是从这里来的。。。
 - [取伙](https://quhuo.com.cn/Home) - Z 世代年轻人的活动聚集平台，在深圳可以跟着各种观影团去看电影，还有音乐、演出等多样化线下活动体验。
 - [触乐](https://www.chuapp.com/) - 国内游戏媒体里少有还认真做长文专题的，玩家视角的访谈和评论比纯快讯多得多。
+
+<details>
+<summary>过期列表</summary>
+
+- [Anthropic News](https://www.anthropic.com/news) - ~~Claude Code 既然成了我的米饭帮主，官方 News 总该订一下。~~ **现在改用 Codex 了**
+
+</details>
+
 - [琉璃神社](https://www.hacg.ceo) - 「琉璃神社是一个分享最新最酷的ACG同人作品资讯社团,在这里你能找到很多欢乐」。懂的都懂，实为看了十几年神社的老登了～～
 
 ### 🏢 游戏 & 动画公司
@@ -229,14 +243,23 @@ modified: 2026-04-29
 
 ![远远称不上整洁的桌面😂](https://image.niracler.com/2025/09/ae548461d451ed36ab16001c1832028c.jpeg)
 
+### 📝 文具
+
+- [Rhodia 法国罗地亚橙色头钉便笺本](https://detail.tmall.com/item.htm?id=655586417891) - 我当前在公司用的草稿本，平时写写草稿，内部课程时也拿来画点简笔画。上翻、可撕，用起来很适合这种随手记完就丢的场景。
+
+### 🎒 包包
+
+- [tomtoc T37 小型旅行斜挎包](https://detail.tmall.com/item.htm?id=1046059603933) - 因为腰突手术后不能背负重东西，所以买了个小包。不过这个小包真是什么都装不下，最多装装纸巾、充电宝什么的。
+
 ### 🏷️ 随身设备
 
 - [Apple Watch Series 7](https://www.apple.com/cn/apple-watch-series-7/) - 很难说的出来具体有什么作用，直到有一天忘记戴去上班。才发现已经离不开它了。
-- [AirTag](https://www.apple.com/cn/airtag/) - 买了四件套，还是很有用的（自我感觉良好🤣）
+- [AirTag](https://www.apple.com/cn/airtag/) - 买了四件套，还是很有用的（自我感觉良好🤣）(PS. 用了五年之后，在雨伞还在的情况下，在上下班路上丢了一个，状态再也没更新了)
 
 ### 📱 手机以及平板
 
 - [iPhone 16 pro](https://www.apple.com/cn/iphone-16-pro/) - 在 618 国补后 5499 入手的。周围的人都说 128G 肯定不够用呢～～
+- [麦金獭手机钢化膜 AR 抗反射高清高覆盖](https://item.taobao.com/item.htm?abbucket=5&id=1039743168559) - 我现在用的手机膜，先记一下链接，之后换膜的时候还能找得到。
 - [iPad Pro (2021) M1 11 寸](https://www.apple.com/cn/ipad-pro/) - 256G, 用于看漫画、还有看漫画、还有看漫画。偶尔会用来做 MacBook 的副屏。
 
 <details>
@@ -266,11 +289,11 @@ modified: 2026-04-29
 
 ### 🎮 游戏娱乐设备
 
-- [Nintendo Switch 2](https://www.nintendo.com/us/gaming-systems/nintendo-switch-2/) - 过年前入手，目前主力在玩 Pokopia，体验非常爽。
+- [Nintendo Switch 2](https://www.nintendo.com/gaming-systems/switch-2/) - 过年前入手，目前主力在玩 Pokopia，体验非常爽。**只可惜有 Switch 2 的好友太少了。。**
 - [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着 xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。**想出手了**
   - [Reletech Xbox Serie x Xbox Serie s1tb2tb Solid State Drive](https://www.amazon.com/Storage-Expansion-Serie-1TB2TB-Solid/dp/B09TPCQ7Z7?th=1) - 用于扩展 xbox 的存储空间，因为 xbox 的游戏太大了，内置的 512G 已经不够用了。警惕后世人，要买就买 XBox Series X，不然就是后悔。
 - [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了。《文明 6》都会卡，只能玩小游戏了。
-- [Apple TV 4K](https://www.apple.com/apple-tv-4k/) - 结合 infuse 是家里的主力播放器。现在也用来做软路由了。
+- [Apple TV 4K](https://www.apple.com/apple-tv-4k/) - 结合 infuse 是家里的主力播放器。~~现在也用来做软路由了。~~ 并不，软路由也不好用好吧😑
 
 <details>
 <summary>不活跃列表</summary>
@@ -285,6 +308,7 @@ modified: 2026-04-29
 - [Anker MagGo 三合一无线充电器](https://www.anker.com/products/a2557-maggo-qi2-wireless-charging-station-magsafe-compatible?variant=43008153616534) - 这个是放在公司用的，手机横屏无线充的同时可以通过 standby 模式看时间。
 - [Anker 安克 MagGo 磁吸充电宝](https://item.jd.com/10114585672375.html)(¥369) - 没有上一个好用，我需要有支架的功能。
 - [海备思 熊猫色 Switch 便携底座 + 65W氮化镓](https://www.bilibili.com/video/BV17L4y1b7Qc/) - 某种意义上的神器，Steam Deck 和 Switch 都靠它拓展。
+- [爱乐普（eneloop）20 周年限量版 5 号充电电池](https://item.jd.com/100335655360.html) - 主要给 Xbox 手柄用的，至少不用每次想玩游戏的时候临时找电池了。
 
 <details>
 <summary>过期列表</summary>
@@ -308,11 +332,19 @@ modified: 2026-04-29
 - [米家电子温湿度计 Pro](https://zhuanlan.zhihu.com/p/187539523) - 才发现，广东的湿度真的很高，基本都是 80% 以上。
 - [小米抽湿机13L](https://zhuanlan.zhihu.com/p/676013675) - 比想像中的要大要重，噪声也是有的。一开始以为没什么用，直到我去倒水。要将湿度从 80% -> 60% 感觉我要倒无数次水～～
 - [小米空气净化器 5](https://www.mi.com/shop/buy/detail?product_id=20266&cfrom=search) - ~~西安这边空气不太好。~~ 回到广东基本就是吃灰状态了。
-- [米家智能香氛机](https://www.mi.com/shop/buy/detail?product_id=20564) - 用于改善室内空气氛围，提供舒适的香氛体验。公司活动送的，**用起来有点微妙**
+- [米家智能香氛机](https://www.mi.com/shop/buy/detail?product_id=20564) - 用于改善室内空气氛围，提供舒适的香氛体验。公司活动送的，**用起来有点微妙，现在是定了每天晚上八点到八点半定时喷喷**
 
 ### 💺 桌椅
 
-- [八九间U5人体工学电脑椅](https://item.jd.com/100022812552.html) - 坐一天是不累的，不过后来试了一下宜家中的 1700 块的人体工学椅子，才发现这个其实并没有这么贴身。要是腰竖直时，背靠是无法紧贴后背的，只有主动靠后下去才能靠到。
+- [IKEA UTESPELARE 游戏桌（160×80 cm）](https://www.ikea.com/jp/en/p/utespelare-gaming-desk-black-40500350/) - 我的是白色的，国内好像不卖了。这是我用了很多年的、对于我来说的完美桌子。跟着我南征北战，之前去西安也搬过去了。。
+- [宜家（IKEA）BASTBOLL 贝斯博尔电竞椅](https://item.jd.com/10166866497637.html) - 也是因为腰突，最近终于终于换成了这个。不过再好的椅子也架不住久坐，还是要定时每 30 分钟左右起来站一下。
+
+<details>
+<summary>不活跃列表</summary>
+
+- [八九间U5人体工学电脑椅](https://item.jd.com/100022812552.html) - 坐一天是不累的，不过后来试了一下宜家中的 1700 块的人体工学椅子，才发现这个其实并没有这么贴身。要是腰竖直时，背靠是无法紧贴后背的，只有主动靠后下去才能靠到。**现在已经不用了，有没有深圳的好友可以抬走啊？**
+
+</details>
 
 ### 💪 健康
 
@@ -355,8 +387,7 @@ modified: 2026-04-29
 > 不过其实太多了，我这里只挑我用的最多的 20 个
 
 - [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器, 使用 MacOS 的话，基本上是必装的。
-- [Claude Code](https://claude.ai/code)(Max 5x $124.99/m, 公司付费) - 现在已经是我的米饭帮主了，没有它我没法展开工作。**公司付费，不计入个人订阅总额。**
-- [OpenAI Codex CLI](https://openai.com/codex/) - 最近在尝试使用的 AI 编程助手命令行工具，可以在终端直接用自然语言生成和执行命令。
+- [OpenAI Codex CLI](https://openai.com/codex/)($100/m, 公司付费) - 因为 Claude 他们家越来越抽象了，以至于我也只能投身 Codex 阵营。现在整个公司的团队都变成 Codex 的形状了（糟糕）
 - [x-cmd](https://x-cmd.com) - 我前司的产品，一个顶一百个命令的工具。一句话介绍就是 `[ ash, dash, bash, zsh ] * ( asdf + oh-my-zsh + tldr + gh/gt/gl client + … )`
 - [git](https://git-scm.com/) - 作为一个程序员，不会用 git 的话，那就真的是不好意思了
 - [wrangler (Cloudflare)](https://developers.cloudflare.com/workers/cli-wrangler) - 用于开发 Cloudflare Workers 的命令行工具
@@ -372,6 +403,7 @@ modified: 2026-04-29
 <details>
 <summary>过期列表</summary>
 
+- [Claude Code](https://claude.ai/code)(Max 5x $124.99/m, 公司付费) - ~~现在已经是我的米饭帮主了，没有它我没法展开工作。~~ **现在改用 Codex 了，不计入个人订阅总额。**
 - [frp](https://github.com/fatedier/frp) - 用于内网穿透的工具，我用它来将我的树莓派暴露出来，为了 ServerCat 可以连上。（Cloudflare Tunnel 穿透出来的连不上） **在用上 tailscale 之后就基本不用它了**
 - [hurl](https://github.com/Orange-OpenSource/hurl) - 用于测试 HTTP 请求的工具。**基本没在用了**
 - ~~[ollama](https://ollama.com/) - 很方便地在本地跑 LLM 的工具。~~ **有了 Claude Code 之后本地模型基本不玩了**
@@ -380,37 +412,64 @@ modified: 2026-04-29
 
 ### 🤖 大模型工具
 
-> 配合 Coding Agent 使用的 MCP 服务和 Skill 插件。下面这些是我常用的。
+> 这里记录我在 Codex 中实际启用的插件、MCP 服务和常用辅助工具。未启用或已经不用的内容放在「未启用或不再使用」里。
+> 类型划分参考：[构建 Claude Code 的经验：我们如何使用 Skills](https://baoyu.io/translations/2026-03-17/claude-code-skills-lessons)，这里只保留与当前配置相关的类别。
 
 **辅助工具**
 
-- [ccusage](https://github.com/ryoppippi/ccusage) - Claude Code Token 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂。Codex 可用 `npx ccusage@latest codex`
-- [skills.sh](https://skills.sh/) - AI Agent Skills 开源生态市场，社区驱动的 skills 分发平台。有热度排行榜和分类浏览，能发现各种高质量 skills（React 最佳实践、Web 设计规范、安全指南等）。支持 Claude Code、Cursor、Copilot 等 30+ 种 agent。
+- [ccusage](https://github.com/ryoppippi/ccusage) - Agent Token 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂。Codex 可用 `npx ccusage@latest codex`
+- [skills.sh](https://skills.sh/) - AI Agent Skills 开源生态市场，社区驱动的 skills 分发平台。有热度排行榜和分类浏览，能发现各种高质量 skills（React 最佳实践、Web 设计规范、安全指南等）。支持多种 Agent。
 
-**工具类插件**:
+**按 Skill 类型整理的当前能力**
 
-> 这类型功能比较固定，我认为使用者无需逐字阅读，即使没有深刻理解也可以安装使用。
+**产品验证**
 
-- [larksuite/meegle-cli](https://github.com/larksuite/meegle-cli)(自带 Skill) - 飞书项目的 cli 兼 skill 安装器。公司要用到，不得不装啦。(天知道飞书项目和飞书是两个 cli，不过已经是国内一众软件中比较好用的那种了。可以通过 `npx @lark-project/meegle@latest install` 安装)
-- [Figma](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)(codex 插件) - 主要用于在开发时读取产品经理在 figma 上设计的原型。
+- **Browser** - 操作 Codex 内置浏览器，适合打开、检查和测试网页。
+- **Chrome** - 使用现有 Chrome 的标签页、登录状态和浏览器扩展。
+
+**数据获取与分析**
+
+- **Spreadsheets** - 创建、编辑、分析和验证表格文件。
+- **Visualize** - 创建图表、地图、模拟器和交互式数据探索工具。
+
+**业务流程与团队自动化**
+
+- [personal](https://github.com/niracler/skill) - 个人工作流插件，包含周报、双周记、博客和写作辅助。
+
+**代码质量与审查**
+
+- **Superpowers** - 提供规划、TDD、调试和协作等软件开发工作流。
+
+**运行基础能力**
+
+- **Computer Use** - 控制 macOS 桌面应用，不属于文章中的 Skill 类型。
+
+**MCP 服务**
+
+- **Node REPL** - 为浏览器、Chrome 和 Computer Use 提供受控的 JavaScript 运行环境。
+- **GitLab** - 连接内部 GitLab，用于读取和处理代码仓库相关资源。
+- **1Password** - 在需要时为授权进程注入开发者密钥和环境变量。
+
+PS. 因为模型能力本身的增强，很多原有的用于开发流程的 Skill 都用不上了。而且我现在尽可能只装那些工具类的插件。具体开发流程什么的 Skill，我更倾向于自己理解之后，复述给 LLM，不然很容易就变成黑盒操作，代码无法控制了。
 
 <details>
-<summary>过期列表</summary>
+<summary>未启用或不再使用</summary>
 
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - 规范驱动开发框架，让人和 AI 在写代码前先对齐需求。通过 proposal → review → implement → archive 的工作流，避免 AI 编程的不可预测性，特别适合非 0→1 的存量项目迭代。**最近更新了 1.0 版本，做了一些流程细化，有 explore 阶段就可以抛弃 superpower 的头脑风暴了（不是**
 
-**MCP 服务**（要开启 `ENABLE_TOOL_SEARCH=true` 等功能才能装多一两个， 不然 context 消耗太快了）
+**其他 MCP 服务**（不在当前 Codex 配置中）
 
 - [Context7](https://context7.com/) - 为 LLM 提供最新库文档的 MCP 服务。解决了 AI 训练数据过时的问题，可以实时获取各种库的 API 参考和代码示例。
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 微软官方的浏览器自动化 MCP 服务。基于 Playwright 的无障碍树而非截图，让 AI 能快速、确定性地操作网页。
 - [Greptile](https://www.greptile.com/) - 代码库语义搜索和 PR 审查服务，可以基于整个代码库上下文回答问题。**如果项目有 4 G 大小的 SDK 仓库的同学，可以试试**
 - [云效 Yunxiao](https://github.com/aliyun/alibabacloud-devops-mcp-server) - 阿里云 DevOps 平台 MCP 服务，支持代码仓库、流水线、工作项等操作。
 
+**其他 Skill**
+
 - [skills CLI](https://github.com/vercel-labs/skills) - Vercel 出品的 Agent Skills 管理命令行工具，`npx skills add <owner/repo>` 一键安装。支持全局/项目级安装、自动检测本地 agent、批量更新 skills。配合 skills.sh 使用，形成完整的 skills 发现→安装→管理流程。
 - [find-skills](https://skills.sh/vercel-labs/skills/find-skills) - 搜索和推荐适合你的 Skill，通过对话了解需求后提供个性化推荐。
 - [我的 Skill 仓库](https://github.com/niracler/skill) - 个人 Skills 集合，涵盖工作流自动化(Git、云效、代码同步、工作回顾等)、写作辅助(校对、灵感、日记)、学习工具(Anki)和趣味转换(戏言风格)。
 - [humanizer-zh](https://skills.sh/op7418/humanizer-zh/humanizer-zh) - 去除中文 AI 痕迹，让文字更像人写的。基于维基百科的 AI 写作特征指南，检测并修复夸大象征、宣传性语言、模糊归因等模式。
-- [superpowers](https://github.com/anthropics/claude-code-superpowers) - 提供 TDD、系统化调试、头脑风暴、并行任务、代码审查等高级工作流。**最近没怎么用了，跟 claude 官方插件有不少重复的**
 - [obsidian-skills](https://github.com/nicholasrq/obsidian-skills) - 支持 Obsidian 特有语法：wikilinks、callouts、properties、Canvas 文件等。
 - [ui-ux-pro-max](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max) - UI/UX 设计智能，支持 50 种风格、21 种配色方案、50 种字体组合，涵盖 React、Next.js、Vue 等 9 种技术栈。
 - [slidev](https://skills.sh/antfu/skills/slidev) - 用 Markdown 创建开发者演示文稿（Slidev），支持代码高亮、动画、Vue 组件等。
@@ -418,23 +477,11 @@ modified: 2026-04-29
 - [vercel-react-best-practices](https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices) - Vercel 官方 React/Next.js 性能优化指南，包含 57 条规则分 8 个类别：消除瀑布流、包体积优化、服务端性能、客户端数据获取等。
 - [document-skills](https://github.com/anthropics/skills) - 官方文档技能全家桶，包含 16 个子技能：PDF/DOCX/PPTX/XLSX 处理、前端设计、MCP 构建器、算法艺术、Web Artifacts 等。
 
-**官方插件** (`claude plugin add <name>` 安装)
-
-- **code-review** - 代码审查插件，帮助检查代码质量、发现潜在 bug 和安全漏洞
-- **code-simplifier** - 代码简化插件，帮助重构代码使其更清晰、可维护
-- **feature-dev** - 功能开发引导，提供架构分析和实现蓝图
-- **frontend-design** - 前端设计插件，生成高质量的前端界面代码，避免千篇一律的 AI 风格
-- **typescript-lsp** - TypeScript 语言服务器，提供更精准的 TS 代码分析
-- **pyright-lsp** - Python 类型检查器，增强 Python 代码分析能力
-- **security-guidance** - 安全指导，帮助识别和避免常见安全漏洞
-- **context7** - 实时查询任意编程库的最新文档和代码示例，告别过时信息
-- **learning-output-style** - 学习输出风格，Claude 会边做边解释，适合学习新技术时使用
-
 </details>
 
 ### 📝 文本编辑 & IDE
 
-- [VS Code](https://code.visualstudio.com/) - 现在主要使用的编辑器，配合 Claude Code 使用体验很好。
+- [VS Code](https://code.visualstudio.com/) - 现在主要使用的编辑器，配合 Codex 使用体验很好。
   - [WakaTime](https://wakatime.com/dashboard) - 一个用于跟踪和分析编程时间的工具，才发现我一周开发 28H 已经是我工作中的极限了～～
   - [dracula-theme](https://github.com/dracula/dracula-theme) - 在用这个主题。
   - GitLens - 用于查看 git 历史记录的插件，它的 `blame` 功能太好用了，在团队合作的时候可以一眼看到谁写的代码。
@@ -450,12 +497,12 @@ modified: 2026-04-29
   - [obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync) - 用于将 pinboard 的书签同步到 obsidian 日记中的插件。主要是为了可以在 obsidian 中搜索到我之前的书签以及对应的评论。
   - [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) - 用于将 obsidian 中的图片自动上传到图床的插件。
   - [obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - 自动获取链接的标题并替换链接文本，让链接更易读和美观。
-  - [simple-anki-sync](https://github.com/lukmay/simple-anki-sync) - 将 Obsidian 笔记同步到 Anki 卡片的插件，便于将知识点转化为记忆卡片。
 
 <details>
 <summary>过期列表</summary>
 
-- ~~[cursor](https://www.cursor.com/) - 已经离不开 Cursor 了，它真的太好用了。直觉上，工作中的 70% 代码都是它写的。（事后 => 这个月超额用了 20 刀， 有点想换成 OpenAI 收购的那一家）~~ 现在改用 VS Code + Claude Code 了
+- [simple-anki-sync](https://github.com/lukmay/simple-anki-sync) - 将 Obsidian 笔记同步到 Anki 卡片的插件，便于将知识点转化为记忆卡片。（anki 是个好东西，但我怎么算我都没有时间了。暂时搁置）
+- ~~[cursor](https://www.cursor.com/) - 已经离不开 Cursor 了，它真的太好用了。直觉上，工作中的 70% 代码都是它写的。（事后 => 这个月超额用了 20 刀， 有点想换成 OpenAI 收购的那一家）~~ 现在改用 VS Code + Codex 了
 - ~~NewLine - 用于在文件末尾添加空行的插件。至于为什么要加空行，参考 [这篇文章](https://niracler.com/newline)。~~ 可以直接通过配置开启，无需插件了
 - ~~[neoVim](https://neovim.io/) - 作为一个原生 vim 都用不习惯的人，打算用 neovim 来切割 vscode 是不是太激进了？不过我这里也没办法将所有的配置以及我用到的插件都列出来，只能是列出上限 20 个左右的插件。后续就更新到我的 [neovim-config](https://github.com/niracler/nvim-config) 上了。~~ 我的 M1 AIR 用起来会卡顿，而且是真的入手难度高，所以就暂时放弃了。
   - [lazyvim](https://lazyvim.org/) - 我主要用的是 lazyvim 来配置我的 neovim 插件。
@@ -672,14 +719,14 @@ modified: 2026-04-29
 - [iina](https://iina.io/) - macOS 上优秀的本地视频播放器，是我的首选播放工具。
 - [obs](https://obsproject.com/) - 功能强大的录屏工具，主要用于配合串流软件录制游戏机画面。
 - [spotify](https://www.spotify.com/) - 尝试过多个音乐平台后，最终选择了 Spotify 作为主力音乐服务。
-- [Evermusic](https://everappz.com/products/evermusic/)($9.99/y) - iOS 上的本地/云音乐播放器。主要是国庆期间去了趟日本买了几张专辑 cd，想着不要浪费就将转录后的 flac 文件放到 iCloud 上了，就是用的这个软件来听。Premium Yearly 续上了。
-- [Apple Music](https://www.apple.com/cn/apple-music/)(¥17/m, Family) - 家庭车 Apple Music Family，最近重新订回来跟 iri / Aimer 这些艺人配 iOS 体系听。
-- [netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl) - 用这仓库的脚本魔改后自用来下载网易云音乐的专辑。
-- [网易云音乐](https://music.163.com/)(¥158/y, 黑胶 VIP) - 为了评论区功能，以及可以跟国内的朋友分享。今年还是开回来了。88VIP 季卡之外单独续了黑胶年卡。**明年到期不续——88VIP 季卡 + Apple Music 已经覆盖音乐需求**。
 
 <details>
 <summary>过期列表</summary>
 
+- [netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl) - 用这仓库的脚本魔改后自用来下载网易云音乐的专辑。
+- [网易云音乐](https://music.163.com/)(¥158/y, 黑胶 VIP) - 为了评论区功能，以及可以跟国内的朋友分享。今年还是开回来了。88VIP 季卡之外单独续了黑胶年卡。**明年到期不续——88VIP 季卡 + Apple Music 已经覆盖音乐需求**。
+- [Evermusic](https://everappz.com/products/evermusic/)($9.99/y) - iOS 上的本地/云音乐播放器。主要是国庆期间去了趟日本买了几张专辑 cd，想着不要浪费就将转录后的 flac 文件放到 iCloud 上了，就是用的这个软件来听。Premium Yearly 续上了。**也是伪需求，没有精力了**
+- [Apple Music](https://www.apple.com/cn/apple-music/)(¥17/m, Family) - 家庭车 Apple Music Family，最近重新订回来跟 iri / Aimer 这些艺人配 iOS 体系听。**没办法，家里人完全用不习惯，他们更喜欢汽水音乐**
 - ~~[YT MUSIC](https://music.youtube.com/)(¥120/y)~~ - 慎用。槽点还是太多了，梯子节点不太稳定的时候就直接断了，一般需要下载下来才比较好，而且有些区是不能用的。不过现在已经将我的音乐软件转成这个了，架不住我想听的都有。发现推荐以及音乐的全面性更适合我一些。用的是一百多一年的淘宝车。
 - ~~[网易云音乐](https://music.163.com/) - 用于听一些音乐~~ 二次元的音乐是真的多，评论区也很棒，在国内体验好于 YT Music。不过因为时常会没有版权然后变灰，这个是硬伤，~~现在已经转到 YT MUSIC 了。~~
 
@@ -699,12 +746,12 @@ modified: 2026-04-29
 
 ### 📖 学习
 
-- [多邻国](https://www.duolingo.com/)(¥40/y) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～) **稍微有点不想继续了**
-- [Anki](https://apps.ankiweb.net/) - 间隔重复记忆软件，用于高效记忆和复习各种知识点。最近看书为了不忘记一些内容，试着做了一些 anki 的 card，也专门写了一个 prompt 用于生成对应的 card。
+- [多邻国](https://www.duolingo.com/)(¥40/y) - 用来学习日语，感觉是用了就停不下来，每天早上晚上都打一次卡。可以通过这个 [链接](https://www.duolingo.com/profile/niracler?via=share_profile) 与我互关 (不过要国区的帐号才能加～～) **稍微有点不想继续了**（最近我都变成天天用来下象棋了。。。）
 
 <details>
 <summary>过期列表</summary>
 
+- [Anki](https://apps.ankiweb.net/) - 间隔重复记忆软件，用于高效记忆和复习各种知识点。最近看书为了不忘记一些内容，试着做了一些 anki 的 card，也专门写了一个 prompt 用于生成对应的 card。
 - [MindNode](https://mindnode.com)(Setapp) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。**不打算继续订阅 setapp 了，故放弃**
 - [xmind](https://www.xmind.cn/) - 用来做思维导图的工具，我主要用它来做一些知识的整理。看书的时候必备的工具。
 
@@ -722,7 +769,7 @@ modified: 2026-04-29
 - [Z-Library](https://z-library.sk) - 全球最大的数字图书馆之一，提供海量免费电子书和学术论文资源。
 - [Pinterest](https://www.pinterest.com/) - 优质图片资源平台，特别适合寻找头像和壁纸素材。
 - [hackernew](https://news.ycombinator.com/) - 科技行业前沿新闻聚合平台，内容质量高但易沉迷。
-- [pinboard](https://pinboard.in/) - 文章收藏与思考记录工具。这是我的 [Pinboard 主页](https://pinboard.in/u:niracler)。
+- [pinboard](https://pinboard.in/) - 文章收藏与思考记录工具。这是我的 [Pinboard 主页](https://pinboard.in/u:niracler)。**今年估计不打算续费了，自己 vibe 一个吧**
 - [小红书](https://www.xiaohongshu.com/) - 生活分享社区，用于了解生活技巧和常识补充。
 - [知乎](https://www.zhihu.com/) - 问答社区，偶尔浏览感兴趣的话题讨论。
 - [Bob](https://bobtranslate.com/)(¥74.99) - Mac 上优秀的划词翻译工具。
@@ -780,8 +827,8 @@ modified: 2026-04-29
 > 这里只列出我在打卡的游戏，以及常用的与游戏有关的软件
 
 - [Steam](https://store.steampowered.com/) - 手机 App，作为验证用的，平常因为网络太卡了，也很少用。
-- [崩坏: 星穹铁道](https://sr.mihoyo.com/)(¥98/42d 大月卡进阶/基础轮充 + ¥30/m 小月卡) - 当作是每月花两张电影票的钱去看两场电影，以及可以锻炼一下自己的规划能力。（当时是因为藿藿入坑的～～）大月卡走版本周期（每版 6 周/42 天），打算每两个版本中只有一个充进阶 ¥128，另一个基础 ¥68，平均每周期 ¥98。
-- [明日方舟: 终末地](https://endfield.gryphline.com/zh-cn)(¥68/35d 大月卡 + ¥30/m 小月卡) - 鹰角的 3D 新作，资源循环以基建+装备养成为核心。大版本约 5 周（35 天），通行证三档（免费/源石/付费）我充付费档 ¥68，小月卡 ¥30/m 单独走。
+- [崩坏: 星穹铁道](https://sr.mihoyo.com/)(¥98/42d 大月卡进阶/基础轮充 + ¥30/m 小月卡) - 当作是每月花两张电影票的钱去看两场电影（加了终末地，就完全没有时间玩了）
+- [明日方舟: 终末地](https://endfield.gryphline.com/zh-cn)(¥68/35d 大月卡 + ¥30/m 小月卡) - 需要召集终末地的好友什么的。
 - [Muse Dash](https://musedash.peropero.net/#/version) - 早期计划通，现在看来简直不能再赚了，一直在更新真的很良心。
 - [小黑盒](https://www.xiaoheihe.cn) - 主要用来看各种游戏机上面的游戏时长，以前的话会在上面看游戏点评以及买游戏什么的。
 
@@ -865,12 +912,12 @@ modified: 2026-04-29
 
 | # | 维度 | 当前 | 上限 | 状态 | 备注 |
 |---|------|------|------|------|------|
-| 1 | 月订阅基础消费 (¥/月) | 764 | 666 | 🚨 超 98 | 钱的容量 |
-| 2 | 关注的人 | 86 | 100 | ✅ 留白 14 | README 里你自己声明过的隐藏上限 |
-| 3 | 软件工具总数 | 181 | — | — | 决策疲劳 |
-| 4 | 物理资产 (设备) | 50 | — | — | 物理空间 / 维护成本 |
-| 5 | 🤖 大模型工具 | 28 | — | — | 涨势最快，FOMO 重灾区 |
-| 6 | 沉睡库存 (不活跃总数) | 82 | — | — | 反指标：太多就该清 |
+| 1 | 月订阅基础消费 (¥/月) | 727 | 666 | 🚨 超 61 | 钱的容量 |
+| 2 | 关注的人 | 82 | 100 | ✅ 留白 18 | README 里你自己声明过的隐藏上限 |
+| 3 | 软件工具总数 | 158 | — | — | 决策疲劳 |
+| 4 | 物理资产 (设备) | 55 | — | — | 物理空间 / 维护成本 |
+| 5 | 🤖 大模型工具 | 12 | — | — | 涨势最快，FOMO 重灾区 |
+| 6 | 沉睡库存 (不活跃总数) | 109 | — | — | 反指标：太多就该清 |
 
 <!-- AUDIT:END -->
 
