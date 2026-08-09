@@ -5,6 +5,8 @@
 格式基于 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)，
 版本号采用 `YYYY.MM[.PATCH]` 格式。
 
+## [Unreleased]
+
 ## [2026.08] - 2026-08-09
 
 ### Added
@@ -21,16 +23,18 @@
 
 - **🤖 大模型工具** — 这次调整更像是对开发方式的一次反思：随着模型本身能力增强，很多原先用于开发流程的 Skill 已经不再必要。现在尽可能只保留工具类插件；具体开发流程先自己理解，再复述给 LLM，避免把代码交给无法控制的黑盒流程。
 - **Codex** — 更新为 `$100/m, 公司付费`，并按当前实际配置重新整理插件、MCP 服务和辅助工具。
-- **订阅状态** — 补充 ChatGPT App、Telegram、Folo、Apple Music、Evermusic 和网易云音乐的价格；其中部分订阅已经标记为到期后不再续订。
+- **Cursor** — 更新过期列表中的说明，从「改用 VS Code + Claude Code」改为「改用 VS Code + Codex」。
+- **订阅和音乐工具** — 将网易云音乐、`netease-cloud-music-dl`、Evermusic 和 Apple Music 移入过期列表，这些软件现在都已经不用了。
 - **设备状态** — 更新 AirTag、Nintendo Switch 2、Apple TV 4K 和米家智能香氛机的当前使用情况。
 - **仓库工作指南** — 将 `CLAUDE.md` 更名为 `AGENTS.md`，改为面向通用 coding agent 的说明。
 
 ### Removed
 
-- **Claude Code、Anthropic News、Cursor** → 移入过期或不再使用列表。
+- **Claude Code、Anthropic News** → 移入过期或不再使用列表。
 - **八九间 U5 人体工学电脑椅** → 移入不活跃列表，换成宜家 BASTBOLL 电竞椅。
 - **忽左忽右、纵横四海、原来是这样 Dscience** → 移入播客不活跃列表，最近已经没怎么听了。
 - **部分 Telegram 频道** → 移除不再关注或基本停止更新的频道。
+- **Anki、simple-anki-sync** → 移入学习和 Obsidian 的过期列表，最近没有稳定使用和维护它们的时间。
 
 ## [2026.04] - 2026-04-29
 
@@ -202,6 +206,7 @@
 - 添加 GitHub Actions 链接检查
 - 规范化版本发布流程（PR + Tag + Release）
 
+[Unreleased]: https://github.com/niracler/plrom/compare/v2026.08...HEAD
 [2026.08]: https://github.com/niracler/plrom/compare/v2026.04...v2026.08
 [2026.02]: https://github.com/niracler/plrom/compare/v2026.01...v2026.02
 [2026.01]: https://github.com/niracler/plrom/compare/v2025.12...v2026.01

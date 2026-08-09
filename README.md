@@ -199,6 +199,7 @@ modified: 2026-08-09
 - [Anthropic News](https://www.anthropic.com/news) - ~~Claude Code 既然成了我的米饭帮主，官方 News 总该订一下。~~ **现在改用 Codex 了**
 
 </details>
+
 - [琉璃神社](https://www.hacg.ceo) - 「琉璃神社是一个分享最新最酷的ACG同人作品资讯社团,在这里你能找到很多欢乐」。懂的都懂，实为看了十几年神社的老登了～～
 
 ### 🏢 游戏 & 动画公司
