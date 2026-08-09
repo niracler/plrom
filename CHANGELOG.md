@@ -9,7 +9,7 @@
 
 ### Added
 
-- **[Skinat](https://skinat.world.tmall.com/shop/view_shop.htm)** (淘宝店主) - 朋友介绍的手机背膜和贴纸店，最近买了一张手机背膜，打算看看能不能真的贴上两年。
+- **[Skinat](https://skinat.world.tmall.com/shop/view_shop.htm)** (淘宝店主) - 朋友介绍的手机背膜和贴纸店，第一张背膜已经用了快一年半，现在是第二张，继续看看能不能真的贴满两年。
 - **[Rhodia 法国罗地亚橙色头钉便笺本](https://detail.tmall.com/item.htm?id=655586417891)** (物 / 文具) - 公司里用来写草稿和画简笔画的便笺本。
 - **[tomtoc T37 小型旅行斜挎包](https://detail.tmall.com/item.htm?id=1046059603933)** (物 / 包包) - 腰突手术后不能背重物，于是换成了一个只能装纸巾和充电宝的小包。
 - **[IKEA UTESPELARE 游戏桌](https://www.ikea.com/jp/en/p/utespelare-gaming-desk-black-40500350/)** (物 / 桌椅) - 用了很多年的完美桌子，之前搬去西安，现在又跟着搬回来了。

@@ -177,7 +177,7 @@ modified: 2026-08-09
 - [hopi](https://hpoi.taobao.com/shop/view_shop.htm?shop_id=320873901) - 买手办的地方，不过一年也买不到一个啦。
 - [achobby](https://achobby.taobao.com/shop/view_shop.htm?shop_id=70489541) - 抱枕？谁会买抱枕呢？哈哈，哈哈，哈哈
 - [梦百合官方旗舰店](https://mengbaihe.tmall.com/shop/view_shop.htm?shop_id=108266005) - 这个牌子的床垫挺不错的，虽然我没有买过其他牌子。
-- [Skinat](https://skinat.world.tmall.com/shop/view_shop.htm) - 主要卖各种 iPhone MacBook 的贴纸和保护膜。朋友介绍的，一张贴两年感觉没什么问题，我是买的手机背膜。假如极端一点，或许就不用戴手机壳了😂（不行不行，我手机经常摔的）
+- [Skinat](https://skinat.world.tmall.com/shop/view_shop.htm) - 主要卖各种 iPhone MacBook 的贴纸和保护膜。朋友介绍的，第一张手机背膜已经用了快一年半，现在是第二张，继续看看能不能真的贴满两年。假如极端一点，或许就不用戴手机壳了😂（不行不行，我手机经常摔的）
 
 ## 组织或社区
 
