@@ -14,7 +14,7 @@
 
 ### Changed
 
-- 将仓库工作指南从 `CLAUDE.md` 更名为 `Agent.md`，改为面向通用 coding agent 的说明。
+- 将仓库工作指南从 `CLAUDE.md` 更名为 `AGENTS.md`，改为面向通用 coding agent 的说明。
 - 更新 README 的修改日期和体量盘点数据。
 - 将 Claude 相关的软件、新闻和配置移入过期或不再使用列表，并标注当前已改用 Codex。
 
