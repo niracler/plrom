@@ -7,6 +7,17 @@
 
 ## [Unreleased]
 
+### Added
+
+- 更新个人清单，补充近期使用的工具、订阅、设备和生活物品，并整理部分不活跃条目。
+- 将 Codex 当前使用的插件、MCP 服务和辅助工具按能力类型重新整理。
+
+### Changed
+
+- 将仓库工作指南从 `CLAUDE.md` 更名为 `Agent.md`，改为面向通用 coding agent 的说明。
+- 更新 README 的修改日期和体量盘点数据。
+- 将 Claude 相关的软件、新闻和配置移入过期或不再使用列表，并标注当前已改用 Codex。
+
 ## [2026.04] - 2026-04-29
 
 ### Added
@@ -177,7 +188,7 @@
 - 添加 GitHub Actions 链接检查
 - 规范化版本发布流程（PR + Tag + Release）
 
-[Unreleased]: https://github.com/niracler/plrom/compare/v2026.02...HEAD
+[Unreleased]: https://github.com/niracler/plrom/compare/v2026.04...HEAD
 [2026.02]: https://github.com/niracler/plrom/compare/v2026.01...v2026.02
 [2026.01]: https://github.com/niracler/plrom/compare/v2025.12...v2026.01
 [2025.12]: https://github.com/niracler/plrom/compare/v2025.11...v2025.12
