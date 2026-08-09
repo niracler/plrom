@@ -5,7 +5,7 @@
 格式基于 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)，
 版本号采用 `YYYY.MM[.PATCH]` 格式。
 
-## [Unreleased]
+## [2026.08] - 2026-08-09
 
 ### Added
 
@@ -202,7 +202,7 @@
 - 添加 GitHub Actions 链接检查
 - 规范化版本发布流程（PR + Tag + Release）
 
-[Unreleased]: https://github.com/niracler/plrom/compare/v2026.04...HEAD
+[2026.08]: https://github.com/niracler/plrom/compare/v2026.04...v2026.08
 [2026.02]: https://github.com/niracler/plrom/compare/v2026.01...v2026.02
 [2026.01]: https://github.com/niracler/plrom/compare/v2025.12...v2026.01
 [2025.12]: https://github.com/niracler/plrom/compare/v2025.11...v2025.12
