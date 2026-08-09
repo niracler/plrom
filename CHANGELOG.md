@@ -58,7 +58,7 @@
 
 ### Added
 
-- **[Nintendo Switch 2](https://www.nintendo.com/us/gaming-systems/nintendo-switch-2/)** (游戏娱乐设备) - 过年前入手，主力在玩 Pokopia
+- **[Nintendo Switch 2](https://www.nintendo.com/gaming-systems/switch-2/)** (游戏娱乐设备) - 过年前入手，主力在玩 Pokopia
 - **[Apifox](https://apifox.com/)** (软件 / 开发工具) - 工作中用于 API 调试
 - **[Keka](https://apps.apple.com/us/app/keka/id470158793?mt=12)** (软件 / 生产力工具) - macOS 解压缩工具
 

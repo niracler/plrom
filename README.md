@@ -288,7 +288,7 @@ modified: 2026-08-09
 
 ### 🎮 游戏娱乐设备
 
-- [Nintendo Switch 2](https://www.nintendo.com/us/gaming-systems/nintendo-switch-2/) - 过年前入手，目前主力在玩 Pokopia，体验非常爽。**只可惜有 Switch 2 的好友太少了。。**
+- [Nintendo Switch 2](https://www.nintendo.com/gaming-systems/switch-2/) - 过年前入手，目前主力在玩 Pokopia，体验非常爽。**只可惜有 Switch 2 的好友太少了。。**
 - [xbox series s](https://www.xbox.com/zh-CN/consoles/xbox-series-s) - 我的第二台游戏机，冲着 xbox game pass 买的，不过在买了之后因为游戏太多反而不想玩了，就像 TODOList 太多也会让人提不起劲一样。**想出手了**
   - [Reletech Xbox Serie x Xbox Serie s1tb2tb Solid State Drive](https://www.amazon.com/Storage-Expansion-Serie-1TB2TB-Solid/dp/B09TPCQ7Z7?th=1) - 用于扩展 xbox 的存储空间，因为 xbox 的游戏太大了，内置的 512G 已经不够用了。警惕后世人，要买就买 XBox Series X，不然就是后悔。
 - [Steam Deck](https://www.steamdeck.com/) - 我的第三台游戏机, 一开始是想用来作为服务器来用一下的，但是发现它基本无法长时间运行，最后还是换回树莓派了。《文明 6》都会卡，只能玩小游戏了。
