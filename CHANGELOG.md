@@ -9,14 +9,28 @@
 
 ### Added
 
-- 更新个人清单，补充近期使用的工具、订阅、设备和生活物品，并整理部分不活跃条目。
-- 将 Codex 当前使用的插件、MCP 服务和辅助工具按能力类型重新整理。
+- **[Skinat](https://skinat.world.tmall.com/shop/view_shop.htm)** (淘宝店主) - 朋友介绍的手机背膜和贴纸店，最近买了一张手机背膜，打算看看能不能真的贴上两年。
+- **[Rhodia 法国罗地亚橙色头钉便笺本](https://detail.tmall.com/item.htm?id=655586417891)** (物 / 文具) - 公司里用来写草稿和画简笔画的便笺本。
+- **[tomtoc T37 小型旅行斜挎包](https://detail.tmall.com/item.htm?id=1046059603933)** (物 / 包包) - 腰突手术后不能背重物，于是换成了一个只能装纸巾和充电宝的小包。
+- **[IKEA UTESPELARE 游戏桌](https://www.ikea.com/jp/en/p/utespelare-gaming-desk-black-40500350/)** (物 / 桌椅) - 用了很多年的完美桌子，之前搬去西安，现在又跟着搬回来了。
+- **[宜家 BASTBOLL 贝斯博尔电竞椅](https://item.jd.com/10166866497637.html)** (物 / 桌椅) - 因为腰突换掉旧椅子，虽然新椅子更舒服，但还是不能替代定时起身活动。
+- **[爱乐普（eneloop）20 周年限量版 5 号充电电池](https://item.jd.com/100335655360.html)** (物 / 充电) - 主要给 Xbox 手柄使用，免得每次想玩游戏还要临时找电池。
+- **[麦金獭手机钢化膜 AR 抗反射高清高覆盖](https://item.taobao.com/item.htm?abbucket=5&id=1039743168559)** (物 / 手机以及平板) - 当前使用的手机膜，先把链接记录下来，之后换膜时还能找得到。
 
 ### Changed
 
-- 将仓库工作指南从 `CLAUDE.md` 更名为 `AGENTS.md`，改为面向通用 coding agent 的说明。
-- 更新 README 的修改日期和体量盘点数据。
-- 将 Claude 相关的软件、新闻和配置移入过期或不再使用列表，并标注当前已改用 Codex。
+- **🤖 大模型工具** — 按当前 Codex 配置重新整理插件、MCP 服务和辅助工具，并参考 Skills 类型划分拆出产品验证、数据获取与分析、业务流程与团队自动化等类别。
+- **OpenAI Codex CLI** — 更新为 `$100/m, 公司付费`，现在已经是主要使用的 coding agent。
+- **订阅状态** — 补充 ChatGPT App、Folo、网易云音乐、Apple Music 和 Evermusic 等当前订阅的价格及续订计划。
+- **设备与生活物品** — 补充近期购买的手机膜、充电电池、草稿本和小包，并记录腰突手术后更换桌椅的原因。
+- **仓库工作指南** — 将 `CLAUDE.md` 更名为 `AGENTS.md`，改为面向通用 coding agent 的说明。
+- 更新 README 修改日期和体量盘点数据。
+
+### Removed
+
+- **Claude Code、Anthropic News、Cursor** → 移入过期或不再使用列表，现在主要使用 Codex。
+- **八九间 U5 人体工学电脑椅** → 移入不活跃列表，换成宜家 BASTBOLL 电竞椅。
+- **部分播客和 Telegram 频道** → 移入不活跃列表，最近确实没怎么听播客，也不再关注已经基本不更新的频道。
 
 ## [2026.04] - 2026-04-29
 
