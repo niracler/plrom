@@ -417,10 +417,10 @@ modified: 2026-08-09
 
 - [ccusage](https://github.com/ryoppippi/ccusage)（辅助工具） - Agent Token 用量分析工具，订阅场景下主要用来看 100 刀的极限能用多少 😂。Codex 可用 `npx ccusage@latest codex`
 - [skills.sh](https://skills.sh/)（辅助工具） - AI Agent Skills 开源生态市场，社区驱动的 skills 分发平台。有热度排行榜和分类浏览，能发现各种高质量 skills（React 最佳实践、Web 设计规范、安全指南等）。支持多种 Agent。
-- [Apifox CLI](https://apifox.com/)（接口开发与测试） - 通过 Apifox CLI 管理接口、环境、Schema、Mock、测试套件和 Runner 等项目资源。
-- [飞书 / Lark](https://open.feishu.cn/)（业务流程与团队协作） - 通过本地 Skill 处理文档、云盘、表格、多维表格、日历、消息、邮件、会议、知识库和任务等内容。
-- [Figma](https://www.figma.com/)（设计协作） - 用于读取设计上下文、维护 Code Connect、生成设计系统和辅助设计到代码的工作流。
-- [GitHub](https://github.com/)（代码协作与发布） - 用于查看仓库、处理 Issue 和 PR、排查 CI，以及发布本地变更。
+- [Apifox CLI](https://docs.apifox.com/doc-5637756)（接口开发与测试） - 通过 Apifox CLI 管理接口、环境、Schema、Mock、测试套件和 Runner 等项目资源。
+- [飞书 / Lark](https://open.feishu.cn/document/tools-and-sdks/developer-tools-portal)（业务流程与团队协作） - 通过本地 Skill 处理文档、云盘、表格、多维表格、日历、消息、邮件、会议、知识库和任务等内容。
+- [Figma](https://developers.figma.com/docs/plugins/plugin-quickstart-guide/)（设计协作） - 用于读取设计上下文、维护 Code Connect、生成设计系统和辅助设计到代码的工作流。
+- [GitHub](https://cli.github.com/manual/gh_auth_login)（代码协作与发布） - 用于查看仓库、处理 Issue 和 PR、排查 CI，以及发布本地变更。
 - Browser（产品验证） - 操作 Codex 内置浏览器，适合打开、检查和测试网页。
 - Chrome（产品验证） - 使用现有 Chrome 的标签页、登录状态和浏览器扩展。
 - Spreadsheets（数据获取与分析） - 创建、编辑、分析和验证表格文件。
@@ -429,7 +429,7 @@ modified: 2026-08-09
 - Computer Use（运行基础能力） - 控制 macOS 桌面应用，不属于文章中的 Skill 类型。
 - Node REPL（MCP 服务） - 为浏览器、Chrome 和 Computer Use 提供受控的 JavaScript 运行环境。
 - GitLab（MCP 服务） - 连接内部 GitLab，用于读取和处理代码仓库相关资源。
-- 1Password（MCP 服务） - 在需要时为授权进程注入开发者密钥和环境变量。
+- [1Password](https://developer.1password.com/docs/environments/)（MCP 服务） - 在需要时为授权进程注入开发者密钥和环境变量。
 
 PS. 因为模型能力本身的增强，很多原有的用于开发流程的 Skill 都用不上了。而且我现在尽可能只装那些工具类的插件。具体开发流程什么的 Skill，我更倾向于自己理解之后，复述给 LLM，不然很容易就变成黑盒操作，代码无法控制了。
 

@@ -11,7 +11,7 @@
 
 ### Changed
 
-- **🤖 大模型工具** — 补充当前使用的 [Apifox](https://apifox.com/)、[飞书 / Lark](https://open.feishu.cn/)、[Figma](https://www.figma.com/) 和 [GitHub](https://github.com/) 插件，并将当前插件和 MCP 服务改为「名称（分类）」的平铺列表，降低分类的视觉层级，避免分类标题抢占注意力，同时保持体量盘点的统计口径不变。
+- **🤖 大模型工具** — 补充当前使用的 [Apifox](https://docs.apifox.com/doc-5637756)、[飞书 / Lark](https://open.feishu.cn/document/tools-and-sdks/developer-tools-portal)、[Figma](https://developers.figma.com/docs/plugins/plugin-quickstart-guide/)、[GitHub](https://cli.github.com/manual/gh_auth_login) 和 [1Password](https://developer.1password.com/docs/environments/) 配置入口，并将当前插件和 MCP 服务改为「名称（分类）」的平铺列表，降低分类的视觉层级，避免分类标题抢占注意力，同时保持体量盘点的统计口径不变。
 
 ## [2026.08] - 2026-08-09
 
