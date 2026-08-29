@@ -14,7 +14,7 @@ The repository uses linkspector to validate URLs in README.md:
 
 ```bash
 # Check all links (runs automatically via GitHub Actions)
-npx linkspector .
+npx --yes @umbrelladocs/linkspector check --showstat
 ```
 
 Configuration is in [.linkspector.yml](.linkspector.yml) which ignores certain domains that frequently timeout or block bots.
@@ -130,7 +130,7 @@ docs/update-guide         # Documentation updates
    - **Name** (category) - Reason for removal
    ```
 
-4. **Check links**: `npx linkspector .`
+4. **Check links**: `npx --yes @umbrelladocs/linkspector check --showstat`
 
 5. **Create PR**:
 

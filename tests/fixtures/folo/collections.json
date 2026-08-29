@@ -1,0 +1,8 @@
+{
+  "entries": [
+    {"feeds": {"id": "feed-a"}, "entries": {"id": "entry-1"}, "collections": {"createdAt": "2026-06-01T00:00:00Z"}},
+    {"feeds": {"id": "feed-a"}, "entries": {"id": "entry-1"}, "collections": {"createdAt": "2026-06-01T00:00:00Z"}},
+    {"feeds": {"id": "feed-c"}, "entries": {"id": "entry-2"}, "collections": {"createdAt": "2026-06-08T00:00:00Z"}},
+    {"feeds": {"id": "feed-f"}, "entries": {"id": "entry-3"}, "collections": {"createdAt": "2026-06-15T00:00:00Z"}}
+  ]
+}

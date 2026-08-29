@@ -14,5 +14,5 @@ repos:
         name: plrom 体量盘点 (auto-update README)
         language: system
         entry: python3 .github/scripts/audit.py --update README.md
-        files: '^(README\.md|\.github/scripts/audit\.py|audit/limits\.toml)$'
+        files: '^(README\.md|\.github/scripts/audit(_folo)?\.py|audit/(limits\.toml|folo-snapshot\.json))$'
         pass_filenames: false

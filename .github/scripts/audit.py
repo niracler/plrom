@@ -12,16 +12,20 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import json
 import re
 import sys
 import tomllib
 from dataclasses import dataclass, field
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
 from typing import Any, Callable
 
 SENTINEL_START = "<!-- AUDIT:START -->"
 SENTINEL_END = "<!-- AUDIT:END -->"
 LIMITS_PATH = Path("audit/limits.toml")
+FOLO_SNAPSHOT_PATH = Path("audit/folo-snapshot.json")
+FOLO_SNAPSHOT_MAX_AGE = timedelta(days=35)
 
 USD_TO_CNY = 7.2  # rough April 2026 rate
 
@@ -195,6 +199,15 @@ METRICS: dict[str, Callable[..., float]] = {
     "h3_active": lambda cats, h3: sum(c.active for c in cats if c.h3 == h3),
 }
 
+FOLO_METRICS: dict[str, tuple[str, ...]] = {
+    "folo_attention_minutes": ("attention", "budgeted_minutes_per_week"),
+    "folo_core_count": ("lanes", "core", "source_count"),
+    "folo_changelog_count": ("lanes", "changelog", "source_count"),
+    "folo_uncategorized_count": ("totals", "uncategorized_sources"),
+    "folo_abnormal_count": ("totals", "abnormal_sources"),
+    "folo_core_max_source_share": ("lanes", "core", "max_source_share_percent"),
+}
+
 
 def load_limits(path: Path) -> list[dict[str, Any]]:
     if not path.exists():
@@ -204,8 +217,50 @@ def load_limits(path: Path) -> list[dict[str, Any]]:
     return data.get("items", [])
 
 
-def compute_metric(item: dict[str, Any], cats: list[Category]) -> float:
+def load_folo_snapshot(
+    path: Path = FOLO_SNAPSHOT_PATH,
+    *,
+    now: datetime | None = None,
+) -> dict[str, Any] | None:
+    """Load a fresh Folo snapshot; missing, invalid, or stale means unavailable."""
+    if not path.exists():
+        return None
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        generated = datetime.fromisoformat(
+            str(data["generated_at"]).replace("Z", "+00:00")
+        ).astimezone(UTC)
+    except (OSError, ValueError, KeyError, TypeError, json.JSONDecodeError):
+        return None
+    current = (now or datetime.now(UTC)).astimezone(UTC)
+    if generated > current + timedelta(minutes=5):
+        return None
+    if current - generated > FOLO_SNAPSHOT_MAX_AGE:
+        return None
+    return data
+
+
+def _lookup_number(data: dict[str, Any], path: tuple[str, ...]) -> float | None:
+    value: Any = data
+    for key in path:
+        if not isinstance(value, dict) or key not in value:
+            return None
+        value = value[key]
+    if isinstance(value, bool) or not isinstance(value, (int, float)):
+        return None
+    return float(value)
+
+
+def compute_metric(
+    item: dict[str, Any],
+    cats: list[Category],
+    folo_snapshot: dict[str, Any] | None = None,
+) -> float | None:
     name = item["metric"]
+    if name in FOLO_METRICS:
+        if folo_snapshot is None:
+            return None
+        return _lookup_number(folo_snapshot, FOLO_METRICS[name])
     fn = METRICS.get(name)
     if fn is None:
         raise ValueError(f"unknown metric: {name!r} in item {item.get('name', '?')}")
@@ -214,22 +269,39 @@ def compute_metric(item: dict[str, Any], cats: list[Category]) -> float:
     return fn(cats)
 
 
-def format_value(value: float) -> str:
-    return str(round(value))
+def format_value(value: float | None, unit: str | None = None) -> str:
+    if value is None:
+        return "N/A"
+    rounded = str(int(value)) if value.is_integer() else f"{value:.1f}"
+    if unit == "minutes":
+        return f"{rounded} 分钟"
+    if unit == "percent":
+        return f"{rounded}%"
+    return rounded
 
 
-def status_cell(current: float, limit: float | None) -> str:
+def status_cell(
+    current: float | None,
+    limit: float | None,
+    unit: str | None = None,
+) -> str:
+    if current is None:
+        return "⚪ N/A"
     if limit is None:
         return "—"
     diff = current - limit
     if diff > 0:
-        return f"🚨 超 {format_value(diff)}"
+        return f"🚨 超 {format_value(diff, unit)}"
     if diff == 0:
         return "🟡 持平"
-    return f"✅ 留白 {format_value(-diff)}"
+    return f"✅ 留白 {format_value(-diff, unit)}"
 
 
-def render_inline(cats: list[Category], limits: list[dict[str, Any]]) -> str:
+def render_inline(
+    cats: list[Category],
+    limits: list[dict[str, Any]],
+    folo_snapshot: dict[str, Any] | None = None,
+) -> str:
     """Compact limits dashboard for embedding in README.md between sentinels."""
     out: list[str] = []
     out.append("### 📊 体量盘点")
@@ -238,6 +310,10 @@ def render_inline(cats: list[Category], limits: list[dict[str, Any]]) -> str:
         "> 由 [.github/scripts/audit.py](.github/scripts/audit.py) "
         "依据 [audit/limits.toml](audit/limits.toml) 自动生成，pre-commit hook 刷新。"
     )
+    if folo_snapshot is None and any(
+        item.get("metric") in FOLO_METRICS for item in limits
+    ):
+        out.append("> Folo 快照缺失或已超过 35 天；相关指标显示 `N/A`，不会按 0 处理。")
     out.append("")
 
     if not limits:
@@ -247,13 +323,14 @@ def render_inline(cats: list[Category], limits: list[dict[str, Any]]) -> str:
     out.append("| # | 维度 | 当前 | 上限 | 状态 | 备注 |")
     out.append("|---|------|------|------|------|------|")
     for i, item in enumerate(limits, 1):
-        current = compute_metric(item, cats)
+        current = compute_metric(item, cats, folo_snapshot)
         limit = item.get("limit")
-        limit_cell = format_value(float(limit)) if limit is not None else "—"
-        status = status_cell(current, float(limit) if limit is not None else None)
+        unit = item.get("unit")
+        limit_cell = format_value(float(limit), unit) if limit is not None else "—"
+        status = status_cell(current, float(limit) if limit is not None else None, unit)
         note = item.get("note", "")
         out.append(
-            f"| {i} | {item['name']} | {format_value(current)} | "
+            f"| {i} | {item['name']} | {format_value(current, unit)} | "
             f"{limit_cell} | {status} | {note} |"
         )
 
@@ -272,7 +349,7 @@ def update_in_place(readme: Path, limits_path: Path) -> bool:
 
     cats = audit(readme)
     limits = load_limits(limits_path)
-    inline = render_inline(cats, limits)
+    inline = render_inline(cats, limits, load_folo_snapshot())
     new_block = f"{SENTINEL_START}\n\n{inline}\n\n{SENTINEL_END}"
 
     pattern = re.compile(

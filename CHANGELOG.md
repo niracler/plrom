@@ -7,6 +7,22 @@
 
 ## [Unreleased]
 
+### Added
+
+- **Folo RSS 阅读体系** — 新增 `docs/folo-rss.md`，记录 8 个主题分类、「每日核心、周六甜点、Changelog」3 个阅读入口和每周 180 分钟注意力预算。
+- **Folo 匿名审计** — 新增 `.github/scripts/audit_folo.py` 和脱敏 fixture，可生成不含账号、源/List ID、标题、URL 或私密明细的 `audit/folo-snapshot.json`。
+
+### Changed
+
+- **体量盘点** — Folo 快照缺失或超过 35 天时显示 `N/A`，pre-commit 和 CI 只读取快照，不登录 Folo。
+- **README 范围** — Folo 阅读规则和聚合指标不再显示在 README，避免维护流程干扰「心头好」清单；详细规则移至独立文档。
+- **链接检查命令** — 改用当前发布的 `@umbrelladocs/linkspector check` CLI，替换已不存在的 `linkspector` npm 包命令。
+
+### Fixed
+
+- **历史外链** — 更新 Logitech、Western Digital、Sony、ImageMagick、Obsidian Skills 和 Pillow 的失效地址；移除无法确认官方替代账号的舞城王太郎链接及重复的 Pinboard 扩展条目。
+- **Linkspector 忽略规则** — 修正原有正则表达式，并仅忽略会阻止自动检查或间歇性拒绝无头客户端的站点。
+
 ## [2026.08.1] - 2026-08-09
 
 ### Changed

@@ -3,6 +3,18 @@ name: Linkspector
 on: [pull_request]
 
 jobs:
+  audit:
+    name: runner / audit
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run audit tests
+        run: python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Verify generated limits dashboard
+        run: |
+          python3 .github/scripts/audit.py --update README.md
+          git diff --exit-code -- README.md
+
   check-links:
     name: runner / linkspector
     runs-on: ubuntu-24.04

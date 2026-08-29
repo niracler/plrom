@@ -1,0 +1,66 @@
+{
+  "attention": {
+    "budgeted_minutes_per_week": 180,
+    "changelog_minutes": 15,
+    "core_minutes": 60,
+    "dessert_minutes": 75,
+    "entertainment_minutes": 30
+  },
+  "generated_at": "2026-08-15T04:37:01Z",
+  "lanes": {
+    "changelog": {
+      "estimated_entries_per_week": 63.0,
+      "estimated_star_hit_rate_percent": 0.0,
+      "max_source_share_percent": 36.5,
+      "source_count": 25,
+      "starred_entries_in_sample": 0,
+      "unread_entries": 0
+    },
+    "core": {
+      "estimated_entries_per_week": 35.0,
+      "estimated_star_hit_rate_percent": 6.0,
+      "max_source_share_percent": 20.0,
+      "source_count": 15,
+      "starred_entries_in_sample": 55,
+      "unread_entries": 14
+    },
+    "dessert": {
+      "estimated_entries_per_week": 74.0,
+      "estimated_star_hit_rate_percent": 1.2,
+      "max_source_share_percent": 27.0,
+      "source_count": 9,
+      "starred_entries_in_sample": 23,
+      "unread_entries": 0
+    },
+    "entertainment": {
+      "estimated_entries_per_week": 1020.0,
+      "estimated_star_hit_rate_percent": 0.0,
+      "max_source_share_percent": 54.8,
+      "source_count": 23,
+      "starred_entries_in_sample": 7,
+      "unread_entries": 0
+    }
+  },
+  "schema_version": 1,
+  "star_signals": {
+    "high_volume_zero_star_sources": 11,
+    "low_frequency_starred_sources": 10,
+    "sample_size": 100,
+    "sample_window_days": 182,
+    "starred_source_count": 31
+  },
+  "status": "ok",
+  "totals": {
+    "abnormal_sources": 15,
+    "analytics_failures": 0,
+    "direct_subscriptions": 227,
+    "estimated_entries_per_week": 2067.0,
+    "owned_lists": 3,
+    "private_sources": 33,
+    "timeline_hidden_sources": 213,
+    "timeline_visible_sources": 14,
+    "uncategorized_sources": 0,
+    "unread_entries": 14
+  },
+  "window_days": 7
+}
