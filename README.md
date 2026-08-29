@@ -4,7 +4,7 @@ tags: [ "社区", "工具" ]
 cover: https://image.niracler.com/2025/11/b2ef6430e8e437cdbff99b1346badbfc.png
 summary: 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
 date: 2024-09-26
-modified: 2026-08-09
+modified: 2026-08-29
 -->
 
 关于我关注的人和物。这个主题很个人化，我喜欢的内容，别人或许会觉得不适合。毕竟这与我的阅历和经验密切相关。不过，我希望能列出一些我认为不错的东西，给你一些启发。
@@ -70,7 +70,7 @@ modified: 2026-08-09
 漫画原作
 
 - [山川直輝](https://twitter.com/yamakawaMGnaoki) - 《我家的英雄》以及《我立于百万生命之上》的原作作者，故事很有趣，就是带了好多政治方面的观念。而且两部作品动画化都暴死了。
-- [舞城王太郎](https://twitter.com/maijouotarou) - 设定非常有趣，但是故事也就如此。是《异度入侵》和《深渊融接》的原作作者。
+- 舞城王太郎 - 设定非常有趣，但是故事也就如此。是《异度入侵》和《深渊融接》的原作作者。
 
 <details>
 <summary>弃坑列表</summary>
@@ -228,8 +228,8 @@ modified: 2026-08-09
 - 13600kf+4070s - 最近配的一台主机，但是还没发现更具体的用途，单纯只是用来完了两盘《文明 6 》。不过现在下班后都是用它了。在熟悉 MacOS 到 Windows 的过程。
   - [LG 27UQ850V 27英寸 4K 显示器](https://item.jd.com/100081317949.html) - IPS 高清专业设计显示器，TypeC 90W，HDR400，内置音箱。
   - [Filco 圣手 2 代双模机械键盘](https://www.zhihu.com/question/273691080) - 八年老键盘了，现在宿舍电脑就是用的它。
-  - [Logitech MX Master 3](https://www.logitech.com.cn/zh-cn/products/mice/mx-master-3.910-005694.html) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在是连着 windows 主机在用。
-  - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.wd.com/products/portable-storage/my-passport.html) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
+  - [Logitech MX Master 3](https://support.logi.com/hc/en-us/articles/360035271133-Getting-Started-MX-Master-3) - ~~买回来的时候期待很高，不过现在吃灰了，我基本就只用笔记本的触摸板。因为用鼠标的话，右手要经常切换，其实挺影响效率的。~~ 现在是连着 windows 主机在用。
+  - [西部数据(WD) 2TB 移动硬盘 USB 3.0](https://www.westerndigital.com/en-sg/products/portable-drives/wd-my-passport-usb-3-0-hdd?sku=WDBPKJ0050BWT-WESN) - 中间有段时间用于备份我的 MacBook Air 的数据，但是经常会因为太慢甚至将我电脑卡死，所以就更换用途了。现在是用来作为 AutoBangumi 的动画存储。
   - [Pioneer BDR-XD07B 便携式蓝光刻录机](https://www.amazon.com/Pioneer-BDR-XD07B-Slim-Portable-Burner/dp/B07ZJX5HSH)(¥356 二手) - 用来读取蓝光光盘，主要是去日本旅游买了几张 CD，被迫跟着要对应的配套设施了。
 - [Logitech MX Keys](https://www.logitech.com/zh-cn/products/keyboards/mx-keys-mac-wireless-keyboard.920-009559.html) - 拿去公司上班用了
 - [Magic Trackpad](https://support.apple.com/en-hk/111884) - pseudoyu 送的，现在在公司用。已经用了四五年 MacBook 的触摸板，鼠标变成超级用的不习惯了，于是就求救弄了一个😂。
@@ -276,7 +276,7 @@ modified: 2026-08-09
 ### 🎧 耳机及音箱
 
 - [AirPods Pro2](https://www.apple.com/cn/airpods-pro/) - 很糟糕的是，我已经是第三个 AirPods Pro 了， 前两个都被洗衣机洗了，现在已经不敢放到裤袋里面了
-- [Sony WH-XB910N](https://www.sony.com/electronics/headband-headphones/wh-xb910n) - 不知道是不是不是旗舰的原因，我觉得戴久了很不舒服，尤其是压着我眼镜架了。不过音质还是不错的，头戴式的降噪效果应该说比 AirPods Pro 2 也要好些。不常用，觉得不方便，**吃灰中，想出手了**。
+- [Sony WH-XB910N](https://www.sony.com/electronics/support/product/wh-xb910n/downloads) - 不知道是不是不是旗舰的原因，我觉得戴久了很不舒服，尤其是压着我眼镜架了。不过音质还是不错的，头戴式的降噪效果应该说比 AirPods Pro 2 也要好些。不常用，觉得不方便，**吃灰中，想出手了**。
 - [小爱智能音箱](https://www.mi.com/aispeaker) - 也是基本上不能缺的设备，用来控制家里的各种智能家居。不过基本没有用来听音乐就是了。
 - [HomePod mini](https://www.apple.com/homepod-mini/)(¥438 转转二手) - 二手入手了一个，继续践行「每月买一个物联网设备」的计划（不是😂）。音质比小爱好不少。
 
@@ -396,7 +396,7 @@ modified: 2026-08-09
 - [zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - 用于在 zsh 中使用 fzf 来搜索历史命令。
 - [rsync](https://rsync.samba.org/) - 服务器间的文件同步命令。类 Linux 系统应该都是自带的，服务器之间的文件传输我都是靠它的。我最喜欢用的参数是 `-acvP` 。
 - [rclone](https://rclone.org/) - 可以将本地文件传输到云存储上。用过 S3、R2、OSS 等云产品的同学应该都多多少少用过的。
-- [imagemagick](https://imagemagick.org/index.php) - 用于处理图片的命令行工具，我主要用它来批量转换图片格式。
+- [imagemagick](https://imagemagick.org/download/) - 用于处理图片的命令行工具，我主要用它来批量转换图片格式。
 - [ffmpeg](https://ffmpeg.org/) - 用于处理视频的命令行工具，简单的视频切片、转码等操作都可以用它来完成。
 - [onefetch](https://github.com/o2sh/onefetch) - 用 Rust 编写的命令行 Git 仓库信息展示工具，类似于 neofetch 但专门用于显示代码仓库的详细信息。
 
@@ -451,7 +451,7 @@ PS. 因为模型能力本身的增强，很多原有的用于开发流程的 Ski
 - [find-skills](https://skills.sh/vercel-labs/skills/find-skills) - 搜索和推荐适合你的 Skill，通过对话了解需求后提供个性化推荐。
 - [我的 Skill 仓库](https://github.com/niracler/skill) - 个人 Skills 集合，涵盖工作流自动化(Git、云效、代码同步、工作回顾等)、写作辅助(校对、灵感、日记)、学习工具(Anki)和趣味转换(戏言风格)。
 - [humanizer-zh](https://skills.sh/op7418/humanizer-zh/humanizer-zh) - 去除中文 AI 痕迹，让文字更像人写的。基于维基百科的 AI 写作特征指南，检测并修复夸大象征、宣传性语言、模糊归因等模式。
-- [obsidian-skills](https://github.com/nicholasrq/obsidian-skills) - 支持 Obsidian 特有语法：wikilinks、callouts、properties、Canvas 文件等。
+- [obsidian-skills](https://github.com/kepano/obsidian-skills) - 支持 Obsidian 特有语法：wikilinks、callouts、properties、Canvas 文件等。
 - [ui-ux-pro-max](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max) - UI/UX 设计智能，支持 50 种风格、21 种配色方案、50 种字体组合，涵盖 React、Next.js、Vue 等 9 种技术栈。
 - [slidev](https://skills.sh/antfu/skills/slidev) - 用 Markdown 创建开发者演示文稿（Slidev），支持代码高亮、动画、Vue 组件等。
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu 的 Vue 生态技能集合，包含 17 个技能：Vue、Nuxt、Vite、Vitest、VitePress、Pinia、UnoCSS、pnpm、Slidev 等，直接从官方文档同步。
@@ -581,7 +581,6 @@ PS. 因为模型能力本身的增强，很多原有的用于开发流程的 Ski
 ### 🌐 浏览器
 
 - Safari - 怎么说呢，用了 Chrome 许久，然后又用了 Arc 许久，最后还是用奥卡姆剃刀原理，选择了 Safari。
-  - [bookmarker for pinboard](https://apps.apple.com/de/app/bookmarker-for-pinboard/id1451400394?l=en&mt=12) - 用于将当前页面添加到 Pinboard。
   - 1Password for Safari - 密码管理器，我是将 Safari 原生的填充给关了。
   - AdGuard for Safari - 广告拦截器，不过用的不太久，还没能体验它和 uBlock Origin 的区别。
   - bookmarker for pinboard - 用于将当前页面添加到 Pinboard。
@@ -647,7 +646,7 @@ PS. 因为模型能力本身的增强，很多原有的用于开发流程的 Ski
 - ~~[Apple Fitness+](https://www.apple.com/apple-fitness-plus/) - 订阅了 Apple One 之后就有了这个服务，替代掉之前使用的 Keep。不过使用频率堪忧。~~ 首先没有中文，二来也贵，所以还是停用了。
 - ~~[Keep](https://www.gotokeep.com/) - 结合跳绳的方案其实还挺好的。~~ ~~之前用来做健身的，不过现在已经停用了，转去用 Fitness+。~~ 怎么说呢，keep 其实很适合新手根练，但是对于我这种已经有一定基础的人来说，就有点不够了。我现在已经是通过自己的安排，结合视频来练了。
 - ~~[AutoSleep](https://autosleepapp.tantsissa.com/) - 用于监测我睡眠的 APP~~, 感觉没什么意义，现在已经停用了。
-- ~~[Pillow](https://www.neybox.com/pillow) - 用于监测我睡眠的 APP~~, 试着订阅了一年，但发现其实跟 AutoSleep 拉不开距离而且跟原生 Health 的睡眠监测体感也没什么区别，所以也停用了。
+- ~~[Pillow](https://pillow.app/) - 用于监测我睡眠的 APP~~, 试着订阅了一年，但发现其实跟 AutoSleep 拉不开距离而且跟原生 Health 的睡眠监测体感也没什么区别，所以也停用了。
 - ~~[Pokemon Sleep](https://www.pokemon.com/us/app/pokemon-sleep) - 用于监测我睡眠的 APP，同时收集点小精灵的睡姿。(虽然睡眠质量还是很糟糕就是了～～)~~ 还是弃用了，明天都要定时打开，还是挺费精神的。现在就仅仅保留了 Apple Health
 - ~~[Zepp Life](https://apps.apple.com/us/app/zepp-life-formerly-mifit/id938688461) - 前身是小米运动，在没有使用小米手环之后，现在主要用来看体脂称上面的数据。（后面才知道这个 APP 是也会同步体重数据到 Apple Health 上的）~~ 原来小米运动还在，搞错了。
 
@@ -876,7 +875,6 @@ PS. 因为模型能力本身的增强，很多原有的用于开发流程的 Ski
 
 1. 各端设备（手机、电脑、平板）上的应用软件
 2. Tachimanga 漫画订阅源中的新作者
-3. Folo 平台上关注的内容源
 
 内容规范：
 
@@ -893,9 +891,9 @@ PS. 因为模型能力本身的增强，很多原有的用于开发流程的 Ski
 
 | # | 维度 | 当前 | 上限 | 状态 | 备注 |
 |---|------|------|------|------|------|
-| 1 | 月订阅基础消费 (¥/月) | 727 | 666 | 🚨 超 61 | 钱的容量 |
+| 1 | 月订阅基础消费 (¥/月) | 727.5 | 666 | 🚨 超 61.5 | 钱的容量 |
 | 2 | 关注的人 | 82 | 100 | ✅ 留白 18 | README 里你自己声明过的隐藏上限 |
-| 3 | 软件工具总数 | 161 | — | — | 决策疲劳 |
+| 3 | 软件工具总数 | 160 | — | — | 决策疲劳 |
 | 4 | 物理资产 (设备) | 55 | — | — | 物理空间 / 维护成本 |
 | 5 | 🤖 大模型工具 | 15 | — | — | 涨势最快，FOMO 重灾区 |
 | 6 | 沉睡库存 (不活跃总数) | 109 | — | — | 反指标：太多就该清 |

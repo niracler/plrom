@@ -1,0 +1,10 @@
+[
+  {"feedId": "feed-a", "category": "🪶 个人博客与朋友", "isPrivate": false, "hideFromTimeline": false, "feeds": {"errorMessage": null}},
+  {"feedId": "feed-b", "category": "🧠 AI 与软件工程", "isPrivate": false, "hideFromTimeline": false, "feeds": {"errorMessage": null}},
+  {"feedId": "feed-c", "category": "📰 新闻与精选摘要", "isPrivate": false, "hideFromTimeline": true, "feeds": {"errorMessage": null}},
+  {"feedId": "feed-d", "category": "🏢 组织与产品", "isPrivate": false, "hideFromTimeline": true, "feeds": {"errorMessage": null}},
+  {"feedId": "feed-e", "category": "🧊 冷冻观察", "isPrivate": false, "hideFromTimeline": true, "feeds": {"errorMessage": "synthetic failure"}},
+  {"feedId": "feed-f", "category": "🎮 ACG 与娱乐", "isPrivate": false, "hideFromTimeline": true, "feeds": {"errorMessage": null}},
+  {"feedId": "feed-g", "category": "🔒 私密内容", "isPrivate": true, "hideFromTimeline": true, "feeds": {"errorMessage": null}},
+  {"feedId": "list-core", "listId": "list-core", "lists": {"type": "list"}}
+]

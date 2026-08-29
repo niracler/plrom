@@ -1,0 +1,5 @@
+[
+  {"id": "list-core", "title": "⚡ 每日核心", "feedIds": ["feed-a", "feed-b"]},
+  {"id": "list-dessert", "title": "🧁 周六甜点", "feedIds": ["feed-c"]},
+  {"id": "list-changelog", "title": "🛠 Changelog", "feedIds": ["feed-d", "feed-e"]}
+]

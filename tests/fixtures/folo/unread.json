@@ -1,0 +1,7 @@
+{
+  "total": 20,
+  "items": [
+    {"feedId": "feed-a", "unreadCount": 3},
+    {"feedId": "feed-f", "unreadCount": 17}
+  ]
+}

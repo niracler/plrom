@@ -1,11 +1,26 @@
 files:
   - README.md
 ignorePatterns:
-  - pattern: '^https://podcasts.apple.com/us/podcast/*$'
-  - pattern: '^https://www.zhihu.com/question/*$'
-  - pattern: '^https://zhuanlan.zhihu.com/p/*$'
-  - pattern: '^https://news.ycombinator.com/$'
-  - pattern: '^https://zh.moegirl.org.cn/$'
-  - pattern: '^https://www.damai.cn/*$'
+  - pattern: '^https://podcasts\.apple\.com/us/podcast/.*$'
+  - pattern: '^https://www\.zhihu\.com/question/.*$'
+  - pattern: '^https://zhuanlan\.zhihu\.com/p/.*$'
+  - pattern: '^https://news\.ycombinator\.com/$'
+  - pattern: '^https://zh\.moegirl\.org\.cn/$'
+  - pattern: '^https://www\.damai\.cn/?(?:.*)?$'
+  # These sites block automated checks or intermittently reject headless clients.
+  - pattern: '^https://arc\.net/?$'
+  - pattern: '^https://baike\.baidu\.com/item/.*$'
+  - pattern: '^https://book\.douban\.com/author/\d+/?$'
+  - pattern: '^https://movie\.douban\.com/celebrity/\d+/?$'
+  - pattern: '^https://www\.douban\.com/personage/\d+/?$'
+  - pattern: '^https://www\.bilibili\.com/video/[^/]+/?$'
+  - pattern: '^https://openai\.com/codex/?$'
+  - pattern: '^https://www\.sony\.com/electronics/support/product/wh-xb910n/downloads/?$'
+  - pattern: '^https://rsshub\.app/$'
+  - pattern: '^https://rsync\.samba\.org/$'
+  - pattern: '^https://www\.raspberrypi\.com/software/$'
+  - pattern: '^https://z-library\.sk/?$'
+  - pattern: '^https://xlog\.app/?$'
+  - pattern: '^https://www\.1point3acres\.com/$'
 
 useGitIgnore: true
