@@ -22,5 +22,6 @@ ignorePatterns:
   - pattern: '^https://z-library\.sk/?$'
   - pattern: '^https://xlog\.app/?$'
   - pattern: '^https://www\.1point3acres\.com/$'
+  - pattern: '^https://ffmpeg\.org/?$'
 
 useGitIgnore: true
