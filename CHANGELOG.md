@@ -248,7 +248,7 @@
 - 规范化版本发布流程（PR + Tag + Release）
 
 [Unreleased]: https://github.com/niracler/plrom/compare/v2026.10...HEAD
-[2026.10]: https://github.com/niracler/plrom/compare/v2026.08.1...HEAD
+[2026.10]: https://github.com/niracler/plrom/compare/v2026.08.1...v2026.10
 [2026.08.1]: https://github.com/niracler/plrom/compare/v2026.08...v2026.08.1
 [2026.08]: https://github.com/niracler/plrom/compare/v2026.04...v2026.08
 [2026.02]: https://github.com/niracler/plrom/compare/v2026.01...v2026.02
