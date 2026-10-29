@@ -7,21 +7,40 @@
 
 ## [Unreleased]
 
+## [2026.10] - 2026-10-29
+
 ### Added
 
 - **Folo RSS 阅读体系** — 新增 `docs/folo-rss.md`，记录 8 个主题分类、「每日核心、周六甜点、Changelog」3 个阅读入口和每周 180 分钟注意力预算。
 - **Folo 匿名审计** — 新增 `.github/scripts/audit_folo.py` 和脱敏 fixture，可生成不含账号、源/List ID、标题、URL 或私密明细的 `audit/folo-snapshot.json`。
+- **[评论尸（虹线）](https://1q43.blog/)** (技术博主) - 从读库上的《互联网与中国后现代性呓语》认识，写互联网史、平台垄断和 AI 组织形态的长文。
+- **[Thorsten Ball](https://registerspill.thorstenball.com/)** (技术博主) - Amp 联合创始人，Register Spill 周记写软件工程与 AI 编程的实践。
+- **[虚渊玄](https://www.douban.com/personage/27493576/)** (作家) - 看完《魔法少女小圆：沃普尔吉斯的回天》后重新想起来。
+- **[西尾維新](https://ja.wikipedia.org/wiki/西尾維新)** (作家) - 人形打字机，作品一看就停不下来。
+- **[无人知晓](https://podcasts.apple.com/cn/podcast/%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93/id1581271335)** (播客) - 听的过程会让人安静下来。
+- **[有知有行](https://youzhiyouxing.cn/)** (组织) - 孟岩团队的理财 App，讲「四笔钱」和心理账户。
+- **[Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview)** (虚拟化) - Linux 虚拟机的宿主系统。
+- **[Stretchly](https://github.com/hovancik/stretchly)** (系统工具) - 跨平台休息提醒，开源免费。
+- **[WorkBuddy](https://www.workbuddy.cn/)** (生产力工具) - 腾讯的桌面端 AI 办公智能体，可操作本地文件。
+- **[magpie](https://github.com/yetone/magpie)** (大模型工具) - 多模型 / 多账号路由网关，给 Claude Code、Codex、Gemini CLI 统一供模型。
 
 ### Changed
 
-- **体量盘点** — Folo 快照缺失或超过 35 天时显示 `N/A`，pre-commit 和 CI 只读取快照，不登录 Folo。
+- **体量盘点（Folo）** — Folo 快照缺失或超过 35 天时显示 `N/A`，pre-commit 和 CI 只读取快照，不登录 Folo。
 - **README 范围** — Folo 阅读规则和聚合指标不再显示在 README，避免维护流程干扰「心头好」清单；详细规则移至独立文档。
 - **链接检查命令** — 改用当前发布的 `@umbrelladocs/linkspector check` CLI，替换已不存在的 `linkspector` npm 包命令。
+- **六神磊磊** → 移入作家「弃坑列表」，最近已经没有兴趣。
+- **科学史评话** → 移入播客「不活跃列表」，吴京平老师去世。
+- **崩坏: 星穹铁道 / Muse Dash** → 移入游戏「过期列表」，没有精力继续。
+- **体量盘点（AUDIT）** — 刷新 README 内联块：月订阅 627.5、软件工具 162、沉睡库存 113。
+- **README 头部** — 更新 `modified` 为 2026-10-29，移除重复的 YAML properties。
 
 ### Fixed
 
 - **历史外链** — 更新 Logitech、Western Digital、Sony、ImageMagick、Obsidian Skills 和 Pillow 的失效地址；移除无法确认官方替代账号的舞城王太郎链接及重复的 Pinboard 扩展条目。
 - **Linkspector 忽略规则** — 修正原有正则表达式，并仅忽略会阻止自动检查或间歇性拒绝无头客户端的站点。
+- **skills CLI** — 恢复被格式化工具吃掉的 `npx skills add <owner/repo>` 参数。
+- **标点空格** — 修正「过期列表」「王局拍案」等被自动格式化插入的空格。
 
 ## [2026.08.1] - 2026-08-09
 
@@ -228,7 +247,8 @@
 - 添加 GitHub Actions 链接检查
 - 规范化版本发布流程（PR + Tag + Release）
 
-[Unreleased]: https://github.com/niracler/plrom/compare/v2026.08...HEAD
+[Unreleased]: https://github.com/niracler/plrom/compare/v2026.10...HEAD
+[2026.10]: https://github.com/niracler/plrom/compare/v2026.08.1...v2026.10
 [2026.08.1]: https://github.com/niracler/plrom/compare/v2026.08...v2026.08.1
 [2026.08]: https://github.com/niracler/plrom/compare/v2026.04...v2026.08
 [2026.02]: https://github.com/niracler/plrom/compare/v2026.01...v2026.02
